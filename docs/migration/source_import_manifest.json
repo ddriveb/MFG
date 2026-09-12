@@ -1,0 +1,1920 @@
+{
+  "description": "Bytes imported before documented migration edits. Old research trees remain untouched.",
+  "files": [
+    {
+      "source": "mfg_hedge_v1/.gitignore",
+      "target": ".gitignore",
+      "sha256": "e8b9df2f61dac73e2a6fe4e5fec3c3cd517607a154bd8f71ad4b13f1e0ff5a81"
+    },
+    {
+      "source": "mfg_hedge_v1/.python-version",
+      "target": ".python-version",
+      "sha256": "2dec22fa0d2039395e3d2c2dc6ad62b36c368433335d2f771d6b58f2cb8c46e7"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/common-state-no-hedge/issues/00-design-common-state-slice.md",
+      "target": ".scratch/common-state-no-hedge/issues/00-design-common-state-slice.md",
+      "sha256": "dfe765a43ea78ff5094907278fef0ab9c5bc7bfe0c47b8c455075ba471770bf4"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/common-state-no-hedge/issues/01-common-state-and-work-requirements.md",
+      "target": ".scratch/common-state-no-hedge/issues/01-common-state-and-work-requirements.md",
+      "sha256": "1279f63e374383f2f41a2fa8101263fd3acab99a317dd6d3d1fdc574ab78810e"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/common-state-no-hedge/issues/02-failure-replay-event-engine.md",
+      "target": ".scratch/common-state-no-hedge/issues/02-failure-replay-event-engine.md",
+      "sha256": "a4e254d51e9d41a7443bd53f436600b8be4c8bce80451cb0656dd9a6f5d5a3eb"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/common-state-no-hedge/issues/03-fault-metrics-cli-and-artifacts.md",
+      "target": ".scratch/common-state-no-hedge/issues/03-fault-metrics-cli-and-artifacts.md",
+      "sha256": "ccc2e3ef57df336f0552ce29a06cf7b4697b7ebc928740036523ca58df5bf96a"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/common-state-no-hedge/issues/04-correct-design-review-findings.md",
+      "target": ".scratch/common-state-no-hedge/issues/04-correct-design-review-findings.md",
+      "sha256": "1548d55f5ae0302ff4f0822bc882f999c37067f56183cf49c73550f2664a3219"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/common-state-no-hedge/issues/05-harden-ticket-01-boundaries.md",
+      "target": ".scratch/common-state-no-hedge/issues/05-harden-ticket-01-boundaries.md",
+      "sha256": "6b3740937d6266bda23d8c03b04bc20cbff74139fb6a2464599e4dd608e5c9ad"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/common-state-no-hedge/issues/06-enforce-hedge-invariant.md",
+      "target": ".scratch/common-state-no-hedge/issues/06-enforce-hedge-invariant.md",
+      "sha256": "db3690224b1e37d440c2ea81954b5db0e3bf6dba798e23ff3009b819c584dcd6"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/common-state-no-hedge/spec.md",
+      "target": ".scratch/common-state-no-hedge/spec.md",
+      "sha256": "2b6c776ae5c949d2060d8bcd24878ef00f5a74c306f87d0bee89e5f2faadc7e9"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/healthy-no-hedge/issues/01-implement-minimal-simulator.md",
+      "target": ".scratch/healthy-no-hedge/issues/01-implement-minimal-simulator.md",
+      "sha256": "637b69cc378f0f4a7fefecd92bd6fce9421d2b57ccb702f109b026eddc34b7b4"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/healthy-no-hedge/issues/02-harden-reproducibility-and-artifact-boundaries.md",
+      "target": ".scratch/healthy-no-hedge/issues/02-harden-reproducibility-and-artifact-boundaries.md",
+      "sha256": "efb90513dc4f5e17c320e277a5857dbf09207971fecdc06d827a29e47205add9"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/healthy-no-hedge/issues/03-close-platform-and-trace-validation-gaps.md",
+      "target": ".scratch/healthy-no-hedge/issues/03-close-platform-and-trace-validation-gaps.md",
+      "sha256": "c2a8b0ae005833d91160ffbc600a2b65defb58714eac767e609aaa2f9ccd8644"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/healthy-no-hedge/prompt-for-ds.md",
+      "target": ".scratch/healthy-no-hedge/prompt-for-ds.md",
+      "sha256": "da2007b01878f35dd847236eb1c06acac3e331594c02a9ca1d350bf4035e74d1"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/healthy-no-hedge/spec.md",
+      "target": ".scratch/healthy-no-hedge/spec.md",
+      "sha256": "68f58a5d11d1e95de01a86d8a8c070626354306987da2a6227f606e341e46f72"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-attribution-study/development-rule-search-report.md",
+      "target": ".scratch/mfg-hedge-attribution-study/development-rule-search-report.md",
+      "sha256": "e81da2289f09cddc555956aa22cb67ede147c268c2403675e2e8ca5ab30d6ca6"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-attribution-study/issues/01-design-attribution-study.md",
+      "target": ".scratch/mfg-hedge-attribution-study/issues/01-design-attribution-study.md",
+      "sha256": "93831152cea2c86d2c63a5cc9e742cc87a301fd406e0c39e69a7438e035ddc0c"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-attribution-study/issues/02-implement-episode-protocol-and-metrics.md",
+      "target": ".scratch/mfg-hedge-attribution-study/issues/02-implement-episode-protocol-and-metrics.md",
+      "sha256": "8971c9b92500473f60f239b10fb09d830d1238777fb7c2643e209d64b0f45503"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-attribution-study/issues/03-extend-action-stats-and-tail-objective.md",
+      "target": ".scratch/mfg-hedge-attribution-study/issues/03-extend-action-stats-and-tail-objective.md",
+      "sha256": "30c80525650367945931a756910e7745df707cae3ea9038ba3f64e030c954dbd"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-attribution-study/issues/04-implement-attribution-controllers.md",
+      "target": ".scratch/mfg-hedge-attribution-study/issues/04-implement-attribution-controllers.md",
+      "sha256": "1c4e3ad2b9412d01a327b5d23cef46857f10c10255d507817a43bd4027f24686"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-attribution-study/issues/05-implement-budget-matched-attribution-campaign.md",
+      "target": ".scratch/mfg-hedge-attribution-study/issues/05-implement-budget-matched-attribution-campaign.md",
+      "sha256": "985fffed209e2cf63512c207a3ca1843de05061c1101485ba47e576696a150ef"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-attribution-study/issues/06-qualify-development-and-freeze-holdout.md",
+      "target": ".scratch/mfg-hedge-attribution-study/issues/06-qualify-development-and-freeze-holdout.md",
+      "sha256": "af05863db049bf6120530dcb47a7708e47bd3cd6ed6515e13cfd0b1bae54cfd2"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-attribution-study/issues/07-run-holdout-attribution-study.md",
+      "target": ".scratch/mfg-hedge-attribution-study/issues/07-run-holdout-attribution-study.md",
+      "sha256": "7cd171a8702c8bf24fc9773bdd6b1371b3cc5cbce6c9e2243d3d735dd57ad067"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-attribution-study/issues/08-design-transient-queue-control-model.md",
+      "target": ".scratch/mfg-hedge-attribution-study/issues/08-design-transient-queue-control-model.md",
+      "sha256": "04a22c12cb8fe7ee3e748d9467e66cd09d7751438545b704b307ce8273aee39d"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-attribution-study/issues/09-validate-transient-physics.md",
+      "target": ".scratch/mfg-hedge-attribution-study/issues/09-validate-transient-physics.md",
+      "sha256": "67002643b14fae6bdcd1b038be2b2f73611d8c04940350c9c0b5509a5ac3058e"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-attribution-study/issues/10-implement-transient-admission-and-objective.md",
+      "target": ".scratch/mfg-hedge-attribution-study/issues/10-implement-transient-admission-and-objective.md",
+      "sha256": "a98c2b4a17e5b220a0592345fa62fecd6c14c96ef51aad0589f5cab6428c38b4"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-attribution-study/issues/11-run-development-rule-search.md",
+      "target": ".scratch/mfg-hedge-attribution-study/issues/11-run-development-rule-search.md",
+      "sha256": "575e04c738bd172014079714f555e53dfba4c5595f0ac36b4712fecb30947158"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-attribution-study/physics-validation-report.md",
+      "target": ".scratch/mfg-hedge-attribution-study/physics-validation-report.md",
+      "sha256": "fba8458c653a3d4de5cfef21bb6057234844e8f38a55f79c1f7c2203d1efc907"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-attribution-study/spec.md",
+      "target": ".scratch/mfg-hedge-attribution-study/spec.md",
+      "sha256": "ca5ca8d0e3f8bed1d63ac9b16655e2eb09f76ffdb1067c9e58209dcd26279bb2"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-attribution-study/transient-model-design.md",
+      "target": ".scratch/mfg-hedge-attribution-study/transient-model-design.md",
+      "sha256": "300e9876f9e83893ba0ddddfbd19ecdcd524babfb7bf544bb48e363f3b256cd7"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-load-stress/issues/01-run-load06-load07-diagnostics.md",
+      "target": ".scratch/mfg-hedge-load-stress/issues/01-run-load06-load07-diagnostics.md",
+      "sha256": "6af3097d62b55efd8d5684daa7c77b8d08ad5979fd2f817fcc153e13c84bfc45"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-load-stress/spec.md",
+      "target": ".scratch/mfg-hedge-load-stress/spec.md",
+      "sha256": "3d4f1f8471a7043cebc6347225980c1ae43c5988d1b597bbea3101676bfa2913"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-multiseed-campaign/issues/01-run-load05-multiseed-campaign.md",
+      "target": ".scratch/mfg-hedge-multiseed-campaign/issues/01-run-load05-multiseed-campaign.md",
+      "sha256": "b7afbfe45cf6432ad15080e4c97d9672868cc64188abc4b06d54f7d4761259a7"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-multiseed-campaign/spec.md",
+      "target": ".scratch/mfg-hedge-multiseed-campaign/spec.md",
+      "sha256": "17830c84f8364469d53a803dc9793799d221afaead76d39c8c13043abd75ddb4"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/issues/00-design-paired-comparison.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/issues/00-design-paired-comparison.md",
+      "sha256": "683151eaeae2e5b31fa6a017d39215c3e137460e73533103a1c0eeb26cebe824"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/issues/01-hedge-capable-event-engine.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/issues/01-hedge-capable-event-engine.md",
+      "sha256": "b04ae9a1d0e9bf80ff76c5552428096abd41530fecefb768665b0029cb04484e"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/issues/02-action-stats-calibration.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/issues/02-action-stats-calibration.md",
+      "sha256": "5eadf2233a1995f84d3c4b4d97ff5e3279d781f9a64d850e0a0d7b5b60e2b2ed"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/issues/03-mfg-solver-and-quota.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/issues/03-mfg-solver-and-quota.md",
+      "sha256": "040018ca6289ec187085ad094a0e5456e10cc37f9a4d429fc69b827e7ca921a5"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/issues/04-paired-comparison-cli-and-artifacts.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/issues/04-paired-comparison-cli-and-artifacts.md",
+      "sha256": "f0207d8427ff07a9fb972d48a21f369b3dde912648112dc95cf09b7d77205a4f"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/issues/05-correct-mfg-calibration-and-quota-design.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/issues/05-correct-mfg-calibration-and-quota-design.md",
+      "sha256": "44f02274073f27bacb9352abb5953e96a7fa92dc711d2e7382b9e8476d541080"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/issues/06-harden-hedge-engine-boundaries.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/issues/06-harden-hedge-engine-boundaries.md",
+      "sha256": "38c24ef9f8e10d2c1a870362a5c2f89d5ccaef5df4b47a6370169723674543ed"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/issues/07-finalize-rho-and-action-projection-contract.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/issues/07-finalize-rho-and-action-projection-contract.md",
+      "sha256": "7b36bb3d8c630fc3b9f364a0489cdab148b174c6b6070b1c2eeeed7184c56ee9"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/issues/08-harden-calibration-crn-and-production-path.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/issues/08-harden-calibration-crn-and-production-path.md",
+      "sha256": "ad4dd1b207e22e9d51ab5ea94c24009f52bedc5be6dea54c378db69c782c1a27"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/issues/09-align-calibration-timeline-and-arrival-cohorts.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/issues/09-align-calibration-timeline-and-arrival-cohorts.md",
+      "sha256": "4a955333e9fc599f476b4d02be41e78089762038b38f636852612bec4abd46ec"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/issues/10-correct-mfg-capacity-feasibility.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/issues/10-correct-mfg-capacity-feasibility.md",
+      "sha256": "6f2b873ce700aa0fde1f52432bda0c385df6a00a3919186f6743c7569209664b"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/issues/11-correct-adr0007-review-findings.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/issues/11-correct-adr0007-review-findings.md",
+      "sha256": "0fe6d7cd1b6b9f340b1d66607a3fa6cd09cded94ec962c77838cde69fd4b7a69"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/issues/12-implement-capacity-feasible-solver.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/issues/12-implement-capacity-feasible-solver.md",
+      "sha256": "bcf00a28df63a9895973407e14267a93fd61ad73e8b7c8d82b4627b00b5a6034"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/issues/13-design-boundary-pinned-solver.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/issues/13-design-boundary-pinned-solver.md",
+      "sha256": "1aedeaefbbdbadbf8d7dff26fda61bebb79d42b52b6609c52dbdbb473d9b1238"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/issues/14-close-adr0008-contracts.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/issues/14-close-adr0008-contracts.md",
+      "sha256": "e0deccb0aafe98dbd433b1f0e977ba3263905213eea29f1bf9906ad2d20d08ba"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/issues/15-implement-boundary-pinned-solver.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/issues/15-implement-boundary-pinned-solver.md",
+      "sha256": "40522e9075d864ac90796fb5ff2666c1dfbc4b5cfce43553d3e6f166c09237f2"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-paired-comparison/spec.md",
+      "target": ".scratch/mfg-hedge-paired-comparison/spec.md",
+      "sha256": "a7348404376cccf2eeec621a47c86148b5be9f14cbd82eaccbcca72ae3fda252"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-runtime-cost/issues/01-price-persistent-runtime-cost.md",
+      "target": ".scratch/mfg-hedge-runtime-cost/issues/01-price-persistent-runtime-cost.md",
+      "sha256": "97ad0e8cccea8c12b7bfeba2ab9047292632d85a9b9df9e8aed2b628b9b619e7"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/mfg-hedge-runtime-cost/spec.md",
+      "target": ".scratch/mfg-hedge-runtime-cost/spec.md",
+      "sha256": "ed01dfdfe7bb7100a9a676426c1101292320ee03c269cccb8403230f10629a15"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-multi-replica-routing/corrected-three-round-evaluation-report-20260910.md",
+      "target": ".scratch/reliability-aware-multi-replica-routing/corrected-three-round-evaluation-report-20260910.md",
+      "sha256": "86e9181308e42215eb02e537ef3ed35410cfabed381ef893fedd9db50ede0e57"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-multi-replica-routing/issues/01-design-reliability-aware-routing.md",
+      "target": ".scratch/reliability-aware-multi-replica-routing/issues/01-design-reliability-aware-routing.md",
+      "sha256": "ac12e975a627bc85dda34eecf401b84edee220b2afaad9568c94bfcaf9619d29"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-multi-replica-routing/issues/02-implement-finite-multi-replica-routing.md",
+      "target": ".scratch/reliability-aware-multi-replica-routing/issues/02-implement-finite-multi-replica-routing.md",
+      "sha256": "cdc74b69b6e091f6f2687cc3a77a2839132059c3dbd13fdb1afa3edaa807b723"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-multi-replica-routing/issues/03-fix-lazarus-batch-fairness.md",
+      "target": ".scratch/reliability-aware-multi-replica-routing/issues/03-fix-lazarus-batch-fairness.md",
+      "sha256": "ad10fb470d18cf070771e7be8276545b46fb060900d12484607b32d01f1a2117"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-multi-replica-routing/issues/04-three-round-routing-evaluation.md",
+      "target": ".scratch/reliability-aware-multi-replica-routing/issues/04-three-round-routing-evaluation.md",
+      "sha256": "1775daa074d948c97d9d03d531468df23f70a44f6ebb5dd23add2f933318b061"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-multi-replica-routing/issues/05-fix-risk-exposure-horizon.md",
+      "target": ".scratch/reliability-aware-multi-replica-routing/issues/05-fix-risk-exposure-horizon.md",
+      "sha256": "1da8e50a98b633ccb0f5f688656111c408f5e1c16ce49585b6d067cd241b9a98"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-multi-replica-routing/spec.md",
+      "target": ".scratch/reliability-aware-multi-replica-routing/spec.md",
+      "sha256": "e0c6090a0758fe08197cf3a5098e8316696e33a4adc8c81632e3c579c4a28473"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-multi-replica-routing/three-round-evaluation-report-20260910.md",
+      "target": ".scratch/reliability-aware-multi-replica-routing/three-round-evaluation-report-20260910.md",
+      "sha256": "fc4deca378a2170b09a7c0673383a3b651992b201df6b0e14884a39facb69935"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/analyze_r2_cell_occupancy.py",
+      "target": ".scratch/reliability-aware-token-mfg/analyze_r2_cell_occupancy.py",
+      "sha256": "c71a405abfa0cb49538ad6abef02d806ce948f280f40fd08deef01e08d837b57"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/analyze_r2_coarsening.py",
+      "target": ".scratch/reliability-aware-token-mfg/analyze_r2_coarsening.py",
+      "sha256": "52351493cd49a219a2262bcbd6ba82d12231e81177601de4bc0dc30d13fcf356"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/engine_benchmark.py",
+      "target": ".scratch/reliability-aware-token-mfg/engine_benchmark.py",
+      "sha256": "11c566b4b67872e992baaebac18dc4d1ee781e3267dbd3e9e678bdb6768a9f3d"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/engine_calibration_k64.py",
+      "target": ".scratch/reliability-aware-token-mfg/engine_calibration_k64.py",
+      "sha256": "33308f6a5fd201e86c98eb08d4cda7699f42664dede9ef3a37e1ce760ea3967f"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/issues/01-design-reliability-aware-token-mfg.md",
+      "target": ".scratch/reliability-aware-token-mfg/issues/01-design-reliability-aware-token-mfg.md",
+      "sha256": "da2ab397b8cf16ffe41622ca0740f26ffa479ca0981736ea992123967794c844"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/issues/02-implement-simultaneous-finite-routing.md",
+      "target": ".scratch/reliability-aware-token-mfg/issues/02-implement-simultaneous-finite-routing.md",
+      "sha256": "9937c807949f39796090c8d1b15c67111d93876130ee279d82687daaebfe60c7"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/issues/03-population-state-and-share-calibration.md",
+      "target": ".scratch/reliability-aware-token-mfg/issues/03-population-state-and-share-calibration.md",
+      "sha256": "acb49733385eb4608078fa8a225a05f4abf63a7677acdf602b6c416ded5d1664"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/issues/04-tagged-continuation-and-finite-deviations.md",
+      "target": ".scratch/reliability-aware-token-mfg/issues/04-tagged-continuation-and-finite-deviations.md",
+      "sha256": "de07d57e27c0775ae4a3209248e853924488c3940a9be77d1be31f0596d6f3e3"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/issues/05-implement-unpriced-priced-mfg-solver.md",
+      "target": ".scratch/reliability-aware-token-mfg/issues/05-implement-unpriced-priced-mfg-solver.md",
+      "sha256": "b814dac8cf9f8cd3fb98d93f89e7169d5cf244afdb45248742e80b95c8f2e909"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/issues/06-qualify-scale-and-holdout.md",
+      "target": ".scratch/reliability-aware-token-mfg/issues/06-qualify-scale-and-holdout.md",
+      "sha256": "919f26e46ced8a250e754521fd4e4d84ef2274162f6263c425b173ed6f1d4ea9"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/issues/07-correct-population-state-and-share-calibration.md",
+      "target": ".scratch/reliability-aware-token-mfg/issues/07-correct-population-state-and-share-calibration.md",
+      "sha256": "952b5e8163e6f0546706be7346848bb9c972bac1c22e16b4e9ba8a504fa25340"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/issues/08-qualification-readiness-k-scale-and-final-confirmation.md",
+      "target": ".scratch/reliability-aware-token-mfg/issues/08-qualification-readiness-k-scale-and-final-confirmation.md",
+      "sha256": "a30185176f52b5193eb6d77a5e06e81bcf7fb20f0d3289256fc6d7bb3aa6040a"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/issues/09-correct-k-scale-risk-and-action-crn.md",
+      "target": ".scratch/reliability-aware-token-mfg/issues/09-correct-k-scale-risk-and-action-crn.md",
+      "sha256": "bae60147029bfb7004bc1a89e1927c74206aa51eb699fd8e5a80312288a456bd"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/issues/10-optimize-k-scale-qualification-execution.md",
+      "target": ".scratch/reliability-aware-token-mfg/issues/10-optimize-k-scale-qualification-execution.md",
+      "sha256": "c3d1c9257db649c0d21d835c2c7b509a29538447971f036cfac35ea6a50814e7"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/issues/11-requalify-after-qualification-namespace-contamination.md",
+      "target": ".scratch/reliability-aware-token-mfg/issues/11-requalify-after-qualification-namespace-contamination.md",
+      "sha256": "3417ea83da5dc7ae28e4495fd6ec5754dfea25bfd039755baca2834f7cdd70e3"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/issues/12-implement-formal-r2-qualification-backend.md",
+      "target": ".scratch/reliability-aware-token-mfg/issues/12-implement-formal-r2-qualification-backend.md",
+      "sha256": "a19a1dfa186e408bf1e7e9129e64069e450c839d450a7533f9455a481171b893"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/issues/13-correct-formal-start-and-scale-handoff.md",
+      "target": ".scratch/reliability-aware-token-mfg/issues/13-correct-formal-start-and-scale-handoff.md",
+      "sha256": "22fa24d448b9fbfbe7d71d5ebe12f10b5e406faab7440e3b77b2bb5d876936f9"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/issues/14-stream-formal-panels.md",
+      "target": ".scratch/reliability-aware-token-mfg/issues/14-stream-formal-panels.md",
+      "sha256": "6c9991b24fc89bc70585c53e8489d57dfb9a3e479595208f9ba1b3a81b2cc9e9"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/issues/15-engine-equivalence-performance.md",
+      "target": ".scratch/reliability-aware-token-mfg/issues/15-engine-equivalence-performance.md",
+      "sha256": "2dc1a721ebf938d9529057d6d19a4c78e98edbf21b61fb69932a4c3c157a889e"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/k64_diagnostic_panel.py",
+      "target": ".scratch/reliability-aware-token-mfg/k64_diagnostic_panel.py",
+      "sha256": "6cf859527ff701f1d7423500facc923d36d9e649452856d64a043d8a0d2e0673"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/protocol-redesign-derivation-20260911.md",
+      "target": ".scratch/reliability-aware-token-mfg/protocol-redesign-derivation-20260911.md",
+      "sha256": "c3231056a3f58e886f24934fd5175b8dccf0265b67548d3a2a00aeee623443b6"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/run_r2_preflight.py",
+      "target": ".scratch/reliability-aware-token-mfg/run_r2_preflight.py",
+      "sha256": "44692fc08ae0d1dc537fc51f607f5c2a519e1d5f41cbe8ddeb4279566c0931b4"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/run_r2_qualification.py",
+      "target": ".scratch/reliability-aware-token-mfg/run_r2_qualification.py",
+      "sha256": "3baea8263cf513059a0cb9e57603f165aa1e44ce0ca3f8ba9f52f563024d7e61"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/run_ticket10_preflight.py",
+      "target": ".scratch/reliability-aware-token-mfg/run_ticket10_preflight.py",
+      "sha256": "d74214fe7e1c5b921eafe0e00e2ef4e7aa38a9f1af1cd375ede49d34aad59461"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/smoke_streaming_formal.py",
+      "target": ".scratch/reliability-aware-token-mfg/smoke_streaming_formal.py",
+      "sha256": "d7e7c9ee89f3c4397df255215c606f313a71311d36603e7855e9124909308a58"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/spec.md",
+      "target": ".scratch/reliability-aware-token-mfg/spec.md",
+      "sha256": "9a65398210837b7cdf654a52ba86f1a8f63f76cb556d0cba082663f3085e3f9b"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/reliability-aware-token-mfg/ticket10-performance-report-20260911.md",
+      "target": ".scratch/reliability-aware-token-mfg/ticket10-performance-report-20260911.md",
+      "sha256": "15107e99479523d187da9260c9d87eac7a1045c91b9e399929ee109a8aac8867"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/01-implement-baseline-kernels.md",
+      "target": ".scratch/replica-routing-baselines/issues/01-implement-baseline-kernels.md",
+      "sha256": "ac9e293224e6052b6d2e2338964906b46985b77104068998c3aa115d2b11aee5"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/02-implement-comparison-adapters.md",
+      "target": ".scratch/replica-routing-baselines/issues/02-implement-comparison-adapters.md",
+      "sha256": "01f96fa79ed0d8c5cd3f3239bc43266f0d57b11004dd284dd78316387a60de79"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/03-run-protection-baseline-experiment.md",
+      "target": ".scratch/replica-routing-baselines/issues/03-run-protection-baseline-experiment.md",
+      "sha256": "376856f7ef219e1c97f09c135be5a6831a83c1655a54e39034f642b1e1e7b857"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/04-correct-p95-calibration-and-rerun.md",
+      "target": ".scratch/replica-routing-baselines/issues/04-correct-p95-calibration-and-rerun.md",
+      "sha256": "0f23af0f03b54a4eef186a01eb239586f97bbdab197003a05771242fd6b6e30c"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/04-correct-p95-calibration-cohort.md",
+      "target": ".scratch/replica-routing-baselines/issues/04-correct-p95-calibration-cohort.md",
+      "sha256": "6af99b6eb1d7e7fc475fb80de8f95390810454d1a4f6d297a2c57a4fc295941b"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/05-cancellation-semantics-ablation.md",
+      "target": ".scratch/replica-routing-baselines/issues/05-cancellation-semantics-ablation.md",
+      "sha256": "e864186ed75f82e11357786657553d3971796a08d9b90dc88d1d09b539346430"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/06-run-cancellation-semantics-ablation.md",
+      "target": ".scratch/replica-routing-baselines/issues/06-run-cancellation-semantics-ablation.md",
+      "sha256": "711f40398e28a14740d23e49416e27434025b336e71cf9ea8cdc52b797a1e619"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/07-fix-laedge-boundary-audit.md",
+      "target": ".scratch/replica-routing-baselines/issues/07-fix-laedge-boundary-audit.md",
+      "sha256": "61c3aa9bbedd07dfa1bff410d50c239c9c0acedcfb75b79da1ed5e9007969653"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/08-design-budgeted-laedge.md",
+      "target": ".scratch/replica-routing-baselines/issues/08-design-budgeted-laedge.md",
+      "sha256": "cc3c0a73c118054a34da806c08622b88da22cb494493c13e6293f061473eecde"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/09-implement-budgeted-laedge.md",
+      "target": ".scratch/replica-routing-baselines/issues/09-implement-budgeted-laedge.md",
+      "sha256": "cb41eec134293b4c987a6214597f8ea5a7d793a066e12959f267eb15a7347ab5"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/10-calibrate-budgeted-laedge-rates-and-run-development.md",
+      "target": ".scratch/replica-routing-baselines/issues/10-calibrate-budgeted-laedge-rates-and-run-development.md",
+      "sha256": "59e8846f6d038e961997ca0cc955df2915e7e083d5e6658abe1971ebca6d2602"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/11-budgeted-laedge-development-calibration-v2.md",
+      "target": ".scratch/replica-routing-baselines/issues/11-budgeted-laedge-development-calibration-v2.md",
+      "sha256": "f6778cd95fd47c390f38868f6f69897b8b30fa7832123aaf3f00331b8d578e11"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/12-run-budgeted-laedge-holdout-pareto.md",
+      "target": ".scratch/replica-routing-baselines/issues/12-run-budgeted-laedge-holdout-pareto.md",
+      "sha256": "b3222f860439d48ced2c1aaa91f35cb8ca7220b643991f27fb9ea8b2aad458c1"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/13-survey-moe-replication-routing-methods.md",
+      "target": ".scratch/replica-routing-baselines/issues/13-survey-moe-replication-routing-methods.md",
+      "sha256": "3bfe70cadc77ba3ab0db767282949c0412e2491825873ba1665d642a693d2f07"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/14-design-fault-aware-selective-hedging.md",
+      "target": ".scratch/replica-routing-baselines/issues/14-design-fault-aware-selective-hedging.md",
+      "sha256": "0bde0897ca035d7261ceaae8bfbfe08a0ddcb09b99e613820960f8f613507605"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/15-implement-selective-hedging.md",
+      "target": ".scratch/replica-routing-baselines/issues/15-implement-selective-hedging.md",
+      "sha256": "37fec511053bc721869d8950af9e39c56cc41794963a059d7741f08fe6c52a38"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/issues/16-run-selective-hedging-validation.md",
+      "target": ".scratch/replica-routing-baselines/issues/16-run-selective-hedging-validation.md",
+      "sha256": "0b42363fb38299d4ffe47c07969c9cf4b1bcebc4164f4aaef0c11527b9dcf878"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/replica-routing-baselines/spec.md",
+      "target": ".scratch/replica-routing-baselines/spec.md",
+      "sha256": "52eeb6f055aa0ec3000ae881734ad0df0e37b55b0e82b35778df76dae250be49"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/scaled-multi-expert-backup/issues/01-implement-and-run-scaled-experiment.md",
+      "target": ".scratch/scaled-multi-expert-backup/issues/01-implement-and-run-scaled-experiment.md",
+      "sha256": "4ede03058e3c43ae36a43db1dac4fb98d6922116de5c07be28232978f244237b"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/scaled-multi-expert-backup/scaled-experiment-report.md",
+      "target": ".scratch/scaled-multi-expert-backup/scaled-experiment-report.md",
+      "sha256": "f3ce217704c4d0791a9da5103eaa4cf6dace4f708cad88a2058a309470903e61"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/scaled-multi-expert-backup/spec.md",
+      "target": ".scratch/scaled-multi-expert-backup/spec.md",
+      "sha256": "4c13bdab12604c5af546e91a9d4f722266a7b561aad8ebf20a00776184624032"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/diagnose_fit_variance.py",
+      "target": ".scratch/shared-backup-game/diagnose_fit_variance.py",
+      "sha256": "15cd210e01504aba6fdcdb9b476bc20d8a517514105a459c1b80dd583c673ff2"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/fit-variance-diagnosis-20260906.md",
+      "target": ".scratch/shared-backup-game/fit-variance-diagnosis-20260906.md",
+      "sha256": "03a397fc3cdd56e28999828364dc071b4fffeac32b5bae0e66b2b9cbf57d9a12"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/issues/01-design-shared-backup-game.md",
+      "target": ".scratch/shared-backup-game/issues/01-design-shared-backup-game.md",
+      "sha256": "97234f253aec3409cb905cb3555e23adf91ff5259af7ac3b9f5f8ce1dfbb6d2b"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/issues/02-implement-shared-capacity-physics.md",
+      "target": ".scratch/shared-backup-game/issues/02-implement-shared-capacity-physics.md",
+      "sha256": "333bccbe18f1743f542ac21638b2cc056a72b0b657d0496f6049952e639d1302"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/issues/03-random-common-noise-and-causal-observations.md",
+      "target": ".scratch/shared-backup-game/issues/03-random-common-noise-and-causal-observations.md",
+      "sha256": "aac49315e76d6b846de5b775c3f369e0c3137eb515ad6b8a5a4e132810191e7f"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/issues/04-expert-payoffs-and-finite-deviations.md",
+      "target": ".scratch/shared-backup-game/issues/04-expert-payoffs-and-finite-deviations.md",
+      "sha256": "34e2b34f536d8e409551a2b1e2c762f8497f0d5504d69f1a1dc496ea69e7f5cf"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/issues/05-finite-256-rule-game-solver.md",
+      "target": ".scratch/shared-backup-game/issues/05-finite-256-rule-game-solver.md",
+      "sha256": "570bc523a4b1b20b43e0448f52695bed1b448bef60c6b1f4a152c111ec90e52b"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/issues/06-run-finite-256-rule-game-campaign.md",
+      "target": ".scratch/shared-backup-game/issues/06-run-finite-256-rule-game-campaign.md",
+      "sha256": "698bb7a777a5aacaa7862cd3c281710bd7ea1af76a98c094b424d25944305d7c"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/issues/07-optimize-stage4-campaign-execution.md",
+      "target": ".scratch/shared-backup-game/issues/07-optimize-stage4-campaign-execution.md",
+      "sha256": "692e01b0b461a81fcb4fa0d4c5b4dd449c17bdb18f751cbb922fc1acbaaf2c64"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/issues/08-diagnose-stage4-parallel-scaling.md",
+      "target": ".scratch/shared-backup-game/issues/08-diagnose-stage4-parallel-scaling.md",
+      "sha256": "4cb64666bdccc1c36f1c5a1bf87d9c2e5c4b99b4178760547757648a6e2ebc10"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/issues/09-stage4-campaign-orchestration.md",
+      "target": ".scratch/shared-backup-game/issues/09-stage4-campaign-orchestration.md",
+      "sha256": "dfc008f3dcf491319e1402c003e761dc1581986bc8021320c7bc5b0b5a200193"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/issues/10-correct-pooled-cluster-inference.md",
+      "target": ".scratch/shared-backup-game/issues/10-correct-pooled-cluster-inference.md",
+      "sha256": "1afe2c3f2b6c08ec1b6236616a5a41241a14e93ed5deddf85b6c07f99bbbe787"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/issues/11-diagnose-fit-variance.md",
+      "target": ".scratch/shared-backup-game/issues/11-diagnose-fit-variance.md",
+      "sha256": "b71edcdb0c3908715590e2831b7fcc9bf85c25deb5662b273af0b90dc3849d7b"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/issues/12-review-mfg-experiment-readiness.md",
+      "target": ".scratch/shared-backup-game/issues/12-review-mfg-experiment-readiness.md",
+      "sha256": "e0f3704a2a8b5f5900613450c24c05cf82b74b5c19a846bcd91173248da5ead5"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/issues/13-fix-mfg-readiness-defects.md",
+      "target": ".scratch/shared-backup-game/issues/13-fix-mfg-readiness-defects.md",
+      "sha256": "c61ba1c57eaae973663dd466f43f84866ddfd68483416f8a58becd1c565de511"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/issues/14-design-stage4b-precision-pilot.md",
+      "target": ".scratch/shared-backup-game/issues/14-design-stage4b-precision-pilot.md",
+      "sha256": "b6aa5229e200f88c91ecc377965fc7125c225f2331c38d0042c12b0f04f5dead"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/issues/15-run-stage4b-precision-pilot.md",
+      "target": ".scratch/shared-backup-game/issues/15-run-stage4b-precision-pilot.md",
+      "sha256": "56c49299a3ba961a0db84b34aa720ec19fbde50f378be38456ab72f25ec4448e"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/mfg-readiness-review-20260906.md",
+      "target": ".scratch/shared-backup-game/mfg-readiness-review-20260906.md",
+      "sha256": "6a109994e3c72affb16b614f4a7e88abd166dc7fea97a76f102330973ced063c"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/optimized_worker_profile.py",
+      "target": ".scratch/shared-backup-game/optimized_worker_profile.py",
+      "sha256": "a9272965c9349719497d1f02d36db21043996aad29fe49b88fe4a907245362e0"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/parallel_scaling_probe.py",
+      "target": ".scratch/shared-backup-game/parallel_scaling_probe.py",
+      "sha256": "cc91e7d34758b827085d5c54dbe8a4142b30485ccad0a38b7442a8ffbd466489"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/review_readiness_probes.py",
+      "target": ".scratch/shared-backup-game/review_readiness_probes.py",
+      "sha256": "0188430dde7a48535697042f3e939a88d136848be3dd80c6bde187cf3bfb1078"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/run_stage4_campaign_20260906.py",
+      "target": ".scratch/shared-backup-game/run_stage4_campaign_20260906.py",
+      "sha256": "69b3f5f22e7d1fafdd6057da059e549fc55ffb257b7bc54126376734c47e0d7f"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/spec.md",
+      "target": ".scratch/shared-backup-game/spec.md",
+      "sha256": "dbb28266b67e8694cf65e67c598d07f104574719be7cb3e1b66ac7e8d268e854"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/stage4-parallel-scaling-diagnosis-20260906.md",
+      "target": ".scratch/shared-backup-game/stage4-parallel-scaling-diagnosis-20260906.md",
+      "sha256": "82c2ab4f54695f66469b10a98eb3a9bf20f0df3b8b03793709ce0931818f9662"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/stage4-performance-report-20260906.md",
+      "target": ".scratch/shared-backup-game/stage4-performance-report-20260906.md",
+      "sha256": "307f39452e198603a7bd8439c7e9210213e630b8babbb03542f31016f6426cc4"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/shared-backup-game/verify_design.py",
+      "target": ".scratch/shared-backup-game/verify_design.py",
+      "sha256": "2851184fc2608f7db3192d8d9e1eb4bc28600012f746b71ca2f969f53884c918"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/audit_probes.py",
+      "target": ".scratch/token-mfg-restoration/audit_probes.py",
+      "sha256": "f2f5b10cf64b0ce2513486803ccf609087395783ef0aa3903042c495f820e1f7"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/engineering-audit.md",
+      "target": ".scratch/token-mfg-restoration/engineering-audit.md",
+      "sha256": "2f901f63101dc0816a3cfb811eb391f305e244c865d456a57a41e15d8a1db807"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/01-complete-token-model-and-engineering-audit.md",
+      "target": ".scratch/token-mfg-restoration/issues/01-complete-token-model-and-engineering-audit.md",
+      "sha256": "76673910ba68d815c16725a85ac642da48604a5ff9de6ba0cb59f1a0e23c08e9"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/02-implement-online-token-entry-and-reservation.md",
+      "target": ".scratch/token-mfg-restoration/issues/02-implement-online-token-entry-and-reservation.md",
+      "sha256": "d4a0f4ec7c2ba437a44a66e5c03965063bebb212445e22aabd1f35f5054bed47"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/03-tighten-replica-id-validation.md",
+      "target": ".scratch/token-mfg-restoration/issues/03-tighten-replica-id-validation.md",
+      "sha256": "ce207f3ebc9e35d5ee5aaae2d6833c21c176bd8623999d566d7362910bd05b4b"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/04-design-token-payoff-and-deviation.md",
+      "target": ".scratch/token-mfg-restoration/issues/04-design-token-payoff-and-deviation.md",
+      "sha256": "2ba3841a6f06142c8bc7e0a373a947a2945b2138460da22b1042be4ab1d27f57"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/05-implement-token-payoff-and-deviations.md",
+      "target": ".scratch/token-mfg-restoration/issues/05-implement-token-payoff-and-deviations.md",
+      "sha256": "e4fbac5016dcb56045a5d398c6c1050485dafce994fe4621cfa53a36e76083d4"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/06-derive-token-evolution-and-closure.md",
+      "target": ".scratch/token-mfg-restoration/issues/06-derive-token-evolution-and-closure.md",
+      "sha256": "4de5c7055b66eb91d1c51c9582382b71aa476789783fd05aa4ff41df71aed1d3"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/07-design-token-conditional-continuation-oracle.md",
+      "target": ".scratch/token-mfg-restoration/issues/07-design-token-conditional-continuation-oracle.md",
+      "sha256": "8296392c526b5372b188f4b25edf6df4bf2b19c58805429817d4009724358dfb"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/08-implement-token-observable-bin-oracle.md",
+      "target": ".scratch/token-mfg-restoration/issues/08-implement-token-observable-bin-oracle.md",
+      "sha256": "11a67abfc9c853eb3fb6a8d280dc62065593067b0e78b6a4bc356306575346a3"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/09-design-t3a-statistical-execution-protocol.md",
+      "target": ".scratch/token-mfg-restoration/issues/09-design-t3a-statistical-execution-protocol.md",
+      "sha256": "b603ec0ec41241d73e5577acb5fc433f13a6043443ee0588e0e49084ed3d97df"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/10-implement-and-run-t3a-statistical-oracle.md",
+      "target": ".scratch/token-mfg-restoration/issues/10-implement-and-run-t3a-statistical-oracle.md",
+      "sha256": "3e19358db068a78308be039fc9d26a4a736370a6c745e9ef2374d3be8111fe7f"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/11-implement-and-qualify-token-best-response-candidate.md",
+      "target": ".scratch/token-mfg-restoration/issues/11-implement-and-qualify-token-best-response-candidate.md",
+      "sha256": "0a683f33985eccc40aacbd14e0e8f9081c3b3920b4bba940f477fc5a5bd616b8"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/12-run-token-population-ab.md",
+      "target": ".scratch/token-mfg-restoration/issues/12-run-token-population-ab.md",
+      "sha256": "3cd48389370389ddcf5355f273b83d1757f2cf77a3f81631034912b9f05df8b3"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/13-implement-token-mfg-fixed-point.md",
+      "target": ".scratch/token-mfg-restoration/issues/13-implement-token-mfg-fixed-point.md",
+      "sha256": "e8052ca43311fc6092a069d12e5ed4049792173edafcab887629e1426821e5b6"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/14-implement-token-mfg-soft-response.md",
+      "target": ".scratch/token-mfg-restoration/issues/14-implement-token-mfg-soft-response.md",
+      "sha256": "7972aabe7eb7ec1d2f6b3379aa8957f0abe2e6e71948dbfc0f234ced273f048d"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/15-implement-token-mfg-t4c-supported-soft-response.md",
+      "target": ".scratch/token-mfg-restoration/issues/15-implement-token-mfg-t4c-supported-soft-response.md",
+      "sha256": "d86ace589f024e7b7c3018728a3141277581730a5e7010950d1b84324528d923"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/16-run-token-mfg-t4c-diagnostic.md",
+      "target": ".scratch/token-mfg-restoration/issues/16-run-token-mfg-t4c-diagnostic.md",
+      "sha256": "18ce41c62545e54e01344f2839517887d9b04522fdfdd5fb041876fe405b1ce3"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/17-fix-t4c-execution-output-contract.md",
+      "target": ".scratch/token-mfg-restoration/issues/17-fix-t4c-execution-output-contract.md",
+      "sha256": "e1a573d72ee4994c7ab0308bad0a9f52f8697002fdc1a209d297a4b5f7b516b3"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/18-run-bounded-t4c-exploratory-diagnostic.md",
+      "target": ".scratch/token-mfg-restoration/issues/18-run-bounded-t4c-exploratory-diagnostic.md",
+      "sha256": "83b9b5b5d164d5cd0543128098a6c41d6d2e4dbe36086c69cddb946e6452bb08"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/19-implement-and-run-price-feedback-pilot.md",
+      "target": ".scratch/token-mfg-restoration/issues/19-implement-and-run-price-feedback-pilot.md",
+      "sha256": "05cfc17668d3bf8daab63dd7475c9ad0a5e5b801030f002b6f5867c87b436a58"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/20-fix-t4c-niin-fallback.md",
+      "target": ".scratch/token-mfg-restoration/issues/20-fix-t4c-niin-fallback.md",
+      "sha256": "bf299b803383292db39f5dc44cd44b13c21c14243e15994e6b88d7adf24c5dda"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/21-run-refined-fixed-grid-pilot.md",
+      "target": ".scratch/token-mfg-restoration/issues/21-run-refined-fixed-grid-pilot.md",
+      "sha256": "9be1e4c5a999eaa0b451135b01ae80385a4c0c050928ae3b09a69e43e4f52a65"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/22-run-requested-reservation-price-grid.md",
+      "target": ".scratch/token-mfg-restoration/issues/22-run-requested-reservation-price-grid.md",
+      "sha256": "4c513d05ef99541c28f7521768ad9151590453d4b94ec8871f058b6954799a84"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/23-run-requested-price-feedback.md",
+      "target": ".scratch/token-mfg-restoration/issues/23-run-requested-price-feedback.md",
+      "sha256": "3da4539063d393329b296e4be40cd280ed62b468da5a74640de5e2a9d0fa13ab"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/issues/24-run-three-arm-requested-price-population-evaluation.md",
+      "target": ".scratch/token-mfg-restoration/issues/24-run-three-arm-requested-price-population-evaluation.md",
+      "sha256": "5c175947cd4a2f35c2a26862c25b61955c4ae3e4412121442eeb2b1e0286e3d5"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/spec.md",
+      "target": ".scratch/token-mfg-restoration/spec.md",
+      "sha256": "257d0767dc958e0d87043cad95cc4d421729679f86f3c7ed74cef8f8ba9d962c"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/theory-r1-algebra-check.py",
+      "target": ".scratch/token-mfg-restoration/theory-r1-algebra-check.py",
+      "sha256": "26155f267195b0d6af61f674211e6c302c326abdebfc189a217ffee99c279f8a"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/theory-r1-review.md",
+      "target": ".scratch/token-mfg-restoration/theory-r1-review.md",
+      "sha256": "5b043112bb30332c83305baf34e066521f44a1f215456836d89a81e03bbed30d"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/token-mfg-restoration/token-evolution-derivation.md",
+      "target": ".scratch/token-mfg-restoration/token-evolution-derivation.md",
+      "sha256": "4d05793516fb0fb5d70c9f538629c8d1aae0881c72b3b3387005fe7c2b41eec3"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/workflow-setup/issues/01-establish-clean-workflow.md",
+      "target": ".scratch/workflow-setup/issues/01-establish-clean-workflow.md",
+      "sha256": "9317a4a28b4bcbff9e0e42723c41a9437164a4f6cfb6d857fb3fbcad1f6a7e9f"
+    },
+    {
+      "source": "mfg_hedge_v1/.scratch/workflow-setup/spec.md",
+      "target": ".scratch/workflow-setup/spec.md",
+      "sha256": "5da8a8b1a703db24839228cafa9d930e4b8c33345d5f957e85471ae5a9b83f6f"
+    },
+    {
+      "source": "mfg_hedge_v1/AGENTS.md",
+      "target": "AGENTS.md",
+      "sha256": "5c249cc2517e73aebc8a35da5c771afd8cd9bab40eb9bb69cf304f4fb74533f2"
+    },
+    {
+      "source": "mfg_hedge_v1/CONTEXT.md",
+      "target": "CONTEXT.md",
+      "sha256": "f0c7216be38260282ee5b9fce8f57f9803f1149c336d5183aac3c6c09b441074"
+    },
+    {
+      "source": "mfg_hedge_v1/README.md",
+      "target": "README.md",
+      "sha256": "1a88c757e8dca1102f1a09af2625c668b0cc7c8bc51838961572fcd0106ed7fa"
+    },
+    {
+      "source": "mfg_hedge_v1/THIRD_PARTY_NOTICES.md",
+      "target": "THIRD_PARTY_NOTICES.md",
+      "sha256": "24ef95c60dbff83d5abdc278978143e70c5eaabb8df857514dfa0d3d1f78ce6e"
+    },
+    {
+      "source": "mfg_hedge_v1/artifacts/.gitkeep",
+      "target": "artifacts/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source": "mfg_hedge_v1/configs/v1_common_state.json",
+      "target": "configs/v1_common_state.json",
+      "sha256": "d53824beffb7127e8b612e9aae083763bc9e699f905a988896febbbe80b0f08d"
+    },
+    {
+      "source": "mfg_hedge_v1/configs/v1_minimal.json",
+      "target": "configs/v1_minimal.json",
+      "sha256": "e6bd1952fb095ecf2d8351a28685db3e0e3cd951f3a677f59467e0601e6576f0"
+    },
+    {
+      "source": "mfg_hedge_v1/configs/v1_paired_comparison.json",
+      "target": "configs/v1_paired_comparison.json",
+      "sha256": "98c830e111e03fd3ee720f095904de20974422d5f3bd812ad6e0c892d36603cc"
+    },
+    {
+      "source": "mfg_hedge_v1/configs/v1_scaled_multi_backup_development.json",
+      "target": "configs/v1_scaled_multi_backup_development.json",
+      "sha256": "7f2acd91f3a94f817af77ac8b8953637ef401147668949d0bc5f8fd07e578637"
+    },
+    {
+      "source": "mfg_hedge_v1/configs/v1_transient_development.json",
+      "target": "configs/v1_transient_development.json",
+      "sha256": "2aecf158ea6fefdbd7a872711ce7e36c2376fb3be0820083b709738fb45304cc"
+    },
+    {
+      "source": "mfg_hedge_v1/configs/v2_paired_runtime_cost.json",
+      "target": "configs/v2_paired_runtime_cost.json",
+      "sha256": "27dc1896f83912b32d5fa07c9dd7b8cc5fd5331ee50dab0de960a707cc0e8721"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0001-v1-scope-and-model-evaluation-separation.md",
+      "target": "docs/adr/0001-v1-scope-and-model-evaluation-separation.md",
+      "sha256": "04ad32f1a26a07688ff2f5abd4a6f78ea359f1b627ba0fe9f1ab136197e6aff9"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0002-crn-stable-keys-and-run-identity.md",
+      "target": "docs/adr/0002-crn-stable-keys-and-run-identity.md",
+      "sha256": "f9f4438b3097c751f027698ea2321354a991d6df7fbc36f93c82d86578c86931"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0003-canonical-run-names-trace-keys-and-config-bytes.md",
+      "target": "docs/adr/0003-canonical-run-names-trace-keys-and-config-bytes.md",
+      "sha256": "57cc47b2cb7ef71da8c368d34d7b28453abe51b9103e98db9cb4afa9d95c8d6f"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0004-common-state-failure-semantics.md",
+      "target": "docs/adr/0004-common-state-failure-semantics.md",
+      "sha256": "1b083458e2a56fc40b29086615f309fe3acf5b049801acde9a8a27e49a9cf754"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0005-hedge-copy-lifecycle-and-random-keys.md",
+      "target": "docs/adr/0005-hedge-copy-lifecycle-and-random-keys.md",
+      "sha256": "4b5f01497a311768dd5179ae3498927de698d76abdfe6e377b5ec9ad7b01ba52"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0006-finite-action-mfg-and-quota-semantics.md",
+      "target": "docs/adr/0006-finite-action-mfg-and-quota-semantics.md",
+      "sha256": "ae7536c0c8b8b0abd8f72cc070ee06f9a62a3be5b829d64dec27911c7b641c3d"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0007-capacity-feasible-mfg-solver.md",
+      "target": "docs/adr/0007-capacity-feasible-mfg-solver.md",
+      "sha256": "0b9d15c183d281cfa2d44aad9a5df905419b2e741ce312aeb8bc4d1b7a259c9f"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0008-boundary-pinned-capacity-solver.md",
+      "target": "docs/adr/0008-boundary-pinned-capacity-solver.md",
+      "sha256": "19e38313e0ceb3edeb24663a93adcccbf64e01082c1b55e07c34f6bb7b1b58ae"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0009-persistent-runtime-work-cost.md",
+      "target": "docs/adr/0009-persistent-runtime-work-cost.md",
+      "sha256": "d3fe1de8ae19fa5d18ccd112cf955dd6f2de55ad386b4cea5917e830829ee1ec"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0010-attribution-first-evaluation-protocol.md",
+      "target": "docs/adr/0010-attribution-first-evaluation-protocol.md",
+      "sha256": "408b647d58caf235885e058e1cb4e9d97eca66f5f8a24d8ff4276478846513fa"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0011-transient-queue-control-before-mean-field.md",
+      "target": "docs/adr/0011-transient-queue-control-before-mean-field.md",
+      "sha256": "4cf1fd185760b1cc24d8880d39086c2a1f0ae2710f3228fa808b06e8489e18c5"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0012-transient-admission-and-objective.md",
+      "target": "docs/adr/0012-transient-admission-and-objective.md",
+      "sha256": "21ce0f35783897523afb4fec5c97a67f3b33bf94c5df2b4d9828bd61d07113e0"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0013-development-rule-search.md",
+      "target": "docs/adr/0013-development-rule-search.md",
+      "sha256": "01e2b1e7d4cfba4be541b3922efb6d7b9e459ae9f202ea44b2ab7d1b6a89048c"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0014-scaled-multi-expert-multi-backup.md",
+      "target": "docs/adr/0014-scaled-multi-expert-multi-backup.md",
+      "sha256": "b70b0d71a0205128f3e1f46efbdbdc95e876595748bc88a04a4564de9cc0fc0d"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0015-shared-backup-expert-game.md",
+      "target": "docs/adr/0015-shared-backup-expert-game.md",
+      "sha256": "2efd1d16171c61388b144cee81888cc47f5b1385423e883c9947e566b3e5a642"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0016-finite-256-rule-game-solver-protocol.md",
+      "target": "docs/adr/0016-finite-256-rule-game-solver-protocol.md",
+      "sha256": "3b4b1998e6dd2a33a735fda4ed1c4508b0248f593fb1451f3a6f78e98a4d4ccf"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0017-stage4-campaign-performance.md",
+      "target": "docs/adr/0017-stage4-campaign-performance.md",
+      "sha256": "4aef4942c033939041978f4746cbfe951b15fa638425aa02ecefbadcb1749d16"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0018-pooled-objective-cluster-inference.md",
+      "target": "docs/adr/0018-pooled-objective-cluster-inference.md",
+      "sha256": "6d31e13e5f9d0ef9a796eb48fbe7f918cea31f9c3444c1b1c058100f834a2751"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0019-stage4b-precision-pilot-protocol.md",
+      "target": "docs/adr/0019-stage4b-precision-pilot-protocol.md",
+      "sha256": "d3ff8e3c5e918348b905dfa8cc546a0442e533fdb177b428b34f215e88a7ceac"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0020-restore-token-player-model.md",
+      "target": "docs/adr/0020-restore-token-player-model.md",
+      "sha256": "e2880285b7c429d9a247540e862e12cc5f7b0a7e56568b1a0c21fee33442484d"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0021-token-private-cost-and-deviation-semantics.md",
+      "target": "docs/adr/0021-token-private-cost-and-deviation-semantics.md",
+      "sha256": "bd023b270b552dcd62254f19f165d9963aa544dd2ccd68a33dbbd5a827935a08"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0022-token-conditional-continuation-oracle.md",
+      "target": "docs/adr/0022-token-conditional-continuation-oracle.md",
+      "sha256": "ae145e6ee3cba906d490ea99afff612a342c6206c1669cc663d3e1fbd436e54f"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0023-t3a-statistical-execution-protocol.md",
+      "target": "docs/adr/0023-t3a-statistical-execution-protocol.md",
+      "sha256": "c95755528ad02a8a6a53fe7ebc4f0aea8117ddd5451cb445aabfe6b67f9cbe53"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0024-token-mfg-soft-response-iteration.md",
+      "target": "docs/adr/0024-token-mfg-soft-response-iteration.md",
+      "sha256": "4bda0add4ab7850f6c11057308e5c4d75b43ffac344ec3aec847e909f4999c7a"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0025-token-mfg-t4c-supported-soft-response.md",
+      "target": "docs/adr/0025-token-mfg-t4c-supported-soft-response.md",
+      "sha256": "9d280a18d3c1189e89160bd7d24922fa08ff70aa064e38f070f18b52417485bc"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0026-token-mfg-round-price-feedback.md",
+      "target": "docs/adr/0026-token-mfg-round-price-feedback.md",
+      "sha256": "af476d764e37feaa0b5b98035c64abb5a82c31a2f85991dd683cbe2b31dbe409"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0027-refined-token-observation-and-fixed-grid-pilot.md",
+      "target": "docs/adr/0027-refined-token-observation-and-fixed-grid-pilot.md",
+      "sha256": "50c7041f9c8ebe5668b14b08cf209ddd37a3d13696bbe998745a5ea1a17501ae"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0028-requested-reservation-price-diagnostic.md",
+      "target": "docs/adr/0028-requested-reservation-price-diagnostic.md",
+      "sha256": "4fd2963570189978ec1c0e5956fe988619e70495049a0c109961ddbd8b5b0340"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0029-bounded-request-price-feedback.md",
+      "target": "docs/adr/0029-bounded-request-price-feedback.md",
+      "sha256": "c60f7c9d39e7882aa9ce66c7b7f41a4841e5787431cb0da70f15512404c41a5b"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0030-replica-routing-baseline-taxonomy.md",
+      "target": "docs/adr/0030-replica-routing-baseline-taxonomy.md",
+      "sha256": "6f51dca6b8089edeab1504b4483eb2831355380d8147c9c23a53070407d608ce"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0031-protection-baseline-experiment.md",
+      "target": "docs/adr/0031-protection-baseline-experiment.md",
+      "sha256": "45f919f0f649a923a2d0ece034cf96f92e7490f1763d553fbae3fc0bcb131b2f"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0032-cancellation-semantics-ablation.md",
+      "target": "docs/adr/0032-cancellation-semantics-ablation.md",
+      "sha256": "43d90ba21946e01b43fdd590100b62a4c564fea13e7a8e04918f77a08f749df7"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0033-budgeted-laedge-work-constrained-idle-release.md",
+      "target": "docs/adr/0033-budgeted-laedge-work-constrained-idle-release.md",
+      "sha256": "3d2a48bb7a78274d2dec912d78b3c2fd003d66141ba364aa10ea2d0ee00cd0ae"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0034-fault-aware-selective-hedging.md",
+      "target": "docs/adr/0034-fault-aware-selective-hedging.md",
+      "sha256": "03b59b7986b406b3e4ecf1ff91c3db41a7b241a7c78008b1fb9a8295910dba2a"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0035-reliability-aware-multi-replica-routing.md",
+      "target": "docs/adr/0035-reliability-aware-multi-replica-routing.md",
+      "sha256": "2368536f67f39fb729eb2ddceced8be55ca8be40c013129b77789f6cdaa442a8"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0036-three-round-reliability-aware-routing-evaluation.md",
+      "target": "docs/adr/0036-three-round-reliability-aware-routing-evaluation.md",
+      "sha256": "d92f2c1a7bd3fbecd0d85ff64a5dd34acaa4b72028130530516a2c621cdbe971"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0037-reliability-aware-token-mean-field-game.md",
+      "target": "docs/adr/0037-reliability-aware-token-mean-field-game.md",
+      "sha256": "4d2ecb4393a2ebffdf9c1483c1495d4076a0a799bfb3a19286ebb82e0489ca67"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0038-qualification-r2-after-namespace-contamination.md",
+      "target": "docs/adr/0038-qualification-r2-after-namespace-contamination.md",
+      "sha256": "cc4b94690a698c9396eb41b28579f55af5592b10488bbf6fe12acfa6cff370d0"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/adr/0039-formal-token-mfg-scale-handoff-and-gates.md",
+      "target": "docs/adr/0039-formal-token-mfg-scale-handoff-and-gates.md",
+      "sha256": "aa57ff46dd9c3f3f38fd4794ca2a148cfbbaa05428b91ca683974fe6657a2218"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/agents/domain.md",
+      "target": "docs/agents/domain.md",
+      "sha256": "ef46f3cb69d2f27179f92d15afc281bc5f5930b3f9ba3078d56b2731f918a6e4"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/agents/issue-tracker.md",
+      "target": "docs/agents/issue-tracker.md",
+      "sha256": "dc25b0b5f4209fb7ffd15cbb2b5cf83d5d2f9fd3af1d6aa6d8e73177848e9d52"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/agents/update-format.md",
+      "target": "docs/agents/update-format.md",
+      "sha256": "d6b0cfa8f24410c22c74413fbf2436dd10aec62901c025c4497a82e1a9e69e54"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/design_review_zh.md",
+      "target": "docs/design_review_zh.md",
+      "sha256": "14372f5f7559293e2ac0a5f4231e197ae0037c58ef1c4720a31e129e360ec2e5"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/moe-replication-routing-method-census-zh.md",
+      "target": "docs/moe-replication-routing-method-census-zh.md",
+      "sha256": "d2a7d82ba9bbc28b00f9d102d12310088f8505f1830db20ada47ff31bbd6630f"
+    },
+    {
+      "source": "mfg_hedge_v1/docs/transient-control.md",
+      "target": "docs/transient-control.md",
+      "sha256": "9fc75ade661dbf418824ba3ba7c5b32a796801ff8b6a8ea01048a4316180985a"
+    },
+    {
+      "source": "mfg_hedge_v1/pyproject.toml",
+      "target": "pyproject.toml",
+      "sha256": "78a16396065083e875b9fa93229c6289abd4333c0956bbc63ebc155a02089cd2"
+    },
+    {
+      "source": "mfg_hedge_v1/scripts/bootstrap.ps1",
+      "target": "scripts/bootstrap.ps1",
+      "sha256": "63656fb4aded1995fe0412cb16c0953036ca9c6eeb7578402bbc27a2bb74f3a7"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/__init__.py",
+      "target": "src/mfg_hedge/__init__.py",
+      "sha256": "e781f175d3529f5b9c0786a6e07b9e600e9139feb58d507ec0867dee5b25ad36"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/__main__.py",
+      "target": "src/mfg_hedge/__main__.py",
+      "sha256": "b824a340cb2118d5f0a97f72a318153a2ad1d7bbeb541081d9aa0087e11a3ff0"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/artifacts.py",
+      "target": "src/mfg_hedge/artifacts.py",
+      "sha256": "5ee1cf10f7c0b2b6c14dafe0bee249e9f8900566b6a8cfa431a6f324cb9e7f3c"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/attribution_episode.py",
+      "target": "src/mfg_hedge/attribution_episode.py",
+      "sha256": "fd00645b2a5b38868cd7aa4c1f00ce142577520588bea84ca3754d185329806f"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/attribution_metrics.py",
+      "target": "src/mfg_hedge/attribution_metrics.py",
+      "sha256": "a2c77c30a8225ac0df9a95a5dbc09a4e15ef969adb1645d980f9e372220b8bab"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/baseline_adapters.py",
+      "target": "src/mfg_hedge/baseline_adapters.py",
+      "sha256": "e8736df045bb9632581cd2e55a8f2bea4e3cbbb536b422fe6e3c70a23f98dc9a"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/budgeted_laedge.py",
+      "target": "src/mfg_hedge/budgeted_laedge.py",
+      "sha256": "28165c0be5fc7082dd8cd55597f1239bdbbc19c714dd8609da97c82f8e0e1205"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/budgeted_laedge_campaign.py",
+      "target": "src/mfg_hedge/budgeted_laedge_campaign.py",
+      "sha256": "fadb9f9677ee4db88b5a22e66bdc596bb26d1f31c01c6d5ff7bdc0c99d917645"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/budgeted_laedge_holdout.py",
+      "target": "src/mfg_hedge/budgeted_laedge_holdout.py",
+      "sha256": "b88c3fadd9a329dfca93b1f7413f7384783c9f12c23c9128214a17fbc593a7bf"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/calibration.py",
+      "target": "src/mfg_hedge/calibration.py",
+      "sha256": "51641d79ec45f798c5613d99db82228c0f482ef08f913e011b8cc0beafffebb7"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/campaign.py",
+      "target": "src/mfg_hedge/campaign.py",
+      "sha256": "3c6f0bb84525b52b776022d6b5d0961cac8a0e7cb1b4e2af7643d4479fd196c0"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/campaign_execution.py",
+      "target": "src/mfg_hedge/campaign_execution.py",
+      "sha256": "b00fbf31796f71c8add6e6c5cacb06d789af4705ea1449ce200903e5975d9af7"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/common_state.py",
+      "target": "src/mfg_hedge/common_state.py",
+      "sha256": "73aeb9e567227069b5c3823815bf5c1e83a997738a558affe43509ffe8c996cf"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/common_state_metrics.py",
+      "target": "src/mfg_hedge/common_state_metrics.py",
+      "sha256": "ec7cfab9cece334bb6c3c0171be186681022bda565ec004c99297e25e65f4f9f"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/common_state_simulation.py",
+      "target": "src/mfg_hedge/common_state_simulation.py",
+      "sha256": "12584fcc514572f9842f508bfd839bb0823e64418023f348e8937f4bc27dc65a"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/config.py",
+      "target": "src/mfg_hedge/config.py",
+      "sha256": "deb8d77136393ac8cb7e6bac0deda78eeacdbbf3eedef68051f4ca72fc909754"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/domain.py",
+      "target": "src/mfg_hedge/domain.py",
+      "sha256": "30490a5ed030bfcc1310ed11e1e58384bda63ae116feb0fc161a9f809a352f19"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/expert_game.py",
+      "target": "src/mfg_hedge/expert_game.py",
+      "sha256": "fe8b8e46fdef4b3ab15b6b91795611553bdac5bbcf9b99c96085f719667a72e9"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/game_deviations.py",
+      "target": "src/mfg_hedge/game_deviations.py",
+      "sha256": "56353a62c62e8b550ac964baae62ae2786fb84d7c80895c150d6f5a6695e8d3b"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/game_solver.py",
+      "target": "src/mfg_hedge/game_solver.py",
+      "sha256": "f4bb8254ba56c4853b13a736a247552f7952c4d01ee68c3720da25416b485692"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/game_workload.py",
+      "target": "src/mfg_hedge/game_workload.py",
+      "sha256": "fa517442c58ba9b0336489f3cb2b6b24c77ff3380fa831d36f90e3b32e77d895"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/hedge_simulation.py",
+      "target": "src/mfg_hedge/hedge_simulation.py",
+      "sha256": "3bbd96defaa072e9c19dab4a8937f39710a1b6c8fcbd749c302e57cd0c7ceec5"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/interfaces.py",
+      "target": "src/mfg_hedge/interfaces.py",
+      "sha256": "1aa4e4e79d9383c27e9718862af0e1df25b358de99e36af2ce960ba00e3efe1f"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/laedge_episode.py",
+      "target": "src/mfg_hedge/laedge_episode.py",
+      "sha256": "9147d4b54a9d9a98caad88665d453f80166b92ee6482d3e4f9c98d7c0dce3e2f"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/metrics.py",
+      "target": "src/mfg_hedge/metrics.py",
+      "sha256": "50eaf7a86e1d9370c39ca80ee4d56286bbe87291e1be56e1f651f8598b825a1f"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/mfg_solver.py",
+      "target": "src/mfg_hedge/mfg_solver.py",
+      "sha256": "6e09c294f260382557438c3bbb615e3e9035eb3deb1067cd80badc37b5ace5e6"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/paired.py",
+      "target": "src/mfg_hedge/paired.py",
+      "sha256": "ca1976aef9637d58433597a3018dd9a02109dd6c8116556ada793ed19cf240e7"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/paired_metrics.py",
+      "target": "src/mfg_hedge/paired_metrics.py",
+      "sha256": "c0f9292352be79ae1f97f0637c5772e653721632487a567a58b31073efa0dac1"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/population_estimator.py",
+      "target": "src/mfg_hedge/population_estimator.py",
+      "sha256": "a7d4f5eca5819ff68634f08cd9f8d0dc3d51cbf92db292741ea32ef1b7bcea09"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/precision_pilot.py",
+      "target": "src/mfg_hedge/precision_pilot.py",
+      "sha256": "ddac32b02e8b301f75b5f684c54331da07c9e4ad6718a3cf140e0587be4517ab"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/protection_baseline_experiment.py",
+      "target": "src/mfg_hedge/protection_baseline_experiment.py",
+      "sha256": "403f92e2448b93993d3fc93bbb5ab3642773aa81dea41ec3fa1c0b09e7bd3f7e"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/protection_cancellation_ablation.py",
+      "target": "src/mfg_hedge/protection_cancellation_ablation.py",
+      "sha256": "7650aa9718e74bd50ca53b71e27030f1d303c059b65d0a8a8a6f1ab179600ead"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/protection_cancellation_experiment.py",
+      "target": "src/mfg_hedge/protection_cancellation_experiment.py",
+      "sha256": "5d62df70f68c6c21b0460931b98a55aedf986f8bcbd958c6fc311133ca223fa6"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/qualification_checkpoint.py",
+      "target": "src/mfg_hedge/qualification_checkpoint.py",
+      "sha256": "4a97f516b8fb4c577e3520ef88ae4f6ca535a4e9cdf1294cf7fed5e479725784"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/quota.py",
+      "target": "src/mfg_hedge/quota.py",
+      "sha256": "8cf9291f2b4f1c7d64535538931581e2b6384fb52a6052d1a873d65cbfd55f20"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/reliability_aware_routing.py",
+      "target": "src/mfg_hedge/reliability_aware_routing.py",
+      "sha256": "083762e38a8a711daa44baa416380825ea923d875a80d21ba1ce5f54eae4c4f3"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/reliability_aware_routing_experiment.py",
+      "target": "src/mfg_hedge/reliability_aware_routing_experiment.py",
+      "sha256": "049385faf4cdd27233778c0c4e648ae1cc78000d120445a5f53130cfde95b3f2"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/replica_routing_baselines.py",
+      "target": "src/mfg_hedge/replica_routing_baselines.py",
+      "sha256": "e17c8a66f6df39315c3289644913de38817b024207baf9f3efc3527d64d4b952"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/scaled_experiment.py",
+      "target": "src/mfg_hedge/scaled_experiment.py",
+      "sha256": "a385dbb07f6d568586098d4f93d9203027b51ebf4de5ec4c77023c2f07c59a0b"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/selective_hedging.py",
+      "target": "src/mfg_hedge/selective_hedging.py",
+      "sha256": "f41d7b6c2b43aea3c1487fa295d7079d10ca95189a92b1050393781fbb5485a0"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/selective_hedging_experiment.py",
+      "target": "src/mfg_hedge/selective_hedging_experiment.py",
+      "sha256": "01065557a8680498bf504b7b9fe6b0e2a64253402f01a9c4408594ff5d0295f5"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/shared_backup.py",
+      "target": "src/mfg_hedge/shared_backup.py",
+      "sha256": "c0944fdc0b79d0d5db0d64e57ec97e49b0df4beff1723946059d20b4cadae688"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/simulation.py",
+      "target": "src/mfg_hedge/simulation.py",
+      "sha256": "d31e515e3e70eddd84a7c78f0e3555d930cca873571960beca4f6250f8add48f"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/simultaneous_token_routing.py",
+      "target": "src/mfg_hedge/simultaneous_token_routing.py",
+      "sha256": "d5d14ccc242c819ec42fbbf3ac60a21a98ec8c01f4e415fc39ac352d106542da"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/stage4_campaign.py",
+      "target": "src/mfg_hedge/stage4_campaign.py",
+      "sha256": "9d110e6baee439c0cf60f3d4d760e8b9385c195bcd8e3ea709328567d394f4fa"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/stress.py",
+      "target": "src/mfg_hedge/stress.py",
+      "sha256": "8f37d61ca31f1a8463b282ecc919424d48357fb28c7636623300a271c0a5b470"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_best_response.py",
+      "target": "src/mfg_hedge/token_best_response.py",
+      "sha256": "5886bbc274dca73d5f4b3a2cc6d19f018c210007d692a920750d698b2aa22449"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_continuation.py",
+      "target": "src/mfg_hedge/token_continuation.py",
+      "sha256": "2dd92019bf8908ee540ce7637619f5d5352397a1ff9eb90dfca19b69ac2e66d9"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_deviations.py",
+      "target": "src/mfg_hedge/token_deviations.py",
+      "sha256": "dcb8e6c9bfa3019454bdaf369df5a17054aed6ca4a3440dcb9a6eb8a28cf2d1d"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_mfg_fixed_point.py",
+      "target": "src/mfg_hedge/token_mfg_fixed_point.py",
+      "sha256": "5a9d483ab24c4a95f81660babebfc0151424b62fda4c98f473b8d33fa7de713a"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_mfg_formal_backend.py",
+      "target": "src/mfg_hedge/token_mfg_formal_backend.py",
+      "sha256": "cf162bbd026ca3dade6485fb9b6bff3fbc37c37ca576c53d61b226f35723b91f"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_mfg_qualification.py",
+      "target": "src/mfg_hedge/token_mfg_qualification.py",
+      "sha256": "e3c0fd2cea8cb80b24765247451932b107be73d5d506890c1a01e66a7af7b9d1"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_mfg_qualification_backend.py",
+      "target": "src/mfg_hedge/token_mfg_qualification_backend.py",
+      "sha256": "0e2d627cca37921b2b54993800f2f2a29044501d3175b39e955a282647ad1697"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_mfg_qualification_campaign.py",
+      "target": "src/mfg_hedge/token_mfg_qualification_campaign.py",
+      "sha256": "ae244c23f2d746db96bc9dafe96bf6a6193019ed3ca4a42a68002412f3b6fe01"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_mfg_qualification_state_machine.py",
+      "target": "src/mfg_hedge/token_mfg_qualification_state_machine.py",
+      "sha256": "29b8b6f1179c7792f14f381ffef5fd249cfd79ccae46be95b664f2c1c6bef2fe"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_mfg_response_solver.py",
+      "target": "src/mfg_hedge/token_mfg_response_solver.py",
+      "sha256": "f0d2fd06929f95d7ce29bf3b0be4aa64b2f3a0cd12070a4065dcd945dcf787d9"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_mfg_soft_fixed_point.py",
+      "target": "src/mfg_hedge/token_mfg_soft_fixed_point.py",
+      "sha256": "9cbd043e5ab635b506e3bb2b1e5c6d05ed4b79f6723825564c95ea0831ccb1c8"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_mfg_streaming.py",
+      "target": "src/mfg_hedge/token_mfg_streaming.py",
+      "sha256": "5e05de29ab112d6753041ea3dfe444fdf2d2710d2009c5f258fdd0c667da2631"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_mfg_streaming_formal.py",
+      "target": "src/mfg_hedge/token_mfg_streaming_formal.py",
+      "sha256": "19c6f576a55b41e3af0f99e284ee63902708231e5b2f0acee5fedaa4e1fc8cc7"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_mfg_t4c_supported_soft_response.py",
+      "target": "src/mfg_hedge/token_mfg_t4c_supported_soft_response.py",
+      "sha256": "d692df5fbafa035155f317ba81f0a26e926f4e14eec429735ccc223edd4b8d14"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_online.py",
+      "target": "src/mfg_hedge/token_online.py",
+      "sha256": "e923062ea338cd2c8afcd2e059159d98526797bbcd5712c3eed269f07f5e140f"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_payoff.py",
+      "target": "src/mfg_hedge/token_payoff.py",
+      "sha256": "d46a9649eff999fb569e4d1b95f41245c040e382dd94fccb4128881a1f6c2b4c"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_population_ab.py",
+      "target": "src/mfg_hedge/token_population_ab.py",
+      "sha256": "66fdf09aebd709c02ee90b30d681e4505eb2b83a3ef4ec210355d90881fd8abe"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_population_response.py",
+      "target": "src/mfg_hedge/token_population_response.py",
+      "sha256": "b7e2eeeecdb0fe1c122f6deeb8214b2de33f6a34ba15b923f4567b681334a0f9"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_price_feedback.py",
+      "target": "src/mfg_hedge/token_price_feedback.py",
+      "sha256": "3ee49051b020c67f7a7f4a6a264c88d0d12dc28f8b3829a451e911a6024f21bd"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_refined_grid.py",
+      "target": "src/mfg_hedge/token_refined_grid.py",
+      "sha256": "039654441fcf5f8a0504924117c1dddb084aa6256a9944633d06881465cda6a8"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_requested_price_grid.py",
+      "target": "src/mfg_hedge/token_requested_price_grid.py",
+      "sha256": "f14bda359a4075adba78b83f3919fc714ff77d5b83d4e722ca2cd07e3e999fb4"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_t3a_execution.py",
+      "target": "src/mfg_hedge/token_t3a_execution.py",
+      "sha256": "4883f09a3cc2d96476cab0492196ffbe8357d1ba3f3b5c931c29331360e05860"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_t3b_execution.py",
+      "target": "src/mfg_hedge/token_t3b_execution.py",
+      "sha256": "154f30fba847b1d92277c45a54775bbdbe101ed781761c1cb2fe47e6d04b0f2a"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/token_three_arm_evaluation.py",
+      "target": "src/mfg_hedge/token_three_arm_evaluation.py",
+      "sha256": "5e311a86104f2a72d5934c6470a2a85a4733801548e948305e3e126b749a7e6a"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/topology.py",
+      "target": "src/mfg_hedge/topology.py",
+      "sha256": "3bf6c37c6e114118a5aa1b686c4cd32852d2d60f87fcbdcf794f518221f55917"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/transient_control.py",
+      "target": "src/mfg_hedge/transient_control.py",
+      "sha256": "3f38efb8ff0a768f7c3df2d7652037afb0da96a4348656dd4f68e72e3a13066f"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/transient_objective.py",
+      "target": "src/mfg_hedge/transient_objective.py",
+      "sha256": "1a34a2e21e3fd283b169d9a5ec3108f4a5f91fe7cc8ad6b86607f487e2870a0b"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/transient_search.py",
+      "target": "src/mfg_hedge/transient_search.py",
+      "sha256": "e2a68090b8d2a081d55847c05ed086e5b13c08a09674e091f6309a3ef3a77ce7"
+    },
+    {
+      "source": "mfg_hedge_v1/src/mfg_hedge/workload.py",
+      "target": "src/mfg_hedge/workload.py",
+      "sha256": "2e1eeec16af75cfde49a6d810fea10a75ffd0dd8799e5fea98ac4e71e8e5d2d3"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_artifacts.py",
+      "target": "tests/test_artifacts.py",
+      "sha256": "cf88ed67cf0bfd07e5a3910ec99d0dd50c438174d1620ee094fa199091e3fb12"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_attribution_episode.py",
+      "target": "tests/test_attribution_episode.py",
+      "sha256": "571cb100ba6fca5290101ccbac4826d5a2fb3ce569077fe5269837f23379341e"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_attribution_metrics.py",
+      "target": "tests/test_attribution_metrics.py",
+      "sha256": "71490877ce95372708b38a353453fe24c497d7bc1c13d256a8c68ad7225bc4dd"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_baseline_adapters.py",
+      "target": "tests/test_baseline_adapters.py",
+      "sha256": "e327a27eb183f07f2e87febaf0541513d1f4020673fe0edb83a17fc7d24735cf"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_budgeted_laedge.py",
+      "target": "tests/test_budgeted_laedge.py",
+      "sha256": "f10c912347098d76cb7e97d71cf485e9a6c2f3a8fa9b9ad568994e0baba2ddf6"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_budgeted_laedge_campaign.py",
+      "target": "tests/test_budgeted_laedge_campaign.py",
+      "sha256": "6c2995601abfddc9216587f36fe3f0ad7f7eabb2756861d0b9cdcfb1e884c86c"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_budgeted_laedge_campaign_v2.py",
+      "target": "tests/test_budgeted_laedge_campaign_v2.py",
+      "sha256": "0dcaaace158f5f45c06efde3207dc9bc32d43f3ee3e1d25424fbecac7a2214c7"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_budgeted_laedge_holdout.py",
+      "target": "tests/test_budgeted_laedge_holdout.py",
+      "sha256": "ca70b8746514847cf85817ccbd9778d3d0fce24050ac77ba3af8db0748be2efd"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_calibration.py",
+      "target": "tests/test_calibration.py",
+      "sha256": "fd7786ade26518b4bb12e9cae37541f3958482d53585dd599b61acd72c63120c"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_campaign.py",
+      "target": "tests/test_campaign.py",
+      "sha256": "0e16e1bd0e5191132289991231db1b662f82bbf03bdb2ff5b17f6faa11d0206d"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_campaign_cli.py",
+      "target": "tests/test_campaign_cli.py",
+      "sha256": "0f50b397932425c18d2105442d06158a3968111b6441c2b91df9dba5a8581f36"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_campaign_execution.py",
+      "target": "tests/test_campaign_execution.py",
+      "sha256": "c614c1e22e540a2ee85df3895796272a6a93f0e1cf62888460d73a7e27582dca"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_cli.py",
+      "target": "tests/test_cli.py",
+      "sha256": "80896ef9e283c56651c234f513d925fa8711db2477547fe0f9c95a234da1f793"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_common_state.py",
+      "target": "tests/test_common_state.py",
+      "sha256": "34e43e36380def87e077738c1777e4716b3ea2bff791e88e1a06b419dd1d98e4"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_common_state_cli.py",
+      "target": "tests/test_common_state_cli.py",
+      "sha256": "3080a724971d98eeb419b30d470bb240d0683cbe2ab03cf9a969312592f7481c"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_common_state_config.py",
+      "target": "tests/test_common_state_config.py",
+      "sha256": "b248514524aa97d1149df6ae8bd95d9da5482f422a48db47c13742c53ff02a1a"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_common_state_metrics.py",
+      "target": "tests/test_common_state_metrics.py",
+      "sha256": "49412da5e92f515f87de8440bf54c90599d3e242bfc24e4633df23ccd6f997fb"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_common_state_simulation.py",
+      "target": "tests/test_common_state_simulation.py",
+      "sha256": "19241cadcce8b3effd59453960a155b41db9c2e5bc7e3cc85869d6ff5610ef2d"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_config.py",
+      "target": "tests/test_config.py",
+      "sha256": "12230afc3c22cf044aadca4cea9771b291f66f943191c8953d69243594e028ae"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_domain.py",
+      "target": "tests/test_domain.py",
+      "sha256": "3cffd98a5dd4c909e410fd4b1631def92f20ee5569c365f84f9f097f8eba4f45"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_engine_equivalence.py",
+      "target": "tests/test_engine_equivalence.py",
+      "sha256": "bbd7924935e239875a93ad19d70ca17bb4f3846b3da0565a78d2217b87567c87"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_expert_game.py",
+      "target": "tests/test_expert_game.py",
+      "sha256": "488f1c7209aa2657572cdd7a70f099f70aca17a833144818301222138578d7ec"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_game_deviations.py",
+      "target": "tests/test_game_deviations.py",
+      "sha256": "7bfa6becb9608d079e0569db521d426b6058c1134f62d280260333d75ba00ceb"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_game_solver.py",
+      "target": "tests/test_game_solver.py",
+      "sha256": "a1ced740f0191eae698e430542a165a67f8e9e3bdab8d3749b0048848b28ee52"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_game_workload.py",
+      "target": "tests/test_game_workload.py",
+      "sha256": "c392550ceae110443cec4bc3bab59f50c53cb01814fe511827c4762d0102fc52"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_hedge_simulation.py",
+      "target": "tests/test_hedge_simulation.py",
+      "sha256": "483e00906ce8f8bb81d627abb37f1daa12d8ec812fe5b118c659d2882acdc062"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_k_scale_action_crn_correction.py",
+      "target": "tests/test_k_scale_action_crn_correction.py",
+      "sha256": "043faca29dd5d9fe541630e9ec2106423671f3299ed24bee82488ebb63ccea2e"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_metrics.py",
+      "target": "tests/test_metrics.py",
+      "sha256": "629ca73df596c3aad5641a6ea79a488e4af2984f34cb43868b5e77e478636bd1"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_mfg_readiness_fixes.py",
+      "target": "tests/test_mfg_readiness_fixes.py",
+      "sha256": "a79ef7c5a3b2f1f472cbbc2f89d8239985770fa76c269942e979dd5f4433e3a5"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_mfg_solver.py",
+      "target": "tests/test_mfg_solver.py",
+      "sha256": "07ccdc6947ebab681dba5d7ce0f59b67cd36355723f4f62d6d7e76b0659eb22f"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_paired_cli.py",
+      "target": "tests/test_paired_cli.py",
+      "sha256": "3125fd34557be9c8eb5b4f6261b1e9cc0440a125d4f73fbf3ddf2fc63841a9ab"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_paired_config.py",
+      "target": "tests/test_paired_config.py",
+      "sha256": "090b0ca64dbb519b771d41b5bf5207bb68a483e01c590d5b23fd63f8bbb13802"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_paired_metrics.py",
+      "target": "tests/test_paired_metrics.py",
+      "sha256": "68b2d97a843e4799a184122e128a95058112036d4b273dce770d731d30d4a9a2"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_population_estimator.py",
+      "target": "tests/test_population_estimator.py",
+      "sha256": "46df375dbb3d1a8ffa4150b39e12c01cc69c769e7a2491d33729acd14a2f9404"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_precision_pilot.py",
+      "target": "tests/test_precision_pilot.py",
+      "sha256": "e38bdfbb10ac6c6d27a9062f36c4de1c9116b3e7cdaa9a3bf8ef9b6abe82550a"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_protection_baseline_experiment.py",
+      "target": "tests/test_protection_baseline_experiment.py",
+      "sha256": "38b27df1a07705dbbe69a46ba62acc5a22fb7344dc0ec891af532b07757c2dce"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_protection_cancellation_ablation.py",
+      "target": "tests/test_protection_cancellation_ablation.py",
+      "sha256": "9c0f62a15e80c73d07dc4ea1dabb377d4a3d2b1102f5758b83569a7cfc74ae9c"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_protection_cancellation_experiment.py",
+      "target": "tests/test_protection_cancellation_experiment.py",
+      "sha256": "de3922d965ab43f266ae5c1cc94403787b06a64d33082aed3781cb04a186484f"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_quota.py",
+      "target": "tests/test_quota.py",
+      "sha256": "42d64958b2d59d48587516acf547c58dc43a814ce562e07c012c1a1d71f320d8"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_reliability_aware_routing.py",
+      "target": "tests/test_reliability_aware_routing.py",
+      "sha256": "b644aae4e966b6c55130f4dff990743a7bf1f499321d53845ed4919eed5228db"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_reliability_aware_routing_experiment.py",
+      "target": "tests/test_reliability_aware_routing_experiment.py",
+      "sha256": "50c6306f4dcdd5784c8fcb18b4756df19cc9f6e148bd26d08b6253e4f088846d"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_reliability_aware_routing_lazarus.py",
+      "target": "tests/test_reliability_aware_routing_lazarus.py",
+      "sha256": "fdf643ae6120869a7b90572cb33b7edcafaec180fe5798ab681ae38966698337"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_replica_routing_baselines.py",
+      "target": "tests/test_replica_routing_baselines.py",
+      "sha256": "e65b6c4badce230cea2a7e8f38a2425e1c6429f4b2935f3d3e7d655bcd416268"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_scaled_experiment.py",
+      "target": "tests/test_scaled_experiment.py",
+      "sha256": "7a820f803cfbb769aa702abb4ce93b8b50484380c41f8c6643db047fadd3b974"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_selective_hedging.py",
+      "target": "tests/test_selective_hedging.py",
+      "sha256": "01dcb6fe27892b17bfbff21139a92e2797f9936232a226561ffb525e9f2fb368"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_selective_hedging_experiment.py",
+      "target": "tests/test_selective_hedging_experiment.py",
+      "sha256": "db5ab024cc3d0292392a2409d867edf806e47d26ba024818e16a4ba68c3a978b"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_shared_backup.py",
+      "target": "tests/test_shared_backup.py",
+      "sha256": "67757794a678c76ca8b667d145f8045d893f77270dbbf384059f3fbfbadc21a5"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_shared_backup_performance.py",
+      "target": "tests/test_shared_backup_performance.py",
+      "sha256": "6fe81c01f9430c6c1440b24e605b9e85d7abe3cc49646ebeb069ea2f3f6491b7"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_simulation.py",
+      "target": "tests/test_simulation.py",
+      "sha256": "f9a3e215b90ef9de88b98251855370b51c7b723d5b34653c7d1548e5a39946d3"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_simultaneous_token_routing.py",
+      "target": "tests/test_simultaneous_token_routing.py",
+      "sha256": "2f5347f8872e2c8583cf5acb739d7500d54356efaac4d828bfde943a1c51429f"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_stage4_campaign.py",
+      "target": "tests/test_stage4_campaign.py",
+      "sha256": "acd804ca3d9ef282918f0167f3d0c2fe664950b9e864e01c16dbb1e3c506c81a"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_stress.py",
+      "target": "tests/test_stress.py",
+      "sha256": "aef69d46ed9cf48ffbc0f0a80bdec8934b9da57fead739454ae423defd5740df"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_best_response.py",
+      "target": "tests/test_token_best_response.py",
+      "sha256": "3afa60b2482694d96e89133bac21643e58399a8e6631bf4de088a535ade18a1c"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_continuation.py",
+      "target": "tests/test_token_continuation.py",
+      "sha256": "275a4b70f1ac10a6e651d278e395d02068fbaa4aa6e7331ca9e10d18d3dea00a"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_deviations.py",
+      "target": "tests/test_token_deviations.py",
+      "sha256": "e7e5dd3c18f20d224963ab45225f650ac0092a69e10597f5a982fe5276a9408f"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_mfg_fixed_point.py",
+      "target": "tests/test_token_mfg_fixed_point.py",
+      "sha256": "f3c7f4708fabe4864ea5bba19dee56d6a5925433e89d41245cfb58d6a281e751"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_mfg_qualification_backend.py",
+      "target": "tests/test_token_mfg_qualification_backend.py",
+      "sha256": "b12370d31ee1ffcfa525f96a9267ccd21c32d06c9a6494d5e858416da3c7ade7"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_mfg_qualification_campaign.py",
+      "target": "tests/test_token_mfg_qualification_campaign.py",
+      "sha256": "ed4b3d9ad096732d2f798602f0486cbbe1e7391352482a60fee44547bf50f378"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_mfg_qualification_r2_correction.py",
+      "target": "tests/test_token_mfg_qualification_r2_correction.py",
+      "sha256": "b8bc732912f0ed336a045dae6214e30437a681ac9587bef79886a8ca6d3208e4"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_mfg_qualification_readiness.py",
+      "target": "tests/test_token_mfg_qualification_readiness.py",
+      "sha256": "eee8e41d7447975def5c909ff26810f1d9afeb5c7cad2f75acdabb2db9a2e61a"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_mfg_qualification_safety.py",
+      "target": "tests/test_token_mfg_qualification_safety.py",
+      "sha256": "fbfccd95f1ea8653f0c22e7a5095575679824941285fae3fd7b841c04669fe90"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_mfg_qualification_state_machine.py",
+      "target": "tests/test_token_mfg_qualification_state_machine.py",
+      "sha256": "cfe64e0b876c312039980c52b008fc26bc124069868b1ce22560ca846960df10"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_mfg_qualification_streaming.py",
+      "target": "tests/test_token_mfg_qualification_streaming.py",
+      "sha256": "086aed8a952074874bc318acb8e5b03bdd1722c93a4067f443f9c69e6682d846"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_mfg_response_solver.py",
+      "target": "tests/test_token_mfg_response_solver.py",
+      "sha256": "120446b747b93f970c241b02943a598ddfaee6b60476bf0315f80d41c20312ef"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_mfg_soft_fixed_point.py",
+      "target": "tests/test_token_mfg_soft_fixed_point.py",
+      "sha256": "64efcb52a941cc029dac2354e0bc735588c4d2f35a62956e499ed36a7d3af115"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_mfg_streaming_formal.py",
+      "target": "tests/test_token_mfg_streaming_formal.py",
+      "sha256": "8880d214572da7bbf48a38de9df40fe4a8e99f89ecc39ce32db72cd6648f146d"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_mfg_t4c_supported_soft_response.py",
+      "target": "tests/test_token_mfg_t4c_supported_soft_response.py",
+      "sha256": "b305cc7534f42798e31d87c60998a6e5e7d24d6e513a3666a81a85f272d8744f"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_online.py",
+      "target": "tests/test_token_online.py",
+      "sha256": "58da5d8ee099144a84803b893d93278c6814a6380e138b3e504cfb0173f08690"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_payoff.py",
+      "target": "tests/test_token_payoff.py",
+      "sha256": "ec22b7a56700d35c032d9c29e175a5e5224335db213b09f0ce2d8917f249bf0c"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_population_ab.py",
+      "target": "tests/test_token_population_ab.py",
+      "sha256": "a3fa3654a7e1f86b6a0dbc11dc965a9a73d481de9fb435b2a80cd88ce776e4c7"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_population_response.py",
+      "target": "tests/test_token_population_response.py",
+      "sha256": "90b30d911671f317ebb8bc3dd5c9ee18ada58fbde945aa2b72ccbf8a42f581e8"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_price_feedback.py",
+      "target": "tests/test_token_price_feedback.py",
+      "sha256": "921b6d6c469927a292cd23639acd6e684b23c1992db90589c3f69ea70bbf0a15"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_refined_grid.py",
+      "target": "tests/test_token_refined_grid.py",
+      "sha256": "0270077e9e34044d4924c7d3997682f823c848a4adaaea7cea00027407c0ff2e"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_requested_price_grid.py",
+      "target": "tests/test_token_requested_price_grid.py",
+      "sha256": "31d050cfa1e89a901a7f070845e2bc0fc71ccef8532bcafb3eff5962ea47d898"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_t3a_execution.py",
+      "target": "tests/test_token_t3a_execution.py",
+      "sha256": "bf295c4c8508604f755ae3cb2ba13245e37a434b584eb09354c4ba5b7f984bfd"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_t3b_execution.py",
+      "target": "tests/test_token_t3b_execution.py",
+      "sha256": "2e005babe741f9f3bb17643ad4c0f85cf7c3eb2460ae4061a1b51a3d0a6fb06e"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_token_three_arm_evaluation.py",
+      "target": "tests/test_token_three_arm_evaluation.py",
+      "sha256": "e09f4b9a07ccde598535d64214911f509b7f08a10278c9cf99e01ec0415b3e93"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_transient_control.py",
+      "target": "tests/test_transient_control.py",
+      "sha256": "af43c90ce4068668b1ef5cc8225446009754cb761b4751940babcb3633256184"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_transient_physics.py",
+      "target": "tests/test_transient_physics.py",
+      "sha256": "2398ffbcb9e03a2d17aaa30fa1287268ae42ebd246a1acfb713c55a2358aca63"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_transient_search.py",
+      "target": "tests/test_transient_search.py",
+      "sha256": "58ffae316524a99097d1df545cdff6413205939df022a9684ca80584fe28521a"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/test_workload.py",
+      "target": "tests/test_workload.py",
+      "sha256": "3cb85e8c1ec09b34479929ced58c6f111b803bdebafda0bc2ba33dc2fdb60073"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/token_t2_support.py",
+      "target": "tests/token_t2_support.py",
+      "sha256": "de79490bedb7e28adbfc6570308a4e795575525c2ba4cb2b9f5b98626fe86ae2"
+    },
+    {
+      "source": "mfg_hedge_v1/tests/transient_physics_support.py",
+      "target": "tests/transient_physics_support.py",
+      "sha256": "dfda1fade5d03ae14cd1131d682f89732182ca152f0d9e780f479f79da5f1cf9"
+    }
+  ]
+}

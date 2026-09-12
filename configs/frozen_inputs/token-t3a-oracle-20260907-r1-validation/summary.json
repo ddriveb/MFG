@@ -1,0 +1,19 @@
+{
+  "attempted_calls": 8660,
+  "claims_best_response": false,
+  "claims_mfg": false,
+  "claims_nash": false,
+  "claims_regret": false,
+  "completed_estimate_rows": 81,
+  "episode_count": 1928,
+  "estimate_row_count": 81,
+  "evidence_label": "observable_bin_conditional_cost_oracle",
+  "insufficient_estimate_rows": 0,
+  "occupancy_fingerprint": "439d7c5dfdefc14120fc4fd2ed780e65a753150e56f99b1a24f04621a05f5ef9",
+  "retained_bin_count": 9,
+  "status": "completed",
+  "status_counts": {
+    "completed": 1683,
+    "missing_target": 245
+  }
+}

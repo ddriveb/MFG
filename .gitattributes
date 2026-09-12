@@ -1,0 +1,3 @@
+# Preserve imported bytes across Windows/Linux: frozen inputs and source-bundle
+# fingerprints must not change simply because Git converted CRLF/LF on clone.
+* -text

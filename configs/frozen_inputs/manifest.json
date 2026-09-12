@@ -1,0 +1,40 @@
+{
+  "purpose": "Frozen inputs required by existing loaders and regression tests, not new evidence or resume state.",
+  "files": [
+    {
+      "path": "token-t3a-oracle-20260907-r1-validation/manifest.json",
+      "sha256": "e3232a001d0c018907a7b41d2dec591ec579f372c0d15cb97062d727560d69ff",
+      "bytes": 7045
+    },
+    {
+      "path": "token-t3a-oracle-20260907-r1-validation/summary.json",
+      "sha256": "4a5d2f2afdeffad3b7160f2b09859ac58ada7b5c05204b636df1a5cb8a3299ea",
+      "bytes": 560
+    },
+    {
+      "path": "token-t3a-oracle-20260907-r1-validation/estimates.json",
+      "sha256": "0226319c056614b95b7fb547546e20ed6ee356352e00372a4ab9e45ab47ec54a",
+      "bytes": 40122
+    },
+    {
+      "path": "token-t3a-oracle-20260907-r1-validation/episodes.json",
+      "sha256": "61d19dbf25c901477904cc82907b9fbd8e95238cf5d83f170730f060bedf8d90",
+      "bytes": 885139
+    },
+    {
+      "path": "token-t3a-oracle-20260907-r1-occupancy/manifest.json",
+      "sha256": "3300abfd31be00db65e3af6a823e603a0cd7d1d2834aad1d23364124e3a9ef06",
+      "bytes": 6881
+    },
+    {
+      "path": "token-t3a-oracle-20260907-r1-occupancy/occupancy.json",
+      "sha256": "15a566d3dc26d18ff6caf5b739538c25daa640106e92492ae4c85e9b1c424a8d",
+      "bytes": 224730
+    },
+    {
+      "path": "token-refined-fixed-grid-20260908-r1/summary.json",
+      "sha256": "17ae34c45497725ac951d85c7f5be4f8e1ac0043e277de8b0ba1e149eee013c6",
+      "bytes": 1413788
+    }
+  ]
+}

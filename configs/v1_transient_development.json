@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "experiment_name": "single_expert_transient_control_development",
+  "expert_count": 1,
+  "replicas_per_expert": 2,
+  "failure_domain_count": 2,
+  "regular_token_ratio": 0.8,
+  "urgent_token_ratio": 0.2,
+  "healthy_service_mean": 1.0,
+  "service_time_cv": 0.5,
+  "degraded_slowdown": 2.0,
+  "hedge_delay_quantile": 0.9,
+  "target_max_utilization": 0.9,
+  "healthy_offered_load": 0.45,
+  "softmax_inverse_temperature": 5.0,
+  "policy_damping": 0.2,
+  "price_step": 0.05,
+  "price_damping": 0.2,
+  "tokens_per_run": 100000,
+  "base_seed": 20260901,
+  "seed_count": 20,
+  "smoke_tokens": 1000
+}

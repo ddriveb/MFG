@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=65"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mfg-hedge"
+version = "0.28.0"
+description = "A reproducible simulation foundation for common-state-conditioned token hedging."
+readme = "README.md"
+requires-python = ">=3.10,<3.11"
+dependencies = []
+
+[project.scripts]
+mfg-hedge = "mfg_hedge.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

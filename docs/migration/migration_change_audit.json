@@ -1,0 +1,13 @@
+{
+  "original_source_changes": [],
+  "unchanged_import_count": 379,
+  "migration_edited_files": [
+    ".gitignore",
+    "README.md",
+    "scripts/bootstrap.ps1",
+    "src/mfg_hedge/simultaneous_token_routing.py"
+  ],
+  "imported_python_ast_changes": [],
+  "allowed_execution_only_ast_changes": [],
+  "status": "PASS"
+}
