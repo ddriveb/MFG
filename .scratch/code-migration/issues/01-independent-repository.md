@@ -1,7 +1,7 @@
 # Independent repository, annotations and verification
 
 Type: maintenance
-Status: claimed
+Status: resolved
 Blocked by: none
 
 ## Acceptance criteria
@@ -66,3 +66,30 @@ No qualification or holdout run is started by migration tooling.
 
 #### Next
 Add bootstrap, documentation and annotations, then verify.
+
+### Update: 2026-09-12 — Published
+
+Status: completed
+
+#### Goal
+Publish the verified independent code migration.
+
+#### Changed
+Published implementation commit `efd2689` to `ddriveb/MFG` branch `main`.
+
+#### Verification
+Git push returned success with a new remote main branch. The pre-publication
+transport audit verified 401 tracked files, all seven frozen-input hashes, and
+byte equality between staged and tested scientific Python/configuration files.
+Full tests and config checks are recorded in the preceding verification update.
+
+#### Artifacts
+`docs/NEW_COMPUTER.md`, `docs/CODE_MAP_ZH.md`, `docs/migration/VALIDATION.md`.
+
+#### Decisions and risks
+Only code, controlled runtime inputs and research documentation were published.
+Large experiment artifacts and r2 continuation state remain in the separate old
+machine backup. The user's new computer still needs its own bootstrap run.
+
+#### Next
+None for code publication; run bootstrap on the new computer for host acceptance.
