@@ -1,0 +1,10 @@
+{
+  "elapsed_s": 318.197199178976,
+  "checkpoint_sha256": "ae746adada19a87fd1b63e47e55e3fc81c654f74db7072df7d8b514b5be1e271",
+  "allocation_frozen_during_price": true,
+  "holdouts_unopened": true,
+  "source_hashes_unchanged": true,
+  "device": "NVIDIA GeForce RTX 5090 D v2",
+  "allocation_parameters": 2658,
+  "price_parameters": 5953
+}

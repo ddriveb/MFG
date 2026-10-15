@@ -1,0 +1,86 @@
+{
+  "granite": {
+    "manifest": "external/granite_model_manifest.json",
+    "checkpoint": "ibm-granite/granite-3.0-1b-a400m-instruct",
+    "revision": "ffec3c35bdfd97a06f0b4cd5fcc92cd9b1584445",
+    "model_directory_flag": "--model-dir",
+    "weights_included": false
+  },
+  "ns3_matrix_replay": {
+    "source": "external/ns3/MfgMatrixReplay.cc",
+    "upstream": "ns-3-alibabacloud commit/archive source retained under original .scratch path",
+    "build": "In the pinned upstream simulation checkout, register/replace scratch/MfgMatrixReplay.cc with this source, then run ./ns3 build scratch_MfgMatrixReplay.",
+    "run": "./ns3 run \"scratch_MfgMatrixReplay TOPOLOGY CONFIG REPLAY OUTPUT_PREFIX\"",
+    "binary_included": false,
+    "toolchain_included": false
+  },
+  "taot_official_sinkhorn_source": {
+    "source_manifest": "external/taot/official_source_manifest.json",
+    "adapter_source": "external/taot/vendor/megatron/core/transformer/moe/offloading_planner.py",
+    "source_license_and_provenance": "See external/THIRD_PARTY_NOTICES.md and official_source_manifest.json.",
+    "runtime_use": "Optional external TAOT comparison only; the frozen V2 Sinkhorn operator runs without importing this vendor source."
+  },
+  "physical_g4_fused_ports": {
+    "source_archive": "evidence/artifacts/g4-v100-timing100-20261014-a/optimized-final-1791914591.tar.gz",
+    "source_files": [
+      "external/physical_g4/optimized130/allocation130_port.py",
+      "external/physical_g4/optimized130/optimized130_port.py",
+      "external/physical_g4/optimized130/sinkhorn130_port.py",
+      "external/physical_g4/optimized130/lazarus130_port.py"
+    ],
+    "runner_and_qualification": "external/physical_g4/optimized130/",
+    "historical_qualification": {
+      "passed": true,
+      "cases": 1694,
+      "quota_comparisons": 5082,
+      "strict_fullmodel_numerics_passed": false,
+      "source": "qualification.json"
+    },
+    "runner_requirements": [
+      "four visible CUDA devices",
+      "PyTorch",
+      "Triton",
+      "Granite model directory",
+      "compiled native schedule library"
+    ],
+    "warning": "The bundled historical timing runner contains its original deadline and source-workspace paths; it is provenance, not the portable V2 runner. Use tools/physical_g4_qualify.py --mode zero-template for the portable CPU structural check. No new four-rank physical run is claimed."
+  },
+  "physical_g4_fresh_runner": {
+    "entrypoint": "tools/run_physical_g4.py",
+    "config": "configs/g4-optimized-paired.json",
+    "arguments": [
+      "--config",
+      "--output",
+      "--model-dir",
+      "--schedule-library",
+      "--deadline"
+    ],
+    "supported_rounds": [
+      4
+    ],
+    "default_profile": {
+      "warmup_groups": 2,
+      "measured_groups": 150
+    },
+    "default_deadline": "none; optional caller-supplied future timezone-aware ISO-8601 deadline",
+    "protocol_environment": {
+      "CUBLAS_WORKSPACE_CONFIG": ":4096:8",
+      "HF_HUB_OFFLINE": "1",
+      "HF_DATASETS_OFFLINE": "1",
+      "TRANSFORMERS_OFFLINE": "1"
+    },
+    "external_asset_preflight": "Before importing Torch, require every model-manifest file at its pinned byte size and a local compiled schedule library; missing assets fail without network access.",
+    "selftest": "python -I tools/run_physical_g4.py --selftest (CPU-only source/hook checks)",
+    "runtime": [
+      "torchrun with four ranks",
+      "four CUDA GPUs",
+      "PyTorch",
+      "Triton",
+      "caller-provided Granite model directory",
+      "caller-provided compiled native schedule library"
+    ],
+    "strict_fullmodel_numerics_passed": false,
+    "fresh_four_rank_execution_claimed": false
+  },
+  "offline_policy": "V2 never downloads or installs dependencies implicitly; optional external executions use only caller-supplied local assets."
+}

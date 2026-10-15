@@ -1,0 +1,55 @@
+{
+  "states": [
+    {
+      "sample": 19,
+      "layer": 14,
+      "group_quantile": 0.1,
+      "layer_quantile": 0.25
+    },
+    {
+      "sample": 19,
+      "layer": 12,
+      "group_quantile": 0.1,
+      "layer_quantile": 0.75
+    },
+    {
+      "sample": 124,
+      "layer": 11,
+      "group_quantile": 0.4,
+      "layer_quantile": 0.25
+    },
+    {
+      "sample": 124,
+      "layer": 3,
+      "group_quantile": 0.4,
+      "layer_quantile": 0.75
+    },
+    {
+      "sample": 126,
+      "layer": 14,
+      "group_quantile": 0.7,
+      "layer_quantile": 0.25
+    },
+    {
+      "sample": 126,
+      "layer": 3,
+      "group_quantile": 0.7,
+      "layer_quantile": 0.75
+    },
+    {
+      "sample": 53,
+      "layer": 11,
+      "group_quantile": 0.9,
+      "layer_quantile": 0.25
+    },
+    {
+      "sample": 53,
+      "layer": 3,
+      "group_quantile": 0.9,
+      "layer_quantile": 0.75
+    }
+  ],
+  "max_iterations": 100000,
+  "absolute_gap_ms": 0.001,
+  "relative_gap": 0
+}

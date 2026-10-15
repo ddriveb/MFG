@@ -1,0 +1,7 @@
+forward_dispatch 0 1623743 502427648
+expert_forward 1623743 4266569 0
+forward_combine 4266569 5069753 502427648
+backward_combine_grad 5069753 6661304 502427648
+expert_backward 6661304 9027866 0
+backward_dispatch_grad 9027866 9831050 502427648
+total_ns 9831050

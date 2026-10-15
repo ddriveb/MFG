@@ -1,0 +1,20 @@
+{
+  "gnn4": {
+    "integer_F_mean_ms": 6.936626182471194,
+    "common_integer_gap_mean_ms": 0.8028458055702601,
+    "gap_le_0_5": 0,
+    "objective_gnn_wins": null
+  },
+  "sinkhorn_fixed": {
+    "integer_F_mean_ms": 9.125389678518214,
+    "common_integer_gap_mean_ms": 2.9916093016172813,
+    "gap_le_0_5": 0,
+    "objective_gnn_wins": 150
+  },
+  "lazarus_inspired": {
+    "integer_F_mean_ms": 9.171413669700433,
+    "common_integer_gap_mean_ms": 3.037633292799499,
+    "gap_le_0_5": 0,
+    "objective_gnn_wins": 150
+  }
+}

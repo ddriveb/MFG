@@ -1,0 +1,519 @@
+{
+  "records": [
+    {
+      "seed": 1182009,
+      "family": "balanced",
+      "quantile": 0.1,
+      "integer_gap": 0.5730724504770075,
+      "plan_file": "plans/g64-1182009-gnn4.json",
+      "reference_status": "converged",
+      "iterations": 10300,
+      "reference_upper": 6.079351436642861,
+      "reference_lower": 6.07857052024533,
+      "reference_gap": 0.000780916397530973,
+      "integer_predicted": 6.260374654789862,
+      "continuous_predicted": 6.260221824947794,
+      "learned_lower": 5.6873022043128545,
+      "integer_allocation_minus_reference": 0.18102321814700062,
+      "continuous_allocation_minus_reference": 0.18087038830493274,
+      "reference_minus_learned_lower": 0.3920492323300069,
+      "learned_lower_slack_interval": [
+        0.3912683159324759,
+        0.3920492323300069
+      ],
+      "integer_suboptimality_interval": [
+        0.18102321814700062,
+        0.1818041345445316
+      ],
+      "continuous_suboptimality_interval": [
+        0.18087038830493274,
+        0.1816513047024637
+      ],
+      "reference_solver_ms": 2159.5294,
+      "certificate_replayed": true
+    },
+    {
+      "seed": 1182045,
+      "family": "balanced",
+      "quantile": 0.4,
+      "integer_gap": 0.6898554213281836,
+      "plan_file": "plans/g64-1182045-gnn4.json",
+      "reference_status": "converged",
+      "iterations": 6350,
+      "reference_upper": 6.275350283667307,
+      "reference_lower": 6.27438352734192,
+      "reference_gap": 0.0009667563253872302,
+      "integer_predicted": 6.431110453671834,
+      "continuous_predicted": 6.430313524285776,
+      "learned_lower": 5.74125503234365,
+      "integer_allocation_minus_reference": 0.1557601700045268,
+      "continuous_allocation_minus_reference": 0.15496324061846867,
+      "reference_minus_learned_lower": 0.5340952513236568,
+      "learned_lower_slack_interval": [
+        0.5331284949982695,
+        0.5340952513236568
+      ],
+      "integer_suboptimality_interval": [
+        0.1557601700045268,
+        0.15672692632991403
+      ],
+      "continuous_suboptimality_interval": [
+        0.15496324061846867,
+        0.1559299969438559
+      ],
+      "reference_solver_ms": 1317.1975,
+      "certificate_replayed": true
+    },
+    {
+      "seed": 1182089,
+      "family": "balanced",
+      "quantile": 0.7,
+      "integer_gap": 0.7790654247457285,
+      "plan_file": "plans/g64-1182089-gnn4.json",
+      "reference_status": "converged",
+      "iterations": 3200,
+      "reference_upper": 6.230551089821872,
+      "reference_lower": 6.229559497712268,
+      "reference_gap": 0.0009915921096039781,
+      "integer_predicted": 6.425756433114447,
+      "continuous_predicted": 6.4262146126502655,
+      "learned_lower": 5.646691008368719,
+      "integer_allocation_minus_reference": 0.19520534329257533,
+      "continuous_allocation_minus_reference": 0.1956635228283936,
+      "reference_minus_learned_lower": 0.5838600814531532,
+      "learned_lower_slack_interval": [
+        0.5828684893435492,
+        0.5838600814531532
+      ],
+      "integer_suboptimality_interval": [
+        0.19520534329257533,
+        0.1961969354021793
+      ],
+      "continuous_suboptimality_interval": [
+        0.1956635228283936,
+        0.1966551149379976
+      ],
+      "reference_solver_ms": 670.6195,
+      "certificate_replayed": true
+    },
+    {
+      "seed": 1182081,
+      "family": "balanced",
+      "quantile": 0.9,
+      "integer_gap": 0.9233897880783744,
+      "plan_file": "plans/g64-1182081-gnn4.json",
+      "reference_status": "converged",
+      "iterations": 9700,
+      "reference_upper": 6.925982342274749,
+      "reference_lower": 6.925005250059656,
+      "reference_gap": 0.0009770922150931227,
+      "integer_predicted": 7.209849962611987,
+      "continuous_predicted": 7.210832689045229,
+      "learned_lower": 6.286460174533612,
+      "integer_allocation_minus_reference": 0.28386762033723745,
+      "continuous_allocation_minus_reference": 0.2848503467704795,
+      "reference_minus_learned_lower": 0.6395221677411369,
+      "learned_lower_slack_interval": [
+        0.6385450755260438,
+        0.6395221677411369
+      ],
+      "integer_suboptimality_interval": [
+        0.28386762033723745,
+        0.28484471255233057
+      ],
+      "continuous_suboptimality_interval": [
+        0.2848503467704795,
+        0.2858274389855726
+      ],
+      "reference_solver_ms": 1976.2971,
+      "certificate_replayed": true
+    },
+    {
+      "seed": 1182062,
+      "family": "global_hotspot",
+      "quantile": 0.1,
+      "integer_gap": 0.6521114726287616,
+      "plan_file": "plans/g64-1182062-gnn4.json",
+      "reference_status": "converged",
+      "iterations": 7400,
+      "reference_upper": 8.24639242206752,
+      "reference_lower": 8.245613747508132,
+      "reference_gap": 0.0007786745593882927,
+      "integer_predicted": 8.516778960361284,
+      "continuous_predicted": 8.517514657293454,
+      "learned_lower": 7.864667487732523,
+      "integer_allocation_minus_reference": 0.2703865382937636,
+      "continuous_allocation_minus_reference": 0.27112223522593304,
+      "reference_minus_learned_lower": 0.381724934334998,
+      "learned_lower_slack_interval": [
+        0.3809462597756097,
+        0.381724934334998
+      ],
+      "integer_suboptimality_interval": [
+        0.2703865382937636,
+        0.27116521285315187
+      ],
+      "continuous_suboptimality_interval": [
+        0.27112223522593304,
+        0.27190090978532133
+      ],
+      "reference_solver_ms": 1510.0844,
+      "certificate_replayed": true
+    },
+    {
+      "seed": 1182094,
+      "family": "global_hotspot",
+      "quantile": 0.4,
+      "integer_gap": 0.7955161740003955,
+      "plan_file": "plans/g64-1182094-gnn4.json",
+      "reference_status": "converged",
+      "iterations": 8150,
+      "reference_upper": 8.133930042953798,
+      "reference_lower": 8.132938647273816,
+      "reference_gap": 0.0009913956799820767,
+      "integer_predicted": 8.607321861205092,
+      "continuous_predicted": 8.606549390308817,
+      "learned_lower": 7.811805687204696,
+      "integer_allocation_minus_reference": 0.47339181825129373,
+      "continuous_allocation_minus_reference": 0.4726193473550193,
+      "reference_minus_learned_lower": 0.3221243557491018,
+      "learned_lower_slack_interval": [
+        0.32113296006911973,
+        0.3221243557491018
+      ],
+      "integer_suboptimality_interval": [
+        0.47339181825129373,
+        0.4743832139312758
+      ],
+      "continuous_suboptimality_interval": [
+        0.4726193473550193,
+        0.4736107430350014
+      ],
+      "reference_solver_ms": 1669.6713,
+      "certificate_replayed": true
+    },
+    {
+      "seed": 1182086,
+      "family": "global_hotspot",
+      "quantile": 0.7,
+      "integer_gap": 1.0082135307236877,
+      "plan_file": "plans/g64-1182086-gnn4.json",
+      "reference_status": "converged",
+      "iterations": 6350,
+      "reference_upper": 8.722596768041184,
+      "reference_lower": 8.72166706985523,
+      "reference_gap": 0.0009296981859545639,
+      "integer_predicted": 8.866147524276823,
+      "continuous_predicted": 8.866651571305272,
+      "learned_lower": 7.857933993553135,
+      "integer_allocation_minus_reference": 0.14355075623563884,
+      "continuous_allocation_minus_reference": 0.1440548032640887,
+      "reference_minus_learned_lower": 0.8646627744880488,
+      "learned_lower_slack_interval": [
+        0.8637330763020943,
+        0.8646627744880488
+      ],
+      "integer_suboptimality_interval": [
+        0.14355075623563884,
+        0.1444804544215934
+      ],
+      "continuous_suboptimality_interval": [
+        0.1440548032640887,
+        0.14498450145004327
+      ],
+      "reference_solver_ms": 1304.7481,
+      "certificate_replayed": true
+    },
+    {
+      "seed": 1182098,
+      "family": "global_hotspot",
+      "quantile": 0.9,
+      "integer_gap": 1.1436104973153514,
+      "plan_file": "plans/g64-1182098-gnn4.json",
+      "reference_status": "converged",
+      "iterations": 6100,
+      "reference_upper": 7.738860825838716,
+      "reference_lower": 7.7381500896436926,
+      "reference_gap": 0.00071073619502382,
+      "integer_predicted": 7.943097938344115,
+      "continuous_predicted": 7.943327802340977,
+      "learned_lower": 6.799487441028764,
+      "integer_allocation_minus_reference": 0.20423711250539878,
+      "continuous_allocation_minus_reference": 0.20446697650226042,
+      "reference_minus_learned_lower": 0.9393733848099526,
+      "learned_lower_slack_interval": [
+        0.9386626486149288,
+        0.9393733848099526
+      ],
+      "integer_suboptimality_interval": [
+        0.20423711250539878,
+        0.2049478487004226
+      ],
+      "continuous_suboptimality_interval": [
+        0.20446697650226042,
+        0.20517771269728424
+      ],
+      "reference_solver_ms": 1252.4381,
+      "certificate_replayed": true
+    },
+    {
+      "seed": 1182127,
+      "family": "node_local",
+      "quantile": 0.1,
+      "integer_gap": 0.7181196250362545,
+      "plan_file": "plans/g64-1182127-gnn4.json",
+      "reference_status": "converged",
+      "iterations": 4150,
+      "reference_upper": 6.26448138677264,
+      "reference_lower": 6.2636460848247,
+      "reference_gap": 0.0008353019479399038,
+      "integer_predicted": 6.353207337476708,
+      "continuous_predicted": 6.353329992542292,
+      "learned_lower": 5.635087712440454,
+      "integer_allocation_minus_reference": 0.08872595070406852,
+      "continuous_allocation_minus_reference": 0.0888486057696527,
+      "reference_minus_learned_lower": 0.629393674332186,
+      "learned_lower_slack_interval": [
+        0.6285583723842461,
+        0.629393674332186
+      ],
+      "integer_suboptimality_interval": [
+        0.08872595070406852,
+        0.08956125265200843
+      ],
+      "continuous_suboptimality_interval": [
+        0.0888486057696527,
+        0.0896839077175926
+      ],
+      "reference_solver_ms": 859.2284,
+      "certificate_replayed": true
+    },
+    {
+      "seed": 1182079,
+      "family": "node_local",
+      "quantile": 0.4,
+      "integer_gap": 0.7595873341069606,
+      "plan_file": "plans/g64-1182079-gnn4.json",
+      "reference_status": "converged",
+      "iterations": 7950,
+      "reference_upper": 6.136866248852847,
+      "reference_lower": 6.1360581372115774,
+      "reference_gap": 0.0008081116412697043,
+      "integer_predicted": 6.357917050747387,
+      "continuous_predicted": 6.358634177390913,
+      "learned_lower": 5.598329716640427,
+      "integer_allocation_minus_reference": 0.22105080189454007,
+      "continuous_allocation_minus_reference": 0.22176792853806582,
+      "reference_minus_learned_lower": 0.5385365322124205,
+      "learned_lower_slack_interval": [
+        0.5377284205711508,
+        0.5385365322124205
+      ],
+      "integer_suboptimality_interval": [
+        0.22105080189454007,
+        0.22185891353580978
+      ],
+      "continuous_suboptimality_interval": [
+        0.22176792853806582,
+        0.22257604017933552
+      ],
+      "reference_solver_ms": 1663.6881,
+      "certificate_replayed": true
+    },
+    {
+      "seed": 1182051,
+      "family": "node_local",
+      "quantile": 0.7,
+      "integer_gap": 0.8109187446544341,
+      "plan_file": "plans/g64-1182051-gnn4.json",
+      "reference_status": "converged",
+      "iterations": 4650,
+      "reference_upper": 6.29505975618359,
+      "reference_lower": 6.29436040324158,
+      "reference_gap": 0.0006993529420098454,
+      "integer_predicted": 6.443508285814721,
+      "continuous_predicted": 6.443237468181357,
+      "learned_lower": 5.632589541160287,
+      "integer_allocation_minus_reference": 0.1484485296311311,
+      "continuous_allocation_minus_reference": 0.14817771199776697,
+      "reference_minus_learned_lower": 0.662470215023303,
+      "learned_lower_slack_interval": [
+        0.6617708620812932,
+        0.662470215023303
+      ],
+      "integer_suboptimality_interval": [
+        0.1484485296311311,
+        0.14914788257314093
+      ],
+      "continuous_suboptimality_interval": [
+        0.14817771199776697,
+        0.14887706493977682
+      ],
+      "reference_solver_ms": 960.936,
+      "certificate_replayed": true
+    },
+    {
+      "seed": 1182071,
+      "family": "node_local",
+      "quantile": 0.9,
+      "integer_gap": 0.8499204836539036,
+      "plan_file": "plans/g64-1182071-gnn4.json",
+      "reference_status": "converged",
+      "iterations": 4200,
+      "reference_upper": 6.284140358049467,
+      "reference_lower": 6.283151378307103,
+      "reference_gap": 0.0009889797423641156,
+      "integer_predicted": 6.469513078709467,
+      "continuous_predicted": 6.468391214150484,
+      "learned_lower": 5.619592595055563,
+      "integer_allocation_minus_reference": 0.18537272065999932,
+      "continuous_allocation_minus_reference": 0.18425085610101632,
+      "reference_minus_learned_lower": 0.6645477629939043,
+      "learned_lower_slack_interval": [
+        0.6635587832515402,
+        0.6645477629939043
+      ],
+      "integer_suboptimality_interval": [
+        0.18537272065999932,
+        0.18636170040236344
+      ],
+      "continuous_suboptimality_interval": [
+        0.18425085610101632,
+        0.18523983584338044
+      ],
+      "reference_solver_ms": 864.6352,
+      "certificate_replayed": true
+    },
+    {
+      "seed": 1182020,
+      "family": "source_skew",
+      "quantile": 0.1,
+      "integer_gap": 0.622757688647841,
+      "plan_file": "plans/g64-1182020-gnn4.json",
+      "reference_status": "converged",
+      "iterations": 26700,
+      "reference_upper": 6.017306065053101,
+      "reference_lower": 6.016528937825873,
+      "reference_gap": 0.0007771272272281138,
+      "integer_predicted": 6.261279667615444,
+      "continuous_predicted": 6.261640951973669,
+      "learned_lower": 5.638521978967603,
+      "integer_allocation_minus_reference": 0.24397360256234268,
+      "continuous_allocation_minus_reference": 0.24433488692056748,
+      "reference_minus_learned_lower": 0.3787840860854983,
+      "learned_lower_slack_interval": [
+        0.3780069588582702,
+        0.3787840860854983
+      ],
+      "integer_suboptimality_interval": [
+        0.24397360256234268,
+        0.2447507297895708
+      ],
+      "continuous_suboptimality_interval": [
+        0.24433488692056748,
+        0.2451120141477956
+      ],
+      "reference_solver_ms": 5539.9695,
+      "certificate_replayed": true
+    },
+    {
+      "seed": 1182140,
+      "family": "source_skew",
+      "quantile": 0.4,
+      "integer_gap": 0.712203450633246,
+      "plan_file": "plans/g64-1182140-gnn4.json",
+      "reference_status": "converged",
+      "iterations": 5050,
+      "reference_upper": 6.196694545261185,
+      "reference_lower": 6.1962655618612885,
+      "reference_gap": 0.0004289833998960546,
+      "integer_predicted": 6.417243335969731,
+      "continuous_predicted": 6.419053726659927,
+      "learned_lower": 5.705039885336485,
+      "integer_allocation_minus_reference": 0.2205487907085466,
+      "continuous_allocation_minus_reference": 0.22235918139874222,
+      "reference_minus_learned_lower": 0.49165465992469937,
+      "learned_lower_slack_interval": [
+        0.4912256765248033,
+        0.49165465992469937
+      ],
+      "integer_suboptimality_interval": [
+        0.2205487907085466,
+        0.22097777410844266
+      ],
+      "continuous_suboptimality_interval": [
+        0.22235918139874222,
+        0.22278816479863828
+      ],
+      "reference_solver_ms": 1042.1689,
+      "certificate_replayed": true
+    },
+    {
+      "seed": 1182096,
+      "family": "source_skew",
+      "quantile": 0.7,
+      "integer_gap": 0.8316409320290266,
+      "plan_file": "plans/g64-1182096-gnn4.json",
+      "reference_status": "converged",
+      "iterations": 5300,
+      "reference_upper": 6.228404070807243,
+      "reference_lower": 6.227475178810004,
+      "reference_gap": 0.0009288919972387788,
+      "integer_predicted": 6.569657101057,
+      "continuous_predicted": 6.57044920473078,
+      "learned_lower": 5.738016169027974,
+      "integer_allocation_minus_reference": 0.3412530302497574,
+      "continuous_allocation_minus_reference": 0.34204513392353686,
+      "reference_minus_learned_lower": 0.49038790177926916,
+      "learned_lower_slack_interval": [
+        0.4894590097820304,
+        0.49038790177926916
+      ],
+      "integer_suboptimality_interval": [
+        0.3412530302497574,
+        0.3421819222469962
+      ],
+      "continuous_suboptimality_interval": [
+        0.34204513392353686,
+        0.34297402592077564
+      ],
+      "reference_solver_ms": 1097.8638,
+      "certificate_replayed": true
+    },
+    {
+      "seed": 1182128,
+      "family": "source_skew",
+      "quantile": 0.9,
+      "integer_gap": 0.9007873186881712,
+      "plan_file": "plans/g64-1182128-gnn4.json",
+      "reference_status": "converged",
+      "iterations": 7950,
+      "reference_upper": 6.7607276906453935,
+      "reference_lower": 6.76012436245721,
+      "reference_gap": 0.0006033281881832053,
+      "integer_predicted": 6.998943651471583,
+      "continuous_predicted": 6.99941485132393,
+      "learned_lower": 6.098156332783412,
+      "integer_allocation_minus_reference": 0.23821596082618957,
+      "continuous_allocation_minus_reference": 0.2386871606785368,
+      "reference_minus_learned_lower": 0.6625713578619816,
+      "learned_lower_slack_interval": [
+        0.6619680296737984,
+        0.6625713578619816
+      ],
+      "integer_suboptimality_interval": [
+        0.23821596082618957,
+        0.23881928901437277
+      ],
+      "continuous_suboptimality_interval": [
+        0.2386871606785368,
+        0.23929048886672
+      ],
+      "reference_solver_ms": 1615.1904,
+      "certificate_replayed": true
+    }
+  ],
+  "converged": 16,
+  "count": 16,
+  "elapsed_s": 26.117369651794434
+}

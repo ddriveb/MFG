@@ -1,0 +1,68 @@
+{
+  "scales": [
+    32,
+    64
+  ],
+  "families": [
+    "global_hotspot"
+  ],
+  "hot_experts": 8,
+  "route_mass_levels": [
+    0.4,
+    0.6,
+    0.8
+  ],
+  "train_per_scale": 256,
+  "dev_per_scale": 64,
+  "train_support_seeds": [
+    1443001,
+    1443002,
+    1443003,
+    1443004
+  ],
+  "dev_support_seeds": [
+    1444001,
+    1444002
+  ],
+  "holdout_support_seed": 1445001,
+  "train_gate_first": 1450001,
+  "dev_gate_first": 1460001,
+  "scale_seed_stride": 10000,
+  "holdout_seeds": [
+    1470001,
+    1470002,
+    1470003,
+    1470004,
+    1470005,
+    1470006,
+    1470007,
+    1470008,
+    1470009,
+    1470010,
+    1470011,
+    1470012,
+    1470013,
+    1470014,
+    1470015,
+    1470016
+  ],
+  "initialization_seed": 132053,
+  "initial_checkpoint_sha256": "083a9b0163057b13d392d39a603e6309ca987ad2796d9de86b51becc277d69d8",
+  "allocation_steps": 4000,
+  "price_steps": 2000,
+  "batch": 4,
+  "eval_every": 250,
+  "selection": "allocation meanU/F_unif then maxU/F_unif; price meanrelativegap, devonly",
+  "reference_labels": false,
+  "feedback_rounds": 4,
+  "width": 16,
+  "price_width": 64,
+  "source_hashes": {
+    ".scratch/communication-aware-social-v2/local135/train.py": "a8db8caade64427455ae962e1cd47b7dcf3d4fb9edebf14423ad5b4ab8b3cf73",
+    ".scratch/communication-aware-social-v2/local135/hot_route_counts.py": "3b67133b9f51deba8c8d3ae1a1aee8c7a8e7a7e7d1abe4e493cbd8e4d51111f3",
+    "docs/adr/0226-global-hotspot-route-mass-specialization.md": "a17de0597db6689c7ab2aaa1c93cdac8e65371bd8eb869f51aa49841e5e8bed0",
+    "src/mfg_hedge/moe_load_feedback_gnn_v1.py": "b2123074e6c2b20218aa2aa8ba2a44f713f0bb85fb057f709f91fbdee3464a7a",
+    "src/mfg_hedge/moe_gpu_separated_training_v1.py": "440d9b890b4b15615c7c0a5e0f0c19a6d608bda3633807205c7e356333f8a65e",
+    "artifacts/moe-g64-depth-pressure-20261013-a/r4/best.pt": "083a9b0163057b13d392d39a603e6309ca987ad2796d9de86b51becc277d69d8"
+  }
+}

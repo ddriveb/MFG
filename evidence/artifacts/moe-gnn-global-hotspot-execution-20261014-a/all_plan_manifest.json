@@ -1,0 +1,3842 @@
+[
+  {
+    "plan_id": 0,
+    "file": "plans/p32-global_hotspot-r40-1470001-gnn_mixed.json",
+    "sha256": "fd34d148aa74ed68ff075c2dd4893b30c3fbb3dfa12313ce6049fd28ba356ffe",
+    "gpus": 32,
+    "seed": 1470001,
+    "state_id": "p32-global_hotspot-r40-1470001",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 1,
+    "file": "plans/p32-global_hotspot-r40-1470001-gnn_hot.json",
+    "sha256": "beb8273f3695f5709830af08393b6e8c6128f120995469bb2990ebae9009d215",
+    "gpus": 32,
+    "seed": 1470001,
+    "state_id": "p32-global_hotspot-r40-1470001",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 2,
+    "file": "plans/p32-global_hotspot-r40-1470001-sinkhorn_fixed.json",
+    "sha256": "5332fc6d36adcba891eb628e5f0538a8b74d18be120cc13fa711213d4a4ec50d",
+    "gpus": 32,
+    "seed": 1470001,
+    "state_id": "p32-global_hotspot-r40-1470001",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 3,
+    "file": "plans/p32-global_hotspot-r40-1470001-lazarus_inspired.json",
+    "sha256": "247f0f60e56356746b81b297cab80e453d2c89850c94fa3eba55c4c28cb930f1",
+    "gpus": 32,
+    "seed": 1470001,
+    "state_id": "p32-global_hotspot-r40-1470001",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 4,
+    "file": "plans/p32-global_hotspot-r40-1470002-gnn_mixed.json",
+    "sha256": "be130fc08e88ee7b6ce9ec470915b5a217b23081ed2605a2e5efafec14d6b6a3",
+    "gpus": 32,
+    "seed": 1470002,
+    "state_id": "p32-global_hotspot-r40-1470002",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 5,
+    "file": "plans/p32-global_hotspot-r40-1470002-gnn_hot.json",
+    "sha256": "581dc43a7111e1d68c68fcdbe6e99f1ea42d57cbc8944bb43c9897da7b28966d",
+    "gpus": 32,
+    "seed": 1470002,
+    "state_id": "p32-global_hotspot-r40-1470002",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 6,
+    "file": "plans/p32-global_hotspot-r40-1470002-sinkhorn_fixed.json",
+    "sha256": "495643a2f0a0c5a0ab38f2b21ec72f9fdcd96431b869b882ae2aaf050eff6c74",
+    "gpus": 32,
+    "seed": 1470002,
+    "state_id": "p32-global_hotspot-r40-1470002",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 7,
+    "file": "plans/p32-global_hotspot-r40-1470002-lazarus_inspired.json",
+    "sha256": "6d2c311c47594165c1fcc72b02ea5cb2427c4cc09b6db0638186a20ea4690f9d",
+    "gpus": 32,
+    "seed": 1470002,
+    "state_id": "p32-global_hotspot-r40-1470002",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 8,
+    "file": "plans/p32-global_hotspot-r40-1470003-gnn_mixed.json",
+    "sha256": "9e395dafc9ea43eda5bc7325082e080a18fb4b8fac643be89e329f0e1a391dba",
+    "gpus": 32,
+    "seed": 1470003,
+    "state_id": "p32-global_hotspot-r40-1470003",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 9,
+    "file": "plans/p32-global_hotspot-r40-1470003-gnn_hot.json",
+    "sha256": "e019117d023244b1c004a9cddc521afad9763b9f74e6465626d257cb717df44f",
+    "gpus": 32,
+    "seed": 1470003,
+    "state_id": "p32-global_hotspot-r40-1470003",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 10,
+    "file": "plans/p32-global_hotspot-r40-1470003-sinkhorn_fixed.json",
+    "sha256": "5ec380f4a6c15d336d93a2bb433deaa290f1b59e22577ab586f07dbe496b3081",
+    "gpus": 32,
+    "seed": 1470003,
+    "state_id": "p32-global_hotspot-r40-1470003",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 11,
+    "file": "plans/p32-global_hotspot-r40-1470003-lazarus_inspired.json",
+    "sha256": "94ad42bcda2808ee9829a34d67ff5b22a46f308989b7c925769ed231dacb04da",
+    "gpus": 32,
+    "seed": 1470003,
+    "state_id": "p32-global_hotspot-r40-1470003",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 12,
+    "file": "plans/p32-global_hotspot-r40-1470004-gnn_mixed.json",
+    "sha256": "cc982c75ac09496f6107a820c792af259bcb8f7c3c83c4381daeb4811a2403d1",
+    "gpus": 32,
+    "seed": 1470004,
+    "state_id": "p32-global_hotspot-r40-1470004",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 13,
+    "file": "plans/p32-global_hotspot-r40-1470004-gnn_hot.json",
+    "sha256": "2691ba3064731bb324d305b85d5b0735e401c4519dae0323894ebaa99d36a6a0",
+    "gpus": 32,
+    "seed": 1470004,
+    "state_id": "p32-global_hotspot-r40-1470004",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 14,
+    "file": "plans/p32-global_hotspot-r40-1470004-sinkhorn_fixed.json",
+    "sha256": "a8c889a7ce084b52a99061a59b90db77fc755922c633d1a1102f0c7406321db9",
+    "gpus": 32,
+    "seed": 1470004,
+    "state_id": "p32-global_hotspot-r40-1470004",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 15,
+    "file": "plans/p32-global_hotspot-r40-1470004-lazarus_inspired.json",
+    "sha256": "25e1d90f9ee7f47d22cc6d92ae1f5c760937db237c6fbc3e0ff516021274cb92",
+    "gpus": 32,
+    "seed": 1470004,
+    "state_id": "p32-global_hotspot-r40-1470004",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 16,
+    "file": "plans/p32-global_hotspot-r40-1470005-gnn_mixed.json",
+    "sha256": "9c345e8b84db8516aaed5d4214b74325fb59e67922e847e8bad147c0c1d831aa",
+    "gpus": 32,
+    "seed": 1470005,
+    "state_id": "p32-global_hotspot-r40-1470005",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 17,
+    "file": "plans/p32-global_hotspot-r40-1470005-gnn_hot.json",
+    "sha256": "560c065d47280c8f1541e4d397f61084a478a7085901ac839422b2e81c13726c",
+    "gpus": 32,
+    "seed": 1470005,
+    "state_id": "p32-global_hotspot-r40-1470005",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 18,
+    "file": "plans/p32-global_hotspot-r40-1470005-sinkhorn_fixed.json",
+    "sha256": "bbb3047992219666c7f49131c838e049fdd64cb319ade4bb97febaa6f8e6ee44",
+    "gpus": 32,
+    "seed": 1470005,
+    "state_id": "p32-global_hotspot-r40-1470005",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 19,
+    "file": "plans/p32-global_hotspot-r40-1470005-lazarus_inspired.json",
+    "sha256": "a5aa836d4773bd5920174074b91675101b813d22b55f6c2cf9e7e8cef1acd7ee",
+    "gpus": 32,
+    "seed": 1470005,
+    "state_id": "p32-global_hotspot-r40-1470005",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 20,
+    "file": "plans/p32-global_hotspot-r40-1470006-gnn_mixed.json",
+    "sha256": "91cdb632db61690363ef28ba84ccc7db5cd27e1a41e92976883d1da777c63db8",
+    "gpus": 32,
+    "seed": 1470006,
+    "state_id": "p32-global_hotspot-r40-1470006",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 21,
+    "file": "plans/p32-global_hotspot-r40-1470006-gnn_hot.json",
+    "sha256": "48e2af5fc9300885c044b067ff45b73179b38f1f222af87ac0e1071aa63b1a00",
+    "gpus": 32,
+    "seed": 1470006,
+    "state_id": "p32-global_hotspot-r40-1470006",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 22,
+    "file": "plans/p32-global_hotspot-r40-1470006-sinkhorn_fixed.json",
+    "sha256": "9863417bf4f7999020e8190c4b18b3538fa564d534edfb92155aa9bea36ca698",
+    "gpus": 32,
+    "seed": 1470006,
+    "state_id": "p32-global_hotspot-r40-1470006",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 23,
+    "file": "plans/p32-global_hotspot-r40-1470006-lazarus_inspired.json",
+    "sha256": "ab868a5c1d21445140b0862b5c4421ebb851b4fb6856e7e93790b5bec9b65ce1",
+    "gpus": 32,
+    "seed": 1470006,
+    "state_id": "p32-global_hotspot-r40-1470006",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 24,
+    "file": "plans/p32-global_hotspot-r40-1470007-gnn_mixed.json",
+    "sha256": "778a6513c5b8c5f087d19c6561d06ca188a0d9f10aaee3433fe9264a945ca399",
+    "gpus": 32,
+    "seed": 1470007,
+    "state_id": "p32-global_hotspot-r40-1470007",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 25,
+    "file": "plans/p32-global_hotspot-r40-1470007-gnn_hot.json",
+    "sha256": "f2cd733eaedadb95eabe5286270bcbaf9d82a025415e3bc0a25c6a030fe146fd",
+    "gpus": 32,
+    "seed": 1470007,
+    "state_id": "p32-global_hotspot-r40-1470007",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 26,
+    "file": "plans/p32-global_hotspot-r40-1470007-sinkhorn_fixed.json",
+    "sha256": "6a36d1bf8384c75defb118c0edd53f4834584b6fdf7f3d9995eac76ad82103c4",
+    "gpus": 32,
+    "seed": 1470007,
+    "state_id": "p32-global_hotspot-r40-1470007",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 27,
+    "file": "plans/p32-global_hotspot-r40-1470007-lazarus_inspired.json",
+    "sha256": "00387d5ea860fa33beae4ac7cfb4fe02f2c762efe0d5a886fc69c7e13b5b1e3d",
+    "gpus": 32,
+    "seed": 1470007,
+    "state_id": "p32-global_hotspot-r40-1470007",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 28,
+    "file": "plans/p32-global_hotspot-r40-1470008-gnn_mixed.json",
+    "sha256": "32f0798b13e0d30a114dc98eec09a8fb4cb56f991419d30c551461592bb0ddc7",
+    "gpus": 32,
+    "seed": 1470008,
+    "state_id": "p32-global_hotspot-r40-1470008",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 29,
+    "file": "plans/p32-global_hotspot-r40-1470008-gnn_hot.json",
+    "sha256": "2c50de95d9a165e530db296f5fdd474bb253215c884a97480aa91313abde71aa",
+    "gpus": 32,
+    "seed": 1470008,
+    "state_id": "p32-global_hotspot-r40-1470008",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 30,
+    "file": "plans/p32-global_hotspot-r40-1470008-sinkhorn_fixed.json",
+    "sha256": "a18383751ae8fa20bd4e0ca99f5201886c28a01ac1276c0d3a0a89415ac9e4f4",
+    "gpus": 32,
+    "seed": 1470008,
+    "state_id": "p32-global_hotspot-r40-1470008",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 31,
+    "file": "plans/p32-global_hotspot-r40-1470008-lazarus_inspired.json",
+    "sha256": "811c38408570a19e8b19126ea1206368dc8583193b35fef53bfbb7744e47f9fd",
+    "gpus": 32,
+    "seed": 1470008,
+    "state_id": "p32-global_hotspot-r40-1470008",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 32,
+    "file": "plans/p32-global_hotspot-r40-1470009-gnn_mixed.json",
+    "sha256": "cfe5d9ddcef3bf8e4b0b2a9eb035b3de699d6bfcad83fde56a7b3ab96ad7eba1",
+    "gpus": 32,
+    "seed": 1470009,
+    "state_id": "p32-global_hotspot-r40-1470009",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 33,
+    "file": "plans/p32-global_hotspot-r40-1470009-gnn_hot.json",
+    "sha256": "c4a445fef1a471b9bdadc0e9acfc0dda97a0bd7a0621d36024aaa59577ed01e2",
+    "gpus": 32,
+    "seed": 1470009,
+    "state_id": "p32-global_hotspot-r40-1470009",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 34,
+    "file": "plans/p32-global_hotspot-r40-1470009-sinkhorn_fixed.json",
+    "sha256": "3d6ec9604e8c63a6652de04b16d55bc245f25e3241f111fdb03b44cbddde5b33",
+    "gpus": 32,
+    "seed": 1470009,
+    "state_id": "p32-global_hotspot-r40-1470009",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 35,
+    "file": "plans/p32-global_hotspot-r40-1470009-lazarus_inspired.json",
+    "sha256": "6495b5db0360015c50be04d8f692a33b5388a91d5b5d921e0a5661b8033bc192",
+    "gpus": 32,
+    "seed": 1470009,
+    "state_id": "p32-global_hotspot-r40-1470009",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 36,
+    "file": "plans/p32-global_hotspot-r40-1470010-gnn_mixed.json",
+    "sha256": "3fb67b7aa9c31df230b85a102c2cb6b054752b5a11566fcbc8398a6da76769b2",
+    "gpus": 32,
+    "seed": 1470010,
+    "state_id": "p32-global_hotspot-r40-1470010",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 37,
+    "file": "plans/p32-global_hotspot-r40-1470010-gnn_hot.json",
+    "sha256": "5bfaeef52fdecdd95f1d2442bfcd73389db926eb790ea2bcf53c781ea7b1f002",
+    "gpus": 32,
+    "seed": 1470010,
+    "state_id": "p32-global_hotspot-r40-1470010",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 38,
+    "file": "plans/p32-global_hotspot-r40-1470010-sinkhorn_fixed.json",
+    "sha256": "6cd00cea6b32a0adf633a11e69c66a95e1e425d617907e332c2d6e657f166b8b",
+    "gpus": 32,
+    "seed": 1470010,
+    "state_id": "p32-global_hotspot-r40-1470010",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 39,
+    "file": "plans/p32-global_hotspot-r40-1470010-lazarus_inspired.json",
+    "sha256": "1a84b83d6be4fc01bb16ecb8bcadcebf0412a57f11c7335d17fa9b6b0bc8e41b",
+    "gpus": 32,
+    "seed": 1470010,
+    "state_id": "p32-global_hotspot-r40-1470010",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 40,
+    "file": "plans/p32-global_hotspot-r40-1470011-gnn_mixed.json",
+    "sha256": "f67cac852816d3eabd1013ae0612a315617874c1e0767238ba66e8184ab97750",
+    "gpus": 32,
+    "seed": 1470011,
+    "state_id": "p32-global_hotspot-r40-1470011",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 41,
+    "file": "plans/p32-global_hotspot-r40-1470011-gnn_hot.json",
+    "sha256": "889d4acff5da12d0c5174b17000d2fa60398f6a2e367e91ea28eb57fe5daa1cb",
+    "gpus": 32,
+    "seed": 1470011,
+    "state_id": "p32-global_hotspot-r40-1470011",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 42,
+    "file": "plans/p32-global_hotspot-r40-1470011-sinkhorn_fixed.json",
+    "sha256": "84329865aaebe0eb90dce86cad5a74018f1f7d86daf2a7e0522a80d5bf3f2862",
+    "gpus": 32,
+    "seed": 1470011,
+    "state_id": "p32-global_hotspot-r40-1470011",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 43,
+    "file": "plans/p32-global_hotspot-r40-1470011-lazarus_inspired.json",
+    "sha256": "d194fe44f073b9ec798784cdf99d2e2c78fb49818bd32668c37b7973b133998d",
+    "gpus": 32,
+    "seed": 1470011,
+    "state_id": "p32-global_hotspot-r40-1470011",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 44,
+    "file": "plans/p32-global_hotspot-r40-1470012-gnn_mixed.json",
+    "sha256": "5e57144ee58d6259fd475ff8dc230c892876243bfd0824505c93791a6bac0330",
+    "gpus": 32,
+    "seed": 1470012,
+    "state_id": "p32-global_hotspot-r40-1470012",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 45,
+    "file": "plans/p32-global_hotspot-r40-1470012-gnn_hot.json",
+    "sha256": "330d56d89ad617ff57115f84ffca52cebae37f1632a5149b03751d252049ec43",
+    "gpus": 32,
+    "seed": 1470012,
+    "state_id": "p32-global_hotspot-r40-1470012",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 46,
+    "file": "plans/p32-global_hotspot-r40-1470012-sinkhorn_fixed.json",
+    "sha256": "36cf36bc99ab76414198a14010f7d863e8edf28522a91e55a53b5e676fe77c2c",
+    "gpus": 32,
+    "seed": 1470012,
+    "state_id": "p32-global_hotspot-r40-1470012",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 47,
+    "file": "plans/p32-global_hotspot-r40-1470012-lazarus_inspired.json",
+    "sha256": "6e9ea4bae3de238c8a89ca41f448ee720236b600cf82e7e5c2bb28b04ac7fef7",
+    "gpus": 32,
+    "seed": 1470012,
+    "state_id": "p32-global_hotspot-r40-1470012",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 48,
+    "file": "plans/p32-global_hotspot-r40-1470013-gnn_mixed.json",
+    "sha256": "ac689e14cace8d37f9279bb0385a7b0ae7551ce290a79bdc6ffffddc97973090",
+    "gpus": 32,
+    "seed": 1470013,
+    "state_id": "p32-global_hotspot-r40-1470013",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 49,
+    "file": "plans/p32-global_hotspot-r40-1470013-gnn_hot.json",
+    "sha256": "629a1da58abb5683433e5e074e24b22f5c5c7548d8332275fc3afb5ef4cb526a",
+    "gpus": 32,
+    "seed": 1470013,
+    "state_id": "p32-global_hotspot-r40-1470013",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 50,
+    "file": "plans/p32-global_hotspot-r40-1470013-sinkhorn_fixed.json",
+    "sha256": "0652d74d67279ef4dbb6c9dceee730aae5c83713ff125179039a292b278fd460",
+    "gpus": 32,
+    "seed": 1470013,
+    "state_id": "p32-global_hotspot-r40-1470013",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 51,
+    "file": "plans/p32-global_hotspot-r40-1470013-lazarus_inspired.json",
+    "sha256": "24c088d4d3535567baefc153dbf1394cc752e8c167af8f6b7bb4c16d98d2d515",
+    "gpus": 32,
+    "seed": 1470013,
+    "state_id": "p32-global_hotspot-r40-1470013",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 52,
+    "file": "plans/p32-global_hotspot-r40-1470014-gnn_mixed.json",
+    "sha256": "aaa75cb58ee27e4c2795af5ddab96235c5886a388f9557f4ebce0687dbfef715",
+    "gpus": 32,
+    "seed": 1470014,
+    "state_id": "p32-global_hotspot-r40-1470014",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 53,
+    "file": "plans/p32-global_hotspot-r40-1470014-gnn_hot.json",
+    "sha256": "7a2b4acc59af3a1032a3adac616499e3f605ffdd9d14c0bbc7b4df210eb40b53",
+    "gpus": 32,
+    "seed": 1470014,
+    "state_id": "p32-global_hotspot-r40-1470014",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 54,
+    "file": "plans/p32-global_hotspot-r40-1470014-sinkhorn_fixed.json",
+    "sha256": "b3b9e8f37b4c3cf15c8fa745502f9bcf3528421db8553887b54baaa31016e4eb",
+    "gpus": 32,
+    "seed": 1470014,
+    "state_id": "p32-global_hotspot-r40-1470014",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 55,
+    "file": "plans/p32-global_hotspot-r40-1470014-lazarus_inspired.json",
+    "sha256": "6cf1f243cff8bbed5c71fe8ce525a6246833fd186c2f088d879b709503625597",
+    "gpus": 32,
+    "seed": 1470014,
+    "state_id": "p32-global_hotspot-r40-1470014",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 56,
+    "file": "plans/p32-global_hotspot-r40-1470015-gnn_mixed.json",
+    "sha256": "685f4a4d8ead3d60c4cf21cfb1b94503bc3132fe9cf5a062c5e6685878fe490c",
+    "gpus": 32,
+    "seed": 1470015,
+    "state_id": "p32-global_hotspot-r40-1470015",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 57,
+    "file": "plans/p32-global_hotspot-r40-1470015-gnn_hot.json",
+    "sha256": "985d5c6528815ca31c50227d80d1bf4e509f403bcf86037d31b39a2165748825",
+    "gpus": 32,
+    "seed": 1470015,
+    "state_id": "p32-global_hotspot-r40-1470015",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 58,
+    "file": "plans/p32-global_hotspot-r40-1470015-sinkhorn_fixed.json",
+    "sha256": "1061e0d954cfe216297d671b300af4abd8e554a51cd7965c783d2fc8b5704a78",
+    "gpus": 32,
+    "seed": 1470015,
+    "state_id": "p32-global_hotspot-r40-1470015",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 59,
+    "file": "plans/p32-global_hotspot-r40-1470015-lazarus_inspired.json",
+    "sha256": "3413a70273a19cd317d5a7a77c1fdb2a80e90ee6b581cb9fe9e9fb9aed1a14e6",
+    "gpus": 32,
+    "seed": 1470015,
+    "state_id": "p32-global_hotspot-r40-1470015",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 60,
+    "file": "plans/p32-global_hotspot-r40-1470016-gnn_mixed.json",
+    "sha256": "e15d89983c430a0ddda290eeb057d378abd8d124db2a3ed401aeae6829b5f577",
+    "gpus": 32,
+    "seed": 1470016,
+    "state_id": "p32-global_hotspot-r40-1470016",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 61,
+    "file": "plans/p32-global_hotspot-r40-1470016-gnn_hot.json",
+    "sha256": "b34e61dd21d266ec339cad1011828904a485e1b9a51035035d17660d04d2bb4d",
+    "gpus": 32,
+    "seed": 1470016,
+    "state_id": "p32-global_hotspot-r40-1470016",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 62,
+    "file": "plans/p32-global_hotspot-r40-1470016-sinkhorn_fixed.json",
+    "sha256": "489578e828aa29af779b160a17e88192904ab22ed68dad9d71eba8da36781b56",
+    "gpus": 32,
+    "seed": 1470016,
+    "state_id": "p32-global_hotspot-r40-1470016",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 63,
+    "file": "plans/p32-global_hotspot-r40-1470016-lazarus_inspired.json",
+    "sha256": "5533871409462c604abbdc88a740b37d88e2988f040620063e82480579c20d0c",
+    "gpus": 32,
+    "seed": 1470016,
+    "state_id": "p32-global_hotspot-r40-1470016",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 64,
+    "file": "plans/p32-global_hotspot-r60-1470001-gnn_mixed.json",
+    "sha256": "6e988268aaf24869b39fde40204fc7989f83818cc0d0176337b4bc5ee9c050b9",
+    "gpus": 32,
+    "seed": 1470001,
+    "state_id": "p32-global_hotspot-r60-1470001",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 65,
+    "file": "plans/p32-global_hotspot-r60-1470001-gnn_hot.json",
+    "sha256": "edfd36d151622db633858f0701352e86fcf13bf1b1f7d8eaff833729d7c8e2e6",
+    "gpus": 32,
+    "seed": 1470001,
+    "state_id": "p32-global_hotspot-r60-1470001",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 66,
+    "file": "plans/p32-global_hotspot-r60-1470001-sinkhorn_fixed.json",
+    "sha256": "f7c61b8da8922bfcfb19b9b4640dd3dec2a9143fa81957bf8c31e7401e467ddf",
+    "gpus": 32,
+    "seed": 1470001,
+    "state_id": "p32-global_hotspot-r60-1470001",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 67,
+    "file": "plans/p32-global_hotspot-r60-1470001-lazarus_inspired.json",
+    "sha256": "2b702a5ed51e766a63b70f2a511cc3f54443f6758fc77a5ec22f0ec8cd668a6a",
+    "gpus": 32,
+    "seed": 1470001,
+    "state_id": "p32-global_hotspot-r60-1470001",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 68,
+    "file": "plans/p32-global_hotspot-r60-1470002-gnn_mixed.json",
+    "sha256": "fbf28d69936ca537b45a1844b4d29fee2a096aa0187cd7c8b8eda0692873b9fc",
+    "gpus": 32,
+    "seed": 1470002,
+    "state_id": "p32-global_hotspot-r60-1470002",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 69,
+    "file": "plans/p32-global_hotspot-r60-1470002-gnn_hot.json",
+    "sha256": "51392ca7c7b36c347eecd2c4a62ae4246fee4bf336dc1e3d1c49b20102a8937f",
+    "gpus": 32,
+    "seed": 1470002,
+    "state_id": "p32-global_hotspot-r60-1470002",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 70,
+    "file": "plans/p32-global_hotspot-r60-1470002-sinkhorn_fixed.json",
+    "sha256": "d7f0704f3dea71615e395485b46e4862a21c7b5bfbe8e72e2930198512091962",
+    "gpus": 32,
+    "seed": 1470002,
+    "state_id": "p32-global_hotspot-r60-1470002",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 71,
+    "file": "plans/p32-global_hotspot-r60-1470002-lazarus_inspired.json",
+    "sha256": "68f4fd8be9647bc33778cd6803df10f64d177db9532c951d7b75a18b0a605606",
+    "gpus": 32,
+    "seed": 1470002,
+    "state_id": "p32-global_hotspot-r60-1470002",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 72,
+    "file": "plans/p32-global_hotspot-r60-1470003-gnn_mixed.json",
+    "sha256": "cdfbfdbda7eed2afe7f4314bada0e6427bb03206c56598450323498c96b58532",
+    "gpus": 32,
+    "seed": 1470003,
+    "state_id": "p32-global_hotspot-r60-1470003",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 73,
+    "file": "plans/p32-global_hotspot-r60-1470003-gnn_hot.json",
+    "sha256": "3c97f49104616c6468714ffa77a38b5be22e5c2f752f531f881c15d8fb006c7e",
+    "gpus": 32,
+    "seed": 1470003,
+    "state_id": "p32-global_hotspot-r60-1470003",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 74,
+    "file": "plans/p32-global_hotspot-r60-1470003-sinkhorn_fixed.json",
+    "sha256": "e97b476a2a37db7d50a827d6dc2a2d215eaace2520abf9add20404f6cb4107e7",
+    "gpus": 32,
+    "seed": 1470003,
+    "state_id": "p32-global_hotspot-r60-1470003",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 75,
+    "file": "plans/p32-global_hotspot-r60-1470003-lazarus_inspired.json",
+    "sha256": "914d8578535614efe4eef7c52cfcfa394dc9ec75bf996feef19e14c496ca19aa",
+    "gpus": 32,
+    "seed": 1470003,
+    "state_id": "p32-global_hotspot-r60-1470003",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 76,
+    "file": "plans/p32-global_hotspot-r60-1470004-gnn_mixed.json",
+    "sha256": "9380dc49860025985ff8d13df0b379c760363e2b346ffd2db389d0c15e5ff01c",
+    "gpus": 32,
+    "seed": 1470004,
+    "state_id": "p32-global_hotspot-r60-1470004",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 77,
+    "file": "plans/p32-global_hotspot-r60-1470004-gnn_hot.json",
+    "sha256": "4e49e150174e65f6e6eba8bbbb10633726d38f8677150562b8cc737c2f1e6dc9",
+    "gpus": 32,
+    "seed": 1470004,
+    "state_id": "p32-global_hotspot-r60-1470004",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 78,
+    "file": "plans/p32-global_hotspot-r60-1470004-sinkhorn_fixed.json",
+    "sha256": "d2c3d9b70837dcb5ecf03f6cb9fe6df968e86a4cb8713e6cfceb7e49564d519d",
+    "gpus": 32,
+    "seed": 1470004,
+    "state_id": "p32-global_hotspot-r60-1470004",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 79,
+    "file": "plans/p32-global_hotspot-r60-1470004-lazarus_inspired.json",
+    "sha256": "e49221540894d7765b81bca002028fb73bc9b0346b0218de7ad6da3014973a4a",
+    "gpus": 32,
+    "seed": 1470004,
+    "state_id": "p32-global_hotspot-r60-1470004",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 80,
+    "file": "plans/p32-global_hotspot-r60-1470005-gnn_mixed.json",
+    "sha256": "626f145a04c1635f93c5627ed388b1fc86598ca7151799c3e514300d2ba399fe",
+    "gpus": 32,
+    "seed": 1470005,
+    "state_id": "p32-global_hotspot-r60-1470005",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 81,
+    "file": "plans/p32-global_hotspot-r60-1470005-gnn_hot.json",
+    "sha256": "2c082bc9b9c65115476d1b8a89a26d6ac8cea39ca9beb0584c9c110369aa4fd1",
+    "gpus": 32,
+    "seed": 1470005,
+    "state_id": "p32-global_hotspot-r60-1470005",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 82,
+    "file": "plans/p32-global_hotspot-r60-1470005-sinkhorn_fixed.json",
+    "sha256": "52980b2e38e3b8ec9064188356de6554d0d7354609b38b9ecca50d5b95e84dff",
+    "gpus": 32,
+    "seed": 1470005,
+    "state_id": "p32-global_hotspot-r60-1470005",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 83,
+    "file": "plans/p32-global_hotspot-r60-1470005-lazarus_inspired.json",
+    "sha256": "2e7a8e859b2e3b911098de179c5df95cb27d8ea31aeee02d586a898014d5a20c",
+    "gpus": 32,
+    "seed": 1470005,
+    "state_id": "p32-global_hotspot-r60-1470005",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 84,
+    "file": "plans/p32-global_hotspot-r60-1470006-gnn_mixed.json",
+    "sha256": "d1810ac43887d52a2841dd8831a585b0d4ddde85a413fe37bf53acaea717a978",
+    "gpus": 32,
+    "seed": 1470006,
+    "state_id": "p32-global_hotspot-r60-1470006",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 85,
+    "file": "plans/p32-global_hotspot-r60-1470006-gnn_hot.json",
+    "sha256": "d1d45a90f8c672f94c833626353ad146b92a15e0d22020ed8d544444f3f902b4",
+    "gpus": 32,
+    "seed": 1470006,
+    "state_id": "p32-global_hotspot-r60-1470006",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 86,
+    "file": "plans/p32-global_hotspot-r60-1470006-sinkhorn_fixed.json",
+    "sha256": "92930cca647a684f866fb00558a8ebeee93df44a3b98a9dc57a116c06f3ce0dd",
+    "gpus": 32,
+    "seed": 1470006,
+    "state_id": "p32-global_hotspot-r60-1470006",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 87,
+    "file": "plans/p32-global_hotspot-r60-1470006-lazarus_inspired.json",
+    "sha256": "fd02720f99f7b388504961bd25cd9ae4d31208aa8d2752a3c5bfe4b18998621d",
+    "gpus": 32,
+    "seed": 1470006,
+    "state_id": "p32-global_hotspot-r60-1470006",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 88,
+    "file": "plans/p32-global_hotspot-r60-1470007-gnn_mixed.json",
+    "sha256": "d5e86425fc1328d831715e03ca4e2009c3f9fe7d13b098273b7498c8ccabd4d0",
+    "gpus": 32,
+    "seed": 1470007,
+    "state_id": "p32-global_hotspot-r60-1470007",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 89,
+    "file": "plans/p32-global_hotspot-r60-1470007-gnn_hot.json",
+    "sha256": "5eb385b22ff2a42ef1562c9f24bd1d5195aa970a16adabc6ecf47598729ad32a",
+    "gpus": 32,
+    "seed": 1470007,
+    "state_id": "p32-global_hotspot-r60-1470007",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 90,
+    "file": "plans/p32-global_hotspot-r60-1470007-sinkhorn_fixed.json",
+    "sha256": "b56903b777c25d110c7d78f3fa11f35eddef719ef318cb5d2edd67daab79ba99",
+    "gpus": 32,
+    "seed": 1470007,
+    "state_id": "p32-global_hotspot-r60-1470007",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 91,
+    "file": "plans/p32-global_hotspot-r60-1470007-lazarus_inspired.json",
+    "sha256": "442e1fdf5ef5d31b16e158b2908d8ed29e0ab4f793e4fec107ff042216a89d3a",
+    "gpus": 32,
+    "seed": 1470007,
+    "state_id": "p32-global_hotspot-r60-1470007",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 92,
+    "file": "plans/p32-global_hotspot-r60-1470008-gnn_mixed.json",
+    "sha256": "a05deb2d68c6390d1208b848aeb9d4b41c3d6c47011573cb1ea3af586ace3f69",
+    "gpus": 32,
+    "seed": 1470008,
+    "state_id": "p32-global_hotspot-r60-1470008",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 93,
+    "file": "plans/p32-global_hotspot-r60-1470008-gnn_hot.json",
+    "sha256": "4a8585d96c4774a995d974ba48cdfac7188a353f0e00fb540157bfcde4d65304",
+    "gpus": 32,
+    "seed": 1470008,
+    "state_id": "p32-global_hotspot-r60-1470008",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 94,
+    "file": "plans/p32-global_hotspot-r60-1470008-sinkhorn_fixed.json",
+    "sha256": "49b35f138981e443545bd69013a0a92fc5e1e7aa5e126bdab56a7760f5b740aa",
+    "gpus": 32,
+    "seed": 1470008,
+    "state_id": "p32-global_hotspot-r60-1470008",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 95,
+    "file": "plans/p32-global_hotspot-r60-1470008-lazarus_inspired.json",
+    "sha256": "ac61bd773870766cc55373d73865d21b12e886949115792a88e65e41d2526772",
+    "gpus": 32,
+    "seed": 1470008,
+    "state_id": "p32-global_hotspot-r60-1470008",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 96,
+    "file": "plans/p32-global_hotspot-r60-1470009-gnn_mixed.json",
+    "sha256": "b3c82e21b6bdcbc1025ec53acf9f6ea16551be19bc213d1907259f6e92b4a317",
+    "gpus": 32,
+    "seed": 1470009,
+    "state_id": "p32-global_hotspot-r60-1470009",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 97,
+    "file": "plans/p32-global_hotspot-r60-1470009-gnn_hot.json",
+    "sha256": "69205a7b6e0b149bfd9faf4c23893ff9a21c8590ad14908c3c209fb3fc9becfe",
+    "gpus": 32,
+    "seed": 1470009,
+    "state_id": "p32-global_hotspot-r60-1470009",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 98,
+    "file": "plans/p32-global_hotspot-r60-1470009-sinkhorn_fixed.json",
+    "sha256": "62cc13eeaf2086f6caed8355a47ce81fc0593ecf069b7022686c2f468f615bc4",
+    "gpus": 32,
+    "seed": 1470009,
+    "state_id": "p32-global_hotspot-r60-1470009",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 99,
+    "file": "plans/p32-global_hotspot-r60-1470009-lazarus_inspired.json",
+    "sha256": "17e8597b396d2193386b7777ae0643edf49783cbdcc09c0bd18a85a0819edc8b",
+    "gpus": 32,
+    "seed": 1470009,
+    "state_id": "p32-global_hotspot-r60-1470009",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 100,
+    "file": "plans/p32-global_hotspot-r60-1470010-gnn_mixed.json",
+    "sha256": "6f416cb322946e96027e55907d20540ce9a9385070f4069e64b42cf07d1e775c",
+    "gpus": 32,
+    "seed": 1470010,
+    "state_id": "p32-global_hotspot-r60-1470010",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 101,
+    "file": "plans/p32-global_hotspot-r60-1470010-gnn_hot.json",
+    "sha256": "4bb6d5b524659e9858d38a1de2a954174974fd9805d0990024fd9fde7e4f2da0",
+    "gpus": 32,
+    "seed": 1470010,
+    "state_id": "p32-global_hotspot-r60-1470010",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 102,
+    "file": "plans/p32-global_hotspot-r60-1470010-sinkhorn_fixed.json",
+    "sha256": "0e6611ac92a2db17e169e8ab6efecac73ecd70edebbd9cf2cbd723685d7eeca6",
+    "gpus": 32,
+    "seed": 1470010,
+    "state_id": "p32-global_hotspot-r60-1470010",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 103,
+    "file": "plans/p32-global_hotspot-r60-1470010-lazarus_inspired.json",
+    "sha256": "0800c879664c28c0bca6e2d588855c9ca2111305206f069b62d53a196e26272a",
+    "gpus": 32,
+    "seed": 1470010,
+    "state_id": "p32-global_hotspot-r60-1470010",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 104,
+    "file": "plans/p32-global_hotspot-r60-1470011-gnn_mixed.json",
+    "sha256": "dbb0142709a268befb1b9fa11f6b5621184eb3854db0b437f3f978c6623cafc1",
+    "gpus": 32,
+    "seed": 1470011,
+    "state_id": "p32-global_hotspot-r60-1470011",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 105,
+    "file": "plans/p32-global_hotspot-r60-1470011-gnn_hot.json",
+    "sha256": "1ab93479f3cf81afd7fe3a0f3689ac47ddc6010ccd5b763e8a15c7c11d1d8060",
+    "gpus": 32,
+    "seed": 1470011,
+    "state_id": "p32-global_hotspot-r60-1470011",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 106,
+    "file": "plans/p32-global_hotspot-r60-1470011-sinkhorn_fixed.json",
+    "sha256": "58a69631edcd39cbac14a942ebc375ad68d058f1d7e69b8ace0df4a5c2a74c82",
+    "gpus": 32,
+    "seed": 1470011,
+    "state_id": "p32-global_hotspot-r60-1470011",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 107,
+    "file": "plans/p32-global_hotspot-r60-1470011-lazarus_inspired.json",
+    "sha256": "33b2872fc8c4e672b342da126a027d877fcf01f195a127b8b495fbf89557553d",
+    "gpus": 32,
+    "seed": 1470011,
+    "state_id": "p32-global_hotspot-r60-1470011",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 108,
+    "file": "plans/p32-global_hotspot-r60-1470012-gnn_mixed.json",
+    "sha256": "196c915f36f85d662895cad46ecaf532a4ece9e023023eda07e106bd124ba3d8",
+    "gpus": 32,
+    "seed": 1470012,
+    "state_id": "p32-global_hotspot-r60-1470012",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 109,
+    "file": "plans/p32-global_hotspot-r60-1470012-gnn_hot.json",
+    "sha256": "71647ca79330e0b5ff64c942428387c2c5b5e77149eccd1a099305bfd84907df",
+    "gpus": 32,
+    "seed": 1470012,
+    "state_id": "p32-global_hotspot-r60-1470012",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 110,
+    "file": "plans/p32-global_hotspot-r60-1470012-sinkhorn_fixed.json",
+    "sha256": "b87a41164f2aa65eb59bcd41ec5a3071ec180d385aece3b5b96a7f722459d4d2",
+    "gpus": 32,
+    "seed": 1470012,
+    "state_id": "p32-global_hotspot-r60-1470012",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 111,
+    "file": "plans/p32-global_hotspot-r60-1470012-lazarus_inspired.json",
+    "sha256": "1d2089068f9f1fd77b5cd3e67a485c9be5d91a48edf56ad16eaac0c3b9476fd7",
+    "gpus": 32,
+    "seed": 1470012,
+    "state_id": "p32-global_hotspot-r60-1470012",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 112,
+    "file": "plans/p32-global_hotspot-r60-1470013-gnn_mixed.json",
+    "sha256": "5091c538d958c83c9886c723e2308d15a6ad48f18c802a3c9fa82c346d69a4bb",
+    "gpus": 32,
+    "seed": 1470013,
+    "state_id": "p32-global_hotspot-r60-1470013",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 113,
+    "file": "plans/p32-global_hotspot-r60-1470013-gnn_hot.json",
+    "sha256": "cf1db510e5ca07817d7b30f0091cc68bfe052601aa45b97d7769026cc7ee0120",
+    "gpus": 32,
+    "seed": 1470013,
+    "state_id": "p32-global_hotspot-r60-1470013",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 114,
+    "file": "plans/p32-global_hotspot-r60-1470013-sinkhorn_fixed.json",
+    "sha256": "07b21e17bb97067fb48c8309b6b09e36abeff28ecaf07fae79ffec37774d5c1c",
+    "gpus": 32,
+    "seed": 1470013,
+    "state_id": "p32-global_hotspot-r60-1470013",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 115,
+    "file": "plans/p32-global_hotspot-r60-1470013-lazarus_inspired.json",
+    "sha256": "34a6eb6097bc3bad27215c7abc87e2cdd5619a1e090b862410b88e31951a9769",
+    "gpus": 32,
+    "seed": 1470013,
+    "state_id": "p32-global_hotspot-r60-1470013",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 116,
+    "file": "plans/p32-global_hotspot-r60-1470014-gnn_mixed.json",
+    "sha256": "bb827d89ce06995b8e50238a842beea03f607bf8592ea2da1752cff45c54dc8f",
+    "gpus": 32,
+    "seed": 1470014,
+    "state_id": "p32-global_hotspot-r60-1470014",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 117,
+    "file": "plans/p32-global_hotspot-r60-1470014-gnn_hot.json",
+    "sha256": "efb176c5899f056cff80c13ac67548d06771f8dacc3ccbe028641718b0cbafd3",
+    "gpus": 32,
+    "seed": 1470014,
+    "state_id": "p32-global_hotspot-r60-1470014",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 118,
+    "file": "plans/p32-global_hotspot-r60-1470014-sinkhorn_fixed.json",
+    "sha256": "a9e15f8ca192120a8e3015fb06aff9a1e27c44274f44ea18002439384adf014c",
+    "gpus": 32,
+    "seed": 1470014,
+    "state_id": "p32-global_hotspot-r60-1470014",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 119,
+    "file": "plans/p32-global_hotspot-r60-1470014-lazarus_inspired.json",
+    "sha256": "531451fb25dc400ba32189bfcecebfd7f32baca97ca1f597897a189e06e77019",
+    "gpus": 32,
+    "seed": 1470014,
+    "state_id": "p32-global_hotspot-r60-1470014",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 120,
+    "file": "plans/p32-global_hotspot-r60-1470015-gnn_mixed.json",
+    "sha256": "9f7487be75f612b6944a01288b1ffe7064c8882ae9af8b225f54122bb2e8738c",
+    "gpus": 32,
+    "seed": 1470015,
+    "state_id": "p32-global_hotspot-r60-1470015",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 121,
+    "file": "plans/p32-global_hotspot-r60-1470015-gnn_hot.json",
+    "sha256": "22ec9c9715cebb1069e7a5371c77636db82e2a0fd65153eb4beef8b6f3c560eb",
+    "gpus": 32,
+    "seed": 1470015,
+    "state_id": "p32-global_hotspot-r60-1470015",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 122,
+    "file": "plans/p32-global_hotspot-r60-1470015-sinkhorn_fixed.json",
+    "sha256": "91c944446e734a7a460446abb281b61388678573aa577be16e6785530dc8f0c4",
+    "gpus": 32,
+    "seed": 1470015,
+    "state_id": "p32-global_hotspot-r60-1470015",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 123,
+    "file": "plans/p32-global_hotspot-r60-1470015-lazarus_inspired.json",
+    "sha256": "18f2fcf032cd93cc7e2bfc82afaf97b19fffbc4efcf8477e3ab799fe212fc5d7",
+    "gpus": 32,
+    "seed": 1470015,
+    "state_id": "p32-global_hotspot-r60-1470015",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 124,
+    "file": "plans/p32-global_hotspot-r60-1470016-gnn_mixed.json",
+    "sha256": "dab2c70d5b344aa3e8c8a6336a13ddd62ab23cf0e75e571747cf8fe813a4f81d",
+    "gpus": 32,
+    "seed": 1470016,
+    "state_id": "p32-global_hotspot-r60-1470016",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 125,
+    "file": "plans/p32-global_hotspot-r60-1470016-gnn_hot.json",
+    "sha256": "67c1519199839fe93b975fe4df211e0868a646254f8843d867717f4c64ae6a9d",
+    "gpus": 32,
+    "seed": 1470016,
+    "state_id": "p32-global_hotspot-r60-1470016",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 126,
+    "file": "plans/p32-global_hotspot-r60-1470016-sinkhorn_fixed.json",
+    "sha256": "b5969841cc338074d787655b8b639e22d3ce70d39d7c574d8812dfeff5eaf1dd",
+    "gpus": 32,
+    "seed": 1470016,
+    "state_id": "p32-global_hotspot-r60-1470016",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 127,
+    "file": "plans/p32-global_hotspot-r60-1470016-lazarus_inspired.json",
+    "sha256": "b94e4442ad06bbacbc47264efc9bbbf3477464889ebe9f9f8b585bf2a4c7a143",
+    "gpus": 32,
+    "seed": 1470016,
+    "state_id": "p32-global_hotspot-r60-1470016",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 128,
+    "file": "plans/p32-global_hotspot-r80-1470001-gnn_mixed.json",
+    "sha256": "ee1af4cb3fba679a1d3ae94da306d76f5bcc8f9e2fd94b6242c7d3f5619cd579",
+    "gpus": 32,
+    "seed": 1470001,
+    "state_id": "p32-global_hotspot-r80-1470001",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 129,
+    "file": "plans/p32-global_hotspot-r80-1470001-gnn_hot.json",
+    "sha256": "9ce9bca29488485594f690383491c5c1c1cbba5ad8f604a25c5daf2768603bc1",
+    "gpus": 32,
+    "seed": 1470001,
+    "state_id": "p32-global_hotspot-r80-1470001",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 130,
+    "file": "plans/p32-global_hotspot-r80-1470001-sinkhorn_fixed.json",
+    "sha256": "8fe98fed751414c83bb1f3bfdc79a7c74947c45b943784d64c9cd990f60f3665",
+    "gpus": 32,
+    "seed": 1470001,
+    "state_id": "p32-global_hotspot-r80-1470001",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 131,
+    "file": "plans/p32-global_hotspot-r80-1470001-lazarus_inspired.json",
+    "sha256": "beed417d7490605863311e286ef262ce6a15b82fd5ab6d5171f9334838b6b92c",
+    "gpus": 32,
+    "seed": 1470001,
+    "state_id": "p32-global_hotspot-r80-1470001",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 132,
+    "file": "plans/p32-global_hotspot-r80-1470002-gnn_mixed.json",
+    "sha256": "41824a529870eb3ed032219ba499def125315817c4a4ca28d5c6efad0e18aa6d",
+    "gpus": 32,
+    "seed": 1470002,
+    "state_id": "p32-global_hotspot-r80-1470002",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 133,
+    "file": "plans/p32-global_hotspot-r80-1470002-gnn_hot.json",
+    "sha256": "748a5a22b75b1499eebd11bb25f001362fae20126f12dfa06f353107a0c51b6f",
+    "gpus": 32,
+    "seed": 1470002,
+    "state_id": "p32-global_hotspot-r80-1470002",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 134,
+    "file": "plans/p32-global_hotspot-r80-1470002-sinkhorn_fixed.json",
+    "sha256": "c832b38d06f65cb2db76441ff0829001b188aa2c8925e972775ff9a4c5370616",
+    "gpus": 32,
+    "seed": 1470002,
+    "state_id": "p32-global_hotspot-r80-1470002",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 135,
+    "file": "plans/p32-global_hotspot-r80-1470002-lazarus_inspired.json",
+    "sha256": "30daea33659aaa5b383235e149963ebf1d4baffce8021ef409a05bc611d9393d",
+    "gpus": 32,
+    "seed": 1470002,
+    "state_id": "p32-global_hotspot-r80-1470002",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 136,
+    "file": "plans/p32-global_hotspot-r80-1470003-gnn_mixed.json",
+    "sha256": "44487cd508b8de07ad23d4ebfbd00eb04c4deabb322ab939931205082756680d",
+    "gpus": 32,
+    "seed": 1470003,
+    "state_id": "p32-global_hotspot-r80-1470003",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 137,
+    "file": "plans/p32-global_hotspot-r80-1470003-gnn_hot.json",
+    "sha256": "a82a82380118e79e2e76693c5fea7474db040112263dc07c54fdb2144f76e4b7",
+    "gpus": 32,
+    "seed": 1470003,
+    "state_id": "p32-global_hotspot-r80-1470003",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 138,
+    "file": "plans/p32-global_hotspot-r80-1470003-sinkhorn_fixed.json",
+    "sha256": "089c1076f2837dbba50ce22dc3090413d62ad93c9b01ae7c6da08e33e2cd0274",
+    "gpus": 32,
+    "seed": 1470003,
+    "state_id": "p32-global_hotspot-r80-1470003",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 139,
+    "file": "plans/p32-global_hotspot-r80-1470003-lazarus_inspired.json",
+    "sha256": "9742f45dfbe3d379260c5bc63c3efc6b860c314ddc5131727991f45a1134a20e",
+    "gpus": 32,
+    "seed": 1470003,
+    "state_id": "p32-global_hotspot-r80-1470003",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 140,
+    "file": "plans/p32-global_hotspot-r80-1470004-gnn_mixed.json",
+    "sha256": "c9e33e86fd687ee4a4d3fc0a23c9cce72467d0098a0449f8b2d0d2470444cbf5",
+    "gpus": 32,
+    "seed": 1470004,
+    "state_id": "p32-global_hotspot-r80-1470004",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 141,
+    "file": "plans/p32-global_hotspot-r80-1470004-gnn_hot.json",
+    "sha256": "3b48274e40b7d76187313e75a132ffe2f117f824371db3465c7f13538091c8aa",
+    "gpus": 32,
+    "seed": 1470004,
+    "state_id": "p32-global_hotspot-r80-1470004",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 142,
+    "file": "plans/p32-global_hotspot-r80-1470004-sinkhorn_fixed.json",
+    "sha256": "31e81bb722149c57934c6e1adfed3a053872c0ffe8724fc7e6b7bebe573049a4",
+    "gpus": 32,
+    "seed": 1470004,
+    "state_id": "p32-global_hotspot-r80-1470004",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 143,
+    "file": "plans/p32-global_hotspot-r80-1470004-lazarus_inspired.json",
+    "sha256": "24a5e8f0691db70d08216dd4068b93db37fa99ca0d09da249ec3894422c87cdf",
+    "gpus": 32,
+    "seed": 1470004,
+    "state_id": "p32-global_hotspot-r80-1470004",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 144,
+    "file": "plans/p32-global_hotspot-r80-1470005-gnn_mixed.json",
+    "sha256": "fcdbe2937808c3bbcd1cb40c0318b1e3df7b74515e71210c32e9012cdd135f91",
+    "gpus": 32,
+    "seed": 1470005,
+    "state_id": "p32-global_hotspot-r80-1470005",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 145,
+    "file": "plans/p32-global_hotspot-r80-1470005-gnn_hot.json",
+    "sha256": "f0c47a11a52c6cb484fd1e5b981e9602793a0cfc14f191e07cce640393b34138",
+    "gpus": 32,
+    "seed": 1470005,
+    "state_id": "p32-global_hotspot-r80-1470005",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 146,
+    "file": "plans/p32-global_hotspot-r80-1470005-sinkhorn_fixed.json",
+    "sha256": "012ff2e7e033af566d7e184fae2d5e821508dea3787b25b83c10c937a405b3c1",
+    "gpus": 32,
+    "seed": 1470005,
+    "state_id": "p32-global_hotspot-r80-1470005",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 147,
+    "file": "plans/p32-global_hotspot-r80-1470005-lazarus_inspired.json",
+    "sha256": "77bed3e4ce9a78f0ca1f3a77cf5302ce0e2076e5f3cf73bcfcc13fc84b9ff53e",
+    "gpus": 32,
+    "seed": 1470005,
+    "state_id": "p32-global_hotspot-r80-1470005",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 148,
+    "file": "plans/p32-global_hotspot-r80-1470006-gnn_mixed.json",
+    "sha256": "5df38ad87fb2bdb5399f720e7a6c8c70318e3f1f97452477fa3be1e576fd2b04",
+    "gpus": 32,
+    "seed": 1470006,
+    "state_id": "p32-global_hotspot-r80-1470006",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 149,
+    "file": "plans/p32-global_hotspot-r80-1470006-gnn_hot.json",
+    "sha256": "c0720234bde8609e1f12b434024170aa3f06fbe2e0c777a4294bdcb958f52f3f",
+    "gpus": 32,
+    "seed": 1470006,
+    "state_id": "p32-global_hotspot-r80-1470006",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 150,
+    "file": "plans/p32-global_hotspot-r80-1470006-sinkhorn_fixed.json",
+    "sha256": "fc27e4308f65cb8fd24616921af793508a4783e08f98f88245ff5c7199ac7aea",
+    "gpus": 32,
+    "seed": 1470006,
+    "state_id": "p32-global_hotspot-r80-1470006",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 151,
+    "file": "plans/p32-global_hotspot-r80-1470006-lazarus_inspired.json",
+    "sha256": "71b5a311f91983d5bf38551d4caf537be4e743119bb5ef6dd54d17365e9186e7",
+    "gpus": 32,
+    "seed": 1470006,
+    "state_id": "p32-global_hotspot-r80-1470006",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 152,
+    "file": "plans/p32-global_hotspot-r80-1470007-gnn_mixed.json",
+    "sha256": "55c338c9e8659aa08b9e273504dfe24e8e0cee4815ddb0b8a0f0ad0852bfb1fb",
+    "gpus": 32,
+    "seed": 1470007,
+    "state_id": "p32-global_hotspot-r80-1470007",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 153,
+    "file": "plans/p32-global_hotspot-r80-1470007-gnn_hot.json",
+    "sha256": "64cf92dbf6e78934fef708d865fff55291217816c8f8beb6ca36f2d7eae451c7",
+    "gpus": 32,
+    "seed": 1470007,
+    "state_id": "p32-global_hotspot-r80-1470007",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 154,
+    "file": "plans/p32-global_hotspot-r80-1470007-sinkhorn_fixed.json",
+    "sha256": "05750ee31f2b8dedb6fcc98746d79d3a3a756adfaa96a96c2f56199fa0dd6b58",
+    "gpus": 32,
+    "seed": 1470007,
+    "state_id": "p32-global_hotspot-r80-1470007",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 155,
+    "file": "plans/p32-global_hotspot-r80-1470007-lazarus_inspired.json",
+    "sha256": "8050dad4df10d47617288da8452c681f02b10e0f4d7c7aa596aabccb5555b469",
+    "gpus": 32,
+    "seed": 1470007,
+    "state_id": "p32-global_hotspot-r80-1470007",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 156,
+    "file": "plans/p32-global_hotspot-r80-1470008-gnn_mixed.json",
+    "sha256": "7f3d2dc94c9c59ff4caeb1c2c1b97523e4fedf19a02700af5b78f7ba01238a59",
+    "gpus": 32,
+    "seed": 1470008,
+    "state_id": "p32-global_hotspot-r80-1470008",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 157,
+    "file": "plans/p32-global_hotspot-r80-1470008-gnn_hot.json",
+    "sha256": "e3e191bb41d1cb10240fd2fb7368a071148e3c62e2bf90af22b5f014c43a74cd",
+    "gpus": 32,
+    "seed": 1470008,
+    "state_id": "p32-global_hotspot-r80-1470008",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 158,
+    "file": "plans/p32-global_hotspot-r80-1470008-sinkhorn_fixed.json",
+    "sha256": "540150a109d06087f6c09bfa72bdbc2bcdd7077efcb640acbcf0caa7db0ee225",
+    "gpus": 32,
+    "seed": 1470008,
+    "state_id": "p32-global_hotspot-r80-1470008",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 159,
+    "file": "plans/p32-global_hotspot-r80-1470008-lazarus_inspired.json",
+    "sha256": "73c3284a2abc68af9a85f72d7b0e65221acee64f667dcad7b0609ee881dc6d26",
+    "gpus": 32,
+    "seed": 1470008,
+    "state_id": "p32-global_hotspot-r80-1470008",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 160,
+    "file": "plans/p32-global_hotspot-r80-1470009-gnn_mixed.json",
+    "sha256": "60f91dc711884fdec5afc6f5b5fa1124950c52630c50da6d3a356d522c0acc74",
+    "gpus": 32,
+    "seed": 1470009,
+    "state_id": "p32-global_hotspot-r80-1470009",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 161,
+    "file": "plans/p32-global_hotspot-r80-1470009-gnn_hot.json",
+    "sha256": "3ae373be97ddd4c0668fb95cae9d0f2542d563c4e309c1fbf74c796dfd1f7173",
+    "gpus": 32,
+    "seed": 1470009,
+    "state_id": "p32-global_hotspot-r80-1470009",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 162,
+    "file": "plans/p32-global_hotspot-r80-1470009-sinkhorn_fixed.json",
+    "sha256": "d28144f945d42091f03273f026e617eb62be8d85f574dcaf3db1dbce7c5c039b",
+    "gpus": 32,
+    "seed": 1470009,
+    "state_id": "p32-global_hotspot-r80-1470009",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 163,
+    "file": "plans/p32-global_hotspot-r80-1470009-lazarus_inspired.json",
+    "sha256": "7a90478c665ef02d6f13a8f11e5e082dc41b592d9ea04f33d522335814028b86",
+    "gpus": 32,
+    "seed": 1470009,
+    "state_id": "p32-global_hotspot-r80-1470009",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 164,
+    "file": "plans/p32-global_hotspot-r80-1470010-gnn_mixed.json",
+    "sha256": "e3876ddf894a5c7a735cfea6c72e2aadc090e1a29730e6c43290c382c015bc76",
+    "gpus": 32,
+    "seed": 1470010,
+    "state_id": "p32-global_hotspot-r80-1470010",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 165,
+    "file": "plans/p32-global_hotspot-r80-1470010-gnn_hot.json",
+    "sha256": "0eef35d9be1287fd5e44f38487f80060def2af530fa89487ac64bd36ef3d7f1a",
+    "gpus": 32,
+    "seed": 1470010,
+    "state_id": "p32-global_hotspot-r80-1470010",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 166,
+    "file": "plans/p32-global_hotspot-r80-1470010-sinkhorn_fixed.json",
+    "sha256": "d979ffb9fac32f9cc4def753892f494400fd3e6e8bdd50be62e43e33b3967671",
+    "gpus": 32,
+    "seed": 1470010,
+    "state_id": "p32-global_hotspot-r80-1470010",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 167,
+    "file": "plans/p32-global_hotspot-r80-1470010-lazarus_inspired.json",
+    "sha256": "78ec91ca66527701ac4cad97956c2b6cef771e4ad7ac3efbbd823da32d978c70",
+    "gpus": 32,
+    "seed": 1470010,
+    "state_id": "p32-global_hotspot-r80-1470010",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 168,
+    "file": "plans/p32-global_hotspot-r80-1470011-gnn_mixed.json",
+    "sha256": "306a3b8a6b4a597be17e283ce0aaa659d1b70b0ed790daf86b5aa16ff6430785",
+    "gpus": 32,
+    "seed": 1470011,
+    "state_id": "p32-global_hotspot-r80-1470011",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 169,
+    "file": "plans/p32-global_hotspot-r80-1470011-gnn_hot.json",
+    "sha256": "07efc034a31d48f342749c6e7a579531f8b861889213e437f7962752fd1a306a",
+    "gpus": 32,
+    "seed": 1470011,
+    "state_id": "p32-global_hotspot-r80-1470011",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 170,
+    "file": "plans/p32-global_hotspot-r80-1470011-sinkhorn_fixed.json",
+    "sha256": "35f4ccaf465a78b30529bef768789bff16ce8c3750a233ec6d00c442cd22a8ae",
+    "gpus": 32,
+    "seed": 1470011,
+    "state_id": "p32-global_hotspot-r80-1470011",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 171,
+    "file": "plans/p32-global_hotspot-r80-1470011-lazarus_inspired.json",
+    "sha256": "f2863ce8b8c2b6ca6c504d16ef03e8feb55958dd53ff3814705be02e117c6727",
+    "gpus": 32,
+    "seed": 1470011,
+    "state_id": "p32-global_hotspot-r80-1470011",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 172,
+    "file": "plans/p32-global_hotspot-r80-1470012-gnn_mixed.json",
+    "sha256": "3443ac74178a95555db82beffaaba2a52d0380abf7eecae649b7e98b717f8949",
+    "gpus": 32,
+    "seed": 1470012,
+    "state_id": "p32-global_hotspot-r80-1470012",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 173,
+    "file": "plans/p32-global_hotspot-r80-1470012-gnn_hot.json",
+    "sha256": "1f0e0d2d9aab62a2b22add33c3f4dfcb439419b9f5947a7e729c32245fcb992e",
+    "gpus": 32,
+    "seed": 1470012,
+    "state_id": "p32-global_hotspot-r80-1470012",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 174,
+    "file": "plans/p32-global_hotspot-r80-1470012-sinkhorn_fixed.json",
+    "sha256": "7ccb2810a41b0710c9a22379dbbbd720ed09d7c5e51b0854a844cc5ce3f71b14",
+    "gpus": 32,
+    "seed": 1470012,
+    "state_id": "p32-global_hotspot-r80-1470012",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 175,
+    "file": "plans/p32-global_hotspot-r80-1470012-lazarus_inspired.json",
+    "sha256": "ff8bfe785c2320e557c66e1478b26957550ef6102df518f5fc3ed4c89e0cc001",
+    "gpus": 32,
+    "seed": 1470012,
+    "state_id": "p32-global_hotspot-r80-1470012",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 176,
+    "file": "plans/p32-global_hotspot-r80-1470013-gnn_mixed.json",
+    "sha256": "d89a244e3638ea8160555f652089305c875ca34edac4092c283c020ee80134a8",
+    "gpus": 32,
+    "seed": 1470013,
+    "state_id": "p32-global_hotspot-r80-1470013",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 177,
+    "file": "plans/p32-global_hotspot-r80-1470013-gnn_hot.json",
+    "sha256": "8efd9f438b09ce28c907d8318560da68176b0c5e3cb2cd2b2d019983d982bf87",
+    "gpus": 32,
+    "seed": 1470013,
+    "state_id": "p32-global_hotspot-r80-1470013",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 178,
+    "file": "plans/p32-global_hotspot-r80-1470013-sinkhorn_fixed.json",
+    "sha256": "0fd416e08523b335612a731cf538e4d3dde877dd9af0346d94782ae11f4aebc6",
+    "gpus": 32,
+    "seed": 1470013,
+    "state_id": "p32-global_hotspot-r80-1470013",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 179,
+    "file": "plans/p32-global_hotspot-r80-1470013-lazarus_inspired.json",
+    "sha256": "302e71d265ec9d9f8eecf23c7dec0557263dc0f0edee3783fc44bdc4000440e7",
+    "gpus": 32,
+    "seed": 1470013,
+    "state_id": "p32-global_hotspot-r80-1470013",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 180,
+    "file": "plans/p32-global_hotspot-r80-1470014-gnn_mixed.json",
+    "sha256": "c7433988c3165e702a540ffa4fbe9f597cf851e06748fc13552bfae42ba46e6e",
+    "gpus": 32,
+    "seed": 1470014,
+    "state_id": "p32-global_hotspot-r80-1470014",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 181,
+    "file": "plans/p32-global_hotspot-r80-1470014-gnn_hot.json",
+    "sha256": "81de32009200f51a0bb19f11996755b28d8d891bc536a4d2bbd63a7b5bf870c5",
+    "gpus": 32,
+    "seed": 1470014,
+    "state_id": "p32-global_hotspot-r80-1470014",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 182,
+    "file": "plans/p32-global_hotspot-r80-1470014-sinkhorn_fixed.json",
+    "sha256": "ce4eb1d087b0361354012c7b1b9d588da617a72a0f69d746aa50c349cdce4e8c",
+    "gpus": 32,
+    "seed": 1470014,
+    "state_id": "p32-global_hotspot-r80-1470014",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 183,
+    "file": "plans/p32-global_hotspot-r80-1470014-lazarus_inspired.json",
+    "sha256": "bb2a2517cb1bbef8cdd9c1c9cd7b33010726c6971238c2877115d92a11c0b87b",
+    "gpus": 32,
+    "seed": 1470014,
+    "state_id": "p32-global_hotspot-r80-1470014",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 184,
+    "file": "plans/p32-global_hotspot-r80-1470015-gnn_mixed.json",
+    "sha256": "1bc9648856381fb8c59d6775bd2125ec2a1c6cde5ee6dacce4dd5f9eb0474280",
+    "gpus": 32,
+    "seed": 1470015,
+    "state_id": "p32-global_hotspot-r80-1470015",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 185,
+    "file": "plans/p32-global_hotspot-r80-1470015-gnn_hot.json",
+    "sha256": "3888a6957a4f665de8201e824e2762db0f770816997a291108e51a1db84367d2",
+    "gpus": 32,
+    "seed": 1470015,
+    "state_id": "p32-global_hotspot-r80-1470015",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 186,
+    "file": "plans/p32-global_hotspot-r80-1470015-sinkhorn_fixed.json",
+    "sha256": "1cff6a8a93ab9ec79fc77f8c887a4a567afc6706f17263ce299fcefa7b9059ac",
+    "gpus": 32,
+    "seed": 1470015,
+    "state_id": "p32-global_hotspot-r80-1470015",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 187,
+    "file": "plans/p32-global_hotspot-r80-1470015-lazarus_inspired.json",
+    "sha256": "94cda728f0c7a51528a0b5b5ca5b07563943528a432a03b1604a5968fd6869c0",
+    "gpus": 32,
+    "seed": 1470015,
+    "state_id": "p32-global_hotspot-r80-1470015",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 188,
+    "file": "plans/p32-global_hotspot-r80-1470016-gnn_mixed.json",
+    "sha256": "63d97c85386540a4ddcbe54936a5845f19540441bc76939dd8420478a8e7de36",
+    "gpus": 32,
+    "seed": 1470016,
+    "state_id": "p32-global_hotspot-r80-1470016",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 189,
+    "file": "plans/p32-global_hotspot-r80-1470016-gnn_hot.json",
+    "sha256": "507cf3bb794ca03a02f3912e019f04f33b150353315c1d6030ffaed85feb2de4",
+    "gpus": 32,
+    "seed": 1470016,
+    "state_id": "p32-global_hotspot-r80-1470016",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 190,
+    "file": "plans/p32-global_hotspot-r80-1470016-sinkhorn_fixed.json",
+    "sha256": "18f17932fec00720dcd673799a413b5c68f9d03b5ada7f2a8fe74ed841fd5a4d",
+    "gpus": 32,
+    "seed": 1470016,
+    "state_id": "p32-global_hotspot-r80-1470016",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 191,
+    "file": "plans/p32-global_hotspot-r80-1470016-lazarus_inspired.json",
+    "sha256": "da100841a8608155e9d0f42e8e5a681e6daae47833ea4190ddb792058d8b4a25",
+    "gpus": 32,
+    "seed": 1470016,
+    "state_id": "p32-global_hotspot-r80-1470016",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 192,
+    "file": "plans/p64-global_hotspot-r40-1470001-gnn_mixed.json",
+    "sha256": "13b8c4b121fe6b68fcdc5ed34341ef480c47373128730e9e26ef23ebecee6329",
+    "gpus": 64,
+    "seed": 1470001,
+    "state_id": "p64-global_hotspot-r40-1470001",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 193,
+    "file": "plans/p64-global_hotspot-r40-1470001-gnn_hot.json",
+    "sha256": "8ce4a6c972d409ee9312eded2835e26cfa7114fbafb67ba24927d803fbcc669a",
+    "gpus": 64,
+    "seed": 1470001,
+    "state_id": "p64-global_hotspot-r40-1470001",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 194,
+    "file": "plans/p64-global_hotspot-r40-1470001-sinkhorn_fixed.json",
+    "sha256": "2c92c4d71d6b47c266ad5fa4a0c59b2257923c2c3a5e69610a64f95996a37bb7",
+    "gpus": 64,
+    "seed": 1470001,
+    "state_id": "p64-global_hotspot-r40-1470001",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 195,
+    "file": "plans/p64-global_hotspot-r40-1470001-lazarus_inspired.json",
+    "sha256": "6b270c75b970a59b42a606e8f5d9d8c578d9337e5f54ec8f948949c4c644ba3d",
+    "gpus": 64,
+    "seed": 1470001,
+    "state_id": "p64-global_hotspot-r40-1470001",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 196,
+    "file": "plans/p64-global_hotspot-r40-1470002-gnn_mixed.json",
+    "sha256": "98dd4be243e164e58ca068754c5f8ec93e84804a99968f6c403d319f787b04f9",
+    "gpus": 64,
+    "seed": 1470002,
+    "state_id": "p64-global_hotspot-r40-1470002",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 197,
+    "file": "plans/p64-global_hotspot-r40-1470002-gnn_hot.json",
+    "sha256": "7c4527896c0f5f20c9c5a050c8e42f72d11e77056e5331239fa8e7e35de74210",
+    "gpus": 64,
+    "seed": 1470002,
+    "state_id": "p64-global_hotspot-r40-1470002",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 198,
+    "file": "plans/p64-global_hotspot-r40-1470002-sinkhorn_fixed.json",
+    "sha256": "ba80fa193a748b35a8f1d349cdfccdea1999374c74ac3e6e560b5b31e362bb28",
+    "gpus": 64,
+    "seed": 1470002,
+    "state_id": "p64-global_hotspot-r40-1470002",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 199,
+    "file": "plans/p64-global_hotspot-r40-1470002-lazarus_inspired.json",
+    "sha256": "4246f8eee8becf9969924a3a5342c4b2a23eaceaf8af9b9b50d1fa8b9701a90d",
+    "gpus": 64,
+    "seed": 1470002,
+    "state_id": "p64-global_hotspot-r40-1470002",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 200,
+    "file": "plans/p64-global_hotspot-r40-1470003-gnn_mixed.json",
+    "sha256": "70e5aeaa667c2abda82df5eb3c7730e872892e1f5c32d2b86a0d1eefbc021ddc",
+    "gpus": 64,
+    "seed": 1470003,
+    "state_id": "p64-global_hotspot-r40-1470003",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 201,
+    "file": "plans/p64-global_hotspot-r40-1470003-gnn_hot.json",
+    "sha256": "8fbdfd0af1a8cf7e3baca1afe23a31b34d860327a63cc4cf223d57a897db950b",
+    "gpus": 64,
+    "seed": 1470003,
+    "state_id": "p64-global_hotspot-r40-1470003",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 202,
+    "file": "plans/p64-global_hotspot-r40-1470003-sinkhorn_fixed.json",
+    "sha256": "4661793443d1652b934d78e1a443d38e49faa81e2bd132349ab222785bd7348a",
+    "gpus": 64,
+    "seed": 1470003,
+    "state_id": "p64-global_hotspot-r40-1470003",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 203,
+    "file": "plans/p64-global_hotspot-r40-1470003-lazarus_inspired.json",
+    "sha256": "a5017d213ada96970f65d50781d520ad91409de4d4c9ab1e488e8cdfa486b3a2",
+    "gpus": 64,
+    "seed": 1470003,
+    "state_id": "p64-global_hotspot-r40-1470003",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 204,
+    "file": "plans/p64-global_hotspot-r40-1470004-gnn_mixed.json",
+    "sha256": "ad0be4364afb51d9b3c176be9e0d52ce657b1dae343f13a53105db380cf2abf4",
+    "gpus": 64,
+    "seed": 1470004,
+    "state_id": "p64-global_hotspot-r40-1470004",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 205,
+    "file": "plans/p64-global_hotspot-r40-1470004-gnn_hot.json",
+    "sha256": "3938dd2cff8a90889ae1ab5804ef81287e3f0ffddee204174abd5aeff2ef6d0b",
+    "gpus": 64,
+    "seed": 1470004,
+    "state_id": "p64-global_hotspot-r40-1470004",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 206,
+    "file": "plans/p64-global_hotspot-r40-1470004-sinkhorn_fixed.json",
+    "sha256": "c141d9a3144957d37c314930afcb4c668847c8623f948ce5c268a8ab45120378",
+    "gpus": 64,
+    "seed": 1470004,
+    "state_id": "p64-global_hotspot-r40-1470004",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 207,
+    "file": "plans/p64-global_hotspot-r40-1470004-lazarus_inspired.json",
+    "sha256": "3ae8c5d6f3c9b32392555e313590a092e26b20a54084b662288fc1e1b114f943",
+    "gpus": 64,
+    "seed": 1470004,
+    "state_id": "p64-global_hotspot-r40-1470004",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 208,
+    "file": "plans/p64-global_hotspot-r40-1470005-gnn_mixed.json",
+    "sha256": "9397bda7d347d934d48f776ac8b568a54f7cf6afe46573bedc65575a174fcf3d",
+    "gpus": 64,
+    "seed": 1470005,
+    "state_id": "p64-global_hotspot-r40-1470005",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 209,
+    "file": "plans/p64-global_hotspot-r40-1470005-gnn_hot.json",
+    "sha256": "6c430e18bc687731a7361118ef7f7e6abbdeaf2a34258345b2e5bb1430e3eafd",
+    "gpus": 64,
+    "seed": 1470005,
+    "state_id": "p64-global_hotspot-r40-1470005",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 210,
+    "file": "plans/p64-global_hotspot-r40-1470005-sinkhorn_fixed.json",
+    "sha256": "b492b37e7533295511347d83990b8d3b526c802009bc0d3642e7c6dcc7566af9",
+    "gpus": 64,
+    "seed": 1470005,
+    "state_id": "p64-global_hotspot-r40-1470005",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 211,
+    "file": "plans/p64-global_hotspot-r40-1470005-lazarus_inspired.json",
+    "sha256": "2791a9d49e01fa8074b4b501b79461ddd85bd90da51858d7a90c87e0a0883310",
+    "gpus": 64,
+    "seed": 1470005,
+    "state_id": "p64-global_hotspot-r40-1470005",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 212,
+    "file": "plans/p64-global_hotspot-r40-1470006-gnn_mixed.json",
+    "sha256": "e6c84b5a028bcdccea74781a7e1775ac7ee6d0286240a3def11940093b87a9ec",
+    "gpus": 64,
+    "seed": 1470006,
+    "state_id": "p64-global_hotspot-r40-1470006",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 213,
+    "file": "plans/p64-global_hotspot-r40-1470006-gnn_hot.json",
+    "sha256": "38db758d4c2d4ff2ebf4237b761f6c945ee30d745f1762a2e3d0650ecf289de6",
+    "gpus": 64,
+    "seed": 1470006,
+    "state_id": "p64-global_hotspot-r40-1470006",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 214,
+    "file": "plans/p64-global_hotspot-r40-1470006-sinkhorn_fixed.json",
+    "sha256": "9d0d9ccabfa9b4eb689f72a4c1b23939fb8b5b9bba33b03f0b35e5f80a5f79ba",
+    "gpus": 64,
+    "seed": 1470006,
+    "state_id": "p64-global_hotspot-r40-1470006",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 215,
+    "file": "plans/p64-global_hotspot-r40-1470006-lazarus_inspired.json",
+    "sha256": "978d1da7eecb3d5a20b750f491e1da44b123f99ba32c868c7d0a9b7f4fd33d6a",
+    "gpus": 64,
+    "seed": 1470006,
+    "state_id": "p64-global_hotspot-r40-1470006",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 216,
+    "file": "plans/p64-global_hotspot-r40-1470007-gnn_mixed.json",
+    "sha256": "f3ba6537ab20485fad310abdb9d8edd62540eaa0d92338e117ed261989d18de2",
+    "gpus": 64,
+    "seed": 1470007,
+    "state_id": "p64-global_hotspot-r40-1470007",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 217,
+    "file": "plans/p64-global_hotspot-r40-1470007-gnn_hot.json",
+    "sha256": "fab49e716e3a99daff27caad07d301144732b8fa04c936e83add3a41dba69e4d",
+    "gpus": 64,
+    "seed": 1470007,
+    "state_id": "p64-global_hotspot-r40-1470007",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 218,
+    "file": "plans/p64-global_hotspot-r40-1470007-sinkhorn_fixed.json",
+    "sha256": "4718352748a3b68a9a9230835cc14874a476c87fc3f6ed5a0f4d0300606b18c8",
+    "gpus": 64,
+    "seed": 1470007,
+    "state_id": "p64-global_hotspot-r40-1470007",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 219,
+    "file": "plans/p64-global_hotspot-r40-1470007-lazarus_inspired.json",
+    "sha256": "28ca2bed3949265a124b545ca264b4e659de42bf2d1b6d4555f0aaf8daf5baed",
+    "gpus": 64,
+    "seed": 1470007,
+    "state_id": "p64-global_hotspot-r40-1470007",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 220,
+    "file": "plans/p64-global_hotspot-r40-1470008-gnn_mixed.json",
+    "sha256": "f083a8668239066ff83b5f7941b1230f5343af67be64370d35957e1c6ee751ea",
+    "gpus": 64,
+    "seed": 1470008,
+    "state_id": "p64-global_hotspot-r40-1470008",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 221,
+    "file": "plans/p64-global_hotspot-r40-1470008-gnn_hot.json",
+    "sha256": "9dfbabe94e823202e90d1baf0167d1ff84c91ff69da2467deb2a4032831470a9",
+    "gpus": 64,
+    "seed": 1470008,
+    "state_id": "p64-global_hotspot-r40-1470008",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 222,
+    "file": "plans/p64-global_hotspot-r40-1470008-sinkhorn_fixed.json",
+    "sha256": "a23618fd52f3b6aabc99ad82352a0022b61d355470a1b3958eab4881f960e6ce",
+    "gpus": 64,
+    "seed": 1470008,
+    "state_id": "p64-global_hotspot-r40-1470008",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 223,
+    "file": "plans/p64-global_hotspot-r40-1470008-lazarus_inspired.json",
+    "sha256": "11ce8f7eddd5d24d23d1638415be65f3c01a918c0e6b1f6091a35b4c09d3d3ad",
+    "gpus": 64,
+    "seed": 1470008,
+    "state_id": "p64-global_hotspot-r40-1470008",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 224,
+    "file": "plans/p64-global_hotspot-r40-1470009-gnn_mixed.json",
+    "sha256": "4af2a28ddeb2c7a5f2a0f7400d7d94ee620c901dba9ef2967e3e1b88ee28882d",
+    "gpus": 64,
+    "seed": 1470009,
+    "state_id": "p64-global_hotspot-r40-1470009",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 225,
+    "file": "plans/p64-global_hotspot-r40-1470009-gnn_hot.json",
+    "sha256": "35ceab5a58889307f603402c96580eec51ad88828433a132e4d53acbed6d0c7a",
+    "gpus": 64,
+    "seed": 1470009,
+    "state_id": "p64-global_hotspot-r40-1470009",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 226,
+    "file": "plans/p64-global_hotspot-r40-1470009-sinkhorn_fixed.json",
+    "sha256": "053c4c1634d01af9a68493aa647ed245535c96daadc18ecc278078f0642fea96",
+    "gpus": 64,
+    "seed": 1470009,
+    "state_id": "p64-global_hotspot-r40-1470009",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 227,
+    "file": "plans/p64-global_hotspot-r40-1470009-lazarus_inspired.json",
+    "sha256": "bf060044e7e85d9d3ef98285514b28532baa915837e342454feb0ab1b508c066",
+    "gpus": 64,
+    "seed": 1470009,
+    "state_id": "p64-global_hotspot-r40-1470009",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 228,
+    "file": "plans/p64-global_hotspot-r40-1470010-gnn_mixed.json",
+    "sha256": "c324a952a4a266bf2a1586b68ef9febcdb294e841e99aa2b57d4025d2fdd8c43",
+    "gpus": 64,
+    "seed": 1470010,
+    "state_id": "p64-global_hotspot-r40-1470010",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 229,
+    "file": "plans/p64-global_hotspot-r40-1470010-gnn_hot.json",
+    "sha256": "496be7eb1534e7d22d37ca00e16eb6fe0d00dc8014b7e29e25a50bcf7e5abe75",
+    "gpus": 64,
+    "seed": 1470010,
+    "state_id": "p64-global_hotspot-r40-1470010",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 230,
+    "file": "plans/p64-global_hotspot-r40-1470010-sinkhorn_fixed.json",
+    "sha256": "9e7a19e882df2b192942ba31b7b406b9adaaaf5ba0d100fe3a76f0d3163621eb",
+    "gpus": 64,
+    "seed": 1470010,
+    "state_id": "p64-global_hotspot-r40-1470010",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 231,
+    "file": "plans/p64-global_hotspot-r40-1470010-lazarus_inspired.json",
+    "sha256": "7fca35d128bb695aa468fd73e3d4046a403e2b642b55108adb56a7e806f6afb3",
+    "gpus": 64,
+    "seed": 1470010,
+    "state_id": "p64-global_hotspot-r40-1470010",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 232,
+    "file": "plans/p64-global_hotspot-r40-1470011-gnn_mixed.json",
+    "sha256": "b620917ff5de988c1a4b8dd2c3bef66c2e4c09a76582806c6b8abeb1f8b124c5",
+    "gpus": 64,
+    "seed": 1470011,
+    "state_id": "p64-global_hotspot-r40-1470011",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 233,
+    "file": "plans/p64-global_hotspot-r40-1470011-gnn_hot.json",
+    "sha256": "2483be79b3f5e1025b075de80058c8ed2ac06ae5ef7be825eb07f8e3233c22ab",
+    "gpus": 64,
+    "seed": 1470011,
+    "state_id": "p64-global_hotspot-r40-1470011",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 234,
+    "file": "plans/p64-global_hotspot-r40-1470011-sinkhorn_fixed.json",
+    "sha256": "b555c242600a818d2310e53ea6f2e4adaf9fc814c0388471fbf866bb009a20af",
+    "gpus": 64,
+    "seed": 1470011,
+    "state_id": "p64-global_hotspot-r40-1470011",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 235,
+    "file": "plans/p64-global_hotspot-r40-1470011-lazarus_inspired.json",
+    "sha256": "c0bcbad3a351f0f42c46fa2670c7b4d38eda66ea830eeee59823be1d85eae8f8",
+    "gpus": 64,
+    "seed": 1470011,
+    "state_id": "p64-global_hotspot-r40-1470011",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 236,
+    "file": "plans/p64-global_hotspot-r40-1470012-gnn_mixed.json",
+    "sha256": "5702bc4713e11d2d664208eb1040e37a2d4fff10f31e2a6c2ebca0845f81b4c5",
+    "gpus": 64,
+    "seed": 1470012,
+    "state_id": "p64-global_hotspot-r40-1470012",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 237,
+    "file": "plans/p64-global_hotspot-r40-1470012-gnn_hot.json",
+    "sha256": "b3c448f2ce8ab321420c471766b1d6570ac52a92a990a29eaf804b605544024d",
+    "gpus": 64,
+    "seed": 1470012,
+    "state_id": "p64-global_hotspot-r40-1470012",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 238,
+    "file": "plans/p64-global_hotspot-r40-1470012-sinkhorn_fixed.json",
+    "sha256": "92eab6bdaff4e015132d978630b20f6137cb368c6d26a34b11e4f47e7e2f3563",
+    "gpus": 64,
+    "seed": 1470012,
+    "state_id": "p64-global_hotspot-r40-1470012",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 239,
+    "file": "plans/p64-global_hotspot-r40-1470012-lazarus_inspired.json",
+    "sha256": "6574b8f8b38bb86f97b6b5fe3f137b0dc56aeb0d7c69c16b24f05f3f22bb0225",
+    "gpus": 64,
+    "seed": 1470012,
+    "state_id": "p64-global_hotspot-r40-1470012",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 240,
+    "file": "plans/p64-global_hotspot-r40-1470013-gnn_mixed.json",
+    "sha256": "178beca2e212d05611aa3e41e047bee3b4a1f8213e8d578d5dbce717af7d9a0d",
+    "gpus": 64,
+    "seed": 1470013,
+    "state_id": "p64-global_hotspot-r40-1470013",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 241,
+    "file": "plans/p64-global_hotspot-r40-1470013-gnn_hot.json",
+    "sha256": "4de11d9d01189da5af705e41342172e89be29eaebd6b5db316be9ca29477d1e5",
+    "gpus": 64,
+    "seed": 1470013,
+    "state_id": "p64-global_hotspot-r40-1470013",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 242,
+    "file": "plans/p64-global_hotspot-r40-1470013-sinkhorn_fixed.json",
+    "sha256": "f6b6c539213ccf43733170a95f1db625fa6e84572e1ea8f4daa48d7793288469",
+    "gpus": 64,
+    "seed": 1470013,
+    "state_id": "p64-global_hotspot-r40-1470013",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 243,
+    "file": "plans/p64-global_hotspot-r40-1470013-lazarus_inspired.json",
+    "sha256": "9e4675eb29ffdc37da374c1d66a9909ea9bac4ab0d3d18e0aff0e56a999d2fdc",
+    "gpus": 64,
+    "seed": 1470013,
+    "state_id": "p64-global_hotspot-r40-1470013",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 244,
+    "file": "plans/p64-global_hotspot-r40-1470014-gnn_mixed.json",
+    "sha256": "f85037b6e2a2641c8293dfe544a1c0d08886cdf9b83646ec3b7a0201aebf8e85",
+    "gpus": 64,
+    "seed": 1470014,
+    "state_id": "p64-global_hotspot-r40-1470014",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 245,
+    "file": "plans/p64-global_hotspot-r40-1470014-gnn_hot.json",
+    "sha256": "a7751852aa4bee73c7c16009a3f544b88cdba87432eb38894e3001a315c12f97",
+    "gpus": 64,
+    "seed": 1470014,
+    "state_id": "p64-global_hotspot-r40-1470014",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 246,
+    "file": "plans/p64-global_hotspot-r40-1470014-sinkhorn_fixed.json",
+    "sha256": "39895983c00b41c414b6a7f0a6c25f945c254676aea71b0c83563c29280fcf08",
+    "gpus": 64,
+    "seed": 1470014,
+    "state_id": "p64-global_hotspot-r40-1470014",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 247,
+    "file": "plans/p64-global_hotspot-r40-1470014-lazarus_inspired.json",
+    "sha256": "1845d3294ce6f02cef80e6e72fff9dad864bf5e14fa0f2feeab4c5e73e660353",
+    "gpus": 64,
+    "seed": 1470014,
+    "state_id": "p64-global_hotspot-r40-1470014",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 248,
+    "file": "plans/p64-global_hotspot-r40-1470015-gnn_mixed.json",
+    "sha256": "12d456063e3bd0065842ebbcab105bd53ac8aea174b5eb1e52456677daa6abfb",
+    "gpus": 64,
+    "seed": 1470015,
+    "state_id": "p64-global_hotspot-r40-1470015",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 249,
+    "file": "plans/p64-global_hotspot-r40-1470015-gnn_hot.json",
+    "sha256": "27593ee05efcb7d68b4e86cb390bde29f0d8e9ec00fce465b9ba5f3971a26746",
+    "gpus": 64,
+    "seed": 1470015,
+    "state_id": "p64-global_hotspot-r40-1470015",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 250,
+    "file": "plans/p64-global_hotspot-r40-1470015-sinkhorn_fixed.json",
+    "sha256": "bf742973f955679010a7f62a026a7a7abb6a4de0c534b1862d5d0641c1bb9d0f",
+    "gpus": 64,
+    "seed": 1470015,
+    "state_id": "p64-global_hotspot-r40-1470015",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 251,
+    "file": "plans/p64-global_hotspot-r40-1470015-lazarus_inspired.json",
+    "sha256": "e2df5c7a9b34b47a1cb6cbb2bd7008b7fd333b702791714556e70635cdbba4af",
+    "gpus": 64,
+    "seed": 1470015,
+    "state_id": "p64-global_hotspot-r40-1470015",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 252,
+    "file": "plans/p64-global_hotspot-r40-1470016-gnn_mixed.json",
+    "sha256": "d520c575fbc80bc00f24e4b6f3086b3850ea2b4a17778bdeb9c901ee12d7acf4",
+    "gpus": 64,
+    "seed": 1470016,
+    "state_id": "p64-global_hotspot-r40-1470016",
+    "arm": "gnn_mixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 253,
+    "file": "plans/p64-global_hotspot-r40-1470016-gnn_hot.json",
+    "sha256": "a75e8f367f136c7310c828724db966c996cb19ffefc69bc180c65c2b34a23577",
+    "gpus": 64,
+    "seed": 1470016,
+    "state_id": "p64-global_hotspot-r40-1470016",
+    "arm": "gnn_hot",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 254,
+    "file": "plans/p64-global_hotspot-r40-1470016-sinkhorn_fixed.json",
+    "sha256": "501608c61feeb7a81c62765be138878613e65f5b598adb3152353cdffdfe265f",
+    "gpus": 64,
+    "seed": 1470016,
+    "state_id": "p64-global_hotspot-r40-1470016",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 255,
+    "file": "plans/p64-global_hotspot-r40-1470016-lazarus_inspired.json",
+    "sha256": "c570b47a87543d9957f1137123295aef1e06e257ed664aee2b9a72bbf0343348",
+    "gpus": 64,
+    "seed": 1470016,
+    "state_id": "p64-global_hotspot-r40-1470016",
+    "arm": "lazarus_inspired",
+    "rho": 0.4
+  },
+  {
+    "plan_id": 256,
+    "file": "plans/p64-global_hotspot-r60-1470001-gnn_mixed.json",
+    "sha256": "ae4b3aefab60d410515ccdade56ce4f617b04b26a11c2899551f19a6b930c58d",
+    "gpus": 64,
+    "seed": 1470001,
+    "state_id": "p64-global_hotspot-r60-1470001",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 257,
+    "file": "plans/p64-global_hotspot-r60-1470001-gnn_hot.json",
+    "sha256": "76a782541d958a6f72d115f72685784afd6df65e75910ba7e132120277cdc475",
+    "gpus": 64,
+    "seed": 1470001,
+    "state_id": "p64-global_hotspot-r60-1470001",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 258,
+    "file": "plans/p64-global_hotspot-r60-1470001-sinkhorn_fixed.json",
+    "sha256": "12adc980697f01708cf51ae094a05bdfe04dbdc4b0549e43c5906670b6a5365e",
+    "gpus": 64,
+    "seed": 1470001,
+    "state_id": "p64-global_hotspot-r60-1470001",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 259,
+    "file": "plans/p64-global_hotspot-r60-1470001-lazarus_inspired.json",
+    "sha256": "c343545b1e3602f1fd88c6212481bfa9176140bb9d89caccccc59e386fffb41b",
+    "gpus": 64,
+    "seed": 1470001,
+    "state_id": "p64-global_hotspot-r60-1470001",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 260,
+    "file": "plans/p64-global_hotspot-r60-1470002-gnn_mixed.json",
+    "sha256": "ae6ffc0e3849c51e8c1ad2c984aa0cd40ad167e1ffbb7d6296415c656f976269",
+    "gpus": 64,
+    "seed": 1470002,
+    "state_id": "p64-global_hotspot-r60-1470002",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 261,
+    "file": "plans/p64-global_hotspot-r60-1470002-gnn_hot.json",
+    "sha256": "7a527dbfd6b37835c3899435ec97ff271cc4aea5da99ac996ca532eaf2957a6a",
+    "gpus": 64,
+    "seed": 1470002,
+    "state_id": "p64-global_hotspot-r60-1470002",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 262,
+    "file": "plans/p64-global_hotspot-r60-1470002-sinkhorn_fixed.json",
+    "sha256": "d286a89c68e9475879ffdaf208022b61ece14641c63b6b1c5c439e8aa6d32508",
+    "gpus": 64,
+    "seed": 1470002,
+    "state_id": "p64-global_hotspot-r60-1470002",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 263,
+    "file": "plans/p64-global_hotspot-r60-1470002-lazarus_inspired.json",
+    "sha256": "d4eeabc3e4c5a225bd56916676a3cf18ea14251cbd45c4f758f0d7ee8e49798e",
+    "gpus": 64,
+    "seed": 1470002,
+    "state_id": "p64-global_hotspot-r60-1470002",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 264,
+    "file": "plans/p64-global_hotspot-r60-1470003-gnn_mixed.json",
+    "sha256": "d25e2b9b67814bd5efc5f53af4e6b8e64590d1b600bbf8cf4851d78329fd6247",
+    "gpus": 64,
+    "seed": 1470003,
+    "state_id": "p64-global_hotspot-r60-1470003",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 265,
+    "file": "plans/p64-global_hotspot-r60-1470003-gnn_hot.json",
+    "sha256": "5ff3ae4081f42f44f30047cce07217f9bb4011cb8a2cdcd281515a4983211a68",
+    "gpus": 64,
+    "seed": 1470003,
+    "state_id": "p64-global_hotspot-r60-1470003",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 266,
+    "file": "plans/p64-global_hotspot-r60-1470003-sinkhorn_fixed.json",
+    "sha256": "7c55b93fb6ebb65c22462a03188364b6bc66378e7ee7af2c6da75546367648ff",
+    "gpus": 64,
+    "seed": 1470003,
+    "state_id": "p64-global_hotspot-r60-1470003",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 267,
+    "file": "plans/p64-global_hotspot-r60-1470003-lazarus_inspired.json",
+    "sha256": "72f5d4e1ff60722cc579fbdd705bc1a2b0ee8fc215cca67e32372d2a7c134224",
+    "gpus": 64,
+    "seed": 1470003,
+    "state_id": "p64-global_hotspot-r60-1470003",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 268,
+    "file": "plans/p64-global_hotspot-r60-1470004-gnn_mixed.json",
+    "sha256": "95e7683454f1144bf68b50729d2d314c64bfe0ad306260e7660a60ff48207b98",
+    "gpus": 64,
+    "seed": 1470004,
+    "state_id": "p64-global_hotspot-r60-1470004",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 269,
+    "file": "plans/p64-global_hotspot-r60-1470004-gnn_hot.json",
+    "sha256": "d64ea5d8489282ba1fc4830aee88596bf05fec856ed3876a6fb964373ee6e747",
+    "gpus": 64,
+    "seed": 1470004,
+    "state_id": "p64-global_hotspot-r60-1470004",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 270,
+    "file": "plans/p64-global_hotspot-r60-1470004-sinkhorn_fixed.json",
+    "sha256": "98bc724ba9abe7d14f06f4a1c9ae75a1373e24340c4744a6700e906041f8cf5d",
+    "gpus": 64,
+    "seed": 1470004,
+    "state_id": "p64-global_hotspot-r60-1470004",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 271,
+    "file": "plans/p64-global_hotspot-r60-1470004-lazarus_inspired.json",
+    "sha256": "b9e78d82a60e2b47d63a85cf312c0e12622a8f94829e39708236808d098cb581",
+    "gpus": 64,
+    "seed": 1470004,
+    "state_id": "p64-global_hotspot-r60-1470004",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 272,
+    "file": "plans/p64-global_hotspot-r60-1470005-gnn_mixed.json",
+    "sha256": "076bf06c1cbde565c3373f59b284da201f82cb9c9ff2fe34e126edd563b9172d",
+    "gpus": 64,
+    "seed": 1470005,
+    "state_id": "p64-global_hotspot-r60-1470005",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 273,
+    "file": "plans/p64-global_hotspot-r60-1470005-gnn_hot.json",
+    "sha256": "a6239f7c84e438d176efc236f6943723f5a1f32fb2346304d12f35e89cae726f",
+    "gpus": 64,
+    "seed": 1470005,
+    "state_id": "p64-global_hotspot-r60-1470005",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 274,
+    "file": "plans/p64-global_hotspot-r60-1470005-sinkhorn_fixed.json",
+    "sha256": "e1ff333e70db783166e21e63ae9cfc3f22e6f58a2d6fb943ad0c7c89258b695c",
+    "gpus": 64,
+    "seed": 1470005,
+    "state_id": "p64-global_hotspot-r60-1470005",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 275,
+    "file": "plans/p64-global_hotspot-r60-1470005-lazarus_inspired.json",
+    "sha256": "7b13e5588b90cd214ae2f0b8464d9053f23621af67aae33b3d209b671ce73247",
+    "gpus": 64,
+    "seed": 1470005,
+    "state_id": "p64-global_hotspot-r60-1470005",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 276,
+    "file": "plans/p64-global_hotspot-r60-1470006-gnn_mixed.json",
+    "sha256": "ba8e00f012727e03da029b31e5f63e005aa12a8da70685b204334c4731e7d36f",
+    "gpus": 64,
+    "seed": 1470006,
+    "state_id": "p64-global_hotspot-r60-1470006",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 277,
+    "file": "plans/p64-global_hotspot-r60-1470006-gnn_hot.json",
+    "sha256": "d335cbad9604bd4a32931e5a3fc290484323a4fffa2432c93e1a5254652db72f",
+    "gpus": 64,
+    "seed": 1470006,
+    "state_id": "p64-global_hotspot-r60-1470006",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 278,
+    "file": "plans/p64-global_hotspot-r60-1470006-sinkhorn_fixed.json",
+    "sha256": "e1b590d26247339765816865718f9787f672476d72cfe783f459c6924bab9591",
+    "gpus": 64,
+    "seed": 1470006,
+    "state_id": "p64-global_hotspot-r60-1470006",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 279,
+    "file": "plans/p64-global_hotspot-r60-1470006-lazarus_inspired.json",
+    "sha256": "06c7e3e5d391b89e0e94d41cdf9c8b255bf40a475855adf5c90feefc3eec818e",
+    "gpus": 64,
+    "seed": 1470006,
+    "state_id": "p64-global_hotspot-r60-1470006",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 280,
+    "file": "plans/p64-global_hotspot-r60-1470007-gnn_mixed.json",
+    "sha256": "e92f9583e550c6791a83e729fe5281fc5c407b996a2f58d94db489bbaa56c3e0",
+    "gpus": 64,
+    "seed": 1470007,
+    "state_id": "p64-global_hotspot-r60-1470007",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 281,
+    "file": "plans/p64-global_hotspot-r60-1470007-gnn_hot.json",
+    "sha256": "58769a369cd97e4c713f0b740e879ebde6ddd56d8f203b928014fca3e99e1845",
+    "gpus": 64,
+    "seed": 1470007,
+    "state_id": "p64-global_hotspot-r60-1470007",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 282,
+    "file": "plans/p64-global_hotspot-r60-1470007-sinkhorn_fixed.json",
+    "sha256": "d8e40cc0a417dac320fe121692ffc91dcbcef3f548381d8db74b5f6076d29884",
+    "gpus": 64,
+    "seed": 1470007,
+    "state_id": "p64-global_hotspot-r60-1470007",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 283,
+    "file": "plans/p64-global_hotspot-r60-1470007-lazarus_inspired.json",
+    "sha256": "8300302c5b2c90728a9d9a00cba31b8722ca5f0c1cd05cd8b91d085ce7ae62b8",
+    "gpus": 64,
+    "seed": 1470007,
+    "state_id": "p64-global_hotspot-r60-1470007",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 284,
+    "file": "plans/p64-global_hotspot-r60-1470008-gnn_mixed.json",
+    "sha256": "7f45a725143da494ae49cad5ea7e93a423fe8e90291efc2a342409cf1429af60",
+    "gpus": 64,
+    "seed": 1470008,
+    "state_id": "p64-global_hotspot-r60-1470008",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 285,
+    "file": "plans/p64-global_hotspot-r60-1470008-gnn_hot.json",
+    "sha256": "72f68de35ba711bb4c4fb195807d77953b5026d7d7af74fce88ae7a093bb1de8",
+    "gpus": 64,
+    "seed": 1470008,
+    "state_id": "p64-global_hotspot-r60-1470008",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 286,
+    "file": "plans/p64-global_hotspot-r60-1470008-sinkhorn_fixed.json",
+    "sha256": "65829020a6c8fb601650387a81ecd2c73e2c014e89046c065fbad4aac842ba9f",
+    "gpus": 64,
+    "seed": 1470008,
+    "state_id": "p64-global_hotspot-r60-1470008",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 287,
+    "file": "plans/p64-global_hotspot-r60-1470008-lazarus_inspired.json",
+    "sha256": "9bde88ec826610ae393b17ea1dec032adbee5241877906cac14bec9d04dac6ae",
+    "gpus": 64,
+    "seed": 1470008,
+    "state_id": "p64-global_hotspot-r60-1470008",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 288,
+    "file": "plans/p64-global_hotspot-r60-1470009-gnn_mixed.json",
+    "sha256": "b789734421df7e1c469e20d78118f958318a5057f6eeee25250926b3f6f9b2f4",
+    "gpus": 64,
+    "seed": 1470009,
+    "state_id": "p64-global_hotspot-r60-1470009",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 289,
+    "file": "plans/p64-global_hotspot-r60-1470009-gnn_hot.json",
+    "sha256": "0f1ab22870aa015213659f10d2d809ef1f77833d32372b727af5f9ec4b8eb38c",
+    "gpus": 64,
+    "seed": 1470009,
+    "state_id": "p64-global_hotspot-r60-1470009",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 290,
+    "file": "plans/p64-global_hotspot-r60-1470009-sinkhorn_fixed.json",
+    "sha256": "8be7be51af453d7d59ef3ff3fb56b7e6d0f2bbca07b126cbb86395b219a7a61c",
+    "gpus": 64,
+    "seed": 1470009,
+    "state_id": "p64-global_hotspot-r60-1470009",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 291,
+    "file": "plans/p64-global_hotspot-r60-1470009-lazarus_inspired.json",
+    "sha256": "31d1d01e5a365e3c7dc1192f0c9df558af9bb6bab1302444ec491b0a7b7f284d",
+    "gpus": 64,
+    "seed": 1470009,
+    "state_id": "p64-global_hotspot-r60-1470009",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 292,
+    "file": "plans/p64-global_hotspot-r60-1470010-gnn_mixed.json",
+    "sha256": "9dfe745b962ee18eb73c67b8ecc177f1487d785f2ca802c1c0db66fda409b292",
+    "gpus": 64,
+    "seed": 1470010,
+    "state_id": "p64-global_hotspot-r60-1470010",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 293,
+    "file": "plans/p64-global_hotspot-r60-1470010-gnn_hot.json",
+    "sha256": "ced5b7ffeffc1ef3f527c85e3dd4ca61bb6aa12778ba28b893b026ad236b5ec8",
+    "gpus": 64,
+    "seed": 1470010,
+    "state_id": "p64-global_hotspot-r60-1470010",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 294,
+    "file": "plans/p64-global_hotspot-r60-1470010-sinkhorn_fixed.json",
+    "sha256": "3148970e05c6e2f466c1a886e6548e02910040d95a769b81a763a90af588c906",
+    "gpus": 64,
+    "seed": 1470010,
+    "state_id": "p64-global_hotspot-r60-1470010",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 295,
+    "file": "plans/p64-global_hotspot-r60-1470010-lazarus_inspired.json",
+    "sha256": "86bcf8806ee49eacb5f7e779e15945938e4bec617d15374be7ac640b525b5f82",
+    "gpus": 64,
+    "seed": 1470010,
+    "state_id": "p64-global_hotspot-r60-1470010",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 296,
+    "file": "plans/p64-global_hotspot-r60-1470011-gnn_mixed.json",
+    "sha256": "19fbc9e6bc2d213c5920dd1483fd6830f30e76c0b7f6f47a3b4173e129678d18",
+    "gpus": 64,
+    "seed": 1470011,
+    "state_id": "p64-global_hotspot-r60-1470011",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 297,
+    "file": "plans/p64-global_hotspot-r60-1470011-gnn_hot.json",
+    "sha256": "dc586dd5f42df2053a04c178bc66e6afa90d418e390dde64e8d50557679adf37",
+    "gpus": 64,
+    "seed": 1470011,
+    "state_id": "p64-global_hotspot-r60-1470011",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 298,
+    "file": "plans/p64-global_hotspot-r60-1470011-sinkhorn_fixed.json",
+    "sha256": "b9d150b9032962ee243f0b0a7fedfec88253aee02a79cfbc8c0295f56754fc87",
+    "gpus": 64,
+    "seed": 1470011,
+    "state_id": "p64-global_hotspot-r60-1470011",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 299,
+    "file": "plans/p64-global_hotspot-r60-1470011-lazarus_inspired.json",
+    "sha256": "8ef1c107dd5089ccb30ec6e487369648f5bc6fe51cbf06f0cb1f15cefac996d0",
+    "gpus": 64,
+    "seed": 1470011,
+    "state_id": "p64-global_hotspot-r60-1470011",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 300,
+    "file": "plans/p64-global_hotspot-r60-1470012-gnn_mixed.json",
+    "sha256": "74d8f98ab1d1daf49820ee5712aa8a21e09410500fafe029817e76110849e165",
+    "gpus": 64,
+    "seed": 1470012,
+    "state_id": "p64-global_hotspot-r60-1470012",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 301,
+    "file": "plans/p64-global_hotspot-r60-1470012-gnn_hot.json",
+    "sha256": "7b57abaa9d5287420594a98dbc5dcc805ffc08b7ddb028f93d05184db7982875",
+    "gpus": 64,
+    "seed": 1470012,
+    "state_id": "p64-global_hotspot-r60-1470012",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 302,
+    "file": "plans/p64-global_hotspot-r60-1470012-sinkhorn_fixed.json",
+    "sha256": "1741a62e25171a772e3ecfd7a1c92032670429748b0da361342d59d23e819e34",
+    "gpus": 64,
+    "seed": 1470012,
+    "state_id": "p64-global_hotspot-r60-1470012",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 303,
+    "file": "plans/p64-global_hotspot-r60-1470012-lazarus_inspired.json",
+    "sha256": "094964f753cea555d91a18935cd8f304a703a1337ae5e57eb7159d0a9844ffdb",
+    "gpus": 64,
+    "seed": 1470012,
+    "state_id": "p64-global_hotspot-r60-1470012",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 304,
+    "file": "plans/p64-global_hotspot-r60-1470013-gnn_mixed.json",
+    "sha256": "9f1a56bc11090c4c841fa4728f64cdc133f1eafe6ccc337e02591fe9b2eaf3a3",
+    "gpus": 64,
+    "seed": 1470013,
+    "state_id": "p64-global_hotspot-r60-1470013",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 305,
+    "file": "plans/p64-global_hotspot-r60-1470013-gnn_hot.json",
+    "sha256": "cfb674f6c670212bbddade248c2f88a46b90bd1004d98272f550d0c2c0acae74",
+    "gpus": 64,
+    "seed": 1470013,
+    "state_id": "p64-global_hotspot-r60-1470013",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 306,
+    "file": "plans/p64-global_hotspot-r60-1470013-sinkhorn_fixed.json",
+    "sha256": "d90e02ae49fc90ca89f7099eed45b202c15baf9cc61402a7d582effab65eee63",
+    "gpus": 64,
+    "seed": 1470013,
+    "state_id": "p64-global_hotspot-r60-1470013",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 307,
+    "file": "plans/p64-global_hotspot-r60-1470013-lazarus_inspired.json",
+    "sha256": "e906bf07a7e27c66e5f0459d3f17253e10d01f3dce9ea266709256d032779852",
+    "gpus": 64,
+    "seed": 1470013,
+    "state_id": "p64-global_hotspot-r60-1470013",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 308,
+    "file": "plans/p64-global_hotspot-r60-1470014-gnn_mixed.json",
+    "sha256": "728cf245695fc2245dcf5f2b199f2bfa5212c674309804237823c3a6afb64bb4",
+    "gpus": 64,
+    "seed": 1470014,
+    "state_id": "p64-global_hotspot-r60-1470014",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 309,
+    "file": "plans/p64-global_hotspot-r60-1470014-gnn_hot.json",
+    "sha256": "bac732624ff3cd2085baab3c50a647b1cf68aa535e0ec33ab3898bd11bda3cf5",
+    "gpus": 64,
+    "seed": 1470014,
+    "state_id": "p64-global_hotspot-r60-1470014",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 310,
+    "file": "plans/p64-global_hotspot-r60-1470014-sinkhorn_fixed.json",
+    "sha256": "66459d673da54b10d24f3007c8b5b683747ab420cf8d5ae2a6edf21767b856d1",
+    "gpus": 64,
+    "seed": 1470014,
+    "state_id": "p64-global_hotspot-r60-1470014",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 311,
+    "file": "plans/p64-global_hotspot-r60-1470014-lazarus_inspired.json",
+    "sha256": "ae548c70f463e5adf1a8480f003a4775240df73bacfd8396dc09a53f651b25d4",
+    "gpus": 64,
+    "seed": 1470014,
+    "state_id": "p64-global_hotspot-r60-1470014",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 312,
+    "file": "plans/p64-global_hotspot-r60-1470015-gnn_mixed.json",
+    "sha256": "c78a80943fcee7bc70e8338628bd6efcc216bda5dc26f76faae7200e9efccdff",
+    "gpus": 64,
+    "seed": 1470015,
+    "state_id": "p64-global_hotspot-r60-1470015",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 313,
+    "file": "plans/p64-global_hotspot-r60-1470015-gnn_hot.json",
+    "sha256": "01a6b51388b2d7d280487ed5fd7be6938484d46a4ae687656c46d898bb00ac9b",
+    "gpus": 64,
+    "seed": 1470015,
+    "state_id": "p64-global_hotspot-r60-1470015",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 314,
+    "file": "plans/p64-global_hotspot-r60-1470015-sinkhorn_fixed.json",
+    "sha256": "ab88cfecb8e04e5f046b546d9188caf4eadec39aa3effb6a171a6073860a77ed",
+    "gpus": 64,
+    "seed": 1470015,
+    "state_id": "p64-global_hotspot-r60-1470015",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 315,
+    "file": "plans/p64-global_hotspot-r60-1470015-lazarus_inspired.json",
+    "sha256": "62318e2133560db575cfea020eb73c6ec94f5782a4e0723616b1a7cc9de2e126",
+    "gpus": 64,
+    "seed": 1470015,
+    "state_id": "p64-global_hotspot-r60-1470015",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 316,
+    "file": "plans/p64-global_hotspot-r60-1470016-gnn_mixed.json",
+    "sha256": "008e4fc4900f163073b478cff19c2e38e3fdaced2d3f47d499d354d2e8801e36",
+    "gpus": 64,
+    "seed": 1470016,
+    "state_id": "p64-global_hotspot-r60-1470016",
+    "arm": "gnn_mixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 317,
+    "file": "plans/p64-global_hotspot-r60-1470016-gnn_hot.json",
+    "sha256": "012238ae03d44afc8d2b83ccc95b2d335c74a3cbd1612bb208a85066e298fa0b",
+    "gpus": 64,
+    "seed": 1470016,
+    "state_id": "p64-global_hotspot-r60-1470016",
+    "arm": "gnn_hot",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 318,
+    "file": "plans/p64-global_hotspot-r60-1470016-sinkhorn_fixed.json",
+    "sha256": "e6c924ad8ee3ff33097a89bb8578ae0b7ea1e33df52b2138677ae5b508e5abbf",
+    "gpus": 64,
+    "seed": 1470016,
+    "state_id": "p64-global_hotspot-r60-1470016",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 319,
+    "file": "plans/p64-global_hotspot-r60-1470016-lazarus_inspired.json",
+    "sha256": "8466412a46df4914d56dd8c86cc776abaca5ab0e7125a454b80dcc82651ab40a",
+    "gpus": 64,
+    "seed": 1470016,
+    "state_id": "p64-global_hotspot-r60-1470016",
+    "arm": "lazarus_inspired",
+    "rho": 0.6
+  },
+  {
+    "plan_id": 320,
+    "file": "plans/p64-global_hotspot-r80-1470001-gnn_mixed.json",
+    "sha256": "31ba78c3f4035b4943ffe89f63adf921b55b92cf224a6de3984f0750ec4a3632",
+    "gpus": 64,
+    "seed": 1470001,
+    "state_id": "p64-global_hotspot-r80-1470001",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 321,
+    "file": "plans/p64-global_hotspot-r80-1470001-gnn_hot.json",
+    "sha256": "c3e6d9a036fe531d74b5fe5a40ef2cd236b65bf81490644e3e003298b91f5eed",
+    "gpus": 64,
+    "seed": 1470001,
+    "state_id": "p64-global_hotspot-r80-1470001",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 322,
+    "file": "plans/p64-global_hotspot-r80-1470001-sinkhorn_fixed.json",
+    "sha256": "4af23e3d7d90324e74f498767288550e781d44b22538e5eeb9466012c336315b",
+    "gpus": 64,
+    "seed": 1470001,
+    "state_id": "p64-global_hotspot-r80-1470001",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 323,
+    "file": "plans/p64-global_hotspot-r80-1470001-lazarus_inspired.json",
+    "sha256": "4c74ad18b8861f90a7b009230b6a79e219bfe642fd062439101b939a8794886a",
+    "gpus": 64,
+    "seed": 1470001,
+    "state_id": "p64-global_hotspot-r80-1470001",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 324,
+    "file": "plans/p64-global_hotspot-r80-1470002-gnn_mixed.json",
+    "sha256": "0c057596b75b49e7b85189fcc4fecbab047c3e218051c189f2999cf2011ce41e",
+    "gpus": 64,
+    "seed": 1470002,
+    "state_id": "p64-global_hotspot-r80-1470002",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 325,
+    "file": "plans/p64-global_hotspot-r80-1470002-gnn_hot.json",
+    "sha256": "0f9bba748cefd4dbb16595a256fd48b9a6db83849369baf91c16f2390f2d45e2",
+    "gpus": 64,
+    "seed": 1470002,
+    "state_id": "p64-global_hotspot-r80-1470002",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 326,
+    "file": "plans/p64-global_hotspot-r80-1470002-sinkhorn_fixed.json",
+    "sha256": "026b8cd4c56bf55d67e334b477235d97794e1d26058176581c68125f878ee04b",
+    "gpus": 64,
+    "seed": 1470002,
+    "state_id": "p64-global_hotspot-r80-1470002",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 327,
+    "file": "plans/p64-global_hotspot-r80-1470002-lazarus_inspired.json",
+    "sha256": "73a326313f7c786d7de913972f48f1748e9747b41883c1648ac4b53558591de3",
+    "gpus": 64,
+    "seed": 1470002,
+    "state_id": "p64-global_hotspot-r80-1470002",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 328,
+    "file": "plans/p64-global_hotspot-r80-1470003-gnn_mixed.json",
+    "sha256": "c7a20256c444a6b4c5a3183b3bd57da8b8781c10ce76f76b030961fb4a891d0c",
+    "gpus": 64,
+    "seed": 1470003,
+    "state_id": "p64-global_hotspot-r80-1470003",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 329,
+    "file": "plans/p64-global_hotspot-r80-1470003-gnn_hot.json",
+    "sha256": "b9d8cf4078428dd723ca5f2aab46f1bacb87a0da171dd20e0b49cf62b1c0927f",
+    "gpus": 64,
+    "seed": 1470003,
+    "state_id": "p64-global_hotspot-r80-1470003",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 330,
+    "file": "plans/p64-global_hotspot-r80-1470003-sinkhorn_fixed.json",
+    "sha256": "be83a6697447d297d41074bcf514e0005d304fed4c8c42666cc4ad2b0d98a8b5",
+    "gpus": 64,
+    "seed": 1470003,
+    "state_id": "p64-global_hotspot-r80-1470003",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 331,
+    "file": "plans/p64-global_hotspot-r80-1470003-lazarus_inspired.json",
+    "sha256": "d55d30a734b55b1feb57ab1160d7f624d0a983f53676d1444c4e676cb19977d2",
+    "gpus": 64,
+    "seed": 1470003,
+    "state_id": "p64-global_hotspot-r80-1470003",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 332,
+    "file": "plans/p64-global_hotspot-r80-1470004-gnn_mixed.json",
+    "sha256": "13fbff592730d8d8c905481f32ceeeae983f35ffa1df777dc4d4fcf6e1930ba2",
+    "gpus": 64,
+    "seed": 1470004,
+    "state_id": "p64-global_hotspot-r80-1470004",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 333,
+    "file": "plans/p64-global_hotspot-r80-1470004-gnn_hot.json",
+    "sha256": "dcfe37693476e0ba3035fbbcbaadaf68ab80e68d93d156b2a02bab015dd31266",
+    "gpus": 64,
+    "seed": 1470004,
+    "state_id": "p64-global_hotspot-r80-1470004",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 334,
+    "file": "plans/p64-global_hotspot-r80-1470004-sinkhorn_fixed.json",
+    "sha256": "0849e16f287c981a1edaf29bf78369753aa3f7e836bcce36ab2316621efdc2cc",
+    "gpus": 64,
+    "seed": 1470004,
+    "state_id": "p64-global_hotspot-r80-1470004",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 335,
+    "file": "plans/p64-global_hotspot-r80-1470004-lazarus_inspired.json",
+    "sha256": "3b32145eb416f2297af8b8914a4e3229f8d5ad9deae568369bc2de7b7f19712b",
+    "gpus": 64,
+    "seed": 1470004,
+    "state_id": "p64-global_hotspot-r80-1470004",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 336,
+    "file": "plans/p64-global_hotspot-r80-1470005-gnn_mixed.json",
+    "sha256": "071035a854a8bb8e5c09812271197f409af221347a657d89b2362ab3edb05849",
+    "gpus": 64,
+    "seed": 1470005,
+    "state_id": "p64-global_hotspot-r80-1470005",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 337,
+    "file": "plans/p64-global_hotspot-r80-1470005-gnn_hot.json",
+    "sha256": "d209f5e3ae9f55f6cf20d64e5c6abc35c2cbe54714183a83a14235cf6b1f8587",
+    "gpus": 64,
+    "seed": 1470005,
+    "state_id": "p64-global_hotspot-r80-1470005",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 338,
+    "file": "plans/p64-global_hotspot-r80-1470005-sinkhorn_fixed.json",
+    "sha256": "40c0e23b55042e9d09523aa72b0cebe8cc27ee8a84a159c7e5938cddf32ba0b5",
+    "gpus": 64,
+    "seed": 1470005,
+    "state_id": "p64-global_hotspot-r80-1470005",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 339,
+    "file": "plans/p64-global_hotspot-r80-1470005-lazarus_inspired.json",
+    "sha256": "7feafbeb0e23e99ca3fd67e29444c63f51948adf3d7fed5ce29de8e687026074",
+    "gpus": 64,
+    "seed": 1470005,
+    "state_id": "p64-global_hotspot-r80-1470005",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 340,
+    "file": "plans/p64-global_hotspot-r80-1470006-gnn_mixed.json",
+    "sha256": "c00fc45613582daa49cfa13f09ae41c94a2b3161991d8bacc80eaff6989850f3",
+    "gpus": 64,
+    "seed": 1470006,
+    "state_id": "p64-global_hotspot-r80-1470006",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 341,
+    "file": "plans/p64-global_hotspot-r80-1470006-gnn_hot.json",
+    "sha256": "88e8b6122ace09742b7bad6721efaafe8429184d7a0757ccf9e690564131a3f1",
+    "gpus": 64,
+    "seed": 1470006,
+    "state_id": "p64-global_hotspot-r80-1470006",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 342,
+    "file": "plans/p64-global_hotspot-r80-1470006-sinkhorn_fixed.json",
+    "sha256": "dc6d4545339dca756056a96e168d044706312a90b26f105c527b648e8f4e2a20",
+    "gpus": 64,
+    "seed": 1470006,
+    "state_id": "p64-global_hotspot-r80-1470006",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 343,
+    "file": "plans/p64-global_hotspot-r80-1470006-lazarus_inspired.json",
+    "sha256": "122b898d25e8329fa2405fd76c2c06b9518466b66d086a39386acabbbe077f91",
+    "gpus": 64,
+    "seed": 1470006,
+    "state_id": "p64-global_hotspot-r80-1470006",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 344,
+    "file": "plans/p64-global_hotspot-r80-1470007-gnn_mixed.json",
+    "sha256": "92cc07bf6a15c3907ac4d72152313624bf2f16255b01c00cf8a73d52323c8221",
+    "gpus": 64,
+    "seed": 1470007,
+    "state_id": "p64-global_hotspot-r80-1470007",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 345,
+    "file": "plans/p64-global_hotspot-r80-1470007-gnn_hot.json",
+    "sha256": "c47f987f42daf1e9c2b48b002cea63047ecd0e6dab3240b2d989977bd40ffa11",
+    "gpus": 64,
+    "seed": 1470007,
+    "state_id": "p64-global_hotspot-r80-1470007",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 346,
+    "file": "plans/p64-global_hotspot-r80-1470007-sinkhorn_fixed.json",
+    "sha256": "94977a243390627d50cfdc7fc8f93ef92f9ebd0060d50f62f12368ed52156613",
+    "gpus": 64,
+    "seed": 1470007,
+    "state_id": "p64-global_hotspot-r80-1470007",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 347,
+    "file": "plans/p64-global_hotspot-r80-1470007-lazarus_inspired.json",
+    "sha256": "93dd50f8c021666c1da26288112618517564a44d053b53ab26ad116e0f8d53ef",
+    "gpus": 64,
+    "seed": 1470007,
+    "state_id": "p64-global_hotspot-r80-1470007",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 348,
+    "file": "plans/p64-global_hotspot-r80-1470008-gnn_mixed.json",
+    "sha256": "a6985c9a029ce48d95ba72b33499bdc18207ab44702df14cef509838d3e0d34c",
+    "gpus": 64,
+    "seed": 1470008,
+    "state_id": "p64-global_hotspot-r80-1470008",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 349,
+    "file": "plans/p64-global_hotspot-r80-1470008-gnn_hot.json",
+    "sha256": "c10d6b6f7eb4ed26d1b3afb734b2bd1507e2c8158b85f0a0b7c13a1c474ba79f",
+    "gpus": 64,
+    "seed": 1470008,
+    "state_id": "p64-global_hotspot-r80-1470008",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 350,
+    "file": "plans/p64-global_hotspot-r80-1470008-sinkhorn_fixed.json",
+    "sha256": "753f83e27fde51a4c3de3d712c01ed92c75edd0a22eeb0783e3f0315d89aa71f",
+    "gpus": 64,
+    "seed": 1470008,
+    "state_id": "p64-global_hotspot-r80-1470008",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 351,
+    "file": "plans/p64-global_hotspot-r80-1470008-lazarus_inspired.json",
+    "sha256": "671fad7305cdcf004b323533d753be4dd6248ab777effe7858d7cda1fc7c6dad",
+    "gpus": 64,
+    "seed": 1470008,
+    "state_id": "p64-global_hotspot-r80-1470008",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 352,
+    "file": "plans/p64-global_hotspot-r80-1470009-gnn_mixed.json",
+    "sha256": "36c5917131022ad6549f0b1e45cccd8b4d0af78f7f50c9ea33f58f5379afb82a",
+    "gpus": 64,
+    "seed": 1470009,
+    "state_id": "p64-global_hotspot-r80-1470009",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 353,
+    "file": "plans/p64-global_hotspot-r80-1470009-gnn_hot.json",
+    "sha256": "3defa98dd5be37d1b2f8df83cc74b56664dcf5890f9e61b09c2297dfb3681511",
+    "gpus": 64,
+    "seed": 1470009,
+    "state_id": "p64-global_hotspot-r80-1470009",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 354,
+    "file": "plans/p64-global_hotspot-r80-1470009-sinkhorn_fixed.json",
+    "sha256": "9761fe8c21e8093337b004f6083001170da96753ac99c54abb824401c652603f",
+    "gpus": 64,
+    "seed": 1470009,
+    "state_id": "p64-global_hotspot-r80-1470009",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 355,
+    "file": "plans/p64-global_hotspot-r80-1470009-lazarus_inspired.json",
+    "sha256": "2a20de396b65403f02a23171d310340a3fb2410f253db27b93a6a7ece2f6d90d",
+    "gpus": 64,
+    "seed": 1470009,
+    "state_id": "p64-global_hotspot-r80-1470009",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 356,
+    "file": "plans/p64-global_hotspot-r80-1470010-gnn_mixed.json",
+    "sha256": "15f1a1c2f8d03e7515127f6d41b2cbc93de3a1389312d6dd65976b8c546c1d79",
+    "gpus": 64,
+    "seed": 1470010,
+    "state_id": "p64-global_hotspot-r80-1470010",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 357,
+    "file": "plans/p64-global_hotspot-r80-1470010-gnn_hot.json",
+    "sha256": "4b5ba95b8b5c91b011fd0c04cb549d401a6d1ed40605b690f9c83e9282533af7",
+    "gpus": 64,
+    "seed": 1470010,
+    "state_id": "p64-global_hotspot-r80-1470010",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 358,
+    "file": "plans/p64-global_hotspot-r80-1470010-sinkhorn_fixed.json",
+    "sha256": "4e48af2f9720ff84addafb4d964508522790852efa869ce6d9729d7d0045fc4f",
+    "gpus": 64,
+    "seed": 1470010,
+    "state_id": "p64-global_hotspot-r80-1470010",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 359,
+    "file": "plans/p64-global_hotspot-r80-1470010-lazarus_inspired.json",
+    "sha256": "274ecc40c5a0681121c69d8723cfa2e3ae339887334dad791ff519ea25a0648d",
+    "gpus": 64,
+    "seed": 1470010,
+    "state_id": "p64-global_hotspot-r80-1470010",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 360,
+    "file": "plans/p64-global_hotspot-r80-1470011-gnn_mixed.json",
+    "sha256": "06baa151e08edc1ab1367d2b3d1a162b93b17677f86828640db40b5d5a7f7a11",
+    "gpus": 64,
+    "seed": 1470011,
+    "state_id": "p64-global_hotspot-r80-1470011",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 361,
+    "file": "plans/p64-global_hotspot-r80-1470011-gnn_hot.json",
+    "sha256": "dfa3ee1d4e503991514104f48d5e3054b35e44890d84099f7314f4ddf9c67c51",
+    "gpus": 64,
+    "seed": 1470011,
+    "state_id": "p64-global_hotspot-r80-1470011",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 362,
+    "file": "plans/p64-global_hotspot-r80-1470011-sinkhorn_fixed.json",
+    "sha256": "3130e181b84d01742a35dac3482943577d01df4cb07e6fa30369b63f3e69d1ea",
+    "gpus": 64,
+    "seed": 1470011,
+    "state_id": "p64-global_hotspot-r80-1470011",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 363,
+    "file": "plans/p64-global_hotspot-r80-1470011-lazarus_inspired.json",
+    "sha256": "e07e9ee066c4a39a4a522b403164e8784097caa6697ae125f9ef56452c6f300e",
+    "gpus": 64,
+    "seed": 1470011,
+    "state_id": "p64-global_hotspot-r80-1470011",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 364,
+    "file": "plans/p64-global_hotspot-r80-1470012-gnn_mixed.json",
+    "sha256": "cf56aea6a319a896cdb75fa44dee636012129917a2c5f3cb3666b0143f2cdd6e",
+    "gpus": 64,
+    "seed": 1470012,
+    "state_id": "p64-global_hotspot-r80-1470012",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 365,
+    "file": "plans/p64-global_hotspot-r80-1470012-gnn_hot.json",
+    "sha256": "89c570182241f6d263af9cda7c40e8b8b3ed2fbce7956624c3e2a2677158ad66",
+    "gpus": 64,
+    "seed": 1470012,
+    "state_id": "p64-global_hotspot-r80-1470012",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 366,
+    "file": "plans/p64-global_hotspot-r80-1470012-sinkhorn_fixed.json",
+    "sha256": "ffcd80fdf2eee77c46f1acc18c12079a1f3c1afc3e65627b0c8b842c0b6d383f",
+    "gpus": 64,
+    "seed": 1470012,
+    "state_id": "p64-global_hotspot-r80-1470012",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 367,
+    "file": "plans/p64-global_hotspot-r80-1470012-lazarus_inspired.json",
+    "sha256": "c0bb029b1cea91af2759ef66fd97246303648f7d63274074f6ec9f1eccfaa2f3",
+    "gpus": 64,
+    "seed": 1470012,
+    "state_id": "p64-global_hotspot-r80-1470012",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 368,
+    "file": "plans/p64-global_hotspot-r80-1470013-gnn_mixed.json",
+    "sha256": "7fdc68c17c84b67f578f936a4eaff52ed5259cee479784391ac61be9d5226af8",
+    "gpus": 64,
+    "seed": 1470013,
+    "state_id": "p64-global_hotspot-r80-1470013",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 369,
+    "file": "plans/p64-global_hotspot-r80-1470013-gnn_hot.json",
+    "sha256": "46c20440f2579428174de4e2846dd30f5020daaf9486d086566098346c716644",
+    "gpus": 64,
+    "seed": 1470013,
+    "state_id": "p64-global_hotspot-r80-1470013",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 370,
+    "file": "plans/p64-global_hotspot-r80-1470013-sinkhorn_fixed.json",
+    "sha256": "ed7d3636599831fbdb38674f416c9b6e44ef6a309b37872de3265b74f221a2bc",
+    "gpus": 64,
+    "seed": 1470013,
+    "state_id": "p64-global_hotspot-r80-1470013",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 371,
+    "file": "plans/p64-global_hotspot-r80-1470013-lazarus_inspired.json",
+    "sha256": "343da375e5e46b2402cac84ae47e0cdd769847071895b0ee4904a5c0997ec2ae",
+    "gpus": 64,
+    "seed": 1470013,
+    "state_id": "p64-global_hotspot-r80-1470013",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 372,
+    "file": "plans/p64-global_hotspot-r80-1470014-gnn_mixed.json",
+    "sha256": "2918baefae70f50b56909ee8697e84cf516ac14a8f373b86717922c2dff0692b",
+    "gpus": 64,
+    "seed": 1470014,
+    "state_id": "p64-global_hotspot-r80-1470014",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 373,
+    "file": "plans/p64-global_hotspot-r80-1470014-gnn_hot.json",
+    "sha256": "6c1dbab9032b31426392c50a41204585ef88a7c80e1faa0603025fdfedd37f41",
+    "gpus": 64,
+    "seed": 1470014,
+    "state_id": "p64-global_hotspot-r80-1470014",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 374,
+    "file": "plans/p64-global_hotspot-r80-1470014-sinkhorn_fixed.json",
+    "sha256": "46fe360176c59f8979e5af9bd274960946e1d4c08f4389bdf4ffe97f41c4feb6",
+    "gpus": 64,
+    "seed": 1470014,
+    "state_id": "p64-global_hotspot-r80-1470014",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 375,
+    "file": "plans/p64-global_hotspot-r80-1470014-lazarus_inspired.json",
+    "sha256": "543f717b13ac4c1537e371fb8c276f87b131187dc8d2d0299fc22f4171928385",
+    "gpus": 64,
+    "seed": 1470014,
+    "state_id": "p64-global_hotspot-r80-1470014",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 376,
+    "file": "plans/p64-global_hotspot-r80-1470015-gnn_mixed.json",
+    "sha256": "86c58c3bcb5f908f9585538fa88fe25f4880356f174ce4f200667565bcc68c76",
+    "gpus": 64,
+    "seed": 1470015,
+    "state_id": "p64-global_hotspot-r80-1470015",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 377,
+    "file": "plans/p64-global_hotspot-r80-1470015-gnn_hot.json",
+    "sha256": "fde857cd73493e6369b3483ae382de5e73fcf7ee8d9f5026b6eb22fb01ca8da1",
+    "gpus": 64,
+    "seed": 1470015,
+    "state_id": "p64-global_hotspot-r80-1470015",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 378,
+    "file": "plans/p64-global_hotspot-r80-1470015-sinkhorn_fixed.json",
+    "sha256": "75ce227159ae3e2f8e58916a052ad458b740337032a268b4f99e2b8a15c583fc",
+    "gpus": 64,
+    "seed": 1470015,
+    "state_id": "p64-global_hotspot-r80-1470015",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 379,
+    "file": "plans/p64-global_hotspot-r80-1470015-lazarus_inspired.json",
+    "sha256": "80626414ac11eba62175f7739d7b62558c829bc2cb5f3861823b914e6a89cac6",
+    "gpus": 64,
+    "seed": 1470015,
+    "state_id": "p64-global_hotspot-r80-1470015",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 380,
+    "file": "plans/p64-global_hotspot-r80-1470016-gnn_mixed.json",
+    "sha256": "494ff59303b6f04d2c13f8ae16d375e8e813a282c104c78e4d1d7f6a46b6ee00",
+    "gpus": 64,
+    "seed": 1470016,
+    "state_id": "p64-global_hotspot-r80-1470016",
+    "arm": "gnn_mixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 381,
+    "file": "plans/p64-global_hotspot-r80-1470016-gnn_hot.json",
+    "sha256": "cf540b6cd996a30e629b1360d2612e83587bc770928f821f0a03e66052f789d0",
+    "gpus": 64,
+    "seed": 1470016,
+    "state_id": "p64-global_hotspot-r80-1470016",
+    "arm": "gnn_hot",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 382,
+    "file": "plans/p64-global_hotspot-r80-1470016-sinkhorn_fixed.json",
+    "sha256": "c3490653764a1662086b011acf69af56be8f3ef085e10426053f7e07be4bc392",
+    "gpus": 64,
+    "seed": 1470016,
+    "state_id": "p64-global_hotspot-r80-1470016",
+    "arm": "sinkhorn_fixed",
+    "rho": 0.8
+  },
+  {
+    "plan_id": 383,
+    "file": "plans/p64-global_hotspot-r80-1470016-lazarus_inspired.json",
+    "sha256": "695423f86da4c90c587f740094d0ac815f5b900236156c2ea01d2083d4b20db6",
+    "gpus": 64,
+    "seed": 1470016,
+    "state_id": "p64-global_hotspot-r80-1470016",
+    "arm": "lazarus_inspired",
+    "rho": 0.8
+  }
+]

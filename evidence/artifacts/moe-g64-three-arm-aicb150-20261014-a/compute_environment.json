@@ -1,0 +1,9 @@
+{
+  "device": "NVIDIA GeForce RTX 5090 D v2",
+  "weights": {
+    "model_sha256": "f7ae1cee56a9ea6c5360437b1c0407f8d84816b2cc75470f4e7e5236fa2a07dc",
+    "reader": "stdlib safetensors header+raw contiguous BF16, torch conversion; full file digest checked",
+    "revision": "ffec3c35bdfd97a06f0b4cd5fcc92cd9b1584445"
+  },
+  "scope": "150 matched legalG64 states: frozen100+50 predeclared additions; shared450-plan compute and rotated planning; logical64rank packet replay plus real5090D-v2 Expert kernels"
+}

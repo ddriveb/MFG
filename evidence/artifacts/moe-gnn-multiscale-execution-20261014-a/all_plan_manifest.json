@@ -1,0 +1,5186 @@
+[
+  {
+    "plan_id": 0,
+    "file": "plans/p16-balanced-1350001-gnn4.json",
+    "sha256": "1ea72d95fa5b2e9d37ceed9dffbbc291cdbb1a9af1b3535d14ecd0c4b3c0dc97",
+    "gpus": 16,
+    "seed": 1350001,
+    "state_id": "p16-balanced-1350001",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 1,
+    "file": "plans/p16-balanced-1350001-sinkhorn_fixed.json",
+    "sha256": "6dbae1c1724ed78774618af4a91677e3cc72ce31ba89b76128b2a432829e2611",
+    "gpus": 16,
+    "seed": 1350001,
+    "state_id": "p16-balanced-1350001",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 2,
+    "file": "plans/p16-balanced-1350001-lazarus_inspired.json",
+    "sha256": "337ce40a030e7e884f4504990cc629181bc90141403351b0d511c84b7567f923",
+    "gpus": 16,
+    "seed": 1350001,
+    "state_id": "p16-balanced-1350001",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 3,
+    "file": "plans/p16-balanced-1350002-gnn4.json",
+    "sha256": "2d83255d15e87f86c15bb7996f379867b65d6b31adc56512de19f328a28ac453",
+    "gpus": 16,
+    "seed": 1350002,
+    "state_id": "p16-balanced-1350002",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 4,
+    "file": "plans/p16-balanced-1350002-sinkhorn_fixed.json",
+    "sha256": "327e6ceb988ae0edd660a2421a94b4f2a079935abae1325b00badf8f09b0c2db",
+    "gpus": 16,
+    "seed": 1350002,
+    "state_id": "p16-balanced-1350002",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 5,
+    "file": "plans/p16-balanced-1350002-lazarus_inspired.json",
+    "sha256": "a7373e566e1a68d2c0c0917fc084cdf58411c19b7d6c73325e982a363826bab8",
+    "gpus": 16,
+    "seed": 1350002,
+    "state_id": "p16-balanced-1350002",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 6,
+    "file": "plans/p16-balanced-1350003-gnn4.json",
+    "sha256": "d8259ded21088a41fd0e5e6aea06eeaa3d4ffd7b18a24258f74de625f349cabe",
+    "gpus": 16,
+    "seed": 1350003,
+    "state_id": "p16-balanced-1350003",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 7,
+    "file": "plans/p16-balanced-1350003-sinkhorn_fixed.json",
+    "sha256": "7303169c2b6d1ca7f8c984e7802660a367b8a18731dd98961ff6f5132731194a",
+    "gpus": 16,
+    "seed": 1350003,
+    "state_id": "p16-balanced-1350003",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 8,
+    "file": "plans/p16-balanced-1350003-lazarus_inspired.json",
+    "sha256": "7660612ccdbac760da2e95f8ea80f8d7d339db4fa4794182969e4bd94e774c7c",
+    "gpus": 16,
+    "seed": 1350003,
+    "state_id": "p16-balanced-1350003",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 9,
+    "file": "plans/p16-balanced-1350004-gnn4.json",
+    "sha256": "8776452785086eb07a9e73f4614b020935c5ef2ac7a0be1ac3e3d3e2f2957025",
+    "gpus": 16,
+    "seed": 1350004,
+    "state_id": "p16-balanced-1350004",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 10,
+    "file": "plans/p16-balanced-1350004-sinkhorn_fixed.json",
+    "sha256": "23cdf0ecd974c466a519b3d953160d1b76495354a9ae656cd9f3f6824e66099a",
+    "gpus": 16,
+    "seed": 1350004,
+    "state_id": "p16-balanced-1350004",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 11,
+    "file": "plans/p16-balanced-1350004-lazarus_inspired.json",
+    "sha256": "acc8c2e48304ee756f72a9892cf8eb7500767f66147927058dd40f0e2715bc01",
+    "gpus": 16,
+    "seed": 1350004,
+    "state_id": "p16-balanced-1350004",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 12,
+    "file": "plans/p16-balanced-1350005-gnn4.json",
+    "sha256": "47ab61a1721bf4aca5940960168ecc014c0a5381368a764c569bc3186ad09a9a",
+    "gpus": 16,
+    "seed": 1350005,
+    "state_id": "p16-balanced-1350005",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 13,
+    "file": "plans/p16-balanced-1350005-sinkhorn_fixed.json",
+    "sha256": "11afcbcad2bb724c155541a41fb91f5964d7154e09a3ca3ca07afd1ec49d2407",
+    "gpus": 16,
+    "seed": 1350005,
+    "state_id": "p16-balanced-1350005",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 14,
+    "file": "plans/p16-balanced-1350005-lazarus_inspired.json",
+    "sha256": "81536329874ece06171c13622288752bd57b20eb9f5a6c4886aa860d934477ec",
+    "gpus": 16,
+    "seed": 1350005,
+    "state_id": "p16-balanced-1350005",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 15,
+    "file": "plans/p16-balanced-1350006-gnn4.json",
+    "sha256": "69736de6bcd5f7c82dd2d253d503c8919b69b8d2fa788b7b421aa6b8e97830d3",
+    "gpus": 16,
+    "seed": 1350006,
+    "state_id": "p16-balanced-1350006",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 16,
+    "file": "plans/p16-balanced-1350006-sinkhorn_fixed.json",
+    "sha256": "46b4f019b72c543f79dfe7a3de105497d74ab47d26c18cbd1f960f86cfc9c161",
+    "gpus": 16,
+    "seed": 1350006,
+    "state_id": "p16-balanced-1350006",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 17,
+    "file": "plans/p16-balanced-1350006-lazarus_inspired.json",
+    "sha256": "a1108d2da2892ed41f9df526e7a5e2903d441c7db844fa864995b0ada893d113",
+    "gpus": 16,
+    "seed": 1350006,
+    "state_id": "p16-balanced-1350006",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 18,
+    "file": "plans/p16-balanced-1350007-gnn4.json",
+    "sha256": "cc4ab47b2cc3d8599c306cd48ea3f967153bdf07c990dc775eecbe77fa96031f",
+    "gpus": 16,
+    "seed": 1350007,
+    "state_id": "p16-balanced-1350007",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 19,
+    "file": "plans/p16-balanced-1350007-sinkhorn_fixed.json",
+    "sha256": "94c18bf9cb81d097479ef0f80c8ed022aee71006f96f2ef274e02824af1b7c8a",
+    "gpus": 16,
+    "seed": 1350007,
+    "state_id": "p16-balanced-1350007",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 20,
+    "file": "plans/p16-balanced-1350007-lazarus_inspired.json",
+    "sha256": "458c2b359a423f13d5fe57c04191e4e12a493a02fa38521e41febe6e053a629a",
+    "gpus": 16,
+    "seed": 1350007,
+    "state_id": "p16-balanced-1350007",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 21,
+    "file": "plans/p16-balanced-1350008-gnn4.json",
+    "sha256": "101419010a9768c3c147ce55b58ed11bb326489eb36f74df8da5f26872c522c3",
+    "gpus": 16,
+    "seed": 1350008,
+    "state_id": "p16-balanced-1350008",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 22,
+    "file": "plans/p16-balanced-1350008-sinkhorn_fixed.json",
+    "sha256": "65945f56e66a0fc4914153ff26985a4d7da80eed231e15464a4ce56bf267db8b",
+    "gpus": 16,
+    "seed": 1350008,
+    "state_id": "p16-balanced-1350008",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 23,
+    "file": "plans/p16-balanced-1350008-lazarus_inspired.json",
+    "sha256": "c8c5aca73f9069aa1e749f9c73325f288da34445bd3f079e9a0b02a6f2c653a4",
+    "gpus": 16,
+    "seed": 1350008,
+    "state_id": "p16-balanced-1350008",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 24,
+    "file": "plans/p16-balanced-1350009-gnn4.json",
+    "sha256": "3618dd376eedfd7db402b64b3a78aee84c6afa23ea3034943278e1b1ef661f02",
+    "gpus": 16,
+    "seed": 1350009,
+    "state_id": "p16-balanced-1350009",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 25,
+    "file": "plans/p16-balanced-1350009-sinkhorn_fixed.json",
+    "sha256": "8c2fb1f0f4792a8f8262f7b98c3427ac602c68ebd5e86c26b128a534792f720f",
+    "gpus": 16,
+    "seed": 1350009,
+    "state_id": "p16-balanced-1350009",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 26,
+    "file": "plans/p16-balanced-1350009-lazarus_inspired.json",
+    "sha256": "18bdc80721823d38e1bf4a8d35030de7034742a9c112cb302a40710e32411d44",
+    "gpus": 16,
+    "seed": 1350009,
+    "state_id": "p16-balanced-1350009",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 27,
+    "file": "plans/p16-balanced-1350010-gnn4.json",
+    "sha256": "728caf951cb04d2e9421ffc44e89de2a3fd4d55631479783c2977f026c63863a",
+    "gpus": 16,
+    "seed": 1350010,
+    "state_id": "p16-balanced-1350010",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 28,
+    "file": "plans/p16-balanced-1350010-sinkhorn_fixed.json",
+    "sha256": "be97fa9fd7bf6cb924f4d4cb80e8caec605a885d5aa97ed392333194609160c0",
+    "gpus": 16,
+    "seed": 1350010,
+    "state_id": "p16-balanced-1350010",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 29,
+    "file": "plans/p16-balanced-1350010-lazarus_inspired.json",
+    "sha256": "671afb75eadd045b973fe721144eaa4d00f5bb08554a3392a0a8089285166ccf",
+    "gpus": 16,
+    "seed": 1350010,
+    "state_id": "p16-balanced-1350010",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 30,
+    "file": "plans/p16-balanced-1350011-gnn4.json",
+    "sha256": "f745f26bdb3db75ec83537c344bb0ae8c75eca74a112e3901751af88240e56c4",
+    "gpus": 16,
+    "seed": 1350011,
+    "state_id": "p16-balanced-1350011",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 31,
+    "file": "plans/p16-balanced-1350011-sinkhorn_fixed.json",
+    "sha256": "c429ab3af1ea310ced397f8553f497ead50c44718866e1131c61352832921047",
+    "gpus": 16,
+    "seed": 1350011,
+    "state_id": "p16-balanced-1350011",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 32,
+    "file": "plans/p16-balanced-1350011-lazarus_inspired.json",
+    "sha256": "41fbda6ee1fedd4610ca2aa41b1335454ca5ea8056b354c0526d2064d91096ae",
+    "gpus": 16,
+    "seed": 1350011,
+    "state_id": "p16-balanced-1350011",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 33,
+    "file": "plans/p16-balanced-1350012-gnn4.json",
+    "sha256": "66915d9a04f6788082fce1a20b9fb291358d1dec662318cd040338dca8573087",
+    "gpus": 16,
+    "seed": 1350012,
+    "state_id": "p16-balanced-1350012",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 34,
+    "file": "plans/p16-balanced-1350012-sinkhorn_fixed.json",
+    "sha256": "cb5b6fbb849bb26f479e1f30c29220a7497583950ed8bb34f13ccdab858d1624",
+    "gpus": 16,
+    "seed": 1350012,
+    "state_id": "p16-balanced-1350012",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 35,
+    "file": "plans/p16-balanced-1350012-lazarus_inspired.json",
+    "sha256": "8d7bee0902db02f34f7895fcc6010892738c32119f91718ee4557316068aa92e",
+    "gpus": 16,
+    "seed": 1350012,
+    "state_id": "p16-balanced-1350012",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 36,
+    "file": "plans/p16-balanced-1350013-gnn4.json",
+    "sha256": "1aec256a706d8d14210abdf210d7aa8221a243d0105073ee8fd1d67c0b8b199e",
+    "gpus": 16,
+    "seed": 1350013,
+    "state_id": "p16-balanced-1350013",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 37,
+    "file": "plans/p16-balanced-1350013-sinkhorn_fixed.json",
+    "sha256": "a4665ce7a6384de6a288e9a65d0e938a030479633097bd28b0d60bad4abe7e3d",
+    "gpus": 16,
+    "seed": 1350013,
+    "state_id": "p16-balanced-1350013",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 38,
+    "file": "plans/p16-balanced-1350013-lazarus_inspired.json",
+    "sha256": "6b10cb3689f4abb1fabbbc14e92c85763ce9faacaf2367ebc3d4926d08f9da5c",
+    "gpus": 16,
+    "seed": 1350013,
+    "state_id": "p16-balanced-1350013",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 39,
+    "file": "plans/p16-balanced-1350014-gnn4.json",
+    "sha256": "66643ced30c92f803d1376cbbf4e06902a99bea6dfe641e198755623ffe0c46d",
+    "gpus": 16,
+    "seed": 1350014,
+    "state_id": "p16-balanced-1350014",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 40,
+    "file": "plans/p16-balanced-1350014-sinkhorn_fixed.json",
+    "sha256": "b98dc6d19eb7f4f51f57ffc52d7bdd0206a5f45b9b690f6c02ad64c7bb112011",
+    "gpus": 16,
+    "seed": 1350014,
+    "state_id": "p16-balanced-1350014",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 41,
+    "file": "plans/p16-balanced-1350014-lazarus_inspired.json",
+    "sha256": "d4ffa787bc3969d5cf5a6469377193f6e1115609d7df37356c5b1361ec412f29",
+    "gpus": 16,
+    "seed": 1350014,
+    "state_id": "p16-balanced-1350014",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 42,
+    "file": "plans/p16-balanced-1350015-gnn4.json",
+    "sha256": "af69846f3bac91a47ae2e866b31ed804103fd19314871c9f8c442f9a99ca01e8",
+    "gpus": 16,
+    "seed": 1350015,
+    "state_id": "p16-balanced-1350015",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 43,
+    "file": "plans/p16-balanced-1350015-sinkhorn_fixed.json",
+    "sha256": "76e66d5872996fff66f9789a0f91c7d133386919713b799b408f516e1ac8d977",
+    "gpus": 16,
+    "seed": 1350015,
+    "state_id": "p16-balanced-1350015",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 44,
+    "file": "plans/p16-balanced-1350015-lazarus_inspired.json",
+    "sha256": "2fc3a556bd3945207912dc138aaa6d367cbf849b2ed741ef2064fb7204e6b9c9",
+    "gpus": 16,
+    "seed": 1350015,
+    "state_id": "p16-balanced-1350015",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 45,
+    "file": "plans/p16-balanced-1350016-gnn4.json",
+    "sha256": "073687c027f335a0b376d6129735402b737f14509b19ab61f3a6d596f67dbe88",
+    "gpus": 16,
+    "seed": 1350016,
+    "state_id": "p16-balanced-1350016",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 46,
+    "file": "plans/p16-balanced-1350016-sinkhorn_fixed.json",
+    "sha256": "54e578bd7437d7eff1d9bac84af2dcec5fc597267d8d662dcd4697a49c70c8e1",
+    "gpus": 16,
+    "seed": 1350016,
+    "state_id": "p16-balanced-1350016",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 47,
+    "file": "plans/p16-balanced-1350016-lazarus_inspired.json",
+    "sha256": "cb696447895bd974f8a1d12b0bc4f24473414abff09c123302af2926cb865ce0",
+    "gpus": 16,
+    "seed": 1350016,
+    "state_id": "p16-balanced-1350016",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 48,
+    "file": "plans/p16-global_hotspot-1350001-gnn4.json",
+    "sha256": "d4b77c4b41bfa4be892eadf648d64fc89194704d613c2b54e3ce70d116c5b2c7",
+    "gpus": 16,
+    "seed": 1350001,
+    "state_id": "p16-global_hotspot-1350001",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 49,
+    "file": "plans/p16-global_hotspot-1350001-sinkhorn_fixed.json",
+    "sha256": "f04125a8b73d71f7820493cc029345990654909d76ad1b272c87404f4e6e7a1c",
+    "gpus": 16,
+    "seed": 1350001,
+    "state_id": "p16-global_hotspot-1350001",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 50,
+    "file": "plans/p16-global_hotspot-1350001-lazarus_inspired.json",
+    "sha256": "acaee9eada00ac8a6477f471e550feb47fb9176d29e78efd678a8a4d05593df2",
+    "gpus": 16,
+    "seed": 1350001,
+    "state_id": "p16-global_hotspot-1350001",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 51,
+    "file": "plans/p16-global_hotspot-1350002-gnn4.json",
+    "sha256": "1cc4e8c0cd7f6f1117fba6ed78d3bc6a180d13a83ea29db9395652d3afd469d9",
+    "gpus": 16,
+    "seed": 1350002,
+    "state_id": "p16-global_hotspot-1350002",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 52,
+    "file": "plans/p16-global_hotspot-1350002-sinkhorn_fixed.json",
+    "sha256": "405f796e5e6c8717d90bf0725e98c8e883288729cd8d13b4c30fe973bcec6bcc",
+    "gpus": 16,
+    "seed": 1350002,
+    "state_id": "p16-global_hotspot-1350002",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 53,
+    "file": "plans/p16-global_hotspot-1350002-lazarus_inspired.json",
+    "sha256": "3f8fe050b9f24e010a109f84f8309cd901dc00ef0f2fd9a72f2706f047ddeed2",
+    "gpus": 16,
+    "seed": 1350002,
+    "state_id": "p16-global_hotspot-1350002",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 54,
+    "file": "plans/p16-global_hotspot-1350003-gnn4.json",
+    "sha256": "6dc71f2faa793d3f57258d9963ba424a14d69664a4df6fc841f54fed964a8663",
+    "gpus": 16,
+    "seed": 1350003,
+    "state_id": "p16-global_hotspot-1350003",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 55,
+    "file": "plans/p16-global_hotspot-1350003-sinkhorn_fixed.json",
+    "sha256": "dc9bb1a058aa2e3ae3e7ca947b85c49f0b6180e99c53f0fb61bf8bae7d80f954",
+    "gpus": 16,
+    "seed": 1350003,
+    "state_id": "p16-global_hotspot-1350003",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 56,
+    "file": "plans/p16-global_hotspot-1350003-lazarus_inspired.json",
+    "sha256": "9725fd3aa884cf59fd49e4cb60444e6cfb4708143a10b0adb44bc8ae75a37fde",
+    "gpus": 16,
+    "seed": 1350003,
+    "state_id": "p16-global_hotspot-1350003",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 57,
+    "file": "plans/p16-global_hotspot-1350004-gnn4.json",
+    "sha256": "df74e4bc65a140f6f672b7efb5451113da03f07e66172daa9daa2af682b311a4",
+    "gpus": 16,
+    "seed": 1350004,
+    "state_id": "p16-global_hotspot-1350004",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 58,
+    "file": "plans/p16-global_hotspot-1350004-sinkhorn_fixed.json",
+    "sha256": "cb521ada621590237213fc5c4bc387cbf45737356593f0a884354d60140538fc",
+    "gpus": 16,
+    "seed": 1350004,
+    "state_id": "p16-global_hotspot-1350004",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 59,
+    "file": "plans/p16-global_hotspot-1350004-lazarus_inspired.json",
+    "sha256": "7bbeba4fc65065658e289ea744ef21588683490e4c04549eeb66b3c4c0e6a615",
+    "gpus": 16,
+    "seed": 1350004,
+    "state_id": "p16-global_hotspot-1350004",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 60,
+    "file": "plans/p16-global_hotspot-1350005-gnn4.json",
+    "sha256": "4f668da827495143744076f9aee5e075a3ff85099c032358415b78c6fe7aa3c0",
+    "gpus": 16,
+    "seed": 1350005,
+    "state_id": "p16-global_hotspot-1350005",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 61,
+    "file": "plans/p16-global_hotspot-1350005-sinkhorn_fixed.json",
+    "sha256": "7ed61cf14199b169b5a68401593432fa4543bdb221afb2ea5c02926d49dfe393",
+    "gpus": 16,
+    "seed": 1350005,
+    "state_id": "p16-global_hotspot-1350005",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 62,
+    "file": "plans/p16-global_hotspot-1350005-lazarus_inspired.json",
+    "sha256": "6b3bd864a69be3c525b0fda23763a34038ac378e069d59eb5a1e89bc8ac9b41f",
+    "gpus": 16,
+    "seed": 1350005,
+    "state_id": "p16-global_hotspot-1350005",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 63,
+    "file": "plans/p16-global_hotspot-1350006-gnn4.json",
+    "sha256": "8ed65d4878cf420d80199e7abf8bc531cae184e756682c0f6a7bd231664fb5fd",
+    "gpus": 16,
+    "seed": 1350006,
+    "state_id": "p16-global_hotspot-1350006",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 64,
+    "file": "plans/p16-global_hotspot-1350006-sinkhorn_fixed.json",
+    "sha256": "f5b2848a247988e4ab64e861b135e1f92e6d40652141127685870ccb1e9faa52",
+    "gpus": 16,
+    "seed": 1350006,
+    "state_id": "p16-global_hotspot-1350006",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 65,
+    "file": "plans/p16-global_hotspot-1350006-lazarus_inspired.json",
+    "sha256": "1e4a0523940abe652a657178c1d8d8c5e14413d3ba1e0cfaef4489dda2608b74",
+    "gpus": 16,
+    "seed": 1350006,
+    "state_id": "p16-global_hotspot-1350006",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 66,
+    "file": "plans/p16-global_hotspot-1350007-gnn4.json",
+    "sha256": "d44212453e47af47b0738656e0448332e08f07565f9fc2a2e76965c57f88c283",
+    "gpus": 16,
+    "seed": 1350007,
+    "state_id": "p16-global_hotspot-1350007",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 67,
+    "file": "plans/p16-global_hotspot-1350007-sinkhorn_fixed.json",
+    "sha256": "32ba8a83ae440bc7f9308716cbc88dea8becd5c05b45a74e0918e26df66db576",
+    "gpus": 16,
+    "seed": 1350007,
+    "state_id": "p16-global_hotspot-1350007",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 68,
+    "file": "plans/p16-global_hotspot-1350007-lazarus_inspired.json",
+    "sha256": "4a390ac30f2ada7fd07d465eac8be31d4cdb37396d8123398d3cb7162f3d9991",
+    "gpus": 16,
+    "seed": 1350007,
+    "state_id": "p16-global_hotspot-1350007",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 69,
+    "file": "plans/p16-global_hotspot-1350008-gnn4.json",
+    "sha256": "1817fd41a6846f8c683f1a43fb52c35d743627d9d28d01b6ce52f5670c427e43",
+    "gpus": 16,
+    "seed": 1350008,
+    "state_id": "p16-global_hotspot-1350008",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 70,
+    "file": "plans/p16-global_hotspot-1350008-sinkhorn_fixed.json",
+    "sha256": "fc12ca967c9ba818ae1e7632b2a75f507414556534eb6281e50948fda6e49482",
+    "gpus": 16,
+    "seed": 1350008,
+    "state_id": "p16-global_hotspot-1350008",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 71,
+    "file": "plans/p16-global_hotspot-1350008-lazarus_inspired.json",
+    "sha256": "418f63197d5c42ac49ddceb0bb6be5495cd17aaf1458135b4ea65980fe5ce8f3",
+    "gpus": 16,
+    "seed": 1350008,
+    "state_id": "p16-global_hotspot-1350008",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 72,
+    "file": "plans/p16-global_hotspot-1350009-gnn4.json",
+    "sha256": "01fb8adb575db44d251c9bb5d68334ce04cdddf8a7856bf77f51a35a2205cde6",
+    "gpus": 16,
+    "seed": 1350009,
+    "state_id": "p16-global_hotspot-1350009",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 73,
+    "file": "plans/p16-global_hotspot-1350009-sinkhorn_fixed.json",
+    "sha256": "648512bc5b918b7ebbf46438efb72e48cae4725b0881e249d3a88ff67e0a551c",
+    "gpus": 16,
+    "seed": 1350009,
+    "state_id": "p16-global_hotspot-1350009",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 74,
+    "file": "plans/p16-global_hotspot-1350009-lazarus_inspired.json",
+    "sha256": "94526bec859851594997887f25d234bd3a6393d1413e4d9d0495debf648eafea",
+    "gpus": 16,
+    "seed": 1350009,
+    "state_id": "p16-global_hotspot-1350009",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 75,
+    "file": "plans/p16-global_hotspot-1350010-gnn4.json",
+    "sha256": "f0b19b90ea85a0c0f768081f31d658d63322ac5e57165a945c9dd0924acba6fb",
+    "gpus": 16,
+    "seed": 1350010,
+    "state_id": "p16-global_hotspot-1350010",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 76,
+    "file": "plans/p16-global_hotspot-1350010-sinkhorn_fixed.json",
+    "sha256": "42659652fb648ab729ae99565cf7743d0196788337d40882714a995fffb29774",
+    "gpus": 16,
+    "seed": 1350010,
+    "state_id": "p16-global_hotspot-1350010",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 77,
+    "file": "plans/p16-global_hotspot-1350010-lazarus_inspired.json",
+    "sha256": "cd7f551bed0747401b5715ebb65a45ec38acee5c5da77da886d56693c753ee81",
+    "gpus": 16,
+    "seed": 1350010,
+    "state_id": "p16-global_hotspot-1350010",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 78,
+    "file": "plans/p16-global_hotspot-1350011-gnn4.json",
+    "sha256": "23b42fa7d3d2e92268286f683a179229710642c602c191e2c8161c33fbe25bc7",
+    "gpus": 16,
+    "seed": 1350011,
+    "state_id": "p16-global_hotspot-1350011",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 79,
+    "file": "plans/p16-global_hotspot-1350011-sinkhorn_fixed.json",
+    "sha256": "dbf22e64a0d0d3dcd88e359b4b5c06f35ed2b82b6d7159a6d222a2d5ff8be923",
+    "gpus": 16,
+    "seed": 1350011,
+    "state_id": "p16-global_hotspot-1350011",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 80,
+    "file": "plans/p16-global_hotspot-1350011-lazarus_inspired.json",
+    "sha256": "1cee992a24b8a62e5a5adaab9c10c3ba483d7b0b9ba2928f4796397c20285e7b",
+    "gpus": 16,
+    "seed": 1350011,
+    "state_id": "p16-global_hotspot-1350011",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 81,
+    "file": "plans/p16-global_hotspot-1350012-gnn4.json",
+    "sha256": "71320e788a34bff1562898fa64d7859044afc5e9656b40d31040c3503732ef0c",
+    "gpus": 16,
+    "seed": 1350012,
+    "state_id": "p16-global_hotspot-1350012",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 82,
+    "file": "plans/p16-global_hotspot-1350012-sinkhorn_fixed.json",
+    "sha256": "a026fef98dc6d250f8d2d7012bfc0409c6bd88809206e48c63156dce65af9b27",
+    "gpus": 16,
+    "seed": 1350012,
+    "state_id": "p16-global_hotspot-1350012",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 83,
+    "file": "plans/p16-global_hotspot-1350012-lazarus_inspired.json",
+    "sha256": "61cddc74807678540d64a9d7370142a7629235d3c834f35c6663c28b003ae89e",
+    "gpus": 16,
+    "seed": 1350012,
+    "state_id": "p16-global_hotspot-1350012",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 84,
+    "file": "plans/p16-global_hotspot-1350013-gnn4.json",
+    "sha256": "c465d9b2d5ab1f2e2b1a28164301e5773def2ce6257bfaefe34abeb256028e3a",
+    "gpus": 16,
+    "seed": 1350013,
+    "state_id": "p16-global_hotspot-1350013",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 85,
+    "file": "plans/p16-global_hotspot-1350013-sinkhorn_fixed.json",
+    "sha256": "210a3805a84b0ae44d3f04ad130d45131b89a38e2de2a19a9ef62f496bd912eb",
+    "gpus": 16,
+    "seed": 1350013,
+    "state_id": "p16-global_hotspot-1350013",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 86,
+    "file": "plans/p16-global_hotspot-1350013-lazarus_inspired.json",
+    "sha256": "35dd5993e204f89afc9917fa62e37f4848a7e12173787ccba36abf06ebb689cc",
+    "gpus": 16,
+    "seed": 1350013,
+    "state_id": "p16-global_hotspot-1350013",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 87,
+    "file": "plans/p16-global_hotspot-1350014-gnn4.json",
+    "sha256": "72f6956e96321e814a785a492515068e670ab14cd3527957920eb3094f1f977b",
+    "gpus": 16,
+    "seed": 1350014,
+    "state_id": "p16-global_hotspot-1350014",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 88,
+    "file": "plans/p16-global_hotspot-1350014-sinkhorn_fixed.json",
+    "sha256": "ccb171a0fa364e42d10b5ff71d3aa26df7d7beb1843b0ff6bd73127f9acb170b",
+    "gpus": 16,
+    "seed": 1350014,
+    "state_id": "p16-global_hotspot-1350014",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 89,
+    "file": "plans/p16-global_hotspot-1350014-lazarus_inspired.json",
+    "sha256": "6956e271fcce550e0e440e71b1add4e6aa4c320f075041de686c38daf78173f5",
+    "gpus": 16,
+    "seed": 1350014,
+    "state_id": "p16-global_hotspot-1350014",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 90,
+    "file": "plans/p16-global_hotspot-1350015-gnn4.json",
+    "sha256": "f3c83280e5ac2848f2f9b2d6b0a3e3c12dc41dc178c66927c89db9beb44441f4",
+    "gpus": 16,
+    "seed": 1350015,
+    "state_id": "p16-global_hotspot-1350015",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 91,
+    "file": "plans/p16-global_hotspot-1350015-sinkhorn_fixed.json",
+    "sha256": "46e762a61cb42cdeb812d5bc76dfdfe4e8b2e9b98d398f0b9daf6592a593f170",
+    "gpus": 16,
+    "seed": 1350015,
+    "state_id": "p16-global_hotspot-1350015",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 92,
+    "file": "plans/p16-global_hotspot-1350015-lazarus_inspired.json",
+    "sha256": "b1d0430727a2f3db683f78aeaadf2767a4cc69549a76318a064b2799357cc78e",
+    "gpus": 16,
+    "seed": 1350015,
+    "state_id": "p16-global_hotspot-1350015",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 93,
+    "file": "plans/p16-global_hotspot-1350016-gnn4.json",
+    "sha256": "3e22e1b10e777724f2dd5d4a0eba20b3872c3dee8c8c1264e9e0e438be804627",
+    "gpus": 16,
+    "seed": 1350016,
+    "state_id": "p16-global_hotspot-1350016",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 94,
+    "file": "plans/p16-global_hotspot-1350016-sinkhorn_fixed.json",
+    "sha256": "1c411738d768eed603b687c35cd73a97d3c3be6d461da1642539d6819bf2a4d9",
+    "gpus": 16,
+    "seed": 1350016,
+    "state_id": "p16-global_hotspot-1350016",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 95,
+    "file": "plans/p16-global_hotspot-1350016-lazarus_inspired.json",
+    "sha256": "4e7ebf24a4c8a5a24001bc34e399bf45666663d707b38bae2b3941659291204f",
+    "gpus": 16,
+    "seed": 1350016,
+    "state_id": "p16-global_hotspot-1350016",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 96,
+    "file": "plans/p16-node_local-1350001-gnn4.json",
+    "sha256": "76210f60c3b2a154906cd4593aa4204c49049f4f60a67a6c12ac0081a4481c9d",
+    "gpus": 16,
+    "seed": 1350001,
+    "state_id": "p16-node_local-1350001",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 97,
+    "file": "plans/p16-node_local-1350001-sinkhorn_fixed.json",
+    "sha256": "5b13aec5f0ef5d113f6256a8e037d6522fb5df9861973b63c0a0b312203d1372",
+    "gpus": 16,
+    "seed": 1350001,
+    "state_id": "p16-node_local-1350001",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 98,
+    "file": "plans/p16-node_local-1350001-lazarus_inspired.json",
+    "sha256": "3f927790e14bbca0f1439c3069550c90f60ffa07fc425557ca6df7bc392707bc",
+    "gpus": 16,
+    "seed": 1350001,
+    "state_id": "p16-node_local-1350001",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 99,
+    "file": "plans/p16-node_local-1350002-gnn4.json",
+    "sha256": "af9ba73068a3424fb31edc1e4cb31a1c464c7b4d30b0e9b3df14c78b5c39a330",
+    "gpus": 16,
+    "seed": 1350002,
+    "state_id": "p16-node_local-1350002",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 100,
+    "file": "plans/p16-node_local-1350002-sinkhorn_fixed.json",
+    "sha256": "c6285f9b42ef856c9b56bb6be25efa072d7cdaa05ebbcce1461fb5702402272b",
+    "gpus": 16,
+    "seed": 1350002,
+    "state_id": "p16-node_local-1350002",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 101,
+    "file": "plans/p16-node_local-1350002-lazarus_inspired.json",
+    "sha256": "f6a93ac3de265e936819a8d35452fcd3111118683100fcf6eff2f16e8a02ff5e",
+    "gpus": 16,
+    "seed": 1350002,
+    "state_id": "p16-node_local-1350002",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 102,
+    "file": "plans/p16-node_local-1350003-gnn4.json",
+    "sha256": "fcb99ca68d5bdabfab0f873868bdf769f1b1e78325395a6eed7c7528016e9f86",
+    "gpus": 16,
+    "seed": 1350003,
+    "state_id": "p16-node_local-1350003",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 103,
+    "file": "plans/p16-node_local-1350003-sinkhorn_fixed.json",
+    "sha256": "c3e6cf384943601490e533c9f209609f209b7fea7bf3b34ad7eb547435d760db",
+    "gpus": 16,
+    "seed": 1350003,
+    "state_id": "p16-node_local-1350003",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 104,
+    "file": "plans/p16-node_local-1350003-lazarus_inspired.json",
+    "sha256": "156425ac30d11e3c1e9bf13113b613e3f022958afc698d4372b07591f236a37e",
+    "gpus": 16,
+    "seed": 1350003,
+    "state_id": "p16-node_local-1350003",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 105,
+    "file": "plans/p16-node_local-1350004-gnn4.json",
+    "sha256": "48cc725e35e40b596d95880033bb4c89704a8637799d6bcdf16384ebcbd7793b",
+    "gpus": 16,
+    "seed": 1350004,
+    "state_id": "p16-node_local-1350004",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 106,
+    "file": "plans/p16-node_local-1350004-sinkhorn_fixed.json",
+    "sha256": "ebca661c463a9aa17770d481c4e1df72b3811e3b0c770e4a9fa9847e24c3a705",
+    "gpus": 16,
+    "seed": 1350004,
+    "state_id": "p16-node_local-1350004",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 107,
+    "file": "plans/p16-node_local-1350004-lazarus_inspired.json",
+    "sha256": "e079a00de099b8cea9d3773e76223c05bd963b5203cadbf2c760034f487b9d33",
+    "gpus": 16,
+    "seed": 1350004,
+    "state_id": "p16-node_local-1350004",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 108,
+    "file": "plans/p16-node_local-1350005-gnn4.json",
+    "sha256": "5fa67162914242f156b446e6a28a726cebf629925b5cce44062a3937553fc9d7",
+    "gpus": 16,
+    "seed": 1350005,
+    "state_id": "p16-node_local-1350005",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 109,
+    "file": "plans/p16-node_local-1350005-sinkhorn_fixed.json",
+    "sha256": "e80cd810520d54da14534e4982528fc2c73daf4353652a4d0af20599f2b5718f",
+    "gpus": 16,
+    "seed": 1350005,
+    "state_id": "p16-node_local-1350005",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 110,
+    "file": "plans/p16-node_local-1350005-lazarus_inspired.json",
+    "sha256": "fbf6692190f3cda014cfe39dd91c032db41c7462daf360eae3a204472f7f8d29",
+    "gpus": 16,
+    "seed": 1350005,
+    "state_id": "p16-node_local-1350005",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 111,
+    "file": "plans/p16-node_local-1350006-gnn4.json",
+    "sha256": "5d426e681af7c610ba681f11a2952cfba3564af4f7533486cd1d8c73f02c0e03",
+    "gpus": 16,
+    "seed": 1350006,
+    "state_id": "p16-node_local-1350006",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 112,
+    "file": "plans/p16-node_local-1350006-sinkhorn_fixed.json",
+    "sha256": "7f0d08549b043444ce0c80e399734e6bf1b23fb011e19f3978b5bf1697afd32e",
+    "gpus": 16,
+    "seed": 1350006,
+    "state_id": "p16-node_local-1350006",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 113,
+    "file": "plans/p16-node_local-1350006-lazarus_inspired.json",
+    "sha256": "eb5448f00797536b7af830ec8c53487a47d950a21c87ce847854b98f5f61491a",
+    "gpus": 16,
+    "seed": 1350006,
+    "state_id": "p16-node_local-1350006",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 114,
+    "file": "plans/p16-node_local-1350007-gnn4.json",
+    "sha256": "9a3220e707d0bd256cf52af63407c3af47fb0c62df36cbdafcf13386390ae26b",
+    "gpus": 16,
+    "seed": 1350007,
+    "state_id": "p16-node_local-1350007",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 115,
+    "file": "plans/p16-node_local-1350007-sinkhorn_fixed.json",
+    "sha256": "28fd71a8f1d85e5db093d3758d5405a0b474b1aaaf1cc8b739eb2b6cc11ba44e",
+    "gpus": 16,
+    "seed": 1350007,
+    "state_id": "p16-node_local-1350007",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 116,
+    "file": "plans/p16-node_local-1350007-lazarus_inspired.json",
+    "sha256": "dcf87fe66331122a4648317fd0d47799be10bd65a1625ae0af631c7a383abec9",
+    "gpus": 16,
+    "seed": 1350007,
+    "state_id": "p16-node_local-1350007",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 117,
+    "file": "plans/p16-node_local-1350008-gnn4.json",
+    "sha256": "8bc8d1fd883b4004015ce459579de682eb3b782379299c91c96daa5ddcc238a6",
+    "gpus": 16,
+    "seed": 1350008,
+    "state_id": "p16-node_local-1350008",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 118,
+    "file": "plans/p16-node_local-1350008-sinkhorn_fixed.json",
+    "sha256": "2e8688fda42ccc4f702e4d4f8cf32f93989cbde43714be40aa2c2fc5af172352",
+    "gpus": 16,
+    "seed": 1350008,
+    "state_id": "p16-node_local-1350008",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 119,
+    "file": "plans/p16-node_local-1350008-lazarus_inspired.json",
+    "sha256": "c6b84dea41747aedafa49073768c9620dd613d2f19db2e3a040465e30838a9bc",
+    "gpus": 16,
+    "seed": 1350008,
+    "state_id": "p16-node_local-1350008",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 120,
+    "file": "plans/p16-node_local-1350009-gnn4.json",
+    "sha256": "066986a92c0e2e43e6895adae00990661e78113b2a43b8f0d773e60086a2e229",
+    "gpus": 16,
+    "seed": 1350009,
+    "state_id": "p16-node_local-1350009",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 121,
+    "file": "plans/p16-node_local-1350009-sinkhorn_fixed.json",
+    "sha256": "7f72916aff826fb2f7dbe5f3df2136aea95ce8686fc81078ed6a0f6cc3a04152",
+    "gpus": 16,
+    "seed": 1350009,
+    "state_id": "p16-node_local-1350009",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 122,
+    "file": "plans/p16-node_local-1350009-lazarus_inspired.json",
+    "sha256": "78dbca421e0f1f29764308457db9ff71fa091189bfb52392efde0a81e93c42a7",
+    "gpus": 16,
+    "seed": 1350009,
+    "state_id": "p16-node_local-1350009",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 123,
+    "file": "plans/p16-node_local-1350010-gnn4.json",
+    "sha256": "984c7c185120dd0c43a14c1d291656b67ae8c7b064f29ae23b4564b4edcde1c5",
+    "gpus": 16,
+    "seed": 1350010,
+    "state_id": "p16-node_local-1350010",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 124,
+    "file": "plans/p16-node_local-1350010-sinkhorn_fixed.json",
+    "sha256": "52ab3df294b623b80800f71c4dcd7be831f26dd3c4fe1482d1dee6c8a661205b",
+    "gpus": 16,
+    "seed": 1350010,
+    "state_id": "p16-node_local-1350010",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 125,
+    "file": "plans/p16-node_local-1350010-lazarus_inspired.json",
+    "sha256": "e98bec9b5c050a0588490aa7ff411ba16001154ba0c91542a2ce7b9edee411f6",
+    "gpus": 16,
+    "seed": 1350010,
+    "state_id": "p16-node_local-1350010",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 126,
+    "file": "plans/p16-node_local-1350011-gnn4.json",
+    "sha256": "986efc977a92d2b0ac386f956b7901841d29fb4b5d87c60167fdd6828fa514af",
+    "gpus": 16,
+    "seed": 1350011,
+    "state_id": "p16-node_local-1350011",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 127,
+    "file": "plans/p16-node_local-1350011-sinkhorn_fixed.json",
+    "sha256": "7c6a768bf6a441c39c29177d1bd4f7e08c05f2d13424621c107f11737619f8f3",
+    "gpus": 16,
+    "seed": 1350011,
+    "state_id": "p16-node_local-1350011",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 128,
+    "file": "plans/p16-node_local-1350011-lazarus_inspired.json",
+    "sha256": "b2777106165693712f9bdfb0a623284a22b5925c11db2e1d1dfa988dc7efe6c8",
+    "gpus": 16,
+    "seed": 1350011,
+    "state_id": "p16-node_local-1350011",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 129,
+    "file": "plans/p16-node_local-1350012-gnn4.json",
+    "sha256": "27587d396e1d1eb0dd402b00db177d3b648c535d8d16412d075464c7ca32a560",
+    "gpus": 16,
+    "seed": 1350012,
+    "state_id": "p16-node_local-1350012",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 130,
+    "file": "plans/p16-node_local-1350012-sinkhorn_fixed.json",
+    "sha256": "6d43557d6dfee92bee18133bcca8a5ee7d419604cb294f092807a5bd41e288a0",
+    "gpus": 16,
+    "seed": 1350012,
+    "state_id": "p16-node_local-1350012",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 131,
+    "file": "plans/p16-node_local-1350012-lazarus_inspired.json",
+    "sha256": "4979e1fc1058c24dcc43e0998038d01b076de1e7386a2e0a9083160889c4cd23",
+    "gpus": 16,
+    "seed": 1350012,
+    "state_id": "p16-node_local-1350012",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 132,
+    "file": "plans/p16-node_local-1350013-gnn4.json",
+    "sha256": "2e9b8555554da8f689fe85cee078052fbe56752497532dba60147612d0468bd3",
+    "gpus": 16,
+    "seed": 1350013,
+    "state_id": "p16-node_local-1350013",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 133,
+    "file": "plans/p16-node_local-1350013-sinkhorn_fixed.json",
+    "sha256": "828e13afe0fdbf4af97e0f8e8055deb0ed98db09ec2103667ba5216758f219b6",
+    "gpus": 16,
+    "seed": 1350013,
+    "state_id": "p16-node_local-1350013",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 134,
+    "file": "plans/p16-node_local-1350013-lazarus_inspired.json",
+    "sha256": "e44c9714a240cddfea971a4359ca619ccb720e16ed55e7648929822e1504dd88",
+    "gpus": 16,
+    "seed": 1350013,
+    "state_id": "p16-node_local-1350013",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 135,
+    "file": "plans/p16-node_local-1350014-gnn4.json",
+    "sha256": "30cb1cb3b0da364ccf464d2477aa716d2f478c90ee2d4a0207e6456bcdb87586",
+    "gpus": 16,
+    "seed": 1350014,
+    "state_id": "p16-node_local-1350014",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 136,
+    "file": "plans/p16-node_local-1350014-sinkhorn_fixed.json",
+    "sha256": "8aaa55f595e57392334247a6b1acfbaeef021c0b30117293920572316f03de26",
+    "gpus": 16,
+    "seed": 1350014,
+    "state_id": "p16-node_local-1350014",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 137,
+    "file": "plans/p16-node_local-1350014-lazarus_inspired.json",
+    "sha256": "d82c012796fbd5be5ee01fad55deb3f49cdbc51cebef3b28bd9b9604d724e125",
+    "gpus": 16,
+    "seed": 1350014,
+    "state_id": "p16-node_local-1350014",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 138,
+    "file": "plans/p16-node_local-1350015-gnn4.json",
+    "sha256": "87892254623f6417b3c74d5459b97a2c28f723e59ce382a3cae58a415f5d7f9c",
+    "gpus": 16,
+    "seed": 1350015,
+    "state_id": "p16-node_local-1350015",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 139,
+    "file": "plans/p16-node_local-1350015-sinkhorn_fixed.json",
+    "sha256": "ea34a8e573ddc7df02221abab3f363a7b2a9357d8c8e28263082e74698f26db1",
+    "gpus": 16,
+    "seed": 1350015,
+    "state_id": "p16-node_local-1350015",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 140,
+    "file": "plans/p16-node_local-1350015-lazarus_inspired.json",
+    "sha256": "aba365c53fdd5452d581c3e3696f137e8498b403088a99f557ba94d0d33c3a88",
+    "gpus": 16,
+    "seed": 1350015,
+    "state_id": "p16-node_local-1350015",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 141,
+    "file": "plans/p16-node_local-1350016-gnn4.json",
+    "sha256": "c4861bb98d535f709c279728d7bd51787dedd8ab17f91c459b2c5251564ae5dc",
+    "gpus": 16,
+    "seed": 1350016,
+    "state_id": "p16-node_local-1350016",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 142,
+    "file": "plans/p16-node_local-1350016-sinkhorn_fixed.json",
+    "sha256": "32b567f40162b63f03a57f7adc68ac2422c06564822c077c3b86db9f60340720",
+    "gpus": 16,
+    "seed": 1350016,
+    "state_id": "p16-node_local-1350016",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 143,
+    "file": "plans/p16-node_local-1350016-lazarus_inspired.json",
+    "sha256": "928f5d6b06007b8efc9a457d751311ced1cc32dfbd41b34bedaeee71e0906429",
+    "gpus": 16,
+    "seed": 1350016,
+    "state_id": "p16-node_local-1350016",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 144,
+    "file": "plans/p16-source_skew-1350001-gnn4.json",
+    "sha256": "612a1ca6544b3905d375a794dca6a217da3db701d501ac1fe5de213fcec46ba0",
+    "gpus": 16,
+    "seed": 1350001,
+    "state_id": "p16-source_skew-1350001",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 145,
+    "file": "plans/p16-source_skew-1350001-sinkhorn_fixed.json",
+    "sha256": "298425c7da1f93bdbf696e8d3b81e0b21703fed3c1478a16e89f5b1fa32c25bb",
+    "gpus": 16,
+    "seed": 1350001,
+    "state_id": "p16-source_skew-1350001",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 146,
+    "file": "plans/p16-source_skew-1350001-lazarus_inspired.json",
+    "sha256": "b80b956226f85b99943b809ae70cb95339122b07c13b7bf2fd03b97e2de47c8f",
+    "gpus": 16,
+    "seed": 1350001,
+    "state_id": "p16-source_skew-1350001",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 147,
+    "file": "plans/p16-source_skew-1350002-gnn4.json",
+    "sha256": "443d3daf161e320b9b99f426b4555decedebf42a3e6382eb09575d3a8fd691fe",
+    "gpus": 16,
+    "seed": 1350002,
+    "state_id": "p16-source_skew-1350002",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 148,
+    "file": "plans/p16-source_skew-1350002-sinkhorn_fixed.json",
+    "sha256": "8eaddb44e6b0b2aeda16d292c8d1ff23fddf4044724b44094bfaf12958e406d7",
+    "gpus": 16,
+    "seed": 1350002,
+    "state_id": "p16-source_skew-1350002",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 149,
+    "file": "plans/p16-source_skew-1350002-lazarus_inspired.json",
+    "sha256": "2fd04d21a1570f6df8509c24adcb60c0b6050664258f2fa0a219a5d3ecb37fea",
+    "gpus": 16,
+    "seed": 1350002,
+    "state_id": "p16-source_skew-1350002",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 150,
+    "file": "plans/p16-source_skew-1350003-gnn4.json",
+    "sha256": "d41b4163147dadfe184a250c48010bcec1e7fc367451f58eb44ec57ec0c386a3",
+    "gpus": 16,
+    "seed": 1350003,
+    "state_id": "p16-source_skew-1350003",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 151,
+    "file": "plans/p16-source_skew-1350003-sinkhorn_fixed.json",
+    "sha256": "e6f7c1e2635e8e2957efdf06fee88043f694cc8f64235b4b4f2a571dc32ffa5d",
+    "gpus": 16,
+    "seed": 1350003,
+    "state_id": "p16-source_skew-1350003",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 152,
+    "file": "plans/p16-source_skew-1350003-lazarus_inspired.json",
+    "sha256": "38caab18235d8c2d6bf8733c31f029bef13cf118bc38687b9cbc6c01c580eb8c",
+    "gpus": 16,
+    "seed": 1350003,
+    "state_id": "p16-source_skew-1350003",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 153,
+    "file": "plans/p16-source_skew-1350004-gnn4.json",
+    "sha256": "784cb0cfdcbd88dd63990a306c2f6ef585e6940bf7e23cf19ce9ba7b92d6447e",
+    "gpus": 16,
+    "seed": 1350004,
+    "state_id": "p16-source_skew-1350004",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 154,
+    "file": "plans/p16-source_skew-1350004-sinkhorn_fixed.json",
+    "sha256": "ca5b3820daef6349fedfe0f72d7b19beb25ce3ac7e6fc83d983f8ab16b0d5e87",
+    "gpus": 16,
+    "seed": 1350004,
+    "state_id": "p16-source_skew-1350004",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 155,
+    "file": "plans/p16-source_skew-1350004-lazarus_inspired.json",
+    "sha256": "6bd68326844d37ec0f2caa08668d6f84e4f3beff7e60f99b6ad5272c9c4407d5",
+    "gpus": 16,
+    "seed": 1350004,
+    "state_id": "p16-source_skew-1350004",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 156,
+    "file": "plans/p16-source_skew-1350005-gnn4.json",
+    "sha256": "94499f31eb4227b514e9718a970d9592b5874ccd2ec30a7de6ccd901a3e44fa6",
+    "gpus": 16,
+    "seed": 1350005,
+    "state_id": "p16-source_skew-1350005",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 157,
+    "file": "plans/p16-source_skew-1350005-sinkhorn_fixed.json",
+    "sha256": "8f5a3ca61411dc8cd222b878b125d8c8671d9df40583d4617772ffa99504435b",
+    "gpus": 16,
+    "seed": 1350005,
+    "state_id": "p16-source_skew-1350005",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 158,
+    "file": "plans/p16-source_skew-1350005-lazarus_inspired.json",
+    "sha256": "e3bf9e1082bd0a35b0a829d6151e4e796d32bfae7e8b1f577763d67ba6914fa0",
+    "gpus": 16,
+    "seed": 1350005,
+    "state_id": "p16-source_skew-1350005",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 159,
+    "file": "plans/p16-source_skew-1350006-gnn4.json",
+    "sha256": "1dd51f35998f28b1d375278109c0adb01c9282ebb1e105a806fa9d522b222a67",
+    "gpus": 16,
+    "seed": 1350006,
+    "state_id": "p16-source_skew-1350006",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 160,
+    "file": "plans/p16-source_skew-1350006-sinkhorn_fixed.json",
+    "sha256": "3d4f74981949fd6fdcf26f7223f7b0631063a78b75cdf60cfc7aa8628c2197c3",
+    "gpus": 16,
+    "seed": 1350006,
+    "state_id": "p16-source_skew-1350006",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 161,
+    "file": "plans/p16-source_skew-1350006-lazarus_inspired.json",
+    "sha256": "b9f0087150e99f18f4d932bb1580c5d04b694ed83cc96eb2bd40536d8af416bd",
+    "gpus": 16,
+    "seed": 1350006,
+    "state_id": "p16-source_skew-1350006",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 162,
+    "file": "plans/p16-source_skew-1350007-gnn4.json",
+    "sha256": "8e2ea1ebf87b74e096486b4f9bd424bb2d3d22ed6bc86f3ff55effb223ebef00",
+    "gpus": 16,
+    "seed": 1350007,
+    "state_id": "p16-source_skew-1350007",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 163,
+    "file": "plans/p16-source_skew-1350007-sinkhorn_fixed.json",
+    "sha256": "b5ceb0e6e20a8d3002f40c835450cd0d23b376c0538ad671121218e9106165b1",
+    "gpus": 16,
+    "seed": 1350007,
+    "state_id": "p16-source_skew-1350007",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 164,
+    "file": "plans/p16-source_skew-1350007-lazarus_inspired.json",
+    "sha256": "103914305852884238b9c691b5c223c1c7924e38cdbb382028b7949b57b26e44",
+    "gpus": 16,
+    "seed": 1350007,
+    "state_id": "p16-source_skew-1350007",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 165,
+    "file": "plans/p16-source_skew-1350008-gnn4.json",
+    "sha256": "4ec2827b68840c57097993403a60bd2c71d6c785e66ca7622aa98557573f7304",
+    "gpus": 16,
+    "seed": 1350008,
+    "state_id": "p16-source_skew-1350008",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 166,
+    "file": "plans/p16-source_skew-1350008-sinkhorn_fixed.json",
+    "sha256": "6fd3a6237a8e06e0e70b3101574bf40a45cf5e92928a1991b6f4f73bfeecd4d8",
+    "gpus": 16,
+    "seed": 1350008,
+    "state_id": "p16-source_skew-1350008",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 167,
+    "file": "plans/p16-source_skew-1350008-lazarus_inspired.json",
+    "sha256": "c07c48d8c8f402226039393131214ae1967a5ad59b6a7bb22c910b6acb569622",
+    "gpus": 16,
+    "seed": 1350008,
+    "state_id": "p16-source_skew-1350008",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 168,
+    "file": "plans/p16-source_skew-1350009-gnn4.json",
+    "sha256": "66f67c4e5d5b45ca8f447701de119f122c4e6621b51898e9f038bbe008f902c5",
+    "gpus": 16,
+    "seed": 1350009,
+    "state_id": "p16-source_skew-1350009",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 169,
+    "file": "plans/p16-source_skew-1350009-sinkhorn_fixed.json",
+    "sha256": "55cfed8469c5a9c83a09552b49694c429441d15dbc9e6754756b65949bb28b5e",
+    "gpus": 16,
+    "seed": 1350009,
+    "state_id": "p16-source_skew-1350009",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 170,
+    "file": "plans/p16-source_skew-1350009-lazarus_inspired.json",
+    "sha256": "b1fecae92910c910d5ea8a8e3fcb60d0af07cf9c60e0efdf6a7770a00cd737fb",
+    "gpus": 16,
+    "seed": 1350009,
+    "state_id": "p16-source_skew-1350009",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 171,
+    "file": "plans/p16-source_skew-1350010-gnn4.json",
+    "sha256": "abfff807297faacaf4140f886ef2918c94bcb9d44afbf54636c1d24e875567b9",
+    "gpus": 16,
+    "seed": 1350010,
+    "state_id": "p16-source_skew-1350010",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 172,
+    "file": "plans/p16-source_skew-1350010-sinkhorn_fixed.json",
+    "sha256": "937cc5aa62781757425097c455d4d7b313ee12b58b4b4ea5fb49b1364e9f78a3",
+    "gpus": 16,
+    "seed": 1350010,
+    "state_id": "p16-source_skew-1350010",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 173,
+    "file": "plans/p16-source_skew-1350010-lazarus_inspired.json",
+    "sha256": "6201c4edf84f6d177c754185085f6322f31d5d53112a90345e0e1ed3a27f855c",
+    "gpus": 16,
+    "seed": 1350010,
+    "state_id": "p16-source_skew-1350010",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 174,
+    "file": "plans/p16-source_skew-1350011-gnn4.json",
+    "sha256": "b1402cbdc289b41eac9070c4d714bcfc6c8aa574fd34194e6589710f319caa83",
+    "gpus": 16,
+    "seed": 1350011,
+    "state_id": "p16-source_skew-1350011",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 175,
+    "file": "plans/p16-source_skew-1350011-sinkhorn_fixed.json",
+    "sha256": "6a478336543245094812438e5e0860ef647c95df52d11d4a773ceb3148aa6924",
+    "gpus": 16,
+    "seed": 1350011,
+    "state_id": "p16-source_skew-1350011",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 176,
+    "file": "plans/p16-source_skew-1350011-lazarus_inspired.json",
+    "sha256": "08b3942152fd41f9256cf70f35717514f7b53b897ddaf12918caafb26c4356a0",
+    "gpus": 16,
+    "seed": 1350011,
+    "state_id": "p16-source_skew-1350011",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 177,
+    "file": "plans/p16-source_skew-1350012-gnn4.json",
+    "sha256": "0eeddf9b33b1e3af22007ff0c04b73356f1e45d050926294f75d30e163f4ce24",
+    "gpus": 16,
+    "seed": 1350012,
+    "state_id": "p16-source_skew-1350012",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 178,
+    "file": "plans/p16-source_skew-1350012-sinkhorn_fixed.json",
+    "sha256": "639ce68bed8d827e4024fb62ad58fa330345449de30875854252ecb231fa4d62",
+    "gpus": 16,
+    "seed": 1350012,
+    "state_id": "p16-source_skew-1350012",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 179,
+    "file": "plans/p16-source_skew-1350012-lazarus_inspired.json",
+    "sha256": "ddaa8afc0395577447a02f705ea12de5796a9b337a8cec19556e575a236f4980",
+    "gpus": 16,
+    "seed": 1350012,
+    "state_id": "p16-source_skew-1350012",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 180,
+    "file": "plans/p16-source_skew-1350013-gnn4.json",
+    "sha256": "5040234b38db79b56f92129e7424d5ca6d4fddd82adcdc118b6f9f5bee8fe142",
+    "gpus": 16,
+    "seed": 1350013,
+    "state_id": "p16-source_skew-1350013",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 181,
+    "file": "plans/p16-source_skew-1350013-sinkhorn_fixed.json",
+    "sha256": "44f57c304dc5a5cfd383dc339ad65404abfb32b81ae1333ef773c9790fa0ce12",
+    "gpus": 16,
+    "seed": 1350013,
+    "state_id": "p16-source_skew-1350013",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 182,
+    "file": "plans/p16-source_skew-1350013-lazarus_inspired.json",
+    "sha256": "14f27a31e06bdd8e5a36ec6171309230dd5f29fd51cf39710a47dd97ded433e1",
+    "gpus": 16,
+    "seed": 1350013,
+    "state_id": "p16-source_skew-1350013",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 183,
+    "file": "plans/p16-source_skew-1350014-gnn4.json",
+    "sha256": "d99c5243edd1d1df055dcc5979f440181e12407bd5454e260fb88981b7235e15",
+    "gpus": 16,
+    "seed": 1350014,
+    "state_id": "p16-source_skew-1350014",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 184,
+    "file": "plans/p16-source_skew-1350014-sinkhorn_fixed.json",
+    "sha256": "77ede2bcce87d1093781c076d3a11325af2d46a936a557c66fd1b7c1b6f4ad79",
+    "gpus": 16,
+    "seed": 1350014,
+    "state_id": "p16-source_skew-1350014",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 185,
+    "file": "plans/p16-source_skew-1350014-lazarus_inspired.json",
+    "sha256": "f915ba09c1ce39492a0a309e6863d05c21e8b5061d7978209eb32f46078cdd6e",
+    "gpus": 16,
+    "seed": 1350014,
+    "state_id": "p16-source_skew-1350014",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 186,
+    "file": "plans/p16-source_skew-1350015-gnn4.json",
+    "sha256": "cb7fdaacfada6b12351a6e0b4dffdb0121477973c3916f6efee317a66d055c3a",
+    "gpus": 16,
+    "seed": 1350015,
+    "state_id": "p16-source_skew-1350015",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 187,
+    "file": "plans/p16-source_skew-1350015-sinkhorn_fixed.json",
+    "sha256": "15f2299277e3d02f23bd3b8d1d1e46abd1ca974fe953c9cd43fbea1aa8037c07",
+    "gpus": 16,
+    "seed": 1350015,
+    "state_id": "p16-source_skew-1350015",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 188,
+    "file": "plans/p16-source_skew-1350015-lazarus_inspired.json",
+    "sha256": "d8dcc5b79a0ec2e25877ce61e5dcd2ef68518e1ec008047d3f5d2a8c941b749f",
+    "gpus": 16,
+    "seed": 1350015,
+    "state_id": "p16-source_skew-1350015",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 189,
+    "file": "plans/p16-source_skew-1350016-gnn4.json",
+    "sha256": "759dbd91bfb37d3d403d42704e0b9082fe785630eceffa9d88c19075f5260487",
+    "gpus": 16,
+    "seed": 1350016,
+    "state_id": "p16-source_skew-1350016",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 190,
+    "file": "plans/p16-source_skew-1350016-sinkhorn_fixed.json",
+    "sha256": "3b4143db73d4123671e91d6ca1e84847f1d72a3020fe31218169e53b130a68c2",
+    "gpus": 16,
+    "seed": 1350016,
+    "state_id": "p16-source_skew-1350016",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 191,
+    "file": "plans/p16-source_skew-1350016-lazarus_inspired.json",
+    "sha256": "37143ac3403dc3711b202354153b9988fe86bd66e007d039a9506a0d76b488a3",
+    "gpus": 16,
+    "seed": 1350016,
+    "state_id": "p16-source_skew-1350016",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 192,
+    "file": "plans/p32-balanced-1350001-gnn4.json",
+    "sha256": "9b361df0780241f23e95344ba3c94b8c2b7ac6cd122a87001729b65810780391",
+    "gpus": 32,
+    "seed": 1350001,
+    "state_id": "p32-balanced-1350001",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 193,
+    "file": "plans/p32-balanced-1350001-sinkhorn_fixed.json",
+    "sha256": "cc463bb8046065e86f74be7a941cae389d5dbab4496617514941e8a5076c7415",
+    "gpus": 32,
+    "seed": 1350001,
+    "state_id": "p32-balanced-1350001",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 194,
+    "file": "plans/p32-balanced-1350001-lazarus_inspired.json",
+    "sha256": "d9fd3c5f194e314a84bf013eec18ab45ea463a9c02b8bb280ce8093cc4bc8d1b",
+    "gpus": 32,
+    "seed": 1350001,
+    "state_id": "p32-balanced-1350001",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 195,
+    "file": "plans/p32-balanced-1350002-gnn4.json",
+    "sha256": "d70b915ac85887a0e305108009b20331b11eb0369ad1d8e7233718234a972dc0",
+    "gpus": 32,
+    "seed": 1350002,
+    "state_id": "p32-balanced-1350002",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 196,
+    "file": "plans/p32-balanced-1350002-sinkhorn_fixed.json",
+    "sha256": "dda851fb6dae37b4c68dd0515658033a55193f61d4a57331b1ce511aa367a966",
+    "gpus": 32,
+    "seed": 1350002,
+    "state_id": "p32-balanced-1350002",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 197,
+    "file": "plans/p32-balanced-1350002-lazarus_inspired.json",
+    "sha256": "1d6a891b06726043cc1994770f9ca78d88bc9edbfd438a9022b4ffce1bb2f5f9",
+    "gpus": 32,
+    "seed": 1350002,
+    "state_id": "p32-balanced-1350002",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 198,
+    "file": "plans/p32-balanced-1350003-gnn4.json",
+    "sha256": "8d6f731d175fb2867cbf275edd1bcb1ca1a0d50868b9cf8e5e553f3956239174",
+    "gpus": 32,
+    "seed": 1350003,
+    "state_id": "p32-balanced-1350003",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 199,
+    "file": "plans/p32-balanced-1350003-sinkhorn_fixed.json",
+    "sha256": "a29e414c901b1525637ae81ad33ccdccde98668f7541098e1a8df4a4758daabe",
+    "gpus": 32,
+    "seed": 1350003,
+    "state_id": "p32-balanced-1350003",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 200,
+    "file": "plans/p32-balanced-1350003-lazarus_inspired.json",
+    "sha256": "5eef9eb9e789790e2dc9e1c834f07fc94e5cdbeb9e670b8e861aa6fe07e99b10",
+    "gpus": 32,
+    "seed": 1350003,
+    "state_id": "p32-balanced-1350003",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 201,
+    "file": "plans/p32-balanced-1350004-gnn4.json",
+    "sha256": "57ae48d4d7e306444894f753a20677937011ca1bc4c62b876fb099a30a55989b",
+    "gpus": 32,
+    "seed": 1350004,
+    "state_id": "p32-balanced-1350004",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 202,
+    "file": "plans/p32-balanced-1350004-sinkhorn_fixed.json",
+    "sha256": "c0c8c00f844e1c7d709c2603424b5dfaaa8fc0d50ddda77bb96e3ac21badf041",
+    "gpus": 32,
+    "seed": 1350004,
+    "state_id": "p32-balanced-1350004",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 203,
+    "file": "plans/p32-balanced-1350004-lazarus_inspired.json",
+    "sha256": "67d31cc22d9a896f94d7884cbbc6ea105419e69ec77afc9690a610d0c27334f0",
+    "gpus": 32,
+    "seed": 1350004,
+    "state_id": "p32-balanced-1350004",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 204,
+    "file": "plans/p32-balanced-1350005-gnn4.json",
+    "sha256": "9bb507ceee90d7d6d860fb464ece36cc433f1b7762bfe352c9e268e6a258ff54",
+    "gpus": 32,
+    "seed": 1350005,
+    "state_id": "p32-balanced-1350005",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 205,
+    "file": "plans/p32-balanced-1350005-sinkhorn_fixed.json",
+    "sha256": "09a44b3b277d8cfa209e36cb4dfdadb77b00efb8f77053f571632d74ef5d1ba5",
+    "gpus": 32,
+    "seed": 1350005,
+    "state_id": "p32-balanced-1350005",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 206,
+    "file": "plans/p32-balanced-1350005-lazarus_inspired.json",
+    "sha256": "c490578d6673d8f57a537727ad52419b26f1efcbfe8959c90f28432f56b9886c",
+    "gpus": 32,
+    "seed": 1350005,
+    "state_id": "p32-balanced-1350005",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 207,
+    "file": "plans/p32-balanced-1350006-gnn4.json",
+    "sha256": "5bbcbe5f41b1140a7f415332a2e0fe1d7f1dfbeb91cd940e8ca73b4218f3c921",
+    "gpus": 32,
+    "seed": 1350006,
+    "state_id": "p32-balanced-1350006",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 208,
+    "file": "plans/p32-balanced-1350006-sinkhorn_fixed.json",
+    "sha256": "9e2952ef5355c1417d9a74e1168b3299071cf3dd5d98aa43351f2cac4278ccbb",
+    "gpus": 32,
+    "seed": 1350006,
+    "state_id": "p32-balanced-1350006",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 209,
+    "file": "plans/p32-balanced-1350006-lazarus_inspired.json",
+    "sha256": "eda5c23bfff17e0bbc20844add55491f4595216f8c40b9a4a7eb31f9dc9a1f19",
+    "gpus": 32,
+    "seed": 1350006,
+    "state_id": "p32-balanced-1350006",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 210,
+    "file": "plans/p32-balanced-1350007-gnn4.json",
+    "sha256": "6db729365cb92e4aff06d68b9c1c75a6a5187a59640f5034d5c9138610b6e370",
+    "gpus": 32,
+    "seed": 1350007,
+    "state_id": "p32-balanced-1350007",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 211,
+    "file": "plans/p32-balanced-1350007-sinkhorn_fixed.json",
+    "sha256": "93b530d21ff892c1271c006e83c1d17d0ac523f9e4f1badd63de94fb7ab098c5",
+    "gpus": 32,
+    "seed": 1350007,
+    "state_id": "p32-balanced-1350007",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 212,
+    "file": "plans/p32-balanced-1350007-lazarus_inspired.json",
+    "sha256": "7b89b65e14e94c172179a8253bf15dc7ddcb650514cf49f83200a579f014a597",
+    "gpus": 32,
+    "seed": 1350007,
+    "state_id": "p32-balanced-1350007",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 213,
+    "file": "plans/p32-balanced-1350008-gnn4.json",
+    "sha256": "3cff6c767d7236f12a140eac5bb8c23bbe4f6b3b319eaadfd29b54f77b301d1a",
+    "gpus": 32,
+    "seed": 1350008,
+    "state_id": "p32-balanced-1350008",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 214,
+    "file": "plans/p32-balanced-1350008-sinkhorn_fixed.json",
+    "sha256": "8418420c3daa0bc0d5b3941f46eaa7e40ae896b1eb4344c0f54f7fd502b19b26",
+    "gpus": 32,
+    "seed": 1350008,
+    "state_id": "p32-balanced-1350008",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 215,
+    "file": "plans/p32-balanced-1350008-lazarus_inspired.json",
+    "sha256": "1e730a8139af90459be3a3978b92b733e05f397b584d70aa39151b0ffef57d84",
+    "gpus": 32,
+    "seed": 1350008,
+    "state_id": "p32-balanced-1350008",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 216,
+    "file": "plans/p32-balanced-1350009-gnn4.json",
+    "sha256": "a7e13b9f90deb6b7d6b96424d894cfda0ae2d46cb4799ab53993aab88c0a871d",
+    "gpus": 32,
+    "seed": 1350009,
+    "state_id": "p32-balanced-1350009",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 217,
+    "file": "plans/p32-balanced-1350009-sinkhorn_fixed.json",
+    "sha256": "4adaa99a3285ccc1cce3685cbfc1a28c83e9871dab32c2b01844d7859578d862",
+    "gpus": 32,
+    "seed": 1350009,
+    "state_id": "p32-balanced-1350009",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 218,
+    "file": "plans/p32-balanced-1350009-lazarus_inspired.json",
+    "sha256": "550e184ba10513b5710202c5f9234eead30fd6bd47fddf31b1488dd069cac1e8",
+    "gpus": 32,
+    "seed": 1350009,
+    "state_id": "p32-balanced-1350009",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 219,
+    "file": "plans/p32-balanced-1350010-gnn4.json",
+    "sha256": "2626d85d7dcbdfaf6430e5782e590818a270dc67626c0287e3c6b11660e7c82d",
+    "gpus": 32,
+    "seed": 1350010,
+    "state_id": "p32-balanced-1350010",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 220,
+    "file": "plans/p32-balanced-1350010-sinkhorn_fixed.json",
+    "sha256": "eeaa961f007d46e89068d3a9ed8f7d9b98aa62c0f8237292c16d36c8aaf1f0de",
+    "gpus": 32,
+    "seed": 1350010,
+    "state_id": "p32-balanced-1350010",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 221,
+    "file": "plans/p32-balanced-1350010-lazarus_inspired.json",
+    "sha256": "3bf77d30f916e7faa75fcd4de73c47a2aa10554f1367eb02341b27d8b26c792c",
+    "gpus": 32,
+    "seed": 1350010,
+    "state_id": "p32-balanced-1350010",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 222,
+    "file": "plans/p32-balanced-1350011-gnn4.json",
+    "sha256": "c5e7180c67bb0d9b8b4b6c2aadeee37c32212186ddd45aaf79510e3e7f798c56",
+    "gpus": 32,
+    "seed": 1350011,
+    "state_id": "p32-balanced-1350011",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 223,
+    "file": "plans/p32-balanced-1350011-sinkhorn_fixed.json",
+    "sha256": "4ba92b662f149248d0bbc9f4f577361f2db3846d54efce9f87a775d29d2be30d",
+    "gpus": 32,
+    "seed": 1350011,
+    "state_id": "p32-balanced-1350011",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 224,
+    "file": "plans/p32-balanced-1350011-lazarus_inspired.json",
+    "sha256": "4c4c36a0183df04d62567cad7ea821c706bf7b15675d1844e39c4e8105342dc7",
+    "gpus": 32,
+    "seed": 1350011,
+    "state_id": "p32-balanced-1350011",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 225,
+    "file": "plans/p32-balanced-1350012-gnn4.json",
+    "sha256": "8876534ca913d00ac2f93cd8f4859be2403f39e300a09c91b2f7c37405ebacf5",
+    "gpus": 32,
+    "seed": 1350012,
+    "state_id": "p32-balanced-1350012",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 226,
+    "file": "plans/p32-balanced-1350012-sinkhorn_fixed.json",
+    "sha256": "b3813b17e3b2e0022528255eb46cb89b63a5a3d2d398838d1c27964901031c29",
+    "gpus": 32,
+    "seed": 1350012,
+    "state_id": "p32-balanced-1350012",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 227,
+    "file": "plans/p32-balanced-1350012-lazarus_inspired.json",
+    "sha256": "07320fdec9149bf5757002378fc47920813adc748ce1d8befb3b61e421478e41",
+    "gpus": 32,
+    "seed": 1350012,
+    "state_id": "p32-balanced-1350012",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 228,
+    "file": "plans/p32-balanced-1350013-gnn4.json",
+    "sha256": "176d0bbdfdf47489cdd12ed5eea4bf8dc07010fe67ea6f73212190d02ee9ed64",
+    "gpus": 32,
+    "seed": 1350013,
+    "state_id": "p32-balanced-1350013",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 229,
+    "file": "plans/p32-balanced-1350013-sinkhorn_fixed.json",
+    "sha256": "bd4def332c1c155b72d694bd10269d233d20f27756ae3f7d3b657cb98e7d1813",
+    "gpus": 32,
+    "seed": 1350013,
+    "state_id": "p32-balanced-1350013",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 230,
+    "file": "plans/p32-balanced-1350013-lazarus_inspired.json",
+    "sha256": "26f5c5f5fe406a42ef3873a13c558343e81f12dae19cbef6e5ea7e18e10c2354",
+    "gpus": 32,
+    "seed": 1350013,
+    "state_id": "p32-balanced-1350013",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 231,
+    "file": "plans/p32-balanced-1350014-gnn4.json",
+    "sha256": "c084cb37ac8cb70e8aac83d50bb64076710d8e45d625054df9509c4b2d1260fa",
+    "gpus": 32,
+    "seed": 1350014,
+    "state_id": "p32-balanced-1350014",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 232,
+    "file": "plans/p32-balanced-1350014-sinkhorn_fixed.json",
+    "sha256": "2df0082ab085b070b2319c8987a8a9625d464f339d221f0ddb92c866d36f3b31",
+    "gpus": 32,
+    "seed": 1350014,
+    "state_id": "p32-balanced-1350014",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 233,
+    "file": "plans/p32-balanced-1350014-lazarus_inspired.json",
+    "sha256": "dbbbf091e4a8931cf8da49f109e537c1feceef14f0d2df37062fe513cef21e35",
+    "gpus": 32,
+    "seed": 1350014,
+    "state_id": "p32-balanced-1350014",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 234,
+    "file": "plans/p32-balanced-1350015-gnn4.json",
+    "sha256": "27fc3df372849859316b822cb5aaea08016bd271e58453001ffc7fb18daf11c5",
+    "gpus": 32,
+    "seed": 1350015,
+    "state_id": "p32-balanced-1350015",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 235,
+    "file": "plans/p32-balanced-1350015-sinkhorn_fixed.json",
+    "sha256": "aec243d4ca7108ecf8bd6f551b63d5296c56cd9eebe8536b05c0bcabe4184098",
+    "gpus": 32,
+    "seed": 1350015,
+    "state_id": "p32-balanced-1350015",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 236,
+    "file": "plans/p32-balanced-1350015-lazarus_inspired.json",
+    "sha256": "1e3257f42f99440b137771f972f29a071acb303c44baeaa1f9790c7d370ca500",
+    "gpus": 32,
+    "seed": 1350015,
+    "state_id": "p32-balanced-1350015",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 237,
+    "file": "plans/p32-balanced-1350016-gnn4.json",
+    "sha256": "62e9f96b639bdafcd598a509ce1a78f618d0706ba48681ddd00744a9e76cc309",
+    "gpus": 32,
+    "seed": 1350016,
+    "state_id": "p32-balanced-1350016",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 238,
+    "file": "plans/p32-balanced-1350016-sinkhorn_fixed.json",
+    "sha256": "e536838be4cb97de0920bd4571a1a00a3c516b944f4c0654059f4630b2461e70",
+    "gpus": 32,
+    "seed": 1350016,
+    "state_id": "p32-balanced-1350016",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 239,
+    "file": "plans/p32-balanced-1350016-lazarus_inspired.json",
+    "sha256": "8fee46d89ad5cbafc24b67f74ec0fa8d78877f984ee13cf13672bfed79fe146a",
+    "gpus": 32,
+    "seed": 1350016,
+    "state_id": "p32-balanced-1350016",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 240,
+    "file": "plans/p32-global_hotspot-1350001-gnn4.json",
+    "sha256": "40178de50f0d7fc563dee6cd339ecf4d78af13d4304ab2548583bde14e029d1a",
+    "gpus": 32,
+    "seed": 1350001,
+    "state_id": "p32-global_hotspot-1350001",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 241,
+    "file": "plans/p32-global_hotspot-1350001-sinkhorn_fixed.json",
+    "sha256": "882624515d7aee0f52644820e5975d17c40945f0f0b3a84e9cb4765042fdb615",
+    "gpus": 32,
+    "seed": 1350001,
+    "state_id": "p32-global_hotspot-1350001",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 242,
+    "file": "plans/p32-global_hotspot-1350001-lazarus_inspired.json",
+    "sha256": "07f1a084dbe95fa045748d9599ad9122ee0d124cff33080b770e4058e2845b3c",
+    "gpus": 32,
+    "seed": 1350001,
+    "state_id": "p32-global_hotspot-1350001",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 243,
+    "file": "plans/p32-global_hotspot-1350002-gnn4.json",
+    "sha256": "0e7ac153f1aabed9613ddf31fe62432f93dc89d95111c03cd3134bddf566b677",
+    "gpus": 32,
+    "seed": 1350002,
+    "state_id": "p32-global_hotspot-1350002",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 244,
+    "file": "plans/p32-global_hotspot-1350002-sinkhorn_fixed.json",
+    "sha256": "9fe0dc20bd4932bc4b54ff0f97222e246c784f156d8817a633d1f166805e105c",
+    "gpus": 32,
+    "seed": 1350002,
+    "state_id": "p32-global_hotspot-1350002",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 245,
+    "file": "plans/p32-global_hotspot-1350002-lazarus_inspired.json",
+    "sha256": "769329bfcead1bcdb3ca07cbaa135e29556c6faac27696511bbd658ba246d747",
+    "gpus": 32,
+    "seed": 1350002,
+    "state_id": "p32-global_hotspot-1350002",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 246,
+    "file": "plans/p32-global_hotspot-1350003-gnn4.json",
+    "sha256": "5c46e7d0e334a226675058a27aac2a60ebeaba23cff08c631eed88b726f98d3b",
+    "gpus": 32,
+    "seed": 1350003,
+    "state_id": "p32-global_hotspot-1350003",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 247,
+    "file": "plans/p32-global_hotspot-1350003-sinkhorn_fixed.json",
+    "sha256": "86e6212f89ada1c2e91775288d047969fbc94f1dcc4c448541f7e20386da2858",
+    "gpus": 32,
+    "seed": 1350003,
+    "state_id": "p32-global_hotspot-1350003",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 248,
+    "file": "plans/p32-global_hotspot-1350003-lazarus_inspired.json",
+    "sha256": "2a759b2e10ae980245c0b2f1e54e6af6fb476973220c0e9d2a38c7e0a4fd43b6",
+    "gpus": 32,
+    "seed": 1350003,
+    "state_id": "p32-global_hotspot-1350003",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 249,
+    "file": "plans/p32-global_hotspot-1350004-gnn4.json",
+    "sha256": "795d048f7f8f5825c30fa72ad5eb5c52b8dd6dc093d99dc87806a7ff9aff43f1",
+    "gpus": 32,
+    "seed": 1350004,
+    "state_id": "p32-global_hotspot-1350004",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 250,
+    "file": "plans/p32-global_hotspot-1350004-sinkhorn_fixed.json",
+    "sha256": "fc1e5c59775a1c0c4341f7e0c941e331134abedd53c013604eef482be9db91a8",
+    "gpus": 32,
+    "seed": 1350004,
+    "state_id": "p32-global_hotspot-1350004",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 251,
+    "file": "plans/p32-global_hotspot-1350004-lazarus_inspired.json",
+    "sha256": "d3c50eec8f6bae3e42c9a5fed373878d9e55265d5b4aace7a626ea2a8a23d75d",
+    "gpus": 32,
+    "seed": 1350004,
+    "state_id": "p32-global_hotspot-1350004",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 252,
+    "file": "plans/p32-global_hotspot-1350005-gnn4.json",
+    "sha256": "a4ddf044cd8ea44d0e41b6867faec2838df7aaa8905736bd126ecc95671d3cb8",
+    "gpus": 32,
+    "seed": 1350005,
+    "state_id": "p32-global_hotspot-1350005",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 253,
+    "file": "plans/p32-global_hotspot-1350005-sinkhorn_fixed.json",
+    "sha256": "e750d248d4469854307d01052d3fca353fdea4893660b35f7b752bfb5c4e9a45",
+    "gpus": 32,
+    "seed": 1350005,
+    "state_id": "p32-global_hotspot-1350005",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 254,
+    "file": "plans/p32-global_hotspot-1350005-lazarus_inspired.json",
+    "sha256": "9760cb6a4f0091bbe29a8d92def76ada26421b404f9e48097fa54c3cb6ef9697",
+    "gpus": 32,
+    "seed": 1350005,
+    "state_id": "p32-global_hotspot-1350005",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 255,
+    "file": "plans/p32-global_hotspot-1350006-gnn4.json",
+    "sha256": "87ad372497d01797c4f9146976321884fc8f457b5a2ad158cea80cd59aeacbc0",
+    "gpus": 32,
+    "seed": 1350006,
+    "state_id": "p32-global_hotspot-1350006",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 256,
+    "file": "plans/p32-global_hotspot-1350006-sinkhorn_fixed.json",
+    "sha256": "89d1c2b6f9ddd05388a38a336ad8a289e13b8a04a306392056b4aa5baa30dc12",
+    "gpus": 32,
+    "seed": 1350006,
+    "state_id": "p32-global_hotspot-1350006",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 257,
+    "file": "plans/p32-global_hotspot-1350006-lazarus_inspired.json",
+    "sha256": "9e7f82cd0a29668cb20227cf1dab0f2c573c7de48fb5064ad477e5158b215337",
+    "gpus": 32,
+    "seed": 1350006,
+    "state_id": "p32-global_hotspot-1350006",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 258,
+    "file": "plans/p32-global_hotspot-1350007-gnn4.json",
+    "sha256": "66641783c77a96af439050a9bd11f817322c6e65551dbe4eeb837b32102a7b4c",
+    "gpus": 32,
+    "seed": 1350007,
+    "state_id": "p32-global_hotspot-1350007",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 259,
+    "file": "plans/p32-global_hotspot-1350007-sinkhorn_fixed.json",
+    "sha256": "702fec079bfcb4f38cad97365c1a33cebf0e031de25df7697f8f82b5e8e3954b",
+    "gpus": 32,
+    "seed": 1350007,
+    "state_id": "p32-global_hotspot-1350007",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 260,
+    "file": "plans/p32-global_hotspot-1350007-lazarus_inspired.json",
+    "sha256": "61f29fea83fe7434bd7f48ae2494b3590ca2cc25ff1a707cb29dcba80072f9db",
+    "gpus": 32,
+    "seed": 1350007,
+    "state_id": "p32-global_hotspot-1350007",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 261,
+    "file": "plans/p32-global_hotspot-1350008-gnn4.json",
+    "sha256": "6cbc736f998d59ebaee92b77841a7a064c5cca187624bf4c7585d8fdaf66a66f",
+    "gpus": 32,
+    "seed": 1350008,
+    "state_id": "p32-global_hotspot-1350008",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 262,
+    "file": "plans/p32-global_hotspot-1350008-sinkhorn_fixed.json",
+    "sha256": "8bfe1839daa833f34ae5389a82716d260a74d1b39fc5b1b29721b56bd2746e31",
+    "gpus": 32,
+    "seed": 1350008,
+    "state_id": "p32-global_hotspot-1350008",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 263,
+    "file": "plans/p32-global_hotspot-1350008-lazarus_inspired.json",
+    "sha256": "63c9cce152d9e3643ed9bdd66a2a8b8146c7d2943c84dd6a0a3cf1ed65823130",
+    "gpus": 32,
+    "seed": 1350008,
+    "state_id": "p32-global_hotspot-1350008",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 264,
+    "file": "plans/p32-global_hotspot-1350009-gnn4.json",
+    "sha256": "793498627bd2903fd6c3bac1a8f0453570819b9fe26ac9d7e23ff71150b7886d",
+    "gpus": 32,
+    "seed": 1350009,
+    "state_id": "p32-global_hotspot-1350009",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 265,
+    "file": "plans/p32-global_hotspot-1350009-sinkhorn_fixed.json",
+    "sha256": "7498db47f5de06830905fe4d7c55cbd525a3d9d014bffd94d143e0a4d9337e6d",
+    "gpus": 32,
+    "seed": 1350009,
+    "state_id": "p32-global_hotspot-1350009",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 266,
+    "file": "plans/p32-global_hotspot-1350009-lazarus_inspired.json",
+    "sha256": "1053fd3cd977fb69e2640739f0e84dda49b6caf3731c17af3042a33487fdbba2",
+    "gpus": 32,
+    "seed": 1350009,
+    "state_id": "p32-global_hotspot-1350009",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 267,
+    "file": "plans/p32-global_hotspot-1350010-gnn4.json",
+    "sha256": "d35e8af5b2c6d0ce901695d06c51a281d4c43b7f6f15919cead714199d26c8e9",
+    "gpus": 32,
+    "seed": 1350010,
+    "state_id": "p32-global_hotspot-1350010",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 268,
+    "file": "plans/p32-global_hotspot-1350010-sinkhorn_fixed.json",
+    "sha256": "92c061734dc7f354fefc8a8c431158aba92bd185fbff364393cc5bc96baca4f0",
+    "gpus": 32,
+    "seed": 1350010,
+    "state_id": "p32-global_hotspot-1350010",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 269,
+    "file": "plans/p32-global_hotspot-1350010-lazarus_inspired.json",
+    "sha256": "4c6fdbcebfeaacbb0c2cc552c80b312a57710455a2b0fb9f101cb8874d3ac9ab",
+    "gpus": 32,
+    "seed": 1350010,
+    "state_id": "p32-global_hotspot-1350010",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 270,
+    "file": "plans/p32-global_hotspot-1350011-gnn4.json",
+    "sha256": "1726ccacca84fdec1bcea76fe905743462bddb23ff4fa5eafbbfee37d3aba630",
+    "gpus": 32,
+    "seed": 1350011,
+    "state_id": "p32-global_hotspot-1350011",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 271,
+    "file": "plans/p32-global_hotspot-1350011-sinkhorn_fixed.json",
+    "sha256": "c8f31cdaea48d0e917d67f9cf21039132ed9996521b92097b06248433dc9b4f1",
+    "gpus": 32,
+    "seed": 1350011,
+    "state_id": "p32-global_hotspot-1350011",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 272,
+    "file": "plans/p32-global_hotspot-1350011-lazarus_inspired.json",
+    "sha256": "491d70152e825f011e07d03fa48c7a557d90072b56f086fe631aed02164d91ec",
+    "gpus": 32,
+    "seed": 1350011,
+    "state_id": "p32-global_hotspot-1350011",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 273,
+    "file": "plans/p32-global_hotspot-1350012-gnn4.json",
+    "sha256": "9ab9f69b943fb4825e8d2b7db731946ed0ff5424bfb89e44144d4b963e01825c",
+    "gpus": 32,
+    "seed": 1350012,
+    "state_id": "p32-global_hotspot-1350012",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 274,
+    "file": "plans/p32-global_hotspot-1350012-sinkhorn_fixed.json",
+    "sha256": "0ea527b1887322cbdca94f3d5c35485d6a332bc53ca53b89ae05c47697106a55",
+    "gpus": 32,
+    "seed": 1350012,
+    "state_id": "p32-global_hotspot-1350012",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 275,
+    "file": "plans/p32-global_hotspot-1350012-lazarus_inspired.json",
+    "sha256": "073d931ac9c28a76c152be6b864243faed6291ba653c2957b76646d2b9220052",
+    "gpus": 32,
+    "seed": 1350012,
+    "state_id": "p32-global_hotspot-1350012",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 276,
+    "file": "plans/p32-global_hotspot-1350013-gnn4.json",
+    "sha256": "7e6d36f7e69434955d76563bc795788151d36cfee90631084ae1cb6c3b73ab17",
+    "gpus": 32,
+    "seed": 1350013,
+    "state_id": "p32-global_hotspot-1350013",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 277,
+    "file": "plans/p32-global_hotspot-1350013-sinkhorn_fixed.json",
+    "sha256": "2afe381b38400888ad498735ea2e91095c7e5dfd5fda4a44fcc2a9bfbaec4d41",
+    "gpus": 32,
+    "seed": 1350013,
+    "state_id": "p32-global_hotspot-1350013",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 278,
+    "file": "plans/p32-global_hotspot-1350013-lazarus_inspired.json",
+    "sha256": "4700c902d3771b32c74c9fa960fab8800234e5bcf81ae49264df1d0258854739",
+    "gpus": 32,
+    "seed": 1350013,
+    "state_id": "p32-global_hotspot-1350013",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 279,
+    "file": "plans/p32-global_hotspot-1350014-gnn4.json",
+    "sha256": "2226daf03caa1fbdbb597c28f22e2ff28b8b63b391d1b18ff557023abf0142dc",
+    "gpus": 32,
+    "seed": 1350014,
+    "state_id": "p32-global_hotspot-1350014",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 280,
+    "file": "plans/p32-global_hotspot-1350014-sinkhorn_fixed.json",
+    "sha256": "00ef64a091abd4d667acf375797e18f1d698913401eedb637802c6f0ccdc125b",
+    "gpus": 32,
+    "seed": 1350014,
+    "state_id": "p32-global_hotspot-1350014",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 281,
+    "file": "plans/p32-global_hotspot-1350014-lazarus_inspired.json",
+    "sha256": "0d82d4211b886f9a28b966530cee3649452f4fc180598f9ec5b1434ab4ca4dcc",
+    "gpus": 32,
+    "seed": 1350014,
+    "state_id": "p32-global_hotspot-1350014",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 282,
+    "file": "plans/p32-global_hotspot-1350015-gnn4.json",
+    "sha256": "f74df7869eb7c54e71777b589fe834406ec44fc9741a52171ff040190ce4bed0",
+    "gpus": 32,
+    "seed": 1350015,
+    "state_id": "p32-global_hotspot-1350015",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 283,
+    "file": "plans/p32-global_hotspot-1350015-sinkhorn_fixed.json",
+    "sha256": "5753e693fa520c7fdc684a2f17602e9630aa48495137fe2b89e7a78163cd23fb",
+    "gpus": 32,
+    "seed": 1350015,
+    "state_id": "p32-global_hotspot-1350015",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 284,
+    "file": "plans/p32-global_hotspot-1350015-lazarus_inspired.json",
+    "sha256": "c19a637e9890c823de4ff13b35dd081d404b80e54d216413e22cda7bd42a835f",
+    "gpus": 32,
+    "seed": 1350015,
+    "state_id": "p32-global_hotspot-1350015",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 285,
+    "file": "plans/p32-global_hotspot-1350016-gnn4.json",
+    "sha256": "ae63ab8d25968d8354a6b55776caa2e25be3f2e602ef1456d1213fa6d90318ee",
+    "gpus": 32,
+    "seed": 1350016,
+    "state_id": "p32-global_hotspot-1350016",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 286,
+    "file": "plans/p32-global_hotspot-1350016-sinkhorn_fixed.json",
+    "sha256": "859ca85ab1945be6c83ef1c108ec693315adaf5559b1bd4c66e85a5b25d7f186",
+    "gpus": 32,
+    "seed": 1350016,
+    "state_id": "p32-global_hotspot-1350016",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 287,
+    "file": "plans/p32-global_hotspot-1350016-lazarus_inspired.json",
+    "sha256": "8719c43643a55e1ff22be3df75fd9d7a2e732f500f251e038993a54588f4d70f",
+    "gpus": 32,
+    "seed": 1350016,
+    "state_id": "p32-global_hotspot-1350016",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 288,
+    "file": "plans/p32-node_local-1350001-gnn4.json",
+    "sha256": "a42b3780e3ad8485e28c85fa79bbf9c3920ff7a7a32d47a04aaea793232878d0",
+    "gpus": 32,
+    "seed": 1350001,
+    "state_id": "p32-node_local-1350001",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 289,
+    "file": "plans/p32-node_local-1350001-sinkhorn_fixed.json",
+    "sha256": "635c11397069e0862bf1233df76e5dc08a48bbc20ec041e9312075c3262c9948",
+    "gpus": 32,
+    "seed": 1350001,
+    "state_id": "p32-node_local-1350001",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 290,
+    "file": "plans/p32-node_local-1350001-lazarus_inspired.json",
+    "sha256": "15d54c9865de60769cb66c8d079ccdf78110ff7145b4143690c90c5d0913c60b",
+    "gpus": 32,
+    "seed": 1350001,
+    "state_id": "p32-node_local-1350001",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 291,
+    "file": "plans/p32-node_local-1350002-gnn4.json",
+    "sha256": "8877d0c7d1a842d1c17ce155e46a3cfff38fd9abc01f60359c03d12dff05f376",
+    "gpus": 32,
+    "seed": 1350002,
+    "state_id": "p32-node_local-1350002",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 292,
+    "file": "plans/p32-node_local-1350002-sinkhorn_fixed.json",
+    "sha256": "ccbf27dca125714710c143fbaaa4fabd016cbd52bb86f83d0606c266456d2f5f",
+    "gpus": 32,
+    "seed": 1350002,
+    "state_id": "p32-node_local-1350002",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 293,
+    "file": "plans/p32-node_local-1350002-lazarus_inspired.json",
+    "sha256": "5b06d77fc10c0c33cf4bebe60477d4a6e4c5b61170d75d0af1abdb17fcbccf61",
+    "gpus": 32,
+    "seed": 1350002,
+    "state_id": "p32-node_local-1350002",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 294,
+    "file": "plans/p32-node_local-1350003-gnn4.json",
+    "sha256": "3a4079a485e3c05e765c55ccdf9c73643950932b6a0f8c7a35140b1a58f03ab2",
+    "gpus": 32,
+    "seed": 1350003,
+    "state_id": "p32-node_local-1350003",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 295,
+    "file": "plans/p32-node_local-1350003-sinkhorn_fixed.json",
+    "sha256": "5e6839036d8a5080387534f18668e6bf25930c6e51dc9afb4b09b27d1a6c5085",
+    "gpus": 32,
+    "seed": 1350003,
+    "state_id": "p32-node_local-1350003",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 296,
+    "file": "plans/p32-node_local-1350003-lazarus_inspired.json",
+    "sha256": "a4e0a465c1cb186cdd2b90ff75bcb3979dfd05dfb3ebf743e227591d954f1759",
+    "gpus": 32,
+    "seed": 1350003,
+    "state_id": "p32-node_local-1350003",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 297,
+    "file": "plans/p32-node_local-1350004-gnn4.json",
+    "sha256": "670097ed54876bee01101af9c6065bab35e9ef6ad4fe11e2c10a9895ae63a000",
+    "gpus": 32,
+    "seed": 1350004,
+    "state_id": "p32-node_local-1350004",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 298,
+    "file": "plans/p32-node_local-1350004-sinkhorn_fixed.json",
+    "sha256": "55370fe507616fb87c0047dfe2fe5e89de2c02bd58d77c417ed6b13358619d4b",
+    "gpus": 32,
+    "seed": 1350004,
+    "state_id": "p32-node_local-1350004",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 299,
+    "file": "plans/p32-node_local-1350004-lazarus_inspired.json",
+    "sha256": "eb358cc7b501948ba10fdbbd602d017df35fbb968eb16cad64094631e2fc0757",
+    "gpus": 32,
+    "seed": 1350004,
+    "state_id": "p32-node_local-1350004",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 300,
+    "file": "plans/p32-node_local-1350005-gnn4.json",
+    "sha256": "a2982c1bb242d32291876389e9d86bf67f8b90d775b23d92055a39c95d12d49c",
+    "gpus": 32,
+    "seed": 1350005,
+    "state_id": "p32-node_local-1350005",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 301,
+    "file": "plans/p32-node_local-1350005-sinkhorn_fixed.json",
+    "sha256": "00973b540de427dff35c11b1042754cfd197ab42d05b4218456a6d45f059b9fb",
+    "gpus": 32,
+    "seed": 1350005,
+    "state_id": "p32-node_local-1350005",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 302,
+    "file": "plans/p32-node_local-1350005-lazarus_inspired.json",
+    "sha256": "b5c0a295b9430d73ddb732492cb7ddbecb6974ee3c92d5658727ae526d655288",
+    "gpus": 32,
+    "seed": 1350005,
+    "state_id": "p32-node_local-1350005",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 303,
+    "file": "plans/p32-node_local-1350006-gnn4.json",
+    "sha256": "6fae780aae3061931051e0d86933c0b6ea91841b4de0675780a1a108a1a8b426",
+    "gpus": 32,
+    "seed": 1350006,
+    "state_id": "p32-node_local-1350006",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 304,
+    "file": "plans/p32-node_local-1350006-sinkhorn_fixed.json",
+    "sha256": "89a03dcae3fa51be46ec7f0394a862a58e56e8b0d659ff8b2d5edfe660ccb675",
+    "gpus": 32,
+    "seed": 1350006,
+    "state_id": "p32-node_local-1350006",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 305,
+    "file": "plans/p32-node_local-1350006-lazarus_inspired.json",
+    "sha256": "cf33c793ff65b5a9b1cd3c1aa8149fbff5acacf637b1a01d774f97dff7db89ae",
+    "gpus": 32,
+    "seed": 1350006,
+    "state_id": "p32-node_local-1350006",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 306,
+    "file": "plans/p32-node_local-1350007-gnn4.json",
+    "sha256": "8c7aa0028e7a1eb60f385beda24ab1f8f1dbc3d527723a133012b4d5b3ae4f41",
+    "gpus": 32,
+    "seed": 1350007,
+    "state_id": "p32-node_local-1350007",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 307,
+    "file": "plans/p32-node_local-1350007-sinkhorn_fixed.json",
+    "sha256": "8531b25bf41002d60df52299276d1fe8871327b21881d242f3da618f519d7deb",
+    "gpus": 32,
+    "seed": 1350007,
+    "state_id": "p32-node_local-1350007",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 308,
+    "file": "plans/p32-node_local-1350007-lazarus_inspired.json",
+    "sha256": "11a5e62e477f41355a9282f9136013ff03d36d5f283df9ca56699fd9c680064e",
+    "gpus": 32,
+    "seed": 1350007,
+    "state_id": "p32-node_local-1350007",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 309,
+    "file": "plans/p32-node_local-1350008-gnn4.json",
+    "sha256": "ad489e1ae604c6c09d7d29ff9b07b5dd591810ce3afef11d517aa3ef815bc5ba",
+    "gpus": 32,
+    "seed": 1350008,
+    "state_id": "p32-node_local-1350008",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 310,
+    "file": "plans/p32-node_local-1350008-sinkhorn_fixed.json",
+    "sha256": "4cc8795944835cf7bfc0e7346d3514f075dd75c1e55fcd4a83ab2dd83e344b8a",
+    "gpus": 32,
+    "seed": 1350008,
+    "state_id": "p32-node_local-1350008",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 311,
+    "file": "plans/p32-node_local-1350008-lazarus_inspired.json",
+    "sha256": "0a597aab02828458994c62d67f2e886eeb77deaefd04a86de10d9c9f509d6fb6",
+    "gpus": 32,
+    "seed": 1350008,
+    "state_id": "p32-node_local-1350008",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 312,
+    "file": "plans/p32-node_local-1350009-gnn4.json",
+    "sha256": "00b63a4b0a8aaaba533e14838e8cbd6c74d11c39024ec8a7b43456f14ac57170",
+    "gpus": 32,
+    "seed": 1350009,
+    "state_id": "p32-node_local-1350009",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 313,
+    "file": "plans/p32-node_local-1350009-sinkhorn_fixed.json",
+    "sha256": "6e610a81daa844724f3d8eb8fb65155e793d21f1e5ea4d33a90fdbd5f8773c00",
+    "gpus": 32,
+    "seed": 1350009,
+    "state_id": "p32-node_local-1350009",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 314,
+    "file": "plans/p32-node_local-1350009-lazarus_inspired.json",
+    "sha256": "1d139994400bd0ff6706f5270034b64adedfa9943b488089b89b7664f1e5cab3",
+    "gpus": 32,
+    "seed": 1350009,
+    "state_id": "p32-node_local-1350009",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 315,
+    "file": "plans/p32-node_local-1350010-gnn4.json",
+    "sha256": "c2380eb41ea5aae266345a81924b289cb788566f3e28134367047441a3e52922",
+    "gpus": 32,
+    "seed": 1350010,
+    "state_id": "p32-node_local-1350010",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 316,
+    "file": "plans/p32-node_local-1350010-sinkhorn_fixed.json",
+    "sha256": "d3d6144fbfaa026b300fd04925f58d8115585bf5d49901ef11c92b48cf459875",
+    "gpus": 32,
+    "seed": 1350010,
+    "state_id": "p32-node_local-1350010",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 317,
+    "file": "plans/p32-node_local-1350010-lazarus_inspired.json",
+    "sha256": "683ebf78d6332cfa2c9ff567718c9b5a65a7f56a9ef7d1ce330f37b00c40b131",
+    "gpus": 32,
+    "seed": 1350010,
+    "state_id": "p32-node_local-1350010",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 318,
+    "file": "plans/p32-node_local-1350011-gnn4.json",
+    "sha256": "0c275f43c5219e0882962623b1da1bfed37dd5b992ef179d4b91c30e0909d600",
+    "gpus": 32,
+    "seed": 1350011,
+    "state_id": "p32-node_local-1350011",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 319,
+    "file": "plans/p32-node_local-1350011-sinkhorn_fixed.json",
+    "sha256": "b45e4902bc3f3efbadf17bb9973c01e6112bde791346c8d2cae472d101f1134f",
+    "gpus": 32,
+    "seed": 1350011,
+    "state_id": "p32-node_local-1350011",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 320,
+    "file": "plans/p32-node_local-1350011-lazarus_inspired.json",
+    "sha256": "6e319aae686e2b01c5123ae6f5b3ed1980aeaf1d19f4e813c90e57b4b272e672",
+    "gpus": 32,
+    "seed": 1350011,
+    "state_id": "p32-node_local-1350011",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 321,
+    "file": "plans/p32-node_local-1350012-gnn4.json",
+    "sha256": "a7d5a0712ba9ac3a3d1cc2c32543ab6cf3e8d20a34358a9c5baefb1e813ea9a6",
+    "gpus": 32,
+    "seed": 1350012,
+    "state_id": "p32-node_local-1350012",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 322,
+    "file": "plans/p32-node_local-1350012-sinkhorn_fixed.json",
+    "sha256": "d36cc908b917dd32ef3c646e2352411fef2bdfb2bcd0b6a8434f56495c94aa57",
+    "gpus": 32,
+    "seed": 1350012,
+    "state_id": "p32-node_local-1350012",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 323,
+    "file": "plans/p32-node_local-1350012-lazarus_inspired.json",
+    "sha256": "8b0d0a49487807427f755437b902be13b8a909d7a3006f2ff3f7c843d7673d6b",
+    "gpus": 32,
+    "seed": 1350012,
+    "state_id": "p32-node_local-1350012",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 324,
+    "file": "plans/p32-node_local-1350013-gnn4.json",
+    "sha256": "99cede89b46a928c55acb6643311a187ba5520b2b53181fb0c55b66d31d8fffd",
+    "gpus": 32,
+    "seed": 1350013,
+    "state_id": "p32-node_local-1350013",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 325,
+    "file": "plans/p32-node_local-1350013-sinkhorn_fixed.json",
+    "sha256": "d1e79ae1166e28e832339eec07ac8c1326b017681a9c50a15d03347d6307f4f4",
+    "gpus": 32,
+    "seed": 1350013,
+    "state_id": "p32-node_local-1350013",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 326,
+    "file": "plans/p32-node_local-1350013-lazarus_inspired.json",
+    "sha256": "1078f91067055cf9f99b68d6e1c2fade4c7308b384fcaa34cf3e6d0616fa94f0",
+    "gpus": 32,
+    "seed": 1350013,
+    "state_id": "p32-node_local-1350013",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 327,
+    "file": "plans/p32-node_local-1350014-gnn4.json",
+    "sha256": "79c285110b3d9425f369445de9b04bbb677565ea2b9202433a35b20305faa70b",
+    "gpus": 32,
+    "seed": 1350014,
+    "state_id": "p32-node_local-1350014",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 328,
+    "file": "plans/p32-node_local-1350014-sinkhorn_fixed.json",
+    "sha256": "2074863c67b9cb005671ec04400e6f9fdaab88a25af89ad400e473db73b68769",
+    "gpus": 32,
+    "seed": 1350014,
+    "state_id": "p32-node_local-1350014",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 329,
+    "file": "plans/p32-node_local-1350014-lazarus_inspired.json",
+    "sha256": "cddfc92357d6156181f6040d20460d270b4856cd20ea15821c7718aa659e336d",
+    "gpus": 32,
+    "seed": 1350014,
+    "state_id": "p32-node_local-1350014",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 330,
+    "file": "plans/p32-node_local-1350015-gnn4.json",
+    "sha256": "6da3f238999c9602e18cdb88059b2676da1ff543b5c0f8702e69744b631517c3",
+    "gpus": 32,
+    "seed": 1350015,
+    "state_id": "p32-node_local-1350015",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 331,
+    "file": "plans/p32-node_local-1350015-sinkhorn_fixed.json",
+    "sha256": "ba58b7de6031d74a24983f10b502f1e93de898f1eb7e3f8203fd707dee31c6a5",
+    "gpus": 32,
+    "seed": 1350015,
+    "state_id": "p32-node_local-1350015",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 332,
+    "file": "plans/p32-node_local-1350015-lazarus_inspired.json",
+    "sha256": "b71f33d65b049cbc5fb09e330f23458ceab06f6e149a45e016d3ae6896646e35",
+    "gpus": 32,
+    "seed": 1350015,
+    "state_id": "p32-node_local-1350015",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 333,
+    "file": "plans/p32-node_local-1350016-gnn4.json",
+    "sha256": "0fb5907f2e43dc7cc1431fd7758f2365d4ab300ea0b84738ea5e2a710a92a11c",
+    "gpus": 32,
+    "seed": 1350016,
+    "state_id": "p32-node_local-1350016",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 334,
+    "file": "plans/p32-node_local-1350016-sinkhorn_fixed.json",
+    "sha256": "eb032209b3f24c9466d0af819aab7cd70fd7edc3aaf3f3f1a7ff5c3aa2cb4a9b",
+    "gpus": 32,
+    "seed": 1350016,
+    "state_id": "p32-node_local-1350016",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 335,
+    "file": "plans/p32-node_local-1350016-lazarus_inspired.json",
+    "sha256": "051187b7884305a435ee9052f636d491fbdc6180718b4fc538d865e6e885f471",
+    "gpus": 32,
+    "seed": 1350016,
+    "state_id": "p32-node_local-1350016",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 336,
+    "file": "plans/p32-source_skew-1350001-gnn4.json",
+    "sha256": "5dc215b1de1f853531823d7a2288f64c8f42c8afb3a8efc12b4c59a15f0a08c9",
+    "gpus": 32,
+    "seed": 1350001,
+    "state_id": "p32-source_skew-1350001",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 337,
+    "file": "plans/p32-source_skew-1350001-sinkhorn_fixed.json",
+    "sha256": "086e6969f00ea059a929b48b329e740777a0ef23fc6a26b050157ebc0a920128",
+    "gpus": 32,
+    "seed": 1350001,
+    "state_id": "p32-source_skew-1350001",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 338,
+    "file": "plans/p32-source_skew-1350001-lazarus_inspired.json",
+    "sha256": "a4f1c729a50723298c782e7cb0cc2d653b91688b7e9f724b6130934bb9b4c63e",
+    "gpus": 32,
+    "seed": 1350001,
+    "state_id": "p32-source_skew-1350001",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 339,
+    "file": "plans/p32-source_skew-1350002-gnn4.json",
+    "sha256": "4f81eebd390744cc815e47f1f4f9de67d511513be05c76d4a77ddab508b9a215",
+    "gpus": 32,
+    "seed": 1350002,
+    "state_id": "p32-source_skew-1350002",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 340,
+    "file": "plans/p32-source_skew-1350002-sinkhorn_fixed.json",
+    "sha256": "7c97901ebf806dd0ed38e9413c1a13e30c04de545056d9ceebf91c93827a1d7c",
+    "gpus": 32,
+    "seed": 1350002,
+    "state_id": "p32-source_skew-1350002",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 341,
+    "file": "plans/p32-source_skew-1350002-lazarus_inspired.json",
+    "sha256": "fd454bf926feaf1375ef97685ca26ee35b69d38c36c2759f16a51ebe1c1104bb",
+    "gpus": 32,
+    "seed": 1350002,
+    "state_id": "p32-source_skew-1350002",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 342,
+    "file": "plans/p32-source_skew-1350003-gnn4.json",
+    "sha256": "bd8fca9b52d1e5793e8b42bfc057513d2821dabf8f81b57797bd5ae4f4a7e59a",
+    "gpus": 32,
+    "seed": 1350003,
+    "state_id": "p32-source_skew-1350003",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 343,
+    "file": "plans/p32-source_skew-1350003-sinkhorn_fixed.json",
+    "sha256": "1c4560c5c14f2b787146fe0c419d1b8d1733818e27795c9920e99b39139213ec",
+    "gpus": 32,
+    "seed": 1350003,
+    "state_id": "p32-source_skew-1350003",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 344,
+    "file": "plans/p32-source_skew-1350003-lazarus_inspired.json",
+    "sha256": "9983ec6e40e875aa3b3ae02e04b5b7e95d93a5bc85b1a26460978789fdebb3f3",
+    "gpus": 32,
+    "seed": 1350003,
+    "state_id": "p32-source_skew-1350003",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 345,
+    "file": "plans/p32-source_skew-1350004-gnn4.json",
+    "sha256": "2892807abe0bf9bbcc9e9ee465b9664150689a98541ef92d7fa5bd4620bceeed",
+    "gpus": 32,
+    "seed": 1350004,
+    "state_id": "p32-source_skew-1350004",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 346,
+    "file": "plans/p32-source_skew-1350004-sinkhorn_fixed.json",
+    "sha256": "814dd0bbefb33a024195f130344e4cff737ed23793ae2a7022c1f7f5d9a8d9d4",
+    "gpus": 32,
+    "seed": 1350004,
+    "state_id": "p32-source_skew-1350004",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 347,
+    "file": "plans/p32-source_skew-1350004-lazarus_inspired.json",
+    "sha256": "6281cb527eeb3c77ad05517b1ea6845995b427ef7a2348c77aeb5c5e51bf181a",
+    "gpus": 32,
+    "seed": 1350004,
+    "state_id": "p32-source_skew-1350004",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 348,
+    "file": "plans/p32-source_skew-1350005-gnn4.json",
+    "sha256": "e6d8a1818498583b97788c094b27e71e6aa77bed01c50cc09a25a1e43a9135f1",
+    "gpus": 32,
+    "seed": 1350005,
+    "state_id": "p32-source_skew-1350005",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 349,
+    "file": "plans/p32-source_skew-1350005-sinkhorn_fixed.json",
+    "sha256": "3e80dbbcd2f417afc76c58b0cccbf7f94e088d64a060c2eb92e27b2e04bbabbd",
+    "gpus": 32,
+    "seed": 1350005,
+    "state_id": "p32-source_skew-1350005",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 350,
+    "file": "plans/p32-source_skew-1350005-lazarus_inspired.json",
+    "sha256": "91b516b5ed8a9051ad0d8bd5ee7e1fd6f579b82f8562d0fc3f4a7c1c2c82c689",
+    "gpus": 32,
+    "seed": 1350005,
+    "state_id": "p32-source_skew-1350005",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 351,
+    "file": "plans/p32-source_skew-1350006-gnn4.json",
+    "sha256": "708a7b43d982c5bc6a7ff1e2ff7c9c4fbc3766a53b8d9d7b45adf7ed17a6afcc",
+    "gpus": 32,
+    "seed": 1350006,
+    "state_id": "p32-source_skew-1350006",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 352,
+    "file": "plans/p32-source_skew-1350006-sinkhorn_fixed.json",
+    "sha256": "b1cd918175670a69eb244edafa63eac4b53d7b2cb591409220e25c23737a614f",
+    "gpus": 32,
+    "seed": 1350006,
+    "state_id": "p32-source_skew-1350006",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 353,
+    "file": "plans/p32-source_skew-1350006-lazarus_inspired.json",
+    "sha256": "85fe874378a5e062ca68ca2349245a2dd71f8207ff80906af87eb0c511479416",
+    "gpus": 32,
+    "seed": 1350006,
+    "state_id": "p32-source_skew-1350006",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 354,
+    "file": "plans/p32-source_skew-1350007-gnn4.json",
+    "sha256": "77c6fb01dd5757f690c4ebc53b18535fa92776d4d1430c168865efe7f44d4175",
+    "gpus": 32,
+    "seed": 1350007,
+    "state_id": "p32-source_skew-1350007",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 355,
+    "file": "plans/p32-source_skew-1350007-sinkhorn_fixed.json",
+    "sha256": "e3562e12ba1252c9dff557081fac411b53465dc18e3bce527e6985391e8bf193",
+    "gpus": 32,
+    "seed": 1350007,
+    "state_id": "p32-source_skew-1350007",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 356,
+    "file": "plans/p32-source_skew-1350007-lazarus_inspired.json",
+    "sha256": "ced221821ef9726b59c80bee875a4791c684283db14624d562f00124fab70c60",
+    "gpus": 32,
+    "seed": 1350007,
+    "state_id": "p32-source_skew-1350007",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 357,
+    "file": "plans/p32-source_skew-1350008-gnn4.json",
+    "sha256": "2477dac0047c65a0d17fea1735ca5530d1e56477756e8923df861803edd71df6",
+    "gpus": 32,
+    "seed": 1350008,
+    "state_id": "p32-source_skew-1350008",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 358,
+    "file": "plans/p32-source_skew-1350008-sinkhorn_fixed.json",
+    "sha256": "60a406f6f201d8f26181d46e5500d43244f70df27f6a419e7c849842532a7caa",
+    "gpus": 32,
+    "seed": 1350008,
+    "state_id": "p32-source_skew-1350008",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 359,
+    "file": "plans/p32-source_skew-1350008-lazarus_inspired.json",
+    "sha256": "d82c67f39599b877850076e5fa34f206e0231f5dc08d289e7af516c90521819a",
+    "gpus": 32,
+    "seed": 1350008,
+    "state_id": "p32-source_skew-1350008",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 360,
+    "file": "plans/p32-source_skew-1350009-gnn4.json",
+    "sha256": "982710362a5b2c3da31c119dcad2db0110df4278d49d64af568e84af48bd6cfe",
+    "gpus": 32,
+    "seed": 1350009,
+    "state_id": "p32-source_skew-1350009",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 361,
+    "file": "plans/p32-source_skew-1350009-sinkhorn_fixed.json",
+    "sha256": "72b6e0d8c728244587096b0197155b2aca410d8cbe645b5201cd24fffd75962e",
+    "gpus": 32,
+    "seed": 1350009,
+    "state_id": "p32-source_skew-1350009",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 362,
+    "file": "plans/p32-source_skew-1350009-lazarus_inspired.json",
+    "sha256": "bf16fd257f85e7e9870a6437331aa0decd122aa5e43d73b9502bd055d99811c9",
+    "gpus": 32,
+    "seed": 1350009,
+    "state_id": "p32-source_skew-1350009",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 363,
+    "file": "plans/p32-source_skew-1350010-gnn4.json",
+    "sha256": "2f215d388bb0e66839b9a5ee7d0b6bdc448606cc51e4dc0c318fdcdb5bf5be36",
+    "gpus": 32,
+    "seed": 1350010,
+    "state_id": "p32-source_skew-1350010",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 364,
+    "file": "plans/p32-source_skew-1350010-sinkhorn_fixed.json",
+    "sha256": "366b8c8bc644dd3b383653124e9646f4572ded6b9388ff7f34a13137d1a4c630",
+    "gpus": 32,
+    "seed": 1350010,
+    "state_id": "p32-source_skew-1350010",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 365,
+    "file": "plans/p32-source_skew-1350010-lazarus_inspired.json",
+    "sha256": "78f5c0254c266e46f5421236ef8ebe7e8dc26c145ca8e2c24c12f7440fd45296",
+    "gpus": 32,
+    "seed": 1350010,
+    "state_id": "p32-source_skew-1350010",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 366,
+    "file": "plans/p32-source_skew-1350011-gnn4.json",
+    "sha256": "e6efa0b37644f695b5a24d16c8d777e752c85c5ff878892262497d553eed53ed",
+    "gpus": 32,
+    "seed": 1350011,
+    "state_id": "p32-source_skew-1350011",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 367,
+    "file": "plans/p32-source_skew-1350011-sinkhorn_fixed.json",
+    "sha256": "d6cef3503ea2bf78562ac94c1808d8a154f44f2b113eb81dd63c102cd38d6e52",
+    "gpus": 32,
+    "seed": 1350011,
+    "state_id": "p32-source_skew-1350011",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 368,
+    "file": "plans/p32-source_skew-1350011-lazarus_inspired.json",
+    "sha256": "741b1f8d3c8b100e34612a91504b13568c77550ce0bf5d912c51885cf4788c4d",
+    "gpus": 32,
+    "seed": 1350011,
+    "state_id": "p32-source_skew-1350011",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 369,
+    "file": "plans/p32-source_skew-1350012-gnn4.json",
+    "sha256": "6fe869f07322b8f8aad0978ce8edfcbf9eaa535731033d040275358f8f40b562",
+    "gpus": 32,
+    "seed": 1350012,
+    "state_id": "p32-source_skew-1350012",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 370,
+    "file": "plans/p32-source_skew-1350012-sinkhorn_fixed.json",
+    "sha256": "f2fcb8ec8473378b8ca2777b5eaee7eaf27a817d335c5c01b6bf664159d4f767",
+    "gpus": 32,
+    "seed": 1350012,
+    "state_id": "p32-source_skew-1350012",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 371,
+    "file": "plans/p32-source_skew-1350012-lazarus_inspired.json",
+    "sha256": "ec9c01a34a7a61b4307badd3262a5ff52afae7f0ddb2d64e48733cfc3832ae68",
+    "gpus": 32,
+    "seed": 1350012,
+    "state_id": "p32-source_skew-1350012",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 372,
+    "file": "plans/p32-source_skew-1350013-gnn4.json",
+    "sha256": "757c0e55248ecc6c7a672cab83270c2319142b79605a4f161eb15953fc7494db",
+    "gpus": 32,
+    "seed": 1350013,
+    "state_id": "p32-source_skew-1350013",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 373,
+    "file": "plans/p32-source_skew-1350013-sinkhorn_fixed.json",
+    "sha256": "9dfb5006c266834db75a9c9a5076b50357aebf58df86df9b32d5f6177ed821de",
+    "gpus": 32,
+    "seed": 1350013,
+    "state_id": "p32-source_skew-1350013",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 374,
+    "file": "plans/p32-source_skew-1350013-lazarus_inspired.json",
+    "sha256": "85e563cecfb1d53c3452f226cbf43bb917065a7e8f36fd93e76039628053a2ed",
+    "gpus": 32,
+    "seed": 1350013,
+    "state_id": "p32-source_skew-1350013",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 375,
+    "file": "plans/p32-source_skew-1350014-gnn4.json",
+    "sha256": "c75cccb91e96ce2afea253060c7d9ded9cfd6c477fb0ea852579774143a93f31",
+    "gpus": 32,
+    "seed": 1350014,
+    "state_id": "p32-source_skew-1350014",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 376,
+    "file": "plans/p32-source_skew-1350014-sinkhorn_fixed.json",
+    "sha256": "a6ad8e6e3dab353a8fb4ba5ebebbb1c925483940efa7c1f363c55e88a193ec91",
+    "gpus": 32,
+    "seed": 1350014,
+    "state_id": "p32-source_skew-1350014",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 377,
+    "file": "plans/p32-source_skew-1350014-lazarus_inspired.json",
+    "sha256": "57a7adc18c6527325326a6fd44e5f2a913be02ae13c60067c9998c5ef622b74c",
+    "gpus": 32,
+    "seed": 1350014,
+    "state_id": "p32-source_skew-1350014",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 378,
+    "file": "plans/p32-source_skew-1350015-gnn4.json",
+    "sha256": "a2fa0ce8ad84ccbec9efdac7f8c6828cb456929ce42655d3d37b59bd6cd1d0ad",
+    "gpus": 32,
+    "seed": 1350015,
+    "state_id": "p32-source_skew-1350015",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 379,
+    "file": "plans/p32-source_skew-1350015-sinkhorn_fixed.json",
+    "sha256": "7c0f6180359a06eb20b9a388b50330f55eb3ffbcb0464de34825425ddb01c30c",
+    "gpus": 32,
+    "seed": 1350015,
+    "state_id": "p32-source_skew-1350015",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 380,
+    "file": "plans/p32-source_skew-1350015-lazarus_inspired.json",
+    "sha256": "e085c95d8b59a6575f58293af79bbfa06bbdb105965e66b46407c409a7620300",
+    "gpus": 32,
+    "seed": 1350015,
+    "state_id": "p32-source_skew-1350015",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 381,
+    "file": "plans/p32-source_skew-1350016-gnn4.json",
+    "sha256": "a0da62fe1931a5b896ae48ddae99736cf1df23f5b338cd11c620d975d6608b2b",
+    "gpus": 32,
+    "seed": 1350016,
+    "state_id": "p32-source_skew-1350016",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 382,
+    "file": "plans/p32-source_skew-1350016-sinkhorn_fixed.json",
+    "sha256": "11c6cca8ebb45ae6710db7aefa79998b95cf7cd2c5d618288ed3a0b77e22a1b1",
+    "gpus": 32,
+    "seed": 1350016,
+    "state_id": "p32-source_skew-1350016",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 383,
+    "file": "plans/p32-source_skew-1350016-lazarus_inspired.json",
+    "sha256": "a52231a98cd02e024935d97ec8f5e9edc8f07963bce89307020b09ddb5b289a2",
+    "gpus": 32,
+    "seed": 1350016,
+    "state_id": "p32-source_skew-1350016",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 384,
+    "file": "plans/p64-balanced-1350001-gnn4.json",
+    "sha256": "588091005e253c856879b2fc9126d767a999bd5b6b90b4bff1a94790f8892b8b",
+    "gpus": 64,
+    "seed": 1350001,
+    "state_id": "p64-balanced-1350001",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 385,
+    "file": "plans/p64-balanced-1350001-sinkhorn_fixed.json",
+    "sha256": "aa39ca770ec68d92f04886fb576b172ff274686c63448d7e2cb0cea80e4ea11a",
+    "gpus": 64,
+    "seed": 1350001,
+    "state_id": "p64-balanced-1350001",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 386,
+    "file": "plans/p64-balanced-1350001-lazarus_inspired.json",
+    "sha256": "a536a29a23f08c3fed4f6e2a6b57f72063be6eac930c808bf7c910a6ee7b9144",
+    "gpus": 64,
+    "seed": 1350001,
+    "state_id": "p64-balanced-1350001",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 387,
+    "file": "plans/p64-balanced-1350002-gnn4.json",
+    "sha256": "27df85c6b1711966327eb3f7f8677b87e30e062523dec60014c6c6b2acb3bed6",
+    "gpus": 64,
+    "seed": 1350002,
+    "state_id": "p64-balanced-1350002",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 388,
+    "file": "plans/p64-balanced-1350002-sinkhorn_fixed.json",
+    "sha256": "27ffeb9659f4ca13d54ee065d90b5e6c8a9261623023a2e8ee3ef1c06bb8a76b",
+    "gpus": 64,
+    "seed": 1350002,
+    "state_id": "p64-balanced-1350002",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 389,
+    "file": "plans/p64-balanced-1350002-lazarus_inspired.json",
+    "sha256": "5a708374ad595b7bdb8c38975adb1f28f48889c602a37083719fab987419bc02",
+    "gpus": 64,
+    "seed": 1350002,
+    "state_id": "p64-balanced-1350002",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 390,
+    "file": "plans/p64-balanced-1350003-gnn4.json",
+    "sha256": "23bab20be02804cf3c6899c023819862676998f729721f81c4d769bff80ca9a9",
+    "gpus": 64,
+    "seed": 1350003,
+    "state_id": "p64-balanced-1350003",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 391,
+    "file": "plans/p64-balanced-1350003-sinkhorn_fixed.json",
+    "sha256": "6301143eda47c0aa21cd262013631763c6cb9ae795d5ee10c883011c7afddbf0",
+    "gpus": 64,
+    "seed": 1350003,
+    "state_id": "p64-balanced-1350003",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 392,
+    "file": "plans/p64-balanced-1350003-lazarus_inspired.json",
+    "sha256": "4935404307a7b001a1d3cc0c9a9b249d7088bca667e2a7f36b672bb3b733243a",
+    "gpus": 64,
+    "seed": 1350003,
+    "state_id": "p64-balanced-1350003",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 393,
+    "file": "plans/p64-balanced-1350004-gnn4.json",
+    "sha256": "fe2f657a022b6473903bb19d69586565d5c18905f5a4cedfbaedf9794ee808a3",
+    "gpus": 64,
+    "seed": 1350004,
+    "state_id": "p64-balanced-1350004",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 394,
+    "file": "plans/p64-balanced-1350004-sinkhorn_fixed.json",
+    "sha256": "c70ae573b28e6c205905941daa73ae83c8671c21ab02deb0fea359a5f3039b96",
+    "gpus": 64,
+    "seed": 1350004,
+    "state_id": "p64-balanced-1350004",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 395,
+    "file": "plans/p64-balanced-1350004-lazarus_inspired.json",
+    "sha256": "11c2a5e11686bfcfdb1d86e7b20beee5adf0d7a1cb15fac4c56dda72eda8d8f6",
+    "gpus": 64,
+    "seed": 1350004,
+    "state_id": "p64-balanced-1350004",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 396,
+    "file": "plans/p64-balanced-1350005-gnn4.json",
+    "sha256": "a01300447d78ef14856d70dcce0b0b30af170b403058c27ceb54f995a65dacee",
+    "gpus": 64,
+    "seed": 1350005,
+    "state_id": "p64-balanced-1350005",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 397,
+    "file": "plans/p64-balanced-1350005-sinkhorn_fixed.json",
+    "sha256": "e862cc5fc72ef0bf799c07224ef92c672aa5c572e21c0175c4799f8df0891f1e",
+    "gpus": 64,
+    "seed": 1350005,
+    "state_id": "p64-balanced-1350005",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 398,
+    "file": "plans/p64-balanced-1350005-lazarus_inspired.json",
+    "sha256": "dfd99dd3bd89b824912378eb4eb6aa07cfe863015982fb921abc3a76e7a5d5ea",
+    "gpus": 64,
+    "seed": 1350005,
+    "state_id": "p64-balanced-1350005",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 399,
+    "file": "plans/p64-balanced-1350006-gnn4.json",
+    "sha256": "ea5ab50e3c1a07bb2e0173877fabf83679459a440f0cc7cc243f90bd4ff8b15b",
+    "gpus": 64,
+    "seed": 1350006,
+    "state_id": "p64-balanced-1350006",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 400,
+    "file": "plans/p64-balanced-1350006-sinkhorn_fixed.json",
+    "sha256": "a1dcdcb708fc797fddd5fa47db84359eb92e594ab56bea016a5737a5d1816eef",
+    "gpus": 64,
+    "seed": 1350006,
+    "state_id": "p64-balanced-1350006",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 401,
+    "file": "plans/p64-balanced-1350006-lazarus_inspired.json",
+    "sha256": "586481583ee33da1067edbce8f50e7c40afbb561a19584fa6ec1e3e4a6a90c98",
+    "gpus": 64,
+    "seed": 1350006,
+    "state_id": "p64-balanced-1350006",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 402,
+    "file": "plans/p64-balanced-1350007-gnn4.json",
+    "sha256": "f1fa80fe24fd96c41958418cc52325cd31c4cebac5901c91e04d0ae01664f9b9",
+    "gpus": 64,
+    "seed": 1350007,
+    "state_id": "p64-balanced-1350007",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 403,
+    "file": "plans/p64-balanced-1350007-sinkhorn_fixed.json",
+    "sha256": "63d60b576deec4bd76d2d7e955c44d529e434b099fde981664e836085a8f67b9",
+    "gpus": 64,
+    "seed": 1350007,
+    "state_id": "p64-balanced-1350007",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 404,
+    "file": "plans/p64-balanced-1350007-lazarus_inspired.json",
+    "sha256": "0ee1131a8ba978c5c2360547b7f2ba906c110aa51f10e9d1377562d6c53b1821",
+    "gpus": 64,
+    "seed": 1350007,
+    "state_id": "p64-balanced-1350007",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 405,
+    "file": "plans/p64-balanced-1350008-gnn4.json",
+    "sha256": "e210bd4aa09cdbb77654998fc26f0fd7b9e42cb2edfeda268b1da92bdb7f4e86",
+    "gpus": 64,
+    "seed": 1350008,
+    "state_id": "p64-balanced-1350008",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 406,
+    "file": "plans/p64-balanced-1350008-sinkhorn_fixed.json",
+    "sha256": "e44d4f7f4e9ec3a76a4a8e8e0c1568569650b724dfb07f2a7e0dae95dabe6157",
+    "gpus": 64,
+    "seed": 1350008,
+    "state_id": "p64-balanced-1350008",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 407,
+    "file": "plans/p64-balanced-1350008-lazarus_inspired.json",
+    "sha256": "df7391d11c45016532096d0a9613c21d370c7a4bfe24eb42e8e109482959db1e",
+    "gpus": 64,
+    "seed": 1350008,
+    "state_id": "p64-balanced-1350008",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 408,
+    "file": "plans/p64-balanced-1350009-gnn4.json",
+    "sha256": "f375032ed349aaf85e5d8c1bb9adde13c5b6333328e796ac1e33a08f70ead7c3",
+    "gpus": 64,
+    "seed": 1350009,
+    "state_id": "p64-balanced-1350009",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 409,
+    "file": "plans/p64-balanced-1350009-sinkhorn_fixed.json",
+    "sha256": "de6b445b6fd852d83118f4f91b6231aa215693d43b4f637cdbc01dae8b8efeea",
+    "gpus": 64,
+    "seed": 1350009,
+    "state_id": "p64-balanced-1350009",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 410,
+    "file": "plans/p64-balanced-1350009-lazarus_inspired.json",
+    "sha256": "f4fe729879deaec89e7c441b5317688a9332fc0c357bc7a8bc5770a5e082f744",
+    "gpus": 64,
+    "seed": 1350009,
+    "state_id": "p64-balanced-1350009",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 411,
+    "file": "plans/p64-balanced-1350010-gnn4.json",
+    "sha256": "cfaaa866819b421e6e3b17d35aec71115690a8fd5893140cdc76e191c368104a",
+    "gpus": 64,
+    "seed": 1350010,
+    "state_id": "p64-balanced-1350010",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 412,
+    "file": "plans/p64-balanced-1350010-sinkhorn_fixed.json",
+    "sha256": "7105f625050d721a117b0ef67060c61062ccad222f54247f4daf2620b46fb3a5",
+    "gpus": 64,
+    "seed": 1350010,
+    "state_id": "p64-balanced-1350010",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 413,
+    "file": "plans/p64-balanced-1350010-lazarus_inspired.json",
+    "sha256": "43d85b62445f45ea637bc861adbb6d434d70852d8c6dee37cedd724afb9b2eda",
+    "gpus": 64,
+    "seed": 1350010,
+    "state_id": "p64-balanced-1350010",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 414,
+    "file": "plans/p64-balanced-1350011-gnn4.json",
+    "sha256": "17994ab2698a609ec1c5ce6844fedfbc13c8cba7948defc926fffe60ae117746",
+    "gpus": 64,
+    "seed": 1350011,
+    "state_id": "p64-balanced-1350011",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 415,
+    "file": "plans/p64-balanced-1350011-sinkhorn_fixed.json",
+    "sha256": "35d16d9093ff83571cd4d9a132e1a30f977b09f3c9c43e750192849fad2318f6",
+    "gpus": 64,
+    "seed": 1350011,
+    "state_id": "p64-balanced-1350011",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 416,
+    "file": "plans/p64-balanced-1350011-lazarus_inspired.json",
+    "sha256": "efc3853424dacf43c13e54c713c5f06f0719d6fe38a95442bf72c913059bb8e0",
+    "gpus": 64,
+    "seed": 1350011,
+    "state_id": "p64-balanced-1350011",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 417,
+    "file": "plans/p64-balanced-1350012-gnn4.json",
+    "sha256": "b7259d6b8e27776575535e3709a98d6b3fcf4c5a790cf3f10d06cbe053447a11",
+    "gpus": 64,
+    "seed": 1350012,
+    "state_id": "p64-balanced-1350012",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 418,
+    "file": "plans/p64-balanced-1350012-sinkhorn_fixed.json",
+    "sha256": "2a8fbe2f27b0975be029282fe7ce6b7a7ec614133def95ba9ab3fd01aceead32",
+    "gpus": 64,
+    "seed": 1350012,
+    "state_id": "p64-balanced-1350012",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 419,
+    "file": "plans/p64-balanced-1350012-lazarus_inspired.json",
+    "sha256": "bb2a0d1ca0fd3060bd9904cf1429ca31f775f1dce7e4006052e3160065ce49f8",
+    "gpus": 64,
+    "seed": 1350012,
+    "state_id": "p64-balanced-1350012",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 420,
+    "file": "plans/p64-balanced-1350013-gnn4.json",
+    "sha256": "e6fb8d70284686fa22cd5dec7de9988e2f2fd41d16ec0af9035ec28ab4bb786a",
+    "gpus": 64,
+    "seed": 1350013,
+    "state_id": "p64-balanced-1350013",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 421,
+    "file": "plans/p64-balanced-1350013-sinkhorn_fixed.json",
+    "sha256": "ea99e73d913d614280d186752119fe764879bd5f0e5ed9231e7d5f78501f8113",
+    "gpus": 64,
+    "seed": 1350013,
+    "state_id": "p64-balanced-1350013",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 422,
+    "file": "plans/p64-balanced-1350013-lazarus_inspired.json",
+    "sha256": "211dec2977e4e8453614970c31ba0b1aafadee835f12be5fec73a71c716084d4",
+    "gpus": 64,
+    "seed": 1350013,
+    "state_id": "p64-balanced-1350013",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 423,
+    "file": "plans/p64-balanced-1350014-gnn4.json",
+    "sha256": "2b3f42d081f458168cf3d73807ad025453058e0541e871a67494efe67f9bb1d2",
+    "gpus": 64,
+    "seed": 1350014,
+    "state_id": "p64-balanced-1350014",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 424,
+    "file": "plans/p64-balanced-1350014-sinkhorn_fixed.json",
+    "sha256": "adc0aa8acb53d23cf8fa51e391a9d9e6eab153a124b50c248d50690a8f537c2b",
+    "gpus": 64,
+    "seed": 1350014,
+    "state_id": "p64-balanced-1350014",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 425,
+    "file": "plans/p64-balanced-1350014-lazarus_inspired.json",
+    "sha256": "b0e155f26b512ffdab268fb1950d8db462db2e27aaa6f2fd4d9063d2c8f2f0df",
+    "gpus": 64,
+    "seed": 1350014,
+    "state_id": "p64-balanced-1350014",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 426,
+    "file": "plans/p64-balanced-1350015-gnn4.json",
+    "sha256": "06da17c14f21ecb5359f01e0f6427cd97f3339780de9a06115f95e8977cf848e",
+    "gpus": 64,
+    "seed": 1350015,
+    "state_id": "p64-balanced-1350015",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 427,
+    "file": "plans/p64-balanced-1350015-sinkhorn_fixed.json",
+    "sha256": "96c1e5e2d2a2f5416c53576a3fddda311912541ee78c1200b565388f5b873d78",
+    "gpus": 64,
+    "seed": 1350015,
+    "state_id": "p64-balanced-1350015",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 428,
+    "file": "plans/p64-balanced-1350015-lazarus_inspired.json",
+    "sha256": "68e6b694fe914763d041b5b2a5c02335de9a017997d73207defd42194c9042ab",
+    "gpus": 64,
+    "seed": 1350015,
+    "state_id": "p64-balanced-1350015",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 429,
+    "file": "plans/p64-balanced-1350016-gnn4.json",
+    "sha256": "077ac562e37db54937f7e073e84b4a2fc3e9891ec8fe3c6aeecc367dfe42b123",
+    "gpus": 64,
+    "seed": 1350016,
+    "state_id": "p64-balanced-1350016",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 430,
+    "file": "plans/p64-balanced-1350016-sinkhorn_fixed.json",
+    "sha256": "db746c662d87c81a61c57af3f83b3c44f54ef12c43349444c3cd528e2dea6c64",
+    "gpus": 64,
+    "seed": 1350016,
+    "state_id": "p64-balanced-1350016",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 431,
+    "file": "plans/p64-balanced-1350016-lazarus_inspired.json",
+    "sha256": "f3c27e334e2a941771aa9c588a2542b4dbdef55e35f2e3babff9f84bf49dad68",
+    "gpus": 64,
+    "seed": 1350016,
+    "state_id": "p64-balanced-1350016",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 432,
+    "file": "plans/p64-global_hotspot-1350001-gnn4.json",
+    "sha256": "34ae0e0248ef714a2514b1729956c9abdffda68a809790683f6967e0180af94a",
+    "gpus": 64,
+    "seed": 1350001,
+    "state_id": "p64-global_hotspot-1350001",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 433,
+    "file": "plans/p64-global_hotspot-1350001-sinkhorn_fixed.json",
+    "sha256": "cf00792ea9c9a78ba58fb71e40836b9d16cfb4efb426f417227a582944659d3b",
+    "gpus": 64,
+    "seed": 1350001,
+    "state_id": "p64-global_hotspot-1350001",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 434,
+    "file": "plans/p64-global_hotspot-1350001-lazarus_inspired.json",
+    "sha256": "25a48dec92f76a7d2bd3a852e560403577395255660f7123125e53e97c4a516f",
+    "gpus": 64,
+    "seed": 1350001,
+    "state_id": "p64-global_hotspot-1350001",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 435,
+    "file": "plans/p64-global_hotspot-1350002-gnn4.json",
+    "sha256": "bba568d78ebd38ad7feddc9bbf6e4329b5d3c083825c290e7db84c3e61ad00b6",
+    "gpus": 64,
+    "seed": 1350002,
+    "state_id": "p64-global_hotspot-1350002",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 436,
+    "file": "plans/p64-global_hotspot-1350002-sinkhorn_fixed.json",
+    "sha256": "96d00b5665909bb83fa8704b51e8fe816ebdb485f3fc49e85831d865fcb0593b",
+    "gpus": 64,
+    "seed": 1350002,
+    "state_id": "p64-global_hotspot-1350002",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 437,
+    "file": "plans/p64-global_hotspot-1350002-lazarus_inspired.json",
+    "sha256": "71a6ad40603715a5ca91838372cec3b5cf7c002b1a35f39b6f1334597e595fa0",
+    "gpus": 64,
+    "seed": 1350002,
+    "state_id": "p64-global_hotspot-1350002",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 438,
+    "file": "plans/p64-global_hotspot-1350003-gnn4.json",
+    "sha256": "f314a4aed2b535db6f14334fa7a04237250a8260d92118ab6b49389bc2ac5fca",
+    "gpus": 64,
+    "seed": 1350003,
+    "state_id": "p64-global_hotspot-1350003",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 439,
+    "file": "plans/p64-global_hotspot-1350003-sinkhorn_fixed.json",
+    "sha256": "f63d4aac7d47723520d48d825344c3355f00cddc1407e20af0c5fd98514405dd",
+    "gpus": 64,
+    "seed": 1350003,
+    "state_id": "p64-global_hotspot-1350003",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 440,
+    "file": "plans/p64-global_hotspot-1350003-lazarus_inspired.json",
+    "sha256": "fdc7f3a458c6424c57aa45f15bd98742e21b06ba840f9156d6f403b6013ea2c5",
+    "gpus": 64,
+    "seed": 1350003,
+    "state_id": "p64-global_hotspot-1350003",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 441,
+    "file": "plans/p64-global_hotspot-1350004-gnn4.json",
+    "sha256": "d781a5f361859a46cfc7b2d93508f9aa50b3de0feb6f72c54e9c19686d002c8a",
+    "gpus": 64,
+    "seed": 1350004,
+    "state_id": "p64-global_hotspot-1350004",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 442,
+    "file": "plans/p64-global_hotspot-1350004-sinkhorn_fixed.json",
+    "sha256": "8dcf390649f4725a8d73fa5c0cc26ab5ab3f5d6aea5e7ce40334203fc0649be6",
+    "gpus": 64,
+    "seed": 1350004,
+    "state_id": "p64-global_hotspot-1350004",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 443,
+    "file": "plans/p64-global_hotspot-1350004-lazarus_inspired.json",
+    "sha256": "a1faf0401c48582206eba741fa975d0b26e015715789ce610738455b901ec64b",
+    "gpus": 64,
+    "seed": 1350004,
+    "state_id": "p64-global_hotspot-1350004",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 444,
+    "file": "plans/p64-global_hotspot-1350005-gnn4.json",
+    "sha256": "532b855a1c01098b47b6b3504083af13533d0a98bdfd697adb226288c306282e",
+    "gpus": 64,
+    "seed": 1350005,
+    "state_id": "p64-global_hotspot-1350005",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 445,
+    "file": "plans/p64-global_hotspot-1350005-sinkhorn_fixed.json",
+    "sha256": "6a6b0ca207aeacfadaf826d73aa69f20798a64b5b4e419335da8858992777859",
+    "gpus": 64,
+    "seed": 1350005,
+    "state_id": "p64-global_hotspot-1350005",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 446,
+    "file": "plans/p64-global_hotspot-1350005-lazarus_inspired.json",
+    "sha256": "3c8bb72ed943a371719ad68bb9b9c8e6d9c5e943f42554528aec539b63457b0a",
+    "gpus": 64,
+    "seed": 1350005,
+    "state_id": "p64-global_hotspot-1350005",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 447,
+    "file": "plans/p64-global_hotspot-1350006-gnn4.json",
+    "sha256": "a31b19c02102a273cde2e0cdaf7a4c7621f1ebd3c65b1922c856c9bb85b5d548",
+    "gpus": 64,
+    "seed": 1350006,
+    "state_id": "p64-global_hotspot-1350006",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 448,
+    "file": "plans/p64-global_hotspot-1350006-sinkhorn_fixed.json",
+    "sha256": "fd373d0459f6a2bef83dd91a84942e362e63b6df7445f935b66b4137ef35cacc",
+    "gpus": 64,
+    "seed": 1350006,
+    "state_id": "p64-global_hotspot-1350006",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 449,
+    "file": "plans/p64-global_hotspot-1350006-lazarus_inspired.json",
+    "sha256": "3807d5e3df0453468099a485a200b0be9067d9f08bd0d010b6a21a97e9d78cd1",
+    "gpus": 64,
+    "seed": 1350006,
+    "state_id": "p64-global_hotspot-1350006",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 450,
+    "file": "plans/p64-global_hotspot-1350007-gnn4.json",
+    "sha256": "9751ea085f1033351bb1184c61c5e23e8840a38433e193af2427243daaf07052",
+    "gpus": 64,
+    "seed": 1350007,
+    "state_id": "p64-global_hotspot-1350007",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 451,
+    "file": "plans/p64-global_hotspot-1350007-sinkhorn_fixed.json",
+    "sha256": "3fbd575cee94dc345e5e42941a77fbaa4482348030649679c940838a30384ac5",
+    "gpus": 64,
+    "seed": 1350007,
+    "state_id": "p64-global_hotspot-1350007",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 452,
+    "file": "plans/p64-global_hotspot-1350007-lazarus_inspired.json",
+    "sha256": "a027719e7211c774781e1e8e4db0b23ce37e1dc7de06d9d0f0b5e9905138c947",
+    "gpus": 64,
+    "seed": 1350007,
+    "state_id": "p64-global_hotspot-1350007",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 453,
+    "file": "plans/p64-global_hotspot-1350008-gnn4.json",
+    "sha256": "8755908ef1d024d5458f0b8dc6b72e9345a70f4581b04f29cade4afac0f4f0fa",
+    "gpus": 64,
+    "seed": 1350008,
+    "state_id": "p64-global_hotspot-1350008",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 454,
+    "file": "plans/p64-global_hotspot-1350008-sinkhorn_fixed.json",
+    "sha256": "e96b8334b4395850d2757ed4c7c389a14f335bb3040661a320671f7c7db09e36",
+    "gpus": 64,
+    "seed": 1350008,
+    "state_id": "p64-global_hotspot-1350008",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 455,
+    "file": "plans/p64-global_hotspot-1350008-lazarus_inspired.json",
+    "sha256": "a933effb10b7ab91a7b82a8d4c45b5457061fda78e77684925a6f4a9210fb134",
+    "gpus": 64,
+    "seed": 1350008,
+    "state_id": "p64-global_hotspot-1350008",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 456,
+    "file": "plans/p64-global_hotspot-1350009-gnn4.json",
+    "sha256": "e78976d673a8cfbc9d39b933d216de2c6ce7cdd0f0eaa1343e5d547916bc753a",
+    "gpus": 64,
+    "seed": 1350009,
+    "state_id": "p64-global_hotspot-1350009",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 457,
+    "file": "plans/p64-global_hotspot-1350009-sinkhorn_fixed.json",
+    "sha256": "c273d4cc1df179582f1cc1e6450082281e7992d7b44647054556e82d876ce22a",
+    "gpus": 64,
+    "seed": 1350009,
+    "state_id": "p64-global_hotspot-1350009",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 458,
+    "file": "plans/p64-global_hotspot-1350009-lazarus_inspired.json",
+    "sha256": "f73f66ee86da9c4ff62004d2911109a7b380326656519a55f8f10ff388817c6e",
+    "gpus": 64,
+    "seed": 1350009,
+    "state_id": "p64-global_hotspot-1350009",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 459,
+    "file": "plans/p64-global_hotspot-1350010-gnn4.json",
+    "sha256": "645c2df2385f3ac5832546ac7d2bd3c0e2af66bd870f748a425b444d1d20c4f4",
+    "gpus": 64,
+    "seed": 1350010,
+    "state_id": "p64-global_hotspot-1350010",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 460,
+    "file": "plans/p64-global_hotspot-1350010-sinkhorn_fixed.json",
+    "sha256": "afbb2cd1d9fc400945c80f0563c9bf1a6578ad08c789e5238251194312a9bb89",
+    "gpus": 64,
+    "seed": 1350010,
+    "state_id": "p64-global_hotspot-1350010",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 461,
+    "file": "plans/p64-global_hotspot-1350010-lazarus_inspired.json",
+    "sha256": "ed711254559461928f857ffa58f8f635d02b59d971d733736c544dce36c4b9fc",
+    "gpus": 64,
+    "seed": 1350010,
+    "state_id": "p64-global_hotspot-1350010",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 462,
+    "file": "plans/p64-global_hotspot-1350011-gnn4.json",
+    "sha256": "5d3938a2e65b8a5e36f50096a403d076beedc22a3763fa8ed534b973b536d814",
+    "gpus": 64,
+    "seed": 1350011,
+    "state_id": "p64-global_hotspot-1350011",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 463,
+    "file": "plans/p64-global_hotspot-1350011-sinkhorn_fixed.json",
+    "sha256": "ab52c33103dddbfcb7c650d902ff6aee372c48ecb9ccd5b34316496a911a7560",
+    "gpus": 64,
+    "seed": 1350011,
+    "state_id": "p64-global_hotspot-1350011",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 464,
+    "file": "plans/p64-global_hotspot-1350011-lazarus_inspired.json",
+    "sha256": "3e8a09c755abe6edea81ce83578c7eeb8d75e0562682ed9178ffad68d42c9257",
+    "gpus": 64,
+    "seed": 1350011,
+    "state_id": "p64-global_hotspot-1350011",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 465,
+    "file": "plans/p64-global_hotspot-1350012-gnn4.json",
+    "sha256": "f32abee72043320868c5ee8fc66e16004f8442c9d82e88937da6ca22020b6143",
+    "gpus": 64,
+    "seed": 1350012,
+    "state_id": "p64-global_hotspot-1350012",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 466,
+    "file": "plans/p64-global_hotspot-1350012-sinkhorn_fixed.json",
+    "sha256": "ff8dd697c795eabfb449c803da6ab68389c2da5682abdac9ae0dd56ad8ac6790",
+    "gpus": 64,
+    "seed": 1350012,
+    "state_id": "p64-global_hotspot-1350012",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 467,
+    "file": "plans/p64-global_hotspot-1350012-lazarus_inspired.json",
+    "sha256": "08e9f00cb3b74df2298e5bf5de0ecdfcab23b825fc824abce06db3ae35e3744b",
+    "gpus": 64,
+    "seed": 1350012,
+    "state_id": "p64-global_hotspot-1350012",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 468,
+    "file": "plans/p64-global_hotspot-1350013-gnn4.json",
+    "sha256": "f6c64d68030ea2bf491bf6d1cb1b644d3e21b4ea50b7c5c349dc7de80333b46c",
+    "gpus": 64,
+    "seed": 1350013,
+    "state_id": "p64-global_hotspot-1350013",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 469,
+    "file": "plans/p64-global_hotspot-1350013-sinkhorn_fixed.json",
+    "sha256": "c410d440ffcfddb73d3d82e6e67f135d8553ba3d7e910f1e2d392fad0f17a715",
+    "gpus": 64,
+    "seed": 1350013,
+    "state_id": "p64-global_hotspot-1350013",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 470,
+    "file": "plans/p64-global_hotspot-1350013-lazarus_inspired.json",
+    "sha256": "5600c9d40a56f74eaf0b2938ce358196fc32b1adff96328cb2a59cd5be9f5d08",
+    "gpus": 64,
+    "seed": 1350013,
+    "state_id": "p64-global_hotspot-1350013",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 471,
+    "file": "plans/p64-global_hotspot-1350014-gnn4.json",
+    "sha256": "a3230d6ca9ab61c37397843e6b14228a66605daa09de57527d461b8e31099572",
+    "gpus": 64,
+    "seed": 1350014,
+    "state_id": "p64-global_hotspot-1350014",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 472,
+    "file": "plans/p64-global_hotspot-1350014-sinkhorn_fixed.json",
+    "sha256": "30a83604958c4106958a9d4fe3855b5e5cb184070af74aa22464abc55bbdba44",
+    "gpus": 64,
+    "seed": 1350014,
+    "state_id": "p64-global_hotspot-1350014",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 473,
+    "file": "plans/p64-global_hotspot-1350014-lazarus_inspired.json",
+    "sha256": "295d6127b1f519fdeb0f4585612877a70bc69f3d7697dc51b03de5d1010c2ef0",
+    "gpus": 64,
+    "seed": 1350014,
+    "state_id": "p64-global_hotspot-1350014",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 474,
+    "file": "plans/p64-global_hotspot-1350015-gnn4.json",
+    "sha256": "f128c8630b382d5d9c81bcf81ec0ce19e2eafe3ee8c3706a6a49b54e7666992b",
+    "gpus": 64,
+    "seed": 1350015,
+    "state_id": "p64-global_hotspot-1350015",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 475,
+    "file": "plans/p64-global_hotspot-1350015-sinkhorn_fixed.json",
+    "sha256": "8e0c873082d7a9ce2ce44f39291ec8bc902f014699cc5b39fe40c04750f1fb26",
+    "gpus": 64,
+    "seed": 1350015,
+    "state_id": "p64-global_hotspot-1350015",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 476,
+    "file": "plans/p64-global_hotspot-1350015-lazarus_inspired.json",
+    "sha256": "92479bd5aa4b218bec314fe008d916c41888b0e4b7e3d727bd8800f3819e50e8",
+    "gpus": 64,
+    "seed": 1350015,
+    "state_id": "p64-global_hotspot-1350015",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 477,
+    "file": "plans/p64-global_hotspot-1350016-gnn4.json",
+    "sha256": "15804e79b1495117b25f95c22ab308ed503db3113c7ecaa524f442be675e59b4",
+    "gpus": 64,
+    "seed": 1350016,
+    "state_id": "p64-global_hotspot-1350016",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 478,
+    "file": "plans/p64-global_hotspot-1350016-sinkhorn_fixed.json",
+    "sha256": "ee971a60f34f3847c9273040e536eed09d93a8b7aa42d5a9a469cb656a8a089c",
+    "gpus": 64,
+    "seed": 1350016,
+    "state_id": "p64-global_hotspot-1350016",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 479,
+    "file": "plans/p64-global_hotspot-1350016-lazarus_inspired.json",
+    "sha256": "8ec21cd8a0e0ef041c2cc9feeb66cb63efa8cfe8b125c271fe58ada3021eb866",
+    "gpus": 64,
+    "seed": 1350016,
+    "state_id": "p64-global_hotspot-1350016",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 480,
+    "file": "plans/p64-node_local-1350001-gnn4.json",
+    "sha256": "37864b9d63ca488441b17ada8ee7cb047c7dc62835bd5d2cbc4fce19aedccadf",
+    "gpus": 64,
+    "seed": 1350001,
+    "state_id": "p64-node_local-1350001",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 481,
+    "file": "plans/p64-node_local-1350001-sinkhorn_fixed.json",
+    "sha256": "498f724507ecca6802d1637b823ebd10718d2bf619aed9b93556fc511fb7045e",
+    "gpus": 64,
+    "seed": 1350001,
+    "state_id": "p64-node_local-1350001",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 482,
+    "file": "plans/p64-node_local-1350001-lazarus_inspired.json",
+    "sha256": "07fab857aa63318d5c0b1a0b285d0f79e8e7d65e0e731809ae6766dbfb34730b",
+    "gpus": 64,
+    "seed": 1350001,
+    "state_id": "p64-node_local-1350001",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 483,
+    "file": "plans/p64-node_local-1350002-gnn4.json",
+    "sha256": "8231129aafd44c028ab42474d2ece9a8338c536c4e6e0f2f1dbfd469d8171839",
+    "gpus": 64,
+    "seed": 1350002,
+    "state_id": "p64-node_local-1350002",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 484,
+    "file": "plans/p64-node_local-1350002-sinkhorn_fixed.json",
+    "sha256": "d44df78d24fdef36649b9fa00d1625b52e4087f05d5fdf6d29b9b0e500f04a29",
+    "gpus": 64,
+    "seed": 1350002,
+    "state_id": "p64-node_local-1350002",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 485,
+    "file": "plans/p64-node_local-1350002-lazarus_inspired.json",
+    "sha256": "686e732983a3c196b99b5b99cadd841d5c3443e5fd113c78f228c41b260f283d",
+    "gpus": 64,
+    "seed": 1350002,
+    "state_id": "p64-node_local-1350002",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 486,
+    "file": "plans/p64-node_local-1350003-gnn4.json",
+    "sha256": "71496d82c6dfd7e28822773d6d5a2527428f6ce23c9c2573c638e0064c525347",
+    "gpus": 64,
+    "seed": 1350003,
+    "state_id": "p64-node_local-1350003",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 487,
+    "file": "plans/p64-node_local-1350003-sinkhorn_fixed.json",
+    "sha256": "d329668818a7b1c9bb623ebc36876f3f291bbd84299c86bf5f7c59f38ca60693",
+    "gpus": 64,
+    "seed": 1350003,
+    "state_id": "p64-node_local-1350003",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 488,
+    "file": "plans/p64-node_local-1350003-lazarus_inspired.json",
+    "sha256": "ccd91aa76ad13c84f50cfca17b1e3079c12746296b4c2567fb04bad352cd3e65",
+    "gpus": 64,
+    "seed": 1350003,
+    "state_id": "p64-node_local-1350003",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 489,
+    "file": "plans/p64-node_local-1350004-gnn4.json",
+    "sha256": "676f338ae50c92fc322616d2295247fe557d8c8cf526a4617fc3df81846fdfe8",
+    "gpus": 64,
+    "seed": 1350004,
+    "state_id": "p64-node_local-1350004",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 490,
+    "file": "plans/p64-node_local-1350004-sinkhorn_fixed.json",
+    "sha256": "18986a55e43d5f30aa117d19ed8eab84caeceb3abe092916ccf91acd306c0482",
+    "gpus": 64,
+    "seed": 1350004,
+    "state_id": "p64-node_local-1350004",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 491,
+    "file": "plans/p64-node_local-1350004-lazarus_inspired.json",
+    "sha256": "c3e4294796731da6a8359be13a20e341f87cbbcc2f53a88bc27e602f8f49e851",
+    "gpus": 64,
+    "seed": 1350004,
+    "state_id": "p64-node_local-1350004",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 492,
+    "file": "plans/p64-node_local-1350005-gnn4.json",
+    "sha256": "58789b525a4cc887c8d067d33342660a73d8491e5573fd58e66aa914b231e1e6",
+    "gpus": 64,
+    "seed": 1350005,
+    "state_id": "p64-node_local-1350005",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 493,
+    "file": "plans/p64-node_local-1350005-sinkhorn_fixed.json",
+    "sha256": "9e6e7b60c21cd89e96d1eda90c45fb2d7c8d16bb81afb627404481ba8df43cb2",
+    "gpus": 64,
+    "seed": 1350005,
+    "state_id": "p64-node_local-1350005",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 494,
+    "file": "plans/p64-node_local-1350005-lazarus_inspired.json",
+    "sha256": "9108d442b864576c26d4475ce0d20357e43983434dd4f678bdf05b1ebb44beb7",
+    "gpus": 64,
+    "seed": 1350005,
+    "state_id": "p64-node_local-1350005",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 495,
+    "file": "plans/p64-node_local-1350006-gnn4.json",
+    "sha256": "25ce24aa61a982768e4654346c829e9d1b0e63fb8a8314d90dfc991149c5f8fd",
+    "gpus": 64,
+    "seed": 1350006,
+    "state_id": "p64-node_local-1350006",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 496,
+    "file": "plans/p64-node_local-1350006-sinkhorn_fixed.json",
+    "sha256": "c17776fbdb22c879435936f75e20a7295c17d3eea3c5bf212fbd1f4a4b80d180",
+    "gpus": 64,
+    "seed": 1350006,
+    "state_id": "p64-node_local-1350006",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 497,
+    "file": "plans/p64-node_local-1350006-lazarus_inspired.json",
+    "sha256": "df559c28688c2dffdea2067c8c779f0fac15c4ff370ca06b7df1285c355f0248",
+    "gpus": 64,
+    "seed": 1350006,
+    "state_id": "p64-node_local-1350006",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 498,
+    "file": "plans/p64-node_local-1350007-gnn4.json",
+    "sha256": "d12d8c570477b9abd266e4740a5eb38410f5c45ebc50fec070ce5c499f3ee4f5",
+    "gpus": 64,
+    "seed": 1350007,
+    "state_id": "p64-node_local-1350007",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 499,
+    "file": "plans/p64-node_local-1350007-sinkhorn_fixed.json",
+    "sha256": "9656090703882b734a2e482f9f8c0f7ac3c3bf88e0684357877afbd37b604f3e",
+    "gpus": 64,
+    "seed": 1350007,
+    "state_id": "p64-node_local-1350007",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 500,
+    "file": "plans/p64-node_local-1350007-lazarus_inspired.json",
+    "sha256": "1879742133eed37c61a74f79d2c4a0a8b35a483579972ed1972fcf31987bef8f",
+    "gpus": 64,
+    "seed": 1350007,
+    "state_id": "p64-node_local-1350007",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 501,
+    "file": "plans/p64-node_local-1350008-gnn4.json",
+    "sha256": "ea09cbc606c762a7e5c2e232d9334ef2806a6d83c5ffa937289ff0438239767a",
+    "gpus": 64,
+    "seed": 1350008,
+    "state_id": "p64-node_local-1350008",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 502,
+    "file": "plans/p64-node_local-1350008-sinkhorn_fixed.json",
+    "sha256": "c1c87cf82638bb41ee99c004b9636076c268484c5f3e9d00a8bf63a8e475db39",
+    "gpus": 64,
+    "seed": 1350008,
+    "state_id": "p64-node_local-1350008",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 503,
+    "file": "plans/p64-node_local-1350008-lazarus_inspired.json",
+    "sha256": "476df1b37e78b75f49eea1737acd6622e45fa183fcd1e394052fa795fd51ac4d",
+    "gpus": 64,
+    "seed": 1350008,
+    "state_id": "p64-node_local-1350008",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 504,
+    "file": "plans/p64-node_local-1350009-gnn4.json",
+    "sha256": "0319bba7271380cb57f89a354cbe90d56584fe841d7a839985377d85c8386dbb",
+    "gpus": 64,
+    "seed": 1350009,
+    "state_id": "p64-node_local-1350009",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 505,
+    "file": "plans/p64-node_local-1350009-sinkhorn_fixed.json",
+    "sha256": "79c8875e23c110126e8cfeaeec5b0d4bb86c3c594984d0faccfcc51fb145d8b9",
+    "gpus": 64,
+    "seed": 1350009,
+    "state_id": "p64-node_local-1350009",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 506,
+    "file": "plans/p64-node_local-1350009-lazarus_inspired.json",
+    "sha256": "b67db91f1bbe2a641ad3de6317d2e9613336d2988b4e1f9f61d8512a10c84fc7",
+    "gpus": 64,
+    "seed": 1350009,
+    "state_id": "p64-node_local-1350009",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 507,
+    "file": "plans/p64-node_local-1350010-gnn4.json",
+    "sha256": "51336c80a83366114b0e7154f7b7e70b9910a7f4b6a83176f51601e9bc1b132f",
+    "gpus": 64,
+    "seed": 1350010,
+    "state_id": "p64-node_local-1350010",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 508,
+    "file": "plans/p64-node_local-1350010-sinkhorn_fixed.json",
+    "sha256": "402ca7048cf4baafd00dc24694a3087f00bf33c2cfecbb5c2c29012933d6f3b2",
+    "gpus": 64,
+    "seed": 1350010,
+    "state_id": "p64-node_local-1350010",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 509,
+    "file": "plans/p64-node_local-1350010-lazarus_inspired.json",
+    "sha256": "a3407f6d16353e9f87a0aa294740bbc87ec28360c1109d7e96296ee28daa9483",
+    "gpus": 64,
+    "seed": 1350010,
+    "state_id": "p64-node_local-1350010",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 510,
+    "file": "plans/p64-node_local-1350011-gnn4.json",
+    "sha256": "905235ba3dac15dfdf869ac35035ee5aa08b52e19c439b7dca9cd5d4cc148fc9",
+    "gpus": 64,
+    "seed": 1350011,
+    "state_id": "p64-node_local-1350011",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 511,
+    "file": "plans/p64-node_local-1350011-sinkhorn_fixed.json",
+    "sha256": "eccae2dc00e128b9dd51b873b414ce60a97e8310ea54599ff09d887eb3ab24cb",
+    "gpus": 64,
+    "seed": 1350011,
+    "state_id": "p64-node_local-1350011",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 512,
+    "file": "plans/p64-node_local-1350011-lazarus_inspired.json",
+    "sha256": "87ee223e9862a9c83a535b8709b7a73464f0f12fb918b6d2962ab621ce931c38",
+    "gpus": 64,
+    "seed": 1350011,
+    "state_id": "p64-node_local-1350011",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 513,
+    "file": "plans/p64-node_local-1350012-gnn4.json",
+    "sha256": "30a362a4cd628c3e27fad45cf7efbfca14051d9c4bffc25fd28a60061c219243",
+    "gpus": 64,
+    "seed": 1350012,
+    "state_id": "p64-node_local-1350012",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 514,
+    "file": "plans/p64-node_local-1350012-sinkhorn_fixed.json",
+    "sha256": "52e0736a30691f16a5743fb397a8278865d4a5046b0b574dd12e7d61ef2794ff",
+    "gpus": 64,
+    "seed": 1350012,
+    "state_id": "p64-node_local-1350012",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 515,
+    "file": "plans/p64-node_local-1350012-lazarus_inspired.json",
+    "sha256": "da49a2d9c551bf2935237f234cf1e4e41feead30b9d757ecf650d06166e7c07d",
+    "gpus": 64,
+    "seed": 1350012,
+    "state_id": "p64-node_local-1350012",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 516,
+    "file": "plans/p64-node_local-1350013-gnn4.json",
+    "sha256": "ad4a7e46605c28475a62b08d7b0fea290b2cfa27f5635c0d5fa2f361bcc432e2",
+    "gpus": 64,
+    "seed": 1350013,
+    "state_id": "p64-node_local-1350013",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 517,
+    "file": "plans/p64-node_local-1350013-sinkhorn_fixed.json",
+    "sha256": "2c815fd4c399ca79f6f3e8c9129c17d24a1efa516d18de0e76b3a4c05f5916f1",
+    "gpus": 64,
+    "seed": 1350013,
+    "state_id": "p64-node_local-1350013",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 518,
+    "file": "plans/p64-node_local-1350013-lazarus_inspired.json",
+    "sha256": "0988e29009a75de7ed32b97c36252ff396e26d5db92a0a6c222702a89a899549",
+    "gpus": 64,
+    "seed": 1350013,
+    "state_id": "p64-node_local-1350013",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 519,
+    "file": "plans/p64-node_local-1350014-gnn4.json",
+    "sha256": "dcead152dc659b6ebe0030acc238e30e46aa50c93e137601c735d5cdead45a2a",
+    "gpus": 64,
+    "seed": 1350014,
+    "state_id": "p64-node_local-1350014",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 520,
+    "file": "plans/p64-node_local-1350014-sinkhorn_fixed.json",
+    "sha256": "eed6ac7d29957c25a84e3f28b43bcce9e2660a47f74432d4c6f5e77be1dc0ee2",
+    "gpus": 64,
+    "seed": 1350014,
+    "state_id": "p64-node_local-1350014",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 521,
+    "file": "plans/p64-node_local-1350014-lazarus_inspired.json",
+    "sha256": "963b4b5ab4b63066b5cc7a5d4fe97b94e4bf9443876c095d91905e467bb06007",
+    "gpus": 64,
+    "seed": 1350014,
+    "state_id": "p64-node_local-1350014",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 522,
+    "file": "plans/p64-node_local-1350015-gnn4.json",
+    "sha256": "449d9d51b59cd98bdefeb90479493b49c1ef865d9cbaf14c9ca7c988c12ade48",
+    "gpus": 64,
+    "seed": 1350015,
+    "state_id": "p64-node_local-1350015",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 523,
+    "file": "plans/p64-node_local-1350015-sinkhorn_fixed.json",
+    "sha256": "6076ff9d08b2017871cbd74402e6ccb6cd4e6b292781bfca77b5251f9ba36ca5",
+    "gpus": 64,
+    "seed": 1350015,
+    "state_id": "p64-node_local-1350015",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 524,
+    "file": "plans/p64-node_local-1350015-lazarus_inspired.json",
+    "sha256": "5c41541bc6b59586cd18f0ae071797dccdda80d0ac6a076f9184aecf6dda97e2",
+    "gpus": 64,
+    "seed": 1350015,
+    "state_id": "p64-node_local-1350015",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 525,
+    "file": "plans/p64-node_local-1350016-gnn4.json",
+    "sha256": "7bca4138330f85c08d3e7bf1b84c4fe6eaa51e6e35b6bcf78768111a583136c4",
+    "gpus": 64,
+    "seed": 1350016,
+    "state_id": "p64-node_local-1350016",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 526,
+    "file": "plans/p64-node_local-1350016-sinkhorn_fixed.json",
+    "sha256": "4975518f479e30961b6babde29dbc24581a496514445d62ccd66114d606ad7ef",
+    "gpus": 64,
+    "seed": 1350016,
+    "state_id": "p64-node_local-1350016",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 527,
+    "file": "plans/p64-node_local-1350016-lazarus_inspired.json",
+    "sha256": "a8d8eae0ef2142b7f560677290194d1c0c6b3eb74775b4af1d4df22f54eaf1a7",
+    "gpus": 64,
+    "seed": 1350016,
+    "state_id": "p64-node_local-1350016",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 528,
+    "file": "plans/p64-source_skew-1350001-gnn4.json",
+    "sha256": "cbbc3a29df425f3ff81c29b8055ec0ca713c23cdc3945116e79adbb5c75feaa9",
+    "gpus": 64,
+    "seed": 1350001,
+    "state_id": "p64-source_skew-1350001",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 529,
+    "file": "plans/p64-source_skew-1350001-sinkhorn_fixed.json",
+    "sha256": "5a27ca85314ffc987b6352b8afa222f7c0da83aa5722fe05e162725411b347b9",
+    "gpus": 64,
+    "seed": 1350001,
+    "state_id": "p64-source_skew-1350001",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 530,
+    "file": "plans/p64-source_skew-1350001-lazarus_inspired.json",
+    "sha256": "aaf3d235dc6487188e6e2a78b966544764b2deb47386572b8c9fbd697a619c44",
+    "gpus": 64,
+    "seed": 1350001,
+    "state_id": "p64-source_skew-1350001",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 531,
+    "file": "plans/p64-source_skew-1350002-gnn4.json",
+    "sha256": "ec3eb340461a99cf59ee373dbdd164fb61d03c4412dc6cbe00237a461afb6b17",
+    "gpus": 64,
+    "seed": 1350002,
+    "state_id": "p64-source_skew-1350002",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 532,
+    "file": "plans/p64-source_skew-1350002-sinkhorn_fixed.json",
+    "sha256": "a7ea0a479181b26cebc3d4072f1d1c384644c9e52f5ebc9d8e99640a965f6361",
+    "gpus": 64,
+    "seed": 1350002,
+    "state_id": "p64-source_skew-1350002",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 533,
+    "file": "plans/p64-source_skew-1350002-lazarus_inspired.json",
+    "sha256": "5431b5c03660ee17a6c7dd3119f14854dcaf1471a16978935bd2e38f2d4430ac",
+    "gpus": 64,
+    "seed": 1350002,
+    "state_id": "p64-source_skew-1350002",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 534,
+    "file": "plans/p64-source_skew-1350003-gnn4.json",
+    "sha256": "7d2cfd0dcc5779b9624fdbfb0ff692a01a272eb7cc011971b2943dbcae97bed7",
+    "gpus": 64,
+    "seed": 1350003,
+    "state_id": "p64-source_skew-1350003",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 535,
+    "file": "plans/p64-source_skew-1350003-sinkhorn_fixed.json",
+    "sha256": "002452f131e609e2b9a37e7c7f1e912cb33089dd6eeda1f533569585e3e85cdb",
+    "gpus": 64,
+    "seed": 1350003,
+    "state_id": "p64-source_skew-1350003",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 536,
+    "file": "plans/p64-source_skew-1350003-lazarus_inspired.json",
+    "sha256": "5c2ae07dff7cbe9c3544f2b9b41c6863fed16e831c174f26594b617db71f59d9",
+    "gpus": 64,
+    "seed": 1350003,
+    "state_id": "p64-source_skew-1350003",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 537,
+    "file": "plans/p64-source_skew-1350004-gnn4.json",
+    "sha256": "b193581185a7a6dc5960803bafb64040d0fc28f24b6f22f2994eae107b19d2ef",
+    "gpus": 64,
+    "seed": 1350004,
+    "state_id": "p64-source_skew-1350004",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 538,
+    "file": "plans/p64-source_skew-1350004-sinkhorn_fixed.json",
+    "sha256": "5e84bbfbe3d6f870e77e2f6bcd824a683c0a0c18b39c43ff3ccbe5ab04d9a933",
+    "gpus": 64,
+    "seed": 1350004,
+    "state_id": "p64-source_skew-1350004",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 539,
+    "file": "plans/p64-source_skew-1350004-lazarus_inspired.json",
+    "sha256": "7e92f1fbbf1d6b57b74063866bc572c19d3aafb6c819b5ade3ef8bf5117590d6",
+    "gpus": 64,
+    "seed": 1350004,
+    "state_id": "p64-source_skew-1350004",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 540,
+    "file": "plans/p64-source_skew-1350005-gnn4.json",
+    "sha256": "6effee8e40e34ce0c1556e646e3cdf1341e2b7dec20b7b879a2ed6d6e5f1111e",
+    "gpus": 64,
+    "seed": 1350005,
+    "state_id": "p64-source_skew-1350005",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 541,
+    "file": "plans/p64-source_skew-1350005-sinkhorn_fixed.json",
+    "sha256": "de07c28d727950df81492e3083b50fd3e5dcb086d5f74561706f3423e0bb318d",
+    "gpus": 64,
+    "seed": 1350005,
+    "state_id": "p64-source_skew-1350005",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 542,
+    "file": "plans/p64-source_skew-1350005-lazarus_inspired.json",
+    "sha256": "5909f1e3f9fbc16a531ec01b4b13416a165817fc64b3d6f3eba5f105aa966e94",
+    "gpus": 64,
+    "seed": 1350005,
+    "state_id": "p64-source_skew-1350005",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 543,
+    "file": "plans/p64-source_skew-1350006-gnn4.json",
+    "sha256": "f5c955e89f5f066fdcebbc0d4916f1bad93e98eef8a9cd6434ec2afaed896a1e",
+    "gpus": 64,
+    "seed": 1350006,
+    "state_id": "p64-source_skew-1350006",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 544,
+    "file": "plans/p64-source_skew-1350006-sinkhorn_fixed.json",
+    "sha256": "744d059ec1ccb88d085b069b522d2ba29b3e37bd1435a4577fb83b9de61b78f3",
+    "gpus": 64,
+    "seed": 1350006,
+    "state_id": "p64-source_skew-1350006",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 545,
+    "file": "plans/p64-source_skew-1350006-lazarus_inspired.json",
+    "sha256": "41dbd29382503551cacca5ba73d313cb7037429366a485d8716634c890e0e8fc",
+    "gpus": 64,
+    "seed": 1350006,
+    "state_id": "p64-source_skew-1350006",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 546,
+    "file": "plans/p64-source_skew-1350007-gnn4.json",
+    "sha256": "6f15839f02d3c89d952a7e32d85d3ae0c04b0f4f3f01905a7ff548f2ee62eed2",
+    "gpus": 64,
+    "seed": 1350007,
+    "state_id": "p64-source_skew-1350007",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 547,
+    "file": "plans/p64-source_skew-1350007-sinkhorn_fixed.json",
+    "sha256": "0fa4464896bc96273bd145c8b006f7539212742e8976239b2cf57f4f1f5b1fda",
+    "gpus": 64,
+    "seed": 1350007,
+    "state_id": "p64-source_skew-1350007",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 548,
+    "file": "plans/p64-source_skew-1350007-lazarus_inspired.json",
+    "sha256": "9d3c2f01a7b5314db479236486f07a1dfea5bc770e21a6a27e9bb123159f2a0e",
+    "gpus": 64,
+    "seed": 1350007,
+    "state_id": "p64-source_skew-1350007",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 549,
+    "file": "plans/p64-source_skew-1350008-gnn4.json",
+    "sha256": "0c48e3db71bd526375359e90e1e55ba68a732e9b6b55123bd0f06d8651d216bd",
+    "gpus": 64,
+    "seed": 1350008,
+    "state_id": "p64-source_skew-1350008",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 550,
+    "file": "plans/p64-source_skew-1350008-sinkhorn_fixed.json",
+    "sha256": "4c3d61aa8c80cc9296d5c688d51f1694b39504c6bd99f3133ec9ac88bfe57d98",
+    "gpus": 64,
+    "seed": 1350008,
+    "state_id": "p64-source_skew-1350008",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 551,
+    "file": "plans/p64-source_skew-1350008-lazarus_inspired.json",
+    "sha256": "20f75628adc3c247eaa870057d0318585895fcc55aa03ad9ce93cc064fe6f4e9",
+    "gpus": 64,
+    "seed": 1350008,
+    "state_id": "p64-source_skew-1350008",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 552,
+    "file": "plans/p64-source_skew-1350009-gnn4.json",
+    "sha256": "fd5749f647155f02286f4dd85ccead76c6c1072788537fdb7b0f0e7be0713a49",
+    "gpus": 64,
+    "seed": 1350009,
+    "state_id": "p64-source_skew-1350009",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 553,
+    "file": "plans/p64-source_skew-1350009-sinkhorn_fixed.json",
+    "sha256": "56eab240d10c7eb8cd02bb1af826410290c131e9722f28cd5883d79c0a53e664",
+    "gpus": 64,
+    "seed": 1350009,
+    "state_id": "p64-source_skew-1350009",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 554,
+    "file": "plans/p64-source_skew-1350009-lazarus_inspired.json",
+    "sha256": "a2b6e70ea16044465441133f505cb26003a47156b6954289225422179185ee0c",
+    "gpus": 64,
+    "seed": 1350009,
+    "state_id": "p64-source_skew-1350009",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 555,
+    "file": "plans/p64-source_skew-1350010-gnn4.json",
+    "sha256": "e9d0a32eb6cb5ea8b76cdbd1bcb0be9807c4ac4be33741d681f908e52c67ac71",
+    "gpus": 64,
+    "seed": 1350010,
+    "state_id": "p64-source_skew-1350010",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 556,
+    "file": "plans/p64-source_skew-1350010-sinkhorn_fixed.json",
+    "sha256": "df9041bdcf2c498694f99eea71fb1b04b8e8b0169a2ca84e9334550c85f3cddf",
+    "gpus": 64,
+    "seed": 1350010,
+    "state_id": "p64-source_skew-1350010",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 557,
+    "file": "plans/p64-source_skew-1350010-lazarus_inspired.json",
+    "sha256": "544933a56117c7b3137c1cd47b04127f5edd774a2c165220f3ebc3741e53b9fd",
+    "gpus": 64,
+    "seed": 1350010,
+    "state_id": "p64-source_skew-1350010",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 558,
+    "file": "plans/p64-source_skew-1350011-gnn4.json",
+    "sha256": "c87beacca604eb894ff72cd0741a6a1802a58b40eef66fca024bb715a82cea3d",
+    "gpus": 64,
+    "seed": 1350011,
+    "state_id": "p64-source_skew-1350011",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 559,
+    "file": "plans/p64-source_skew-1350011-sinkhorn_fixed.json",
+    "sha256": "dd2e22c5962d1eb2818a4b36908f11e021a95cdcb9da1a7aefd299354a423a9a",
+    "gpus": 64,
+    "seed": 1350011,
+    "state_id": "p64-source_skew-1350011",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 560,
+    "file": "plans/p64-source_skew-1350011-lazarus_inspired.json",
+    "sha256": "4223e6a755f30a8b5558b22169f4301bba4286ac1dddffbc22803ecd5ed119a1",
+    "gpus": 64,
+    "seed": 1350011,
+    "state_id": "p64-source_skew-1350011",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 561,
+    "file": "plans/p64-source_skew-1350012-gnn4.json",
+    "sha256": "622de8adbeb162d02c156d39375bedafddb7cad258563c8e7f7017894d09333c",
+    "gpus": 64,
+    "seed": 1350012,
+    "state_id": "p64-source_skew-1350012",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 562,
+    "file": "plans/p64-source_skew-1350012-sinkhorn_fixed.json",
+    "sha256": "d03b1c3ff40681360bf55f24d6897d34eae0dd1d7d037e13e6d7da9a7dfdb6c5",
+    "gpus": 64,
+    "seed": 1350012,
+    "state_id": "p64-source_skew-1350012",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 563,
+    "file": "plans/p64-source_skew-1350012-lazarus_inspired.json",
+    "sha256": "0bd7661623a4d4bb17efe352810fd0f9ba9852fba3560ea8064363ff4a120e3f",
+    "gpus": 64,
+    "seed": 1350012,
+    "state_id": "p64-source_skew-1350012",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 564,
+    "file": "plans/p64-source_skew-1350013-gnn4.json",
+    "sha256": "71f99a54414d5d5662b4b9493e9d57c60248bd5234696e71df66b74d08daa8eb",
+    "gpus": 64,
+    "seed": 1350013,
+    "state_id": "p64-source_skew-1350013",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 565,
+    "file": "plans/p64-source_skew-1350013-sinkhorn_fixed.json",
+    "sha256": "e846be0f65c3cc249cf85cc4ca937825ec99069415abab13f0590201090e8aeb",
+    "gpus": 64,
+    "seed": 1350013,
+    "state_id": "p64-source_skew-1350013",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 566,
+    "file": "plans/p64-source_skew-1350013-lazarus_inspired.json",
+    "sha256": "45446d30e7455147afab3e52b97a251496237e7887a3ea59dd1450e210990e0b",
+    "gpus": 64,
+    "seed": 1350013,
+    "state_id": "p64-source_skew-1350013",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 567,
+    "file": "plans/p64-source_skew-1350014-gnn4.json",
+    "sha256": "cc41749064bfa6c8d460cdd997ad0ce97a3b65f5bfb1b226ddbee442c7ff8038",
+    "gpus": 64,
+    "seed": 1350014,
+    "state_id": "p64-source_skew-1350014",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 568,
+    "file": "plans/p64-source_skew-1350014-sinkhorn_fixed.json",
+    "sha256": "d8e2f38ca92b13e2f20c0b599de8ca855b8d401a79316b2dca4a922e551f5bc0",
+    "gpus": 64,
+    "seed": 1350014,
+    "state_id": "p64-source_skew-1350014",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 569,
+    "file": "plans/p64-source_skew-1350014-lazarus_inspired.json",
+    "sha256": "9b15dca462ebcd410b5f2bbe2e7c3e1ebf1b59a839061363afe860e78bd6f2ad",
+    "gpus": 64,
+    "seed": 1350014,
+    "state_id": "p64-source_skew-1350014",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 570,
+    "file": "plans/p64-source_skew-1350015-gnn4.json",
+    "sha256": "9d395b995b14b6415446da465f63a9eb8aeb90b17a9f85e22cda57522cd3d801",
+    "gpus": 64,
+    "seed": 1350015,
+    "state_id": "p64-source_skew-1350015",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 571,
+    "file": "plans/p64-source_skew-1350015-sinkhorn_fixed.json",
+    "sha256": "1e5ec66d913fe084ceb19276920cb3c66f3d5b83699ee26a8a5c01f075676e24",
+    "gpus": 64,
+    "seed": 1350015,
+    "state_id": "p64-source_skew-1350015",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 572,
+    "file": "plans/p64-source_skew-1350015-lazarus_inspired.json",
+    "sha256": "7e7a1faf0ee133eee20b34788d8abd761d5c97915a64a61e674f2eeeb642578c",
+    "gpus": 64,
+    "seed": 1350015,
+    "state_id": "p64-source_skew-1350015",
+    "arm": "lazarus_inspired"
+  },
+  {
+    "plan_id": 573,
+    "file": "plans/p64-source_skew-1350016-gnn4.json",
+    "sha256": "3a80fc80dd57b5b0586f23bd10ffc2323c2b9a40adcd2b4c4e470d8bf943709d",
+    "gpus": 64,
+    "seed": 1350016,
+    "state_id": "p64-source_skew-1350016",
+    "arm": "gnn4"
+  },
+  {
+    "plan_id": 574,
+    "file": "plans/p64-source_skew-1350016-sinkhorn_fixed.json",
+    "sha256": "0d6bb05d7ff8cb232a4e621470dd9f19367c8a853d62c51ed969db650d83a1af",
+    "gpus": 64,
+    "seed": 1350016,
+    "state_id": "p64-source_skew-1350016",
+    "arm": "sinkhorn_fixed"
+  },
+  {
+    "plan_id": 575,
+    "file": "plans/p64-source_skew-1350016-lazarus_inspired.json",
+    "sha256": "e5b6cfe461d9408bd32381c83035ae5eae52b11062464a85e8d691faa6f07e26",
+    "gpus": 64,
+    "seed": 1350016,
+    "state_id": "p64-source_skew-1350016",
+    "arm": "lazarus_inspired"
+  }
+]

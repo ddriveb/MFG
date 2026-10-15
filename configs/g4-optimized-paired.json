@@ -1,0 +1,17 @@
+{
+  "schema": "g4_feedback_paired_v1",
+  "hardware_target": "4 x CUDA GPUs (caller supplied)",
+  "rounds": 4,
+  "checkpoint": "../models/checkpoints/g4/best.pt",
+  "checkpoint_sha256": "781c9e2e36ab49aa69547d215de306a810c9e8b21cef54b1f5fd9e304b3ec6e4",
+  "training_domain": "V100 G4/E32/R2; 1024 Tokens/source; seed130",
+  "model_coefficients": "inherited proxy, not V100 calibration",
+  "seed": 1210413,
+  "warmup_steps": 2,
+  "measured_steps": 150,
+  "tokens_per_rank": 1024,
+  "gradient_rtol": 0.00001,
+  "gradient_atol": 0.0000001,
+  "learning_rate": 0.00001,
+  "run_purpose": "fresh matched fused GNN4 Sinkhorn Lazarus integer planning and full-step timing"
+}

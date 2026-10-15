@@ -1,0 +1,55 @@
+{
+  "scales": [
+    16,
+    32,
+    64
+  ],
+  "families": [
+    "balanced",
+    "global_hotspot",
+    "node_local",
+    "source_skew"
+  ],
+  "seeds": [
+    1350001,
+    1350002,
+    1350003,
+    1350004,
+    1350005,
+    1350006,
+    1350007,
+    1350008,
+    1350009,
+    1350010,
+    1350011,
+    1350012,
+    1350013,
+    1350014,
+    1350015,
+    1350016
+  ],
+  "support_seed": 1325001,
+  "weak_scaling": "E=P,R2,two resident Experts/rank,16 positive candidates/source,1024tokens/source,Top8,64groups",
+  "hotspot_fraction": 0.25,
+  "strength_range": [
+    1,
+    2.5
+  ],
+  "frozen_checkpoint": "artifacts/moe-gnn-multiscale-retrain-20261014-b/best.pt",
+  "checkpoint_sha256": "9f392389a28122cac1613f845d51362bfbe219c52da188f1eabecd0c82d62ed9",
+  "no_retraining": true,
+  "planner_warmups": 10,
+  "planner_formal": 30,
+  "compute_campaigns": 2,
+  "compute_warmups": 2,
+  "compute_formal": 8,
+  "source_hashes": {
+    ".scratch/communication-aware-social-v2/local132/mixed_plan.py": "39a8164d39bd14e5dd5909ad530ea19fadb3e3a81601c42c04f1e5125c10ef2e",
+    "docs/adr/0222-paper-evidence-alignment-and-weak-scaling.md": "2e9ae2f45332d28fa7bf4bee5fb9789d49071ddcf87d54ac6baa81efe57ce0a6",
+    "src/mfg_hedge/moe_load_feedback_gnn_v1.py": "b2123074e6c2b20218aa2aa8ba2a44f713f0bb85fb057f709f91fbdee3464a7a",
+    "src/mfg_hedge/moe_gnn_allocation_fused_v1.py": "7fe8b67bdeb4b4feb5b2fbe5b845c217f3e08b05b490abca627d4636269b142c",
+    "src/mfg_hedge/moe_gnn_allocation_features_v1.py": "76b9750337c72d75fcaa2b6b2203a190bac62a9075859824f6e11f5f6896f684",
+    "src/mfg_hedge/moe_fixed_sinkhorn_gpu_v1.py": "5c1b5d38e19001a84a28c0b55ae9ac4939c1605a218ce41d54d1e687f7040d35",
+    "src/mfg_hedge/moe_lazarus_ring_gpu_v1.py": "0cffaa816d6dc2bf68f45c2a75bc6ebe056cbb195cee3620b73f29d265727348"
+  }
+}

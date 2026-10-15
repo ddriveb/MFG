@@ -1,0 +1,12 @@
+{
+  "elapsed_s": 89.83781445399973,
+  "dev": {
+    "upper": 3.3372164472950883,
+    "lower": 3.3368477845586884,
+    "gap": 0.00036866273639966224,
+    "max_gap": 0.0007121414165807138
+  },
+  "sha256": "781c9e2e36ab49aa69547d215de306a810c9e8b21cef54b1f5fd9e304b3ec6e4",
+  "allocation_frozen_during_price": true,
+  "blind_test_unopened": true
+}

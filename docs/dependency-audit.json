@@ -1,0 +1,115 @@
+{
+  "entry_modules": [
+    "moe_load_feedback_gnn_v1",
+    "moe_gnn_allocation_fused_v1",
+    "moe_gnn_allocation_features_v1",
+    "moe_fixed_sinkhorn_gpu_v1",
+    "moe_lazarus_ring_gpu_v1",
+    "granite_g4_feedback_planner_v1",
+    "granite_g4_feedback_runner_v1",
+    "granite_g4_feedback_replay_v1",
+    "granite_expert_gemm_granularity_v1",
+    "granite_local_expert_profile_v1",
+    "moe_communication_social_v2",
+    "moe_communication_social_v2_native_v1",
+    "moe_saved_batch_network_workload_v1",
+    "moe_simai_matrix_replay_v1",
+    "moe_legal_variable_gate_v1"
+  ],
+  "ast_dependency_module_count": 41,
+  "modules": [
+    "granite_cloud_executor_v1.py",
+    "granite_cloud_schedule_native_v1.py",
+    "granite_communication_social_v2_g4_training_policy_v1.py",
+    "granite_communication_social_v2_training_replica_packed_v1.py",
+    "granite_communication_social_v2_training_replica_v1.py",
+    "granite_expert_gemm_granularity_v1.py",
+    "granite_full_training_runner_v1.py",
+    "granite_g4_feedback_planner_v1.py",
+    "granite_g4_feedback_replay_v1.py",
+    "granite_g4_feedback_runner_v1.py",
+    "granite_local_expert_profile_v1.py",
+    "granite_moe_eplb_lplb_ticket13_approx_v1.py",
+    "granite_moe_replica_plan_v1.py",
+    "granite_moe_ticket11_adapters_v1.py",
+    "granite_structured_solution_map_v1.py",
+    "granite_training_numeric_kernels_v1.py",
+    "granite_training_policy_native_v1.py",
+    "granite_training_replica_v1.py",
+    "moe_communication_social_v2.py",
+    "moe_communication_social_v2_adaptive_native_v1.py",
+    "moe_communication_social_v2_g256_sparse_warmstart_v1.py",
+    "moe_communication_social_v2_g4_fast_runtime_v1.py",
+    "moe_communication_social_v2_g4_warmstart_v1.py",
+    "moe_communication_social_v2_native_v1.py",
+    "moe_communication_social_v2_quality_runner_v1.py",
+    "moe_communication_social_v2_reduction_v1.py",
+    "moe_communication_social_v2_runner.py",
+    "moe_fixed_sinkhorn_gpu_v1.py",
+    "moe_gnn_allocation_features_v1.py",
+    "moe_gnn_allocation_fused_v1.py",
+    "moe_gpu_cached_warmstart_v1.py",
+    "moe_gpu_sparse_kernels_v1.py",
+    "moe_gpu_sparse_planner_v2.py",
+    "moe_gpu_three_planners_v1.py",
+    "moe_lazarus_ring_gpu_v1.py",
+    "moe_legal_variable_gate_v1.py",
+    "moe_light_resource_gnn_v1.py",
+    "moe_light_resource_price_v1.py",
+    "moe_load_feedback_gnn_v1.py",
+    "moe_saved_batch_network_workload_v1.py",
+    "moe_simai_matrix_replay_v1.py"
+  ],
+  "cpp_sources": [
+    "granite_cloud_schedule_native_v1.cpp",
+    "granite_training_policy_native_v1.cpp",
+    "moe_communication_social_v2_adaptive_native_v1.cpp",
+    "moe_communication_social_v2_g4_fast_runtime_v1.cpp",
+    "moe_communication_social_v2_native_v1.cpp",
+    "moe_simai_matrix_replay_v1.cpp"
+  ],
+  "optional_imports": {
+    "torch": "FP64 GNN inference/training and GPU planners",
+    "triton": "fused GPU kernels and fixed50/Lazarus GPU adapters",
+    "transformers": "G4 model loading/full training; external Granite weights are excluded"
+  },
+  "origin_policy": "All package imports must resolve beneath v2/src/mfg_hedge.",
+  "optional_training": {
+    "entrypoints": [
+      "tools/train_multiscale.py",
+      "tools/train_global_hotspot.py"
+    ],
+    "recursive_import_modules": [
+      "moe_gpu_direct_gap_training_v1",
+      "moe_gpu_separated_training_v1"
+    ],
+    "external_runtime": [
+      "PyTorch 2.11-compatible",
+      "CUDA GPU",
+      "Triton"
+    ],
+    "external_options": [
+      "--initial-checkpoint",
+      "--device",
+      "--python-include",
+      "--triton-cache",
+      "--output"
+    ],
+    "defaults": {
+      "multiscale": {
+        "allocation_steps": 4000,
+        "price_steps": 2000,
+        "train_per_scale": 256,
+        "dev_per_scale": 64,
+        "batch_per_scale": 2
+      },
+      "global_hotspot": {
+        "allocation_steps": 4000,
+        "price_steps": 2000,
+        "train_per_scale": 256,
+        "dev_per_scale": 64,
+        "batch_per_scale": 2
+      }
+    }
+  }
+}

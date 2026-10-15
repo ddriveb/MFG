@@ -1,0 +1,16 @@
+[
+  {
+    "path": "megatron/core/transformer/moe/offloading_planner.py",
+    "sha256": "d620d3161d0ed694ff73ca12ddeb95c1e823434304dd4806bec845a3e556b83d",
+    "bytes": 82032,
+    "upstream_commit": "64c279afb879229cff12fb293624e3691990403f",
+    "modified": false
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "4dfb399e7aad7a8cb165aef2fd5a01d7ab02df2bf04a1515a1ebb3707fa256d3",
+    "bytes": 14876,
+    "upstream_commit": "64c279afb879229cff12fb293624e3691990403f",
+    "modified": false
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "P": 32,
+    "rho": 0.4,
+    "mixed_F": 6.417058941356849,
+    "hot_F": 6.440347997359535,
+    "mixed_native_gap": 0.9099366953065693,
+    "hot_native_gap": 0.9038442801274502,
+    "allocation_wins": 6
+  },
+  {
+    "P": 32,
+    "rho": 0.6,
+    "mixed_F": 7.824212018385206,
+    "hot_F": 7.8053226738744454,
+    "mixed_native_gap": 1.1410063099269725,
+    "hot_native_gap": 0.639933708544101,
+    "allocation_wins": 8
+  },
+  {
+    "P": 32,
+    "rho": 0.8,
+    "mixed_F": 9.529405428916352,
+    "hot_F": 9.512292866376175,
+    "mixed_native_gap": 1.9674476157631688,
+    "hot_native_gap": 0.7438666988533,
+    "allocation_wins": 9
+  },
+  {
+    "P": 64,
+    "rho": 0.4,
+    "mixed_F": 11.795395436764311,
+    "hot_F": 11.203903636564345,
+    "mixed_native_gap": 3.120004160036584,
+    "hot_native_gap": 0.570199944032645,
+    "allocation_wins": 16
+  },
+  {
+    "P": 64,
+    "rho": 0.6,
+    "mixed_F": 16.353592528672646,
+    "hot_F": 15.889473071103993,
+    "mixed_native_gap": 3.5382362599275083,
+    "hot_native_gap": 0.8167698316258443,
+    "allocation_wins": 16
+  },
+  {
+    "P": 64,
+    "rho": 0.8,
+    "mixed_F": 20.267096661749257,
+    "hot_F": 19.708355604194026,
+    "mixed_native_gap": 3.985112389811756,
+    "hot_native_gap": 1.141070737142305,
+    "allocation_wins": 16
+  }
+]

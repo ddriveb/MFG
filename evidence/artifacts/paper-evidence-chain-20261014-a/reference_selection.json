@@ -1,0 +1,120 @@
+{
+  "states": [
+    {
+      "seed": 1182009,
+      "family": "balanced",
+      "quantile": 0.1,
+      "integer_gap": 0.5730724504770075,
+      "plan_file": "plans/g64-1182009-gnn4.json"
+    },
+    {
+      "seed": 1182045,
+      "family": "balanced",
+      "quantile": 0.4,
+      "integer_gap": 0.6898554213281836,
+      "plan_file": "plans/g64-1182045-gnn4.json"
+    },
+    {
+      "seed": 1182089,
+      "family": "balanced",
+      "quantile": 0.7,
+      "integer_gap": 0.7790654247457285,
+      "plan_file": "plans/g64-1182089-gnn4.json"
+    },
+    {
+      "seed": 1182081,
+      "family": "balanced",
+      "quantile": 0.9,
+      "integer_gap": 0.9233897880783744,
+      "plan_file": "plans/g64-1182081-gnn4.json"
+    },
+    {
+      "seed": 1182062,
+      "family": "global_hotspot",
+      "quantile": 0.1,
+      "integer_gap": 0.6521114726287616,
+      "plan_file": "plans/g64-1182062-gnn4.json"
+    },
+    {
+      "seed": 1182094,
+      "family": "global_hotspot",
+      "quantile": 0.4,
+      "integer_gap": 0.7955161740003955,
+      "plan_file": "plans/g64-1182094-gnn4.json"
+    },
+    {
+      "seed": 1182086,
+      "family": "global_hotspot",
+      "quantile": 0.7,
+      "integer_gap": 1.0082135307236877,
+      "plan_file": "plans/g64-1182086-gnn4.json"
+    },
+    {
+      "seed": 1182098,
+      "family": "global_hotspot",
+      "quantile": 0.9,
+      "integer_gap": 1.1436104973153514,
+      "plan_file": "plans/g64-1182098-gnn4.json"
+    },
+    {
+      "seed": 1182127,
+      "family": "node_local",
+      "quantile": 0.1,
+      "integer_gap": 0.7181196250362545,
+      "plan_file": "plans/g64-1182127-gnn4.json"
+    },
+    {
+      "seed": 1182079,
+      "family": "node_local",
+      "quantile": 0.4,
+      "integer_gap": 0.7595873341069606,
+      "plan_file": "plans/g64-1182079-gnn4.json"
+    },
+    {
+      "seed": 1182051,
+      "family": "node_local",
+      "quantile": 0.7,
+      "integer_gap": 0.8109187446544341,
+      "plan_file": "plans/g64-1182051-gnn4.json"
+    },
+    {
+      "seed": 1182071,
+      "family": "node_local",
+      "quantile": 0.9,
+      "integer_gap": 0.8499204836539036,
+      "plan_file": "plans/g64-1182071-gnn4.json"
+    },
+    {
+      "seed": 1182020,
+      "family": "source_skew",
+      "quantile": 0.1,
+      "integer_gap": 0.622757688647841,
+      "plan_file": "plans/g64-1182020-gnn4.json"
+    },
+    {
+      "seed": 1182140,
+      "family": "source_skew",
+      "quantile": 0.4,
+      "integer_gap": 0.712203450633246,
+      "plan_file": "plans/g64-1182140-gnn4.json"
+    },
+    {
+      "seed": 1182096,
+      "family": "source_skew",
+      "quantile": 0.7,
+      "integer_gap": 0.8316409320290266,
+      "plan_file": "plans/g64-1182096-gnn4.json"
+    },
+    {
+      "seed": 1182128,
+      "family": "source_skew",
+      "quantile": 0.9,
+      "integer_gap": 0.9007873186881712,
+      "plan_file": "plans/g64-1182128-gnn4.json"
+    }
+  ],
+  "max_iterations": 100000,
+  "absolute_gap_ms": 0.001,
+  "relative_gap": 0.0,
+  "initialization": "uniform"
+}

@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "only_global_hotspot": true,
+  "training_and_dev": 640,
+  "test_states": 96,
+  "plans_recomputed": 384,
+  "matched_inputs_verified": true,
+  "legal_top8": true,
+  "checkpoint_sha256": "ae746adada19a87fd1b63e47e55e3fc81c654f74db7072df7d8b514b5be1e271",
+  "experiment_audit": {
+    "passed": true,
+    "states": 96,
+    "plans": 384,
+    "flows_audited": 1972296,
+    "rank_bindings": 18432,
+    "planner_formal": 11520,
+    "compute_shapes": 14400,
+    "source_hashes_unchanged": true
+  },
+  "engineering": {
+    "tests": 2185,
+    "seconds": 451.383,
+    "regression_exit": 1,
+    "config_exit": 0,
+    "failures": 3,
+    "errors": 16,
+    "skipped": 56
+  }
+}

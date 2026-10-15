@@ -1,0 +1,24 @@
+{
+  "train_seed": 1300000,
+  "train_count": 256,
+  "dev_seed": 1301000,
+  "dev_count": 64,
+  "test_seed": 1302000,
+  "test_count": 100,
+  "initialization_seed": 1300413,
+  "allocation_steps": 1000,
+  "price_steps": 1000,
+  "batch": 2,
+  "selection": "dev raw allocation upper then price lower",
+  "families": [
+    "uniform",
+    "shared_hot",
+    "source_hot",
+    "sparse_pool"
+  ],
+  "architecture": "existing 4-round width16 price64 FP64",
+  "tokens_per_rank": 1024,
+  "hardware_coefficients": "inherited proxy, not calibrated to V100",
+  "device": "Tesla V100-SXM2-32GB",
+  "train_script_sha256": "18a6708721ddaf74cdee71e8b3d3e350b6f9e0fcdecba49a30988f2389a48f46"
+}

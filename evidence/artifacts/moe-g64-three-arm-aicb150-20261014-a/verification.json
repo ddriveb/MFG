@@ -1,0 +1,40 @@
+{
+  "experiment_passed": true,
+  "all450packet_conservation": true,
+  "all450official_time_audit": true,
+  "source_hashes_unchanged": true,
+  "flows_audited": 3177288,
+  "historical_gradient_failure_retained": true,
+  "numerical_eligibility": false,
+  "unrelated_paused_scheduler_untouched": true,
+  "engineering": {
+    "tests": 2185,
+    "elapsed_s": 552.499,
+    "exit": 1,
+    "summary": "FAILED (failures=3, errors=16, skipped=56)",
+    "config_exit": 0,
+    "failure_headers": [
+      "ERROR: test_budget_reservation_stops_before_an_extra_task (test_campaign_execution.CampaignExecutionTests)\r",
+      "ERROR: test_completion_order_does_not_change_parent_merge (test_campaign_execution.CampaignExecutionTests)\r",
+      "ERROR: test_one_and_two_worker_batches_have_fixed_identical_rows (test_campaign_execution.CampaignExecutionTests)\r",
+      "ERROR: test_worker_exception_is_recorded_once_without_retry_or_candidate (test_campaign_execution.CampaignExecutionTests)\r",
+      "ERROR: test_canonical_executor_is_spawn_safe_and_merge_order_is_not_completion_order (test_token_mfg_qualification_campaign.TokenMFGQualificationCampaignTests) [serial and eight worker bytes match]\r",
+      "ERROR: test_checkpoint_resume_reuses_committed_output_without_scheduler_calls (test_token_mfg_qualification_campaign.TokenMFGQualificationCampaignTests)\r",
+      "ERROR: test_executor_bounded_fixture_runs_real_routing_not_a_synthetic_provider (test_token_mfg_qualification_campaign.TokenMFGQualificationCampaignTests)\r",
+      "ERROR: test_input_fingerprint_mutation_and_duplicate_checkpoint_are_rejected (test_token_mfg_qualification_campaign.TokenMFGQualificationCampaignTests)\r",
+      "ERROR: test_formal_runner_executes_both_models_on_nonformal_fixture (test_token_mfg_qualification_r2_correction.QualificationR2CorrectionTests)\r",
+      "ERROR: test_interrupt_after_forward_resumes_without_repeating_committed_calls (test_token_mfg_qualification_state_machine.DynamicQualificationStateMachineTests)\r",
+      "ERROR: test_one_and_eight_workers_are_byte_identical (test_token_mfg_qualification_state_machine.DynamicQualificationStateMachineTests)\r",
+      "ERROR: test_checkpoint_fingerprint_change_is_rejected_without_dispatch (test_token_mfg_qualification_streaming.QualificationStreamingTests)\r",
+      "ERROR: test_one_and_eight_workers_have_identical_science_bytes (test_token_mfg_qualification_streaming.QualificationStreamingTests)\r",
+      "ERROR: test_streamed_episode_physics_matches_bounded_full_panel (test_token_mfg_qualification_streaming.QualificationStreamingTests)\r",
+      "ERROR: test_streamed_panel_checkpoint_is_compact_and_resume_reuses_calls (test_token_mfg_qualification_streaming.QualificationStreamingTests)\r",
+      "ERROR: test_work_keys_separate_k_start_model_and_iteration (test_token_mfg_qualification_streaming.QualificationStreamingTests)\r",
+      "FAIL: test_synthetic_havel_hakimi_emits_a_valid_top8_trace_and_warmup_sample (test_granite_scaling_cpp_v1.GraniteScalingCppDifferentialTests)\r",
+      "FAIL: test_parallel_fit_adapter_retains_all_bank_rows (test_stage4_campaign.Stage4CampaignTests)\r",
+      "FAIL: test_parallel_validation_recomputes_all_experts_and_rules (test_stage4_campaign.Stage4CampaignTests)\r"
+    ]
+  },
+  "engineering_all_pass": false,
+  "retained_failures": []
+}

@@ -1,0 +1,12 @@
+{
+  "cases": 14400,
+  "bindings": 18432,
+  "campaigns": 2,
+  "warmups": 2,
+  "formal": 8,
+  "weights": "realGranite23 orderedExpert0/1,whole_expert unpadded,FP32TF32off",
+  "compute_cases_sha256": "d6101c851ca6300214fc74f5eb897407a799d9773b8b07eb460dc685bce4c9e7",
+  "compute_bindings_sha256": "fe3ccbd32c1c811fd57e2a68dce67ddb4c198eea08a80694b4a4c12cb5cbffd9",
+  "input_seed": 611335,
+  "model_qualification": "exploratorycomponentfinite only; historicalstrictFP32gradient failure retained"
+}

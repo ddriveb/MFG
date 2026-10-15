@@ -1,0 +1,66 @@
+{
+  "scales": [
+    16,
+    32,
+    64
+  ],
+  "families": [
+    "balanced",
+    "global_hotspot",
+    "node_local",
+    "source_skew"
+  ],
+  "train_per_scale": 256,
+  "dev_per_scale": 64,
+  "train_support_seeds": [
+    1323001,
+    1323002,
+    1323003,
+    1323004
+  ],
+  "dev_support_seeds": [
+    1324001,
+    1324002
+  ],
+  "holdout_support_seed": 1325001,
+  "train_gate_first": 1330001,
+  "dev_gate_first": 1340001,
+  "scale_seed_stride": 10000,
+  "holdout_seeds": [
+    1350001,
+    1350002,
+    1350003,
+    1350004,
+    1350005,
+    1350006,
+    1350007,
+    1350008,
+    1350009,
+    1350010,
+    1350011,
+    1350012,
+    1350013,
+    1350014,
+    1350015,
+    1350016
+  ],
+  "initialization_seed": 132053,
+  "initial_checkpoint_sha256": "083a9b0163057b13d392d39a603e6309ca987ad2796d9de86b51becc277d69d8",
+  "allocation_steps": 4000,
+  "price_steps": 2000,
+  "batch": 6,
+  "eval_every": 250,
+  "selection": "allocation meanU/F_unif then maxU/F_unif; price meanrelativegap, devonly",
+  "reference_labels": false,
+  "feedback_rounds": 4,
+  "width": 16,
+  "price_width": 64,
+  "source_hashes": {
+    ".scratch/communication-aware-social-v2/local132/train_multiscale.py": "9d82a9a991f4fbc11ea65db6cfdee1cd685bf044a47d45a29ba137d1419bc71e",
+    ".scratch/communication-aware-social-v2/local132/controlled_gate.py": "015f4a59397e3129969a4a8d4e7e0170e2843257ff64d8a6f4ff484e5f21817c",
+    "docs/adr/0222-paper-evidence-alignment-and-weak-scaling.md": "2e9ae2f45332d28fa7bf4bee5fb9789d49071ddcf87d54ac6baa81efe57ce0a6",
+    "src/mfg_hedge/moe_load_feedback_gnn_v1.py": "b2123074e6c2b20218aa2aa8ba2a44f713f0bb85fb057f709f91fbdee3464a7a",
+    "src/mfg_hedge/moe_gpu_separated_training_v1.py": "440d9b890b4b15615c7c0a5e0f0c19a6d608bda3633807205c7e356333f8a65e",
+    "artifacts/moe-g64-depth-pressure-20261013-a/r4/best.pt": "083a9b0163057b13d392d39a603e6309ca987ad2796d9de86b51becc277d69d8"
+  }
+}

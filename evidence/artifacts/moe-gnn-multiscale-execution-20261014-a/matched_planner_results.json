@@ -1,0 +1,5762 @@
+[
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350001",
+    "seed": 1350001,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.21072259987704456,
+    "C_event_ms": 0.14545279840628306,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350001",
+    "seed": 1350001,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10922606646393736,
+    "C_event_ms": 0.038712533718595905,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350001",
+    "seed": 1350001,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09310499978406976,
+    "C_event_ms": 0.034995199739933015,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350002",
+    "seed": 1350002,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.20396556550016007,
+    "C_event_ms": 0.1407402661939462,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350002",
+    "seed": 1350002,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08866323235755165,
+    "C_event_ms": 0.02477866681292653,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350002",
+    "seed": 1350002,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10188313414497922,
+    "C_event_ms": 0.0192064001923427,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350003",
+    "seed": 1350003,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.20590916489406177,
+    "C_event_ms": 0.13271893387039502,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350003",
+    "seed": 1350003,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08930723027636607,
+    "C_event_ms": 0.02414506667604049,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350003",
+    "seed": 1350003,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11101413498787831,
+    "C_event_ms": 0.02585920032579452,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350004",
+    "seed": 1350004,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.21482656981485584,
+    "C_event_ms": 0.13378773232301075,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350004",
+    "seed": 1350004,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10946816764771938,
+    "C_event_ms": 0.028545066667720675,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350004",
+    "seed": 1350004,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10921170275347929,
+    "C_event_ms": 0.0336074662161991,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350005",
+    "seed": 1350005,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.20186233353645852,
+    "C_event_ms": 0.13417813231547673,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350005",
+    "seed": 1350005,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10376946399143587,
+    "C_event_ms": 0.0431061335063229,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350005",
+    "seed": 1350005,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.14502086851280183,
+    "C_event_ms": 0.04339199943933636,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350006",
+    "seed": 1350006,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.25948759575840086,
+    "C_event_ms": 0.13145920013388,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350006",
+    "seed": 1350006,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09392477028692763,
+    "C_event_ms": 0.033684266606966655,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350006",
+    "seed": 1350006,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10467846974885713,
+    "C_event_ms": 0.03151039979420602,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350007",
+    "seed": 1350007,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.27883113361895084,
+    "C_event_ms": 0.14450559864441553,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350007",
+    "seed": 1350007,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1056292336822177,
+    "C_event_ms": 0.03340373331060012,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350007",
+    "seed": 1350007,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09199113119393587,
+    "C_event_ms": 0.02123093355912715,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350008",
+    "seed": 1350008,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.2555254672188312,
+    "C_event_ms": 0.14568640142679215,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350008",
+    "seed": 1350008,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.16110873160262904,
+    "C_event_ms": 0.038520533374200264,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350008",
+    "seed": 1350008,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0872746992778654,
+    "C_event_ms": 0.019795199809595942,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350009",
+    "seed": 1350009,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.22192469720418254,
+    "C_event_ms": 0.1404234652717908,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350009",
+    "seed": 1350009,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09303226349099229,
+    "C_event_ms": 0.02254933354755243,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350009",
+    "seed": 1350009,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08602173378070195,
+    "C_event_ms": 0.01805439990324279,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350010",
+    "seed": 1350010,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.2036391020131608,
+    "C_event_ms": 0.1407562665641308,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350010",
+    "seed": 1350010,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09361773360675822,
+    "C_event_ms": 0.028018133823449413,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350010",
+    "seed": 1350010,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08774583596580972,
+    "C_event_ms": 0.02002346687950194,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350011",
+    "seed": 1350011,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.21728050002517799,
+    "C_event_ms": 0.13736320038636526,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350011",
+    "seed": 1350011,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10474179483329256,
+    "C_event_ms": 0.02426560012002786,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350011",
+    "seed": 1350011,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09942740434780717,
+    "C_event_ms": 0.022134400034944216,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350012",
+    "seed": 1350012,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.23868199884115407,
+    "C_event_ms": 0.13758079980810484,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350012",
+    "seed": 1350012,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.12591876729857177,
+    "C_event_ms": 0.036580266601716475,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350012",
+    "seed": 1350012,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.1014864295333003,
+    "C_event_ms": 0.019111466725977758,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350013",
+    "seed": 1350013,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.23079059804634502,
+    "C_event_ms": 0.13328533271948498,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350013",
+    "seed": 1350013,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09394646913278848,
+    "C_event_ms": 0.022843733274688322,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350013",
+    "seed": 1350013,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08042983730168392,
+    "C_event_ms": 0.016479999828152358,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350014",
+    "seed": 1350014,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.2026066678809002,
+    "C_event_ms": 0.1313984011610349,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350014",
+    "seed": 1350014,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10567839490249753,
+    "C_event_ms": 0.02945280009880662,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350014",
+    "seed": 1350014,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08590256523651381,
+    "C_event_ms": 0.024696533374177914,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350015",
+    "seed": 1350015,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.19839456557140997,
+    "C_event_ms": 0.1332373335957527,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350015",
+    "seed": 1350015,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07349280155419062,
+    "C_event_ms": 0.015188266662880779,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350015",
+    "seed": 1350015,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08491979873118301,
+    "C_event_ms": 0.01938346680253744,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350016",
+    "seed": 1350016,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.18892463219041625,
+    "C_event_ms": 0.13461440081397694,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350016",
+    "seed": 1350016,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1097567001124844,
+    "C_event_ms": 0.04184853412831823,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-balanced-1350016",
+    "seed": 1350016,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09253676786708336,
+    "C_event_ms": 0.029382399772293864,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350001",
+    "seed": 1350001,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.18768969554609308,
+    "C_event_ms": 0.1323381339510282,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350001",
+    "seed": 1350001,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0885151996044442,
+    "C_event_ms": 0.023898666709040603,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350001",
+    "seed": 1350001,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06995669973548502,
+    "C_event_ms": 0.016087466579241056,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350002",
+    "seed": 1350002,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.19545009902988872,
+    "C_event_ms": 0.13722453340888024,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350002",
+    "seed": 1350002,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09717246478733917,
+    "C_event_ms": 0.02948799969938894,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350002",
+    "seed": 1350002,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07759693350332479,
+    "C_event_ms": 0.01744106667271505,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350003",
+    "seed": 1350003,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.2088384993840009,
+    "C_event_ms": 0.14027733380595844,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350003",
+    "seed": 1350003,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07373933234096815,
+    "C_event_ms": 0.020916266677280266,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350003",
+    "seed": 1350003,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0797674962086603,
+    "C_event_ms": 0.021922133467160165,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350004",
+    "seed": 1350004,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.18559966993052512,
+    "C_event_ms": 0.131485865265131,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350004",
+    "seed": 1350004,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08651386791219313,
+    "C_event_ms": 0.027334399816269676,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350004",
+    "seed": 1350004,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08880193442261468,
+    "C_event_ms": 0.014962133307320376,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350005",
+    "seed": 1350005,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.1891965657705441,
+    "C_event_ms": 0.13423680091897647,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350005",
+    "seed": 1350005,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0901075351672868,
+    "C_event_ms": 0.018468266632407904,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350005",
+    "seed": 1350005,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09354639914818108,
+    "C_event_ms": 0.022854400239884852,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350006",
+    "seed": 1350006,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.20979743276257068,
+    "C_event_ms": 0.15495999952157338,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350006",
+    "seed": 1350006,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08574383100494742,
+    "C_event_ms": 0.023860266664996743,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350006",
+    "seed": 1350006,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0914505353042235,
+    "C_event_ms": 0.03138666654316088,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350007",
+    "seed": 1350007,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.2039632003288716,
+    "C_event_ms": 0.13306133324901262,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350007",
+    "seed": 1350007,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08373760404841353,
+    "C_event_ms": 0.021036800121267636,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350007",
+    "seed": 1350007,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08247826578250776,
+    "C_event_ms": 0.01867413332996269,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350008",
+    "seed": 1350008,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.20096856848491976,
+    "C_event_ms": 0.13133120040098825,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350008",
+    "seed": 1350008,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1062250337175404,
+    "C_event_ms": 0.021272533169637124,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350008",
+    "seed": 1350008,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08206177153624594,
+    "C_event_ms": 0.0204757334664464,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350009",
+    "seed": 1350009,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.213554163929075,
+    "C_event_ms": 0.1454741319020589,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350009",
+    "seed": 1350009,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0801707647042349,
+    "C_event_ms": 0.029363199913253386,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350009",
+    "seed": 1350009,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08271266609275092,
+    "C_event_ms": 0.016715733256811898,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350010",
+    "seed": 1350010,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.21410059610692164,
+    "C_event_ms": 0.1329280011355877,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350010",
+    "seed": 1350010,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08946016508465011,
+    "C_event_ms": 0.023473066727941236,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350010",
+    "seed": 1350010,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08074463112279773,
+    "C_event_ms": 0.014790399845999976,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350011",
+    "seed": 1350011,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.19578339900666228,
+    "C_event_ms": 0.14104639987150827,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350011",
+    "seed": 1350011,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09450396852723013,
+    "C_event_ms": 0.03192213320483764,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350011",
+    "seed": 1350011,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09861046952816348,
+    "C_event_ms": 0.03210453380985807,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350012",
+    "seed": 1350012,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.22124263535564145,
+    "C_event_ms": 0.14949866831302644,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350012",
+    "seed": 1350012,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10787880164571106,
+    "C_event_ms": 0.02591573358513415,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350012",
+    "seed": 1350012,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.1016924992048492,
+    "C_event_ms": 0.03301546700143566,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350013",
+    "seed": 1350013,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.19061566757348677,
+    "C_event_ms": 0.13580586711565654,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350013",
+    "seed": 1350013,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07421113162611921,
+    "C_event_ms": 0.018007466631631056,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350013",
+    "seed": 1350013,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0892356998519972,
+    "C_event_ms": 0.021546666859649122,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350014",
+    "seed": 1350014,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.20283143191287914,
+    "C_event_ms": 0.14075306753317515,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350014",
+    "seed": 1350014,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10410496906843036,
+    "C_event_ms": 0.03444586675614118,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350014",
+    "seed": 1350014,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09732573331954579,
+    "C_event_ms": 0.04074240064558884,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350015",
+    "seed": 1350015,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.20070483830446997,
+    "C_event_ms": 0.1437482679883639,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350015",
+    "seed": 1350015,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07931250244534264,
+    "C_event_ms": 0.02465386673187216,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350015",
+    "seed": 1350015,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09120239992626011,
+    "C_event_ms": 0.022452266754892966,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350016",
+    "seed": 1350016,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.20642099843826145,
+    "C_event_ms": 0.1494943988819917,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350016",
+    "seed": 1350016,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0819676313161229,
+    "C_event_ms": 0.023245866503566505,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-global_hotspot-1350016",
+    "seed": 1350016,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08070467059345295,
+    "C_event_ms": 0.013203199937318761,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350001",
+    "seed": 1350001,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.20112453300195435,
+    "C_event_ms": 0.13724800025423367,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350001",
+    "seed": 1350001,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09688760134546708,
+    "C_event_ms": 0.03591573322191834,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350001",
+    "seed": 1350001,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0963697355473414,
+    "C_event_ms": 0.02837333339266479,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350002",
+    "seed": 1350002,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.19546220234284797,
+    "C_event_ms": 0.1375039979815483,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350002",
+    "seed": 1350002,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07020313447962205,
+    "C_event_ms": 0.01580693352346619,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350002",
+    "seed": 1350002,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07317846466321498,
+    "C_event_ms": 0.011733333386170367,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350003",
+    "seed": 1350003,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.20998949864103147,
+    "C_event_ms": 0.14045973246296248,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350003",
+    "seed": 1350003,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0635678714994962,
+    "C_event_ms": 0.015718399981657662,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350003",
+    "seed": 1350003,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06871206860523671,
+    "C_event_ms": 0.016732800006866454,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350004",
+    "seed": 1350004,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.19132760062348098,
+    "C_event_ms": 0.12943680038054783,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350004",
+    "seed": 1350004,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08317560132127255,
+    "C_event_ms": 0.02034559999592602,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350004",
+    "seed": 1350004,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08032746554818004,
+    "C_event_ms": 0.013128533315223952,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350005",
+    "seed": 1350005,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.18386606534477323,
+    "C_event_ms": 0.1338069334626198,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350005",
+    "seed": 1350005,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08065616323923071,
+    "C_event_ms": 0.024226133059710265,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350005",
+    "seed": 1350005,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06129663767448316,
+    "C_event_ms": 0.01262506665661931,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350006",
+    "seed": 1350006,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.18361429295813045,
+    "C_event_ms": 0.13412053287029266,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350006",
+    "seed": 1350006,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07014476965802412,
+    "C_event_ms": 0.021214933336401978,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350006",
+    "seed": 1350006,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08086486971781899,
+    "C_event_ms": 0.021461333225791652,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350007",
+    "seed": 1350007,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.1882294319026793,
+    "C_event_ms": 0.13045013224085172,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350007",
+    "seed": 1350007,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08378503165052582,
+    "C_event_ms": 0.030438399904718003,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350007",
+    "seed": 1350007,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08394566927260409,
+    "C_event_ms": 0.01637226662132889,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350008",
+    "seed": 1350008,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.19629900440728912,
+    "C_event_ms": 0.1354293333987395,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350008",
+    "seed": 1350008,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09045039769262075,
+    "C_event_ms": 0.024317866610363125,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350008",
+    "seed": 1350008,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10566893712772678,
+    "C_event_ms": 0.0316149330077072,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350009",
+    "seed": 1350009,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.21256446780171245,
+    "C_event_ms": 0.13626239945491156,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350009",
+    "seed": 1350009,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09316926880273968,
+    "C_event_ms": 0.024665599735453726,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350009",
+    "seed": 1350009,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08882233135712643,
+    "C_event_ms": 0.02031893322709948,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350010",
+    "seed": 1350010,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.19722513194816807,
+    "C_event_ms": 0.12967253426710765,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350010",
+    "seed": 1350010,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09853706675736855,
+    "C_event_ms": 0.034161066946884,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350010",
+    "seed": 1350010,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06461693459035207,
+    "C_event_ms": 0.014531199975560108,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350011",
+    "seed": 1350011,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.20342423231340945,
+    "C_event_ms": 0.13523733342687289,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350011",
+    "seed": 1350011,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0948516302742064,
+    "C_event_ms": 0.029597866535186767,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350011",
+    "seed": 1350011,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09271633268023531,
+    "C_event_ms": 0.021499733137898148,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350012",
+    "seed": 1350012,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.19949787044121572,
+    "C_event_ms": 0.14090453336636224,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350012",
+    "seed": 1350012,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09223759795228641,
+    "C_event_ms": 0.020645333469534913,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350012",
+    "seed": 1350012,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08956373009520273,
+    "C_event_ms": 0.012663466770512362,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350013",
+    "seed": 1350013,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.2013332317195212,
+    "C_event_ms": 0.14439573287963867,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350013",
+    "seed": 1350013,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10503906717834373,
+    "C_event_ms": 0.02789866675933202,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350013",
+    "seed": 1350013,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07647069869562984,
+    "C_event_ms": 0.01876266651476423,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350014",
+    "seed": 1350014,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.19126439874526113,
+    "C_event_ms": 0.13961173370480537,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350014",
+    "seed": 1350014,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08209816393597673,
+    "C_event_ms": 0.023546666900316874,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350014",
+    "seed": 1350014,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08488049691853423,
+    "C_event_ms": 0.027609600553599498,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350015",
+    "seed": 1350015,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.1899228673816348,
+    "C_event_ms": 0.132144000629584,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350015",
+    "seed": 1350015,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0768042984418571,
+    "C_event_ms": 0.023904000129550695,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350015",
+    "seed": 1350015,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09146423738760252,
+    "C_event_ms": 0.026284800050780176,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350016",
+    "seed": 1350016,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.18159203173127025,
+    "C_event_ms": 0.1319903999567032,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350016",
+    "seed": 1350016,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08078586542978883,
+    "C_event_ms": 0.017755733306209245,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-node_local-1350016",
+    "seed": 1350016,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06624840316362679,
+    "C_event_ms": 0.019364266578728955,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350001",
+    "seed": 1350001,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.19593356410041451,
+    "C_event_ms": 0.14037546664476394,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350001",
+    "seed": 1350001,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08952786447480321,
+    "C_event_ms": 0.04066773389155666,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350001",
+    "seed": 1350001,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06488569973347087,
+    "C_event_ms": 0.01850880013468365,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350002",
+    "seed": 1350002,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.18766587018035352,
+    "C_event_ms": 0.14206400141119957,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350002",
+    "seed": 1350002,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08070753732075293,
+    "C_event_ms": 0.01980479983612895,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350002",
+    "seed": 1350002,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06567486949885885,
+    "C_event_ms": 0.015050666794801751,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350003",
+    "seed": 1350003,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.19492303448108336,
+    "C_event_ms": 0.13461120054125786,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350003",
+    "seed": 1350003,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08913773538855214,
+    "C_event_ms": 0.03125333362258971,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350003",
+    "seed": 1350003,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10283233423251659,
+    "C_event_ms": 0.019325866604534288,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350004",
+    "seed": 1350004,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.1979755295906216,
+    "C_event_ms": 0.13387520064910252,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350004",
+    "seed": 1350004,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08388793309374402,
+    "C_event_ms": 0.024383999810864528,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350004",
+    "seed": 1350004,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07091259661441048,
+    "C_event_ms": 0.014479999919421971,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350005",
+    "seed": 1350005,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.2097779700610166,
+    "C_event_ms": 0.15383146728078526,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350005",
+    "seed": 1350005,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09340836938160162,
+    "C_event_ms": 0.02026666640304029,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350005",
+    "seed": 1350005,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07745896485478927,
+    "C_event_ms": 0.01985386653492848,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350006",
+    "seed": 1350006,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.1825148385250941,
+    "C_event_ms": 0.13452693273623784,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350006",
+    "seed": 1350006,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09146153461188078,
+    "C_event_ms": 0.024900266559173663,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350006",
+    "seed": 1350006,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09953530291871478,
+    "C_event_ms": 0.021221333470505973,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350007",
+    "seed": 1350007,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.19216543393364796,
+    "C_event_ms": 0.1330261339743932,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350007",
+    "seed": 1350007,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10129029881985237,
+    "C_event_ms": 0.04209066660453876,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350007",
+    "seed": 1350007,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09549083382201691,
+    "C_event_ms": 0.019316266966052355,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350008",
+    "seed": 1350008,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.2240105988069748,
+    "C_event_ms": 0.14486826633413633,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350008",
+    "seed": 1350008,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0776302651502192,
+    "C_event_ms": 0.019491199993838866,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350008",
+    "seed": 1350008,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08986150011575471,
+    "C_event_ms": 0.020430933288298547,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350009",
+    "seed": 1350009,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.19829517016963413,
+    "C_event_ms": 0.13034773444135983,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350009",
+    "seed": 1350009,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07707593225253125,
+    "C_event_ms": 0.01751040012265245,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350009",
+    "seed": 1350009,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07690069905947894,
+    "C_event_ms": 0.019857066629144052,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350010",
+    "seed": 1350010,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.18097953870892525,
+    "C_event_ms": 0.13276800016562143,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350010",
+    "seed": 1350010,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08543486377069105,
+    "C_event_ms": 0.024275200084472696,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350010",
+    "seed": 1350010,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09824993030633777,
+    "C_event_ms": 0.02901226612739265,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350011",
+    "seed": 1350011,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.20654556962351003,
+    "C_event_ms": 0.1416490671535333,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350011",
+    "seed": 1350011,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0699974635305504,
+    "C_event_ms": 0.022097066634645064,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350011",
+    "seed": 1350011,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0680841689851756,
+    "C_event_ms": 0.017408000072464347,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350012",
+    "seed": 1350012,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.20112516940571368,
+    "C_event_ms": 0.1455125336845716,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350012",
+    "seed": 1350012,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0880060998800521,
+    "C_event_ms": 0.02534186691045761,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350012",
+    "seed": 1350012,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07358376557628314,
+    "C_event_ms": 0.01735679990767191,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350013",
+    "seed": 1350013,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.19531839546592286,
+    "C_event_ms": 0.1378666656712691,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350013",
+    "seed": 1350013,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09117703205750634,
+    "C_event_ms": 0.024508800264447926,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350013",
+    "seed": 1350013,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08609543341056754,
+    "C_event_ms": 0.02543253320424507,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350014",
+    "seed": 1350014,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.1969930347210417,
+    "C_event_ms": 0.13529813289642334,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350014",
+    "seed": 1350014,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0941541346643741,
+    "C_event_ms": 0.027899733309944472,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350014",
+    "seed": 1350014,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08000776385112356,
+    "C_event_ms": 0.018347733188420534,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350015",
+    "seed": 1350015,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.19383600156288594,
+    "C_event_ms": 0.13551466688513755,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350015",
+    "seed": 1350015,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08383600312906007,
+    "C_event_ms": 0.022189866953218975,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350015",
+    "seed": 1350015,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06614119920413941,
+    "C_event_ms": 0.015201066892283658,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350016",
+    "seed": 1350016,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.1980083635620152,
+    "C_event_ms": 0.13978559946020444,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350016",
+    "seed": 1350016,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09037150108876328,
+    "C_event_ms": 0.034598399760822456,
+    "quotas_equal": true
+  },
+  {
+    "P": 16,
+    "state_id": "p16-source_skew-1350016",
+    "seed": 1350016,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09100303383699308,
+    "C_event_ms": 0.02842560001493742,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350001",
+    "seed": 1350001,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.23220656536674747,
+    "C_event_ms": 0.1807754670580228,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350001",
+    "seed": 1350001,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09887983518031736,
+    "C_event_ms": 0.021561599848791958,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350001",
+    "seed": 1350001,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.15113226642521718,
+    "C_event_ms": 0.021724800020456313,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350002",
+    "seed": 1350002,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.241210469782042,
+    "C_event_ms": 0.17367786765098572,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350002",
+    "seed": 1350002,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.12024716706946492,
+    "C_event_ms": 0.03299093352009853,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350002",
+    "seed": 1350002,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10279529766800503,
+    "C_event_ms": 0.027104000002145766,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350003",
+    "seed": 1350003,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.22665903767726073,
+    "C_event_ms": 0.1687925323843956,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350003",
+    "seed": 1350003,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10469646464722852,
+    "C_event_ms": 0.02803520009232064,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350003",
+    "seed": 1350003,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08465496745581429,
+    "C_event_ms": 0.025673600022370617,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350004",
+    "seed": 1350004,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.23363320506177843,
+    "C_event_ms": 0.16155200004577636,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350004",
+    "seed": 1350004,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0751530344132334,
+    "C_event_ms": 0.017948799952864646,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350004",
+    "seed": 1350004,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08308506803587079,
+    "C_event_ms": 0.030100267038991053,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350005",
+    "seed": 1350005,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.23801519710104913,
+    "C_event_ms": 0.1646165336171786,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350005",
+    "seed": 1350005,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08899703777084748,
+    "C_event_ms": 0.026507733607043824,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350005",
+    "seed": 1350005,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08928709818671147,
+    "C_event_ms": 0.02569386645530661,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350006",
+    "seed": 1350006,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.21709966143437973,
+    "C_event_ms": 0.16666880001624426,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350006",
+    "seed": 1350006,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08474226827577998,
+    "C_event_ms": 0.030145066790282726,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350006",
+    "seed": 1350006,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07230980166544516,
+    "C_event_ms": 0.012179200118407608,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350007",
+    "seed": 1350007,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.2219926983040447,
+    "C_event_ms": 0.1670965348680814,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350007",
+    "seed": 1350007,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.06859003818438698,
+    "C_event_ms": 0.018198399959752958,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350007",
+    "seed": 1350007,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08012026664800942,
+    "C_event_ms": 0.02650026634801179,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350008",
+    "seed": 1350008,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.22871413287551454,
+    "C_event_ms": 0.16085866739352545,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350008",
+    "seed": 1350008,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0816059357021004,
+    "C_event_ms": 0.021121066653480132,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350008",
+    "seed": 1350008,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08438413400047769,
+    "C_event_ms": 0.017785600014030935,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350009",
+    "seed": 1350009,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.22387316760917506,
+    "C_event_ms": 0.1681130647659302,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350009",
+    "seed": 1350009,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07710853145302583,
+    "C_event_ms": 0.02754239977026979,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350009",
+    "seed": 1350009,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08512459656534095,
+    "C_event_ms": 0.02869653331581503,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350010",
+    "seed": 1350010,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.2220951001315067,
+    "C_event_ms": 0.16132693390051525,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350010",
+    "seed": 1350010,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1026344010218357,
+    "C_event_ms": 0.02655360004864633,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350010",
+    "seed": 1350010,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07324710119670878,
+    "C_event_ms": 0.023586133448407053,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350011",
+    "seed": 1350011,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.21874113202405474,
+    "C_event_ms": 0.16239893237749736,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350011",
+    "seed": 1350011,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07564206801665325,
+    "C_event_ms": 0.026005333196371792,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350011",
+    "seed": 1350011,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08517539924165855,
+    "C_event_ms": 0.020180266715275744,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350012",
+    "seed": 1350012,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.2207221007362629,
+    "C_event_ms": 0.16826453407605488,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350012",
+    "seed": 1350012,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09631020269201447,
+    "C_event_ms": 0.03992533298830191,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350012",
+    "seed": 1350012,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07976700435392559,
+    "C_event_ms": 0.030018133483827113,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350013",
+    "seed": 1350013,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.2576951335261886,
+    "C_event_ms": 0.16171840131282805,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350013",
+    "seed": 1350013,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.12655247022242597,
+    "C_event_ms": 0.03152640035065512,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350013",
+    "seed": 1350013,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11776356647411983,
+    "C_event_ms": 0.045286400243639946,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350014",
+    "seed": 1350014,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.23708313625926772,
+    "C_event_ms": 0.17043519914150237,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350014",
+    "seed": 1350014,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09457456762902439,
+    "C_event_ms": 0.022521599816779297,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350014",
+    "seed": 1350014,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09000043307120602,
+    "C_event_ms": 0.02645119990532597,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350015",
+    "seed": 1350015,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.24998572965463003,
+    "C_event_ms": 0.17214293479919435,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350015",
+    "seed": 1350015,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10116587024337302,
+    "C_event_ms": 0.036122667323797944,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350015",
+    "seed": 1350015,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09923560040382047,
+    "C_event_ms": 0.021224533130104344,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350016",
+    "seed": 1350016,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.22425693168770522,
+    "C_event_ms": 0.16142080028851827,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350016",
+    "seed": 1350016,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11864406696986407,
+    "C_event_ms": 0.031265067076310514,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-balanced-1350016",
+    "seed": 1350016,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08016979651680838,
+    "C_event_ms": 0.017998933388541142,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350001",
+    "seed": 1350001,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.2521954331314191,
+    "C_event_ms": 0.16478826800982158,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350001",
+    "seed": 1350001,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11621709660782169,
+    "C_event_ms": 0.039284266314158836,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350001",
+    "seed": 1350001,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10583463202541073,
+    "C_event_ms": 0.026170666430455944,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350002",
+    "seed": 1350002,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.23150523290193328,
+    "C_event_ms": 0.16329706559578577,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350002",
+    "seed": 1350002,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07738843560218811,
+    "C_event_ms": 0.02025066651403904,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350002",
+    "seed": 1350002,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08357229720180233,
+    "C_event_ms": 0.018697599950246512,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350003",
+    "seed": 1350003,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.23662609358628592,
+    "C_event_ms": 0.16060586671034496,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350003",
+    "seed": 1350003,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09606273185151319,
+    "C_event_ms": 0.02654613321647048,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350003",
+    "seed": 1350003,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11293670007338126,
+    "C_event_ms": 0.026779733256747325,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350004",
+    "seed": 1350004,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.2242995979031548,
+    "C_event_ms": 0.1637514665722847,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350004",
+    "seed": 1350004,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08638193151758362,
+    "C_event_ms": 0.02365333360309402,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350004",
+    "seed": 1350004,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10583650243158142,
+    "C_event_ms": 0.023316266542921463,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350005",
+    "seed": 1350005,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.23797393466035524,
+    "C_event_ms": 0.16733546555042267,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350005",
+    "seed": 1350005,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10177256675281872,
+    "C_event_ms": 0.02122133333856861,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350005",
+    "seed": 1350005,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10752256397002687,
+    "C_event_ms": 0.02308159996755421,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350006",
+    "seed": 1350006,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.23306970057698587,
+    "C_event_ms": 0.16657919883728028,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350006",
+    "seed": 1350006,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09592819551471621,
+    "C_event_ms": 0.018203733256086707,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350006",
+    "seed": 1350006,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0782662342923383,
+    "C_event_ms": 0.014666666641520958,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350007",
+    "seed": 1350007,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.26856383386378485,
+    "C_event_ms": 0.19509119888146717,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350007",
+    "seed": 1350007,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10700950127405424,
+    "C_event_ms": 0.02525013340637088,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350007",
+    "seed": 1350007,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0890296350310867,
+    "C_event_ms": 0.0153493334306404,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350008",
+    "seed": 1350008,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.24679170067732534,
+    "C_event_ms": 0.16019306431214014,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350008",
+    "seed": 1350008,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10026470117736608,
+    "C_event_ms": 0.02944213350613912,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350008",
+    "seed": 1350008,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08859846663350861,
+    "C_event_ms": 0.028438399825245143,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350009",
+    "seed": 1350009,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.24799223465379328,
+    "C_event_ms": 0.17136106689771016,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350009",
+    "seed": 1350009,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08982813063388069,
+    "C_event_ms": 0.020460799833138785,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350009",
+    "seed": 1350009,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.1127126655774191,
+    "C_event_ms": 0.026951466818961003,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350010",
+    "seed": 1350010,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.22071736748330295,
+    "C_event_ms": 0.16103146622578304,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350010",
+    "seed": 1350010,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10831937252078205,
+    "C_event_ms": 0.024889600090682508,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350010",
+    "seed": 1350010,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09211343519079189,
+    "C_event_ms": 0.023473067147036394,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350011",
+    "seed": 1350011,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.23539340084729096,
+    "C_event_ms": 0.16821119884649913,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350011",
+    "seed": 1350011,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09408426509859662,
+    "C_event_ms": 0.02749760003450016,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350011",
+    "seed": 1350011,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10319646583714832,
+    "C_event_ms": 0.022105599660426377,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350012",
+    "seed": 1350012,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.23373616859316826,
+    "C_event_ms": 0.16231039961179097,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350012",
+    "seed": 1350012,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10862023239800085,
+    "C_event_ms": 0.018247466503332057,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350012",
+    "seed": 1350012,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08045036811381578,
+    "C_event_ms": 0.017452800010020534,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350013",
+    "seed": 1350013,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.23731506953481585,
+    "C_event_ms": 0.16040319899717967,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350013",
+    "seed": 1350013,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10790346811215083,
+    "C_event_ms": 0.013738666707649828,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350013",
+    "seed": 1350013,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09102013330751409,
+    "C_event_ms": 0.01215573331185927,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350014",
+    "seed": 1350014,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.22370746495046964,
+    "C_event_ms": 0.1606154665350914,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350014",
+    "seed": 1350014,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0877903017681092,
+    "C_event_ms": 0.013566933308417599,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350014",
+    "seed": 1350014,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07360513651898752,
+    "C_event_ms": 0.018948266686250766,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350015",
+    "seed": 1350015,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.22751569631509483,
+    "C_event_ms": 0.16541440039873123,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350015",
+    "seed": 1350015,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09852123136321704,
+    "C_event_ms": 0.030614400406678517,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350015",
+    "seed": 1350015,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08337690281526496,
+    "C_event_ms": 0.01950613329342256,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350016",
+    "seed": 1350016,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.24648490361869335,
+    "C_event_ms": 0.18107946713765463,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350016",
+    "seed": 1350016,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10440973176931341,
+    "C_event_ms": 0.030841600134347877,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-1350016",
+    "seed": 1350016,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08969893290971716,
+    "C_event_ms": 0.02393066678196192,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350001",
+    "seed": 1350001,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.24154309940058738,
+    "C_event_ms": 0.1621301328142484,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350001",
+    "seed": 1350001,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10099726884315412,
+    "C_event_ms": 0.025879466688881317,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350001",
+    "seed": 1350001,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0895949313417077,
+    "C_event_ms": 0.026720000136022767,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350002",
+    "seed": 1350002,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.23937656951602548,
+    "C_event_ms": 0.16696533411741257,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350002",
+    "seed": 1350002,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09471069788560271,
+    "C_event_ms": 0.016322133348633847,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350002",
+    "seed": 1350002,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09096266779427727,
+    "C_event_ms": 0.010057599966724713,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350003",
+    "seed": 1350003,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.24482656832939634,
+    "C_event_ms": 0.17173866679271063,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350003",
+    "seed": 1350003,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09341220235607277,
+    "C_event_ms": 0.025736532857020697,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350003",
+    "seed": 1350003,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08071443783895423,
+    "C_event_ms": 0.01601599998927365,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350004",
+    "seed": 1350004,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.2627832378493622,
+    "C_event_ms": 0.1831552008787791,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350004",
+    "seed": 1350004,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10715263391224046,
+    "C_event_ms": 0.015443200059235097,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350004",
+    "seed": 1350004,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0906045645630608,
+    "C_event_ms": 0.013236266537569463,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350005",
+    "seed": 1350005,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.23755309715246162,
+    "C_event_ms": 0.16365439941485724,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350005",
+    "seed": 1350005,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0813755012738208,
+    "C_event_ms": 0.018826666629562776,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350005",
+    "seed": 1350005,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08377230357533942,
+    "C_event_ms": 0.014398933465903005,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350006",
+    "seed": 1350006,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.24528470142589262,
+    "C_event_ms": 0.1771157329281171,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350006",
+    "seed": 1350006,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09244720082885276,
+    "C_event_ms": 0.025107199838384987,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350006",
+    "seed": 1350006,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0744980633802091,
+    "C_event_ms": 0.020268799861272176,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350007",
+    "seed": 1350007,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.2201851001397396,
+    "C_event_ms": 0.16201173464457194,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350007",
+    "seed": 1350007,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0697120694288363,
+    "C_event_ms": 0.020327466602126757,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350007",
+    "seed": 1350007,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07280923212723185,
+    "C_event_ms": 0.01991786677390337,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350008",
+    "seed": 1350008,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.2111926965881139,
+    "C_event_ms": 0.16026879946390787,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350008",
+    "seed": 1350008,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07117436713694285,
+    "C_event_ms": 0.025956266776969036,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350008",
+    "seed": 1350008,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0723840018811946,
+    "C_event_ms": 0.016483199906845887,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350009",
+    "seed": 1350009,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.27439366579831886,
+    "C_event_ms": 0.19311360021432242,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350009",
+    "seed": 1350009,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.12511999908989915,
+    "C_event_ms": 0.028374399881189068,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350009",
+    "seed": 1350009,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09460303602584948,
+    "C_event_ms": 0.025314133117596307,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350010",
+    "seed": 1350010,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.23203966460035494,
+    "C_event_ms": 0.16370559930801393,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350010",
+    "seed": 1350010,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.15257763346501937,
+    "C_event_ms": 0.023933866433799265,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350010",
+    "seed": 1350010,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10943982924800366,
+    "C_event_ms": 0.016613333447215457,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350011",
+    "seed": 1350011,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.22932889696676284,
+    "C_event_ms": 0.16903466681639354,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350011",
+    "seed": 1350011,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09401210021072377,
+    "C_event_ms": 0.04096000005180637,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350011",
+    "seed": 1350011,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06056143611203879,
+    "C_event_ms": 0.01510506666575869,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350012",
+    "seed": 1350012,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.2231225361659502,
+    "C_event_ms": 0.16104853401581445,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350012",
+    "seed": 1350012,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08217903280941148,
+    "C_event_ms": 0.02653973385070761,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350012",
+    "seed": 1350012,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09468956656443576,
+    "C_event_ms": 0.025034666744371256,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350013",
+    "seed": 1350013,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.23968646710272878,
+    "C_event_ms": 0.18580373326937358,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350013",
+    "seed": 1350013,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10464500131395955,
+    "C_event_ms": 0.04062506649643183,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350013",
+    "seed": 1350013,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10014813257536541,
+    "C_event_ms": 0.03724160039176543,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350014",
+    "seed": 1350014,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.21708023268729448,
+    "C_event_ms": 0.16319786657889684,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350014",
+    "seed": 1350014,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08844280188592772,
+    "C_event_ms": 0.02309333359201749,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350014",
+    "seed": 1350014,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06628853928608198,
+    "C_event_ms": 0.013109333269918958,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350015",
+    "seed": 1350015,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.2413793011025215,
+    "C_event_ms": 0.17906133234500884,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350015",
+    "seed": 1350015,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09579416655469686,
+    "C_event_ms": 0.028123733308166265,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350015",
+    "seed": 1350015,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08796389932588984,
+    "C_event_ms": 0.03779306678722302,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350016",
+    "seed": 1350016,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.23567299940623343,
+    "C_event_ms": 0.16210239976644517,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350016",
+    "seed": 1350016,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08673903357703239,
+    "C_event_ms": 0.02454079988723,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-node_local-1350016",
+    "seed": 1350016,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07804916531313211,
+    "C_event_ms": 0.017500800002987187,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350001",
+    "seed": 1350001,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.32711763536402333,
+    "C_event_ms": 0.1853024015824,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350001",
+    "seed": 1350001,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.15256040205713362,
+    "C_event_ms": 0.04422399982189139,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350001",
+    "seed": 1350001,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.16044963073606291,
+    "C_event_ms": 0.02143253298321118,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350002",
+    "seed": 1350002,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.23943572984232256,
+    "C_event_ms": 0.1706272006034851,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350002",
+    "seed": 1350002,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0998258707113564,
+    "C_event_ms": 0.02454613335430622,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350002",
+    "seed": 1350002,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10694573575165123,
+    "C_event_ms": 0.02570560008753091,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350003",
+    "seed": 1350003,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.24887957066918412,
+    "C_event_ms": 0.17253439923127492,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350003",
+    "seed": 1350003,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11020280071534216,
+    "C_event_ms": 0.046322133174786964,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350003",
+    "seed": 1350003,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10682953191765894,
+    "C_event_ms": 0.03602239987036834,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350004",
+    "seed": 1350004,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.3050481619235749,
+    "C_event_ms": 0.17724906702836354,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350004",
+    "seed": 1350004,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11593976717752714,
+    "C_event_ms": 0.022655999877800544,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350004",
+    "seed": 1350004,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11646620017321159,
+    "C_event_ms": 0.017170133395120503,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350005",
+    "seed": 1350005,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.2462334290612489,
+    "C_event_ms": 0.16647786647081375,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350005",
+    "seed": 1350005,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.12178253285431613,
+    "C_event_ms": 0.04009386676674088,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350005",
+    "seed": 1350005,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10679253803876539,
+    "C_event_ms": 0.029576533186870316,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350006",
+    "seed": 1350006,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.22497896764737865,
+    "C_event_ms": 0.17049493094285328,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350006",
+    "seed": 1350006,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08039816457312554,
+    "C_event_ms": 0.026939733233302832,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350006",
+    "seed": 1350006,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0689537642756477,
+    "C_event_ms": 0.025187200012927253,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350007",
+    "seed": 1350007,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.22946230116455504,
+    "C_event_ms": 0.1705002670486768,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350007",
+    "seed": 1350007,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10728769896862407,
+    "C_event_ms": 0.023691733616093794,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350007",
+    "seed": 1350007,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09242516825906932,
+    "C_event_ms": 0.02717333318820844,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350008",
+    "seed": 1350008,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.23494522999196002,
+    "C_event_ms": 0.17310719986756642,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350008",
+    "seed": 1350008,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09776992859163632,
+    "C_event_ms": 0.0386037333868444,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350008",
+    "seed": 1350008,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11441963142715394,
+    "C_event_ms": 0.044349866756238046,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350009",
+    "seed": 1350009,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.2295439636024336,
+    "C_event_ms": 0.1695391997694969,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350009",
+    "seed": 1350009,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09962616895791143,
+    "C_event_ms": 0.02833493323996663,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350009",
+    "seed": 1350009,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0636103000336637,
+    "C_event_ms": 0.015726933364445965,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350010",
+    "seed": 1350010,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.2779071335680783,
+    "C_event_ms": 0.19665066599845887,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350010",
+    "seed": 1350010,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09828843661428739,
+    "C_event_ms": 0.03126719994470477,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350010",
+    "seed": 1350010,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08770893133866291,
+    "C_event_ms": 0.026975999912247063,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350011",
+    "seed": 1350011,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.2683764643734321,
+    "C_event_ms": 0.20022826691468557,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350011",
+    "seed": 1350011,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.13743729893273363,
+    "C_event_ms": 0.047492267284542325,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350011",
+    "seed": 1350011,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10136349883396178,
+    "C_event_ms": 0.026990933141981564,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350012",
+    "seed": 1350012,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.3213742020307109,
+    "C_event_ms": 0.21859946846961975,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350012",
+    "seed": 1350012,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.15239913288193443,
+    "C_event_ms": 0.05318506648764014,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350012",
+    "seed": 1350012,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.12468246568460017,
+    "C_event_ms": 0.047735466777036585,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350013",
+    "seed": 1350013,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.20602530081911632,
+    "C_event_ms": 0.16068479816118877,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350013",
+    "seed": 1350013,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07056589820422232,
+    "C_event_ms": 0.01875946673875054,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350013",
+    "seed": 1350013,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07775589959540714,
+    "C_event_ms": 0.01658133352175355,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350014",
+    "seed": 1350014,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.23298203013837337,
+    "C_event_ms": 0.1728597342967987,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350014",
+    "seed": 1350014,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07982462896810223,
+    "C_event_ms": 0.03142400008315841,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350014",
+    "seed": 1350014,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0813136362315466,
+    "C_event_ms": 0.02035946670609216,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350015",
+    "seed": 1350015,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.24062273441813886,
+    "C_event_ms": 0.17626666724681855,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350015",
+    "seed": 1350015,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08416646839274715,
+    "C_event_ms": 0.0236544000916183,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350015",
+    "seed": 1350015,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08090280074005325,
+    "C_event_ms": 0.028752000148718555,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350016",
+    "seed": 1350016,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.2383263015265887,
+    "C_event_ms": 0.1621728003025055,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350016",
+    "seed": 1350016,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09356270311400294,
+    "C_event_ms": 0.021220266756912073,
+    "quotas_equal": true
+  },
+  {
+    "P": 32,
+    "state_id": "p32-source_skew-1350016",
+    "seed": 1350016,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07118519861251116,
+    "C_event_ms": 0.016668800078332425,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350001",
+    "seed": 1350001,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.35516386560630053,
+    "C_event_ms": 0.2626271997888883,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350001",
+    "seed": 1350001,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1482620311435312,
+    "C_event_ms": 0.03814079975709319,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350001",
+    "seed": 1350001,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.17244926517984518,
+    "C_event_ms": 0.08256533266200373,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350002",
+    "seed": 1350002,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.3195144672645256,
+    "C_event_ms": 0.23878826747337978,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350002",
+    "seed": 1350002,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11034390093603481,
+    "C_event_ms": 0.03242240029697617,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350002",
+    "seed": 1350002,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08720019929266225,
+    "C_event_ms": 0.02616853310416142,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350003",
+    "seed": 1350003,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.33740603442614275,
+    "C_event_ms": 0.2515029345949491,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350003",
+    "seed": 1350003,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11257173318881541,
+    "C_event_ms": 0.039012266757587594,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350003",
+    "seed": 1350003,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11918920111687233,
+    "C_event_ms": 0.03602133315677444,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350004",
+    "seed": 1350004,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.3205115334518875,
+    "C_event_ms": 0.23904746621847153,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350004",
+    "seed": 1350004,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1069384675550585,
+    "C_event_ms": 0.02535146667311589,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350004",
+    "seed": 1350004,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09368079966710259,
+    "C_event_ms": 0.016005333287951846,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350005",
+    "seed": 1350005,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.3231646347558126,
+    "C_event_ms": 0.2585173323750496,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350005",
+    "seed": 1350005,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11555116507224739,
+    "C_event_ms": 0.03077013328050574,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350005",
+    "seed": 1350005,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09432750133176644,
+    "C_event_ms": 0.013086933301140864,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350006",
+    "seed": 1350006,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.30652386679624516,
+    "C_event_ms": 0.24740373194217682,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350006",
+    "seed": 1350006,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0861509363555039,
+    "C_event_ms": 0.01907306658104062,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350006",
+    "seed": 1350006,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09537646643972646,
+    "C_event_ms": 0.026778666558675467,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350007",
+    "seed": 1350007,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.3232723354206731,
+    "C_event_ms": 0.2568042660752932,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350007",
+    "seed": 1350007,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09633963151524465,
+    "C_event_ms": 0.02651200002680222,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350007",
+    "seed": 1350007,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11090259649790823,
+    "C_event_ms": 0.045000532556635636,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350008",
+    "seed": 1350008,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.3427368646953255,
+    "C_event_ms": 0.25804799993832905,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350008",
+    "seed": 1350008,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11282356766362985,
+    "C_event_ms": 0.03899840014055371,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350008",
+    "seed": 1350008,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.12913916919690868,
+    "C_event_ms": 0.040481065904411175,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350009",
+    "seed": 1350009,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.3165528003592044,
+    "C_event_ms": 0.24813013325134914,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350009",
+    "seed": 1350009,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1009938675755014,
+    "C_event_ms": 0.028740266586343446,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350009",
+    "seed": 1350009,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0978598982328549,
+    "C_event_ms": 0.025157333367193738,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350010",
+    "seed": 1350010,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.3318429032030205,
+    "C_event_ms": 0.25012693256139756,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350010",
+    "seed": 1350010,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08846710455448677,
+    "C_event_ms": 0.027301333223779995,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350010",
+    "seed": 1350010,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09349313331767917,
+    "C_event_ms": 0.02143786660550783,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350011",
+    "seed": 1350011,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.4374793332923825,
+    "C_event_ms": 0.33796266466379166,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350011",
+    "seed": 1350011,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.14379380057410648,
+    "C_event_ms": 0.0222016000499328,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350011",
+    "seed": 1350011,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.13424946616093317,
+    "C_event_ms": 0.0250730667108049,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350012",
+    "seed": 1350012,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.32492439980463433,
+    "C_event_ms": 0.2629813303550084,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350012",
+    "seed": 1350012,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10047076890865962,
+    "C_event_ms": 0.036359466643383104,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350012",
+    "seed": 1350012,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08973526516153167,
+    "C_event_ms": 0.024295466393232344,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350013",
+    "seed": 1350013,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.3373647021362558,
+    "C_event_ms": 0.2643317341804504,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350013",
+    "seed": 1350013,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10766326546824227,
+    "C_event_ms": 0.03827946623787284,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350013",
+    "seed": 1350013,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10568266928506394,
+    "C_event_ms": 0.018747733261746665,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350014",
+    "seed": 1350014,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.3368947693767647,
+    "C_event_ms": 0.24705706536769867,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350014",
+    "seed": 1350014,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10424253220359485,
+    "C_event_ms": 0.029369599899897972,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350014",
+    "seed": 1350014,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11019529677772273,
+    "C_event_ms": 0.0354528003372252,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350015",
+    "seed": 1350015,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.32236720144283026,
+    "C_event_ms": 0.2641439974308014,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350015",
+    "seed": 1350015,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1328553664886082,
+    "C_event_ms": 0.047350400251646836,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350015",
+    "seed": 1350015,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11261053732596338,
+    "C_event_ms": 0.038157865932832165,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350016",
+    "seed": 1350016,
+    "family": "balanced",
+    "arm": "gnn4",
+    "C_ms": 0.3884085366735235,
+    "C_event_ms": 0.27804800122976303,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350016",
+    "seed": 1350016,
+    "family": "balanced",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1380099963474398,
+    "C_event_ms": 0.040587733251353106,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-balanced-1350016",
+    "seed": 1350016,
+    "family": "balanced",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.12008776539005339,
+    "C_event_ms": 0.017565866544221837,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350001",
+    "seed": 1350001,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.31323336297646165,
+    "C_event_ms": 0.24827199975649517,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350001",
+    "seed": 1350001,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11401756297952186,
+    "C_event_ms": 0.032530133488277595,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350001",
+    "seed": 1350001,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09503530357809116,
+    "C_event_ms": 0.018495999975129962,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350002",
+    "seed": 1350002,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.33198070304933935,
+    "C_event_ms": 0.24667093356450398,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350002",
+    "seed": 1350002,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11415106904072066,
+    "C_event_ms": 0.02799466655900081,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350002",
+    "seed": 1350002,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08961053487534325,
+    "C_event_ms": 0.018689066621785363,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350003",
+    "seed": 1350003,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.3146812688404073,
+    "C_event_ms": 0.2492063989241918,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350003",
+    "seed": 1350003,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10375769925303757,
+    "C_event_ms": 0.03371413347000877,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350003",
+    "seed": 1350003,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09696743509266526,
+    "C_event_ms": 0.022993066619771223,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350004",
+    "seed": 1350004,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.31703163501030457,
+    "C_event_ms": 0.24587413320938747,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350004",
+    "seed": 1350004,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1259745661324511,
+    "C_event_ms": 0.03170986684660117,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350004",
+    "seed": 1350004,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11626800017741819,
+    "C_event_ms": 0.027097599852519732,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350005",
+    "seed": 1350005,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.3361221684220557,
+    "C_event_ms": 0.26000426659981407,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350005",
+    "seed": 1350005,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.14654263213742524,
+    "C_event_ms": 0.044786133089413246,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350005",
+    "seed": 1350005,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.106827198760584,
+    "C_event_ms": 0.021068800318365295,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350006",
+    "seed": 1350006,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.36564143374562263,
+    "C_event_ms": 0.26297706365585327,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350006",
+    "seed": 1350006,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.13694006969065717,
+    "C_event_ms": 0.0615402660643061,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350006",
+    "seed": 1350006,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.12695999854865173,
+    "C_event_ms": 0.04975679962274929,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350007",
+    "seed": 1350007,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.37252559947470826,
+    "C_event_ms": 0.25167786528666813,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350007",
+    "seed": 1350007,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.12506350176408887,
+    "C_event_ms": 0.03501760012780627,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350007",
+    "seed": 1350007,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11147373297717422,
+    "C_event_ms": 0.029436799798471233,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350008",
+    "seed": 1350008,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.3461817987651254,
+    "C_event_ms": 0.2530954668919245,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350008",
+    "seed": 1350008,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.14371739816851914,
+    "C_event_ms": 0.0360512001439929,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350008",
+    "seed": 1350008,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.14694947167299688,
+    "C_event_ms": 0.03979946666707595,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350009",
+    "seed": 1350009,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.3634347007997955,
+    "C_event_ms": 0.25481280038754145,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350009",
+    "seed": 1350009,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1500080650051435,
+    "C_event_ms": 0.052860799990594384,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350009",
+    "seed": 1350009,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.130049434180061,
+    "C_event_ms": 0.013439999994200964,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350010",
+    "seed": 1350010,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.3276707003048311,
+    "C_event_ms": 0.2587029352784157,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350010",
+    "seed": 1350010,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0964769336860627,
+    "C_event_ms": 0.03518720020850499,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350010",
+    "seed": 1350010,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09474826608008395,
+    "C_event_ms": 0.024165333489266534,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350011",
+    "seed": 1350011,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.33279126704049605,
+    "C_event_ms": 0.25152320017417273,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350011",
+    "seed": 1350011,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.12471773176609229,
+    "C_event_ms": 0.03166613318026066,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350011",
+    "seed": 1350011,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10925073293037713,
+    "C_event_ms": 0.034408533262709776,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350012",
+    "seed": 1350012,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.3386838672061761,
+    "C_event_ms": 0.24934293180704117,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350012",
+    "seed": 1350012,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.12175749870948493,
+    "C_event_ms": 0.050844800254950924,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350012",
+    "seed": 1350012,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.13628643549357852,
+    "C_event_ms": 0.020824533328413962,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350013",
+    "seed": 1350013,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.3304354031570256,
+    "C_event_ms": 0.25995520055294036,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350013",
+    "seed": 1350013,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.12474853040960927,
+    "C_event_ms": 0.025761066811780135,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350013",
+    "seed": 1350013,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11251006411233296,
+    "C_event_ms": 0.020915200056818625,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350014",
+    "seed": 1350014,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.46742866397835314,
+    "C_event_ms": 0.3809408033887545,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350014",
+    "seed": 1350014,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.12044846759332965,
+    "C_event_ms": 0.02583146650965015,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350014",
+    "seed": 1350014,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11905880237463862,
+    "C_event_ms": 0.027511466519596676,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350015",
+    "seed": 1350015,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.3192090642793725,
+    "C_event_ms": 0.2429216002424558,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350015",
+    "seed": 1350015,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0880284293089062,
+    "C_event_ms": 0.023901866717884936,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350015",
+    "seed": 1350015,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09079569911894698,
+    "C_event_ms": 0.01978240014674763,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350016",
+    "seed": 1350016,
+    "family": "global_hotspot",
+    "arm": "gnn4",
+    "C_ms": 0.35481186835871387,
+    "C_event_ms": 0.2607263992230097,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350016",
+    "seed": 1350016,
+    "family": "global_hotspot",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.15840913304903856,
+    "C_event_ms": 0.06867413294191162,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-1350016",
+    "seed": 1350016,
+    "family": "global_hotspot",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10868300062914689,
+    "C_event_ms": 0.024444799854730567,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350001",
+    "seed": 1350001,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.3243630674357216,
+    "C_event_ms": 0.24709226687749228,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350001",
+    "seed": 1350001,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.12490793014876544,
+    "C_event_ms": 0.025299199763685463,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350001",
+    "seed": 1350001,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11940139714473237,
+    "C_event_ms": 0.02151893355573217,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350002",
+    "seed": 1350002,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.31477429923446226,
+    "C_event_ms": 0.24277333170175552,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350002",
+    "seed": 1350002,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10600983223412186,
+    "C_event_ms": 0.022786133363842963,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350002",
+    "seed": 1350002,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10685736391072471,
+    "C_event_ms": 0.021785600079844394,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350003",
+    "seed": 1350003,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.33922140234305215,
+    "C_event_ms": 0.24871466507514317,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350003",
+    "seed": 1350003,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10407669566726933,
+    "C_event_ms": 0.023226666698853173,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350003",
+    "seed": 1350003,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0912956369575113,
+    "C_event_ms": 0.017859200038947164,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350004",
+    "seed": 1350004,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.32606486735555035,
+    "C_event_ms": 0.24769066721200944,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350004",
+    "seed": 1350004,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1173204315515856,
+    "C_event_ms": 0.02978666638955474,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350004",
+    "seed": 1350004,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08768373227212578,
+    "C_event_ms": 0.017645866493694484,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350005",
+    "seed": 1350005,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.3298768007274096,
+    "C_event_ms": 0.24850880006949108,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350005",
+    "seed": 1350005,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11835489810133974,
+    "C_event_ms": 0.032501333331068354,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350005",
+    "seed": 1350005,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.12475419983578225,
+    "C_event_ms": 0.03435626633775731,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350006",
+    "seed": 1350006,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.3167899005347863,
+    "C_event_ms": 0.24817920078833897,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350006",
+    "seed": 1350006,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09599756643486519,
+    "C_event_ms": 0.02560746679082513,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350006",
+    "seed": 1350006,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10063869898052265,
+    "C_event_ms": 0.01653653336688876,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350007",
+    "seed": 1350007,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.3278943331679329,
+    "C_event_ms": 0.2550762658317884,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350007",
+    "seed": 1350007,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09187133497713755,
+    "C_event_ms": 0.0243797332358857,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350007",
+    "seed": 1350007,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09667029759536187,
+    "C_event_ms": 0.02651946657182028,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350008",
+    "seed": 1350008,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.33317160268779844,
+    "C_event_ms": 0.2673685337106387,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350008",
+    "seed": 1350008,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10485109717895587,
+    "C_event_ms": 0.032582400180399415,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350008",
+    "seed": 1350008,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.12792709943217537,
+    "C_event_ms": 0.03440319973354538,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350009",
+    "seed": 1350009,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.3285739677570139,
+    "C_event_ms": 0.24925973465045292,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350009",
+    "seed": 1350009,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.102781531556199,
+    "C_event_ms": 0.028045866296937068,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350009",
+    "seed": 1350009,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09352006406212847,
+    "C_event_ms": 0.02704533311383178,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350010",
+    "seed": 1350010,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.3121222010425602,
+    "C_event_ms": 0.24328853289286295,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350010",
+    "seed": 1350010,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08579883239387225,
+    "C_event_ms": 0.02290453330303232,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350010",
+    "seed": 1350010,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08100066431021939,
+    "C_event_ms": 0.014344533307788272,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350011",
+    "seed": 1350011,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.3339181692960362,
+    "C_event_ms": 0.24640106757481892,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350011",
+    "seed": 1350011,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.12333489721640944,
+    "C_event_ms": 0.04714773294205467,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350011",
+    "seed": 1350011,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10604003036860377,
+    "C_event_ms": 0.02975573337947329,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350012",
+    "seed": 1350012,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.32314120423203957,
+    "C_event_ms": 0.25591786702473956,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350012",
+    "seed": 1350012,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11640706507023424,
+    "C_event_ms": 0.03364159989481171,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350012",
+    "seed": 1350012,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.12334909988567233,
+    "C_event_ms": 0.024101333405512074,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350013",
+    "seed": 1350013,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.33474299998488277,
+    "C_event_ms": 0.24475306669871014,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350013",
+    "seed": 1350013,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.13026760425418615,
+    "C_event_ms": 0.04233173355460167,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350013",
+    "seed": 1350013,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11008043366018683,
+    "C_event_ms": 0.025218133178229133,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350014",
+    "seed": 1350014,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.39643592802652466,
+    "C_event_ms": 0.2793471982081731,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350014",
+    "seed": 1350014,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.15580073619882265,
+    "C_event_ms": 0.03670506682246923,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350014",
+    "seed": 1350014,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.1437871678111454,
+    "C_event_ms": 0.0422218659427017,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350015",
+    "seed": 1350015,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.3180933980426441,
+    "C_event_ms": 0.2463722676038742,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350015",
+    "seed": 1350015,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11224753494995336,
+    "C_event_ms": 0.04256746657192707,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350015",
+    "seed": 1350015,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11073663190472871,
+    "C_event_ms": 0.04009173268762727,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350016",
+    "seed": 1350016,
+    "family": "node_local",
+    "arm": "gnn4",
+    "C_ms": 0.3365987669288491,
+    "C_event_ms": 0.2634645327925682,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350016",
+    "seed": 1350016,
+    "family": "node_local",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.13108126489290348,
+    "C_event_ms": 0.047841066618760426,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-node_local-1350016",
+    "seed": 1350016,
+    "family": "node_local",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11320403136778623,
+    "C_event_ms": 0.04632106679491699,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350001",
+    "seed": 1350001,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.3146257668655987,
+    "C_event_ms": 0.2492405335108439,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350001",
+    "seed": 1350001,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.14437983239380023,
+    "C_event_ms": 0.06747306610147158,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350001",
+    "seed": 1350001,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10166396580946942,
+    "C_event_ms": 0.025403733528219164,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350002",
+    "seed": 1350002,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.34199819589654606,
+    "C_event_ms": 0.2654282669226328,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350002",
+    "seed": 1350002,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1336402347078547,
+    "C_event_ms": 0.060456533047060175,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350002",
+    "seed": 1350002,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11138902918901294,
+    "C_event_ms": 0.0442890667822212,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350003",
+    "seed": 1350003,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.32260299679668,
+    "C_event_ms": 0.24689066608746846,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350003",
+    "seed": 1350003,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.13508426782209426,
+    "C_event_ms": 0.05315093320483963,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350003",
+    "seed": 1350003,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.12031066677688311,
+    "C_event_ms": 0.04420800011915465,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350004",
+    "seed": 1350004,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.3970989676114793,
+    "C_event_ms": 0.2843616033593814,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350004",
+    "seed": 1350004,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.14562797053561857,
+    "C_event_ms": 0.0396405332411329,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350004",
+    "seed": 1350004,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11594713238688807,
+    "C_event_ms": 0.04547306665529807,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350005",
+    "seed": 1350005,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.3469755358916397,
+    "C_event_ms": 0.25778133372465767,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350005",
+    "seed": 1350005,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.12405523545263956,
+    "C_event_ms": 0.029846399867286284,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350005",
+    "seed": 1350005,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10210163115213315,
+    "C_event_ms": 0.034569599805399774,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350006",
+    "seed": 1350006,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.33514113262450945,
+    "C_event_ms": 0.2517365316549937,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350006",
+    "seed": 1350006,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.13413366687018424,
+    "C_event_ms": 0.04032000020767252,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350006",
+    "seed": 1350006,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0965098316858833,
+    "C_event_ms": 0.02710613332067927,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350007",
+    "seed": 1350007,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.31687473334992927,
+    "C_event_ms": 0.24972799867391587,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350007",
+    "seed": 1350007,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10224453387005876,
+    "C_event_ms": 0.02196266675988833,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350007",
+    "seed": 1350007,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0906446958348776,
+    "C_event_ms": 0.02136426662715773,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350008",
+    "seed": 1350008,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.31090816579914343,
+    "C_event_ms": 0.2516042654712995,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350008",
+    "seed": 1350008,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1101750327507034,
+    "C_event_ms": 0.030161066508541504,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350008",
+    "seed": 1350008,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10857123415917158,
+    "C_event_ms": 0.02509866679708163,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350009",
+    "seed": 1350009,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.32164453198978055,
+    "C_event_ms": 0.25635733356078466,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350009",
+    "seed": 1350009,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09624609859505047,
+    "C_event_ms": 0.02276799998556574,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350009",
+    "seed": 1350009,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.1009046653052792,
+    "C_event_ms": 0.030604800030899545,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350010",
+    "seed": 1350010,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.35387897029674303,
+    "C_event_ms": 0.2740842680136363,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350010",
+    "seed": 1350010,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.15061376810384294,
+    "C_event_ms": 0.05233813390756647,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350010",
+    "seed": 1350010,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.13448706498214355,
+    "C_event_ms": 0.046676266752183435,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350011",
+    "seed": 1350011,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.3356885650039961,
+    "C_event_ms": 0.2506389339764913,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350011",
+    "seed": 1350011,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.12025123190445204,
+    "C_event_ms": 0.04074986685688297,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350011",
+    "seed": 1350011,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11882250158426662,
+    "C_event_ms": 0.034828800288960335,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350012",
+    "seed": 1350012,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.3117907714719574,
+    "C_event_ms": 0.24662186652421952,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350012",
+    "seed": 1350012,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11750493625489374,
+    "C_event_ms": 0.02941013329351942,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350012",
+    "seed": 1350012,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09307816605238865,
+    "C_event_ms": 0.023504000009658434,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350013",
+    "seed": 1350013,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.3257009006726245,
+    "C_event_ms": 0.24559466590483983,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350013",
+    "seed": 1350013,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.12103926468019684,
+    "C_event_ms": 0.03166080020988981,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350013",
+    "seed": 1350013,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.12784443291214606,
+    "C_event_ms": 0.03291413326902936,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350014",
+    "seed": 1350014,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.32993153436109424,
+    "C_event_ms": 0.2439594681064288,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350014",
+    "seed": 1350014,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10207816570376356,
+    "C_event_ms": 0.032748799957335,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350014",
+    "seed": 1350014,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0896130009399106,
+    "C_event_ms": 0.02888746667498102,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350015",
+    "seed": 1350015,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.30891723387564224,
+    "C_event_ms": 0.25006613284349444,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350015",
+    "seed": 1350015,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11300780170131475,
+    "C_event_ms": 0.04156799968332052,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350015",
+    "seed": 1350015,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08323336854421844,
+    "C_event_ms": 0.02404693324739734,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350016",
+    "seed": 1350016,
+    "family": "source_skew",
+    "arm": "gnn4",
+    "C_ms": 0.367287727810132,
+    "C_event_ms": 0.2446890652179718,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350016",
+    "seed": 1350016,
+    "family": "source_skew",
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.15559866345332315,
+    "C_event_ms": 0.045701334004600844,
+    "quotas_equal": true
+  },
+  {
+    "P": 64,
+    "state_id": "p64-source_skew-1350016",
+    "seed": 1350016,
+    "family": "source_skew",
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09622310171835124,
+    "C_event_ms": 0.02900160018665095,
+    "quotas_equal": true
+  }
+]

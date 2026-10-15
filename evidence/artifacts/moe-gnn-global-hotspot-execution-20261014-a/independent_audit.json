@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "states": 96,
+  "plans": 384,
+  "flows_audited": 1972296,
+  "rank_bindings": 18432,
+  "planner_formal": 11520,
+  "compute_shapes": 14400,
+  "source_hashes_unchanged": true
+}

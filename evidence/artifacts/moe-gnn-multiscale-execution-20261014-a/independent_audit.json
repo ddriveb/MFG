@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "plans": 576,
+  "states": 192,
+  "rank_bindings": 21504,
+  "flows_audited": 2111924,
+  "planner_formal": 17280,
+  "source_hashes_unchanged": true,
+  "integer_objectives_recomputed": 576,
+  "compute_shapes": 15505
+}

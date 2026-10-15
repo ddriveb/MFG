@@ -1,0 +1,7 @@
+forward_dispatch 0 877795 480702464
+expert_forward 877795 3410025 0
+forward_combine 3410025 4139879 480702464
+backward_combine_grad 4139879 5023209 480702464
+expert_backward 5023209 7508021 0
+backward_dispatch_grad 7508021 8255878 480702464
+total_ns 8255878

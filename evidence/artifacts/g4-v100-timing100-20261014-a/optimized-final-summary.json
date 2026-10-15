@@ -1,0 +1,95 @@
+{
+  "sha256": "07c1c662ab77bf8cb7442c76e505d298dcb74f91fd8923ee3d76ced6351fcc18",
+  "archive_verified": true,
+  "campaign_completed": true,
+  "stop_reason": "02:02 CST admission deadline",
+  "completed_common_groups": 164,
+  "warmup_groups": 2,
+  "measured_groups": 162,
+  "layer_states": 3888,
+  "incomplete_rows": 0,
+  "failed_formal_groups": 0,
+  "audit": {
+    "complete_ranks": 4,
+    "independent_samples": 164,
+    "layers": 24,
+    "integrity_passed": true,
+    "strict_numerics_passed": false
+  },
+  "runner_source_sha256": "1b9b0d1d48d5054e3fa21e97538a120243d73a35b9cb124f2b908951f897afcc",
+  "stats": {
+    "gnn": {
+      "full_step_mean_ms": 3118.4495874197155,
+      "full_step_median_ms": 2973.253030500018,
+      "full_step_std_ms": 387.38546803855996,
+      "resident_planner_layer_mean_ms": 0.35243522995736276,
+      "resident_planner_step_mean_ms": 8.458445518976706,
+      "integer_model_mean_ms": 3.479329973612714,
+      "integer_gap_mean_ms": 0.14209596500450114,
+      "integer_gap_max_ms": 0.6545505994294443,
+      "gap_le_0_5_count": 3726
+    },
+    "sinkhorn": {
+      "full_step_mean_ms": 3144.7842881974525,
+      "full_step_median_ms": 2974.8861424995994,
+      "full_step_std_ms": 453.96584160444434,
+      "resident_planner_layer_mean_ms": 0.14933762707518505,
+      "resident_planner_step_mean_ms": 3.5841030498044413,
+      "integer_model_mean_ms": 4.145892058922934,
+      "integer_gap_mean_ms": 0.8086580503147216,
+      "integer_gap_max_ms": 1.8920004098066383,
+      "gap_le_0_5_count": 1015
+    },
+    "lazarus": {
+      "full_step_mean_ms": 3148.1326603086277,
+      "full_step_median_ms": 2988.666091999221,
+      "full_step_std_ms": 418.09877564906606,
+      "resident_planner_layer_mean_ms": 0.1576079068807812,
+      "resident_planner_step_mean_ms": 3.7825897651387486,
+      "integer_model_mean_ms": 4.122524542995808,
+      "integer_gap_mean_ms": 0.7852905343875951,
+      "integer_gap_max_ms": 1.8596134434852734,
+      "gap_le_0_5_count": 1119
+    }
+  },
+  "paired_comparisons": {
+    "sinkhorn": {
+      "mean_full_step_saving_ms": 26.33470077773696,
+      "full_step_reduction_percent": 0.8374088129533249,
+      "paired_step_wins": 76,
+      "paired_step_losses": 86,
+      "paired_saving_bootstrap95_ms": [
+        -69.54195133337994,
+        124.73678909864921
+      ],
+      "integer_objective_layer_wins": 3888,
+      "integer_objective_layer_ties": 0,
+      "integer_objective_layer_losses": 0,
+      "integer_objective_reduction_percent": 16.07765170527347
+    },
+    "lazarus": {
+      "mean_full_step_saving_ms": 29.683072888912175,
+      "full_step_reduction_percent": 0.9428787186497468,
+      "paired_step_wins": 90,
+      "paired_step_losses": 72,
+      "paired_saving_bootstrap95_ms": [
+        -57.89612100611128,
+        117.58627624077897
+      ],
+      "integer_objective_layer_wins": 3888,
+      "integer_objective_layer_ties": 0,
+      "integer_objective_layer_losses": 0,
+      "integer_objective_reduction_percent": 15.601958525047115
+    }
+  },
+  "bootstrap_replicates": 10000,
+  "bootstrap_seed": 1300202,
+  "notes": [
+    "Independent first optimizer steps from restored initial state, not a continuous162-step training convergence run.",
+    "Strict full-size numerical comparison failed earlier and remains unqualified.",
+    "Integer objective and gap use inherited analytical hardware coefficients, not measured V100 execution latency.",
+    "Resident planning excludes distributed count collection and quota distribution; complete training step includes these.",
+    "Bootstrap intervals summarize within-campaign variation and do not remove temporal dependence or hardware contention.",
+    "Old unfused campaign kept separate; failed operator qualification attempts retained in archive."
+  ]
+}

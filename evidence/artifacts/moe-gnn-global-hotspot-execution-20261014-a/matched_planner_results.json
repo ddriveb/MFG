@@ -1,0 +1,3458 @@
+[
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470001",
+    "seed": 1470001,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.4157347643437485,
+    "C_event_ms": 0.1737013335029284
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470001",
+    "seed": 1470001,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.394667800477085,
+    "C_event_ms": 0.17595519969860712
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470001",
+    "seed": 1470001,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.2313411998329684,
+    "C_event_ms": 0.018150399982308347
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470001",
+    "seed": 1470001,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.2167552321528395,
+    "C_event_ms": 0.003966933341386417
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470002",
+    "seed": 1470002,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.42698603550282616,
+    "C_event_ms": 0.19081493467092514
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470002",
+    "seed": 1470002,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.42593946661024046,
+    "C_event_ms": 0.17061546593904495
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470002",
+    "seed": 1470002,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.24486276670359075,
+    "C_event_ms": 0.008069333263362448
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470002",
+    "seed": 1470002,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.2443261017712454,
+    "C_event_ms": 0.0036426666891202332
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470003",
+    "seed": 1470003,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.32820869916273904,
+    "C_event_ms": 0.17833919872840245
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470003",
+    "seed": 1470003,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.3163907347091784,
+    "C_event_ms": 0.17805333336194357
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470003",
+    "seed": 1470003,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.18214866480169198,
+    "C_event_ms": 0.035747199412435295
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470003",
+    "seed": 1470003,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.15983149933163077,
+    "C_event_ms": 0.02833386684457461
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470004",
+    "seed": 1470004,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.2507659325298543,
+    "C_event_ms": 0.17136746595303218
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470004",
+    "seed": 1470004,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.23367736333360276,
+    "C_event_ms": 0.16280426780382792
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470004",
+    "seed": 1470004,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08463523505876462,
+    "C_event_ms": 0.031203199860950312
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470004",
+    "seed": 1470004,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.098053469749478,
+    "C_event_ms": 0.040151467205335696
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470005",
+    "seed": 1470005,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.2611805675163244,
+    "C_event_ms": 0.17701226621866226
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470005",
+    "seed": 1470005,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.24473583422756442,
+    "C_event_ms": 0.17149973412354788
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470005",
+    "seed": 1470005,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08802839826482038,
+    "C_event_ms": 0.028434133032957713
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470005",
+    "seed": 1470005,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07577056724888583,
+    "C_event_ms": 0.01843946643639356
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470006",
+    "seed": 1470006,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.22869460032476732,
+    "C_event_ms": 0.16146453320980073
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470006",
+    "seed": 1470006,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.2507501989991094,
+    "C_event_ms": 0.16894933382670085
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470006",
+    "seed": 1470006,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09524536532505105,
+    "C_event_ms": 0.03260906653789183
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470006",
+    "seed": 1470006,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.1072052342351526,
+    "C_event_ms": 0.0388031998105968
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470007",
+    "seed": 1470007,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.2594109673130636,
+    "C_event_ms": 0.17818453311920165
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470007",
+    "seed": 1470007,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.25724796772313613,
+    "C_event_ms": 0.1746848002076149
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470007",
+    "seed": 1470007,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.13905093170857677,
+    "C_event_ms": 0.05821439993257324
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470007",
+    "seed": 1470007,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.130367701058276,
+    "C_event_ms": 0.04370026650528113
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470008",
+    "seed": 1470008,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.39120346870428574,
+    "C_event_ms": 0.3104117358724276
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470008",
+    "seed": 1470008,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.2540953311836347,
+    "C_event_ms": 0.16762133439381918
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470008",
+    "seed": 1470008,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1507541979663074,
+    "C_event_ms": 0.05588159998878837
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470008",
+    "seed": 1470008,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.13240523306497684,
+    "C_event_ms": 0.051096533650221924
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470009",
+    "seed": 1470009,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.2453256311127916,
+    "C_event_ms": 0.17884586701790492
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470009",
+    "seed": 1470009,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.24304626664767662,
+    "C_event_ms": 0.1657472014427185
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470009",
+    "seed": 1470009,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.13101486741409948,
+    "C_event_ms": 0.041683199753363924
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470009",
+    "seed": 1470009,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.12837689525137344,
+    "C_event_ms": 0.034465066785924134
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470010",
+    "seed": 1470010,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.23728403223988911,
+    "C_event_ms": 0.17147413442532222
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470010",
+    "seed": 1470010,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.241735132294707,
+    "C_event_ms": 0.16976213306188584
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470010",
+    "seed": 1470010,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10303427019001295,
+    "C_event_ms": 0.02732800003141165
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470010",
+    "seed": 1470010,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08934323268476874,
+    "C_event_ms": 0.031028266840924818
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470011",
+    "seed": 1470011,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.2063334327734386,
+    "C_event_ms": 0.16141760001579922
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470011",
+    "seed": 1470011,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.2139536023605615,
+    "C_event_ms": 0.16007786691188813
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470011",
+    "seed": 1470011,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.06997876431948195,
+    "C_event_ms": 0.022974933280299106
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470011",
+    "seed": 1470011,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08458949547881882,
+    "C_event_ms": 0.01805226660023133
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470012",
+    "seed": 1470012,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.21744509770845374,
+    "C_event_ms": 0.1617365335424741
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470012",
+    "seed": 1470012,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.225653865102989,
+    "C_event_ms": 0.16907840023438137
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470012",
+    "seed": 1470012,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09410700198107709,
+    "C_event_ms": 0.036684799504776794
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470012",
+    "seed": 1470012,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08023780343743663,
+    "C_event_ms": 0.023856000090017915
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470013",
+    "seed": 1470013,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.22641522906875858,
+    "C_event_ms": 0.17485333234071732
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470013",
+    "seed": 1470013,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.23967403394635767,
+    "C_event_ms": 0.16882133334875107
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470013",
+    "seed": 1470013,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0820617686258629,
+    "C_event_ms": 0.023597866700341304
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470013",
+    "seed": 1470013,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06800566625315696,
+    "C_event_ms": 0.01265386655771484
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470014",
+    "seed": 1470014,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.24149266925329962,
+    "C_event_ms": 0.18748266696929933
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470014",
+    "seed": 1470014,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.23274899770816168,
+    "C_event_ms": 0.16413653244574863
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470014",
+    "seed": 1470014,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11042936627442639,
+    "C_event_ms": 0.03175679965255161
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470014",
+    "seed": 1470014,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.1118427695473656,
+    "C_event_ms": 0.04349759983985375
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470015",
+    "seed": 1470015,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.24223400202269355,
+    "C_event_ms": 0.16309439937273662
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470015",
+    "seed": 1470015,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.25195843966988224,
+    "C_event_ms": 0.16972906639178595
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470015",
+    "seed": 1470015,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10002450241396825,
+    "C_event_ms": 0.02085439992758135
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470015",
+    "seed": 1470015,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10408803451961528,
+    "C_event_ms": 0.037915733107365665
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470016",
+    "seed": 1470016,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.2260029645791898,
+    "C_event_ms": 0.16269440005222957
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470016",
+    "seed": 1470016,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.2353943360503763,
+    "C_event_ms": 0.16276693393786748
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470016",
+    "seed": 1470016,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09005156559093545,
+    "C_event_ms": 0.0208917334365348
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r40-1470016",
+    "seed": 1470016,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08750886772759259,
+    "C_event_ms": 0.030315733126675088
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470001",
+    "seed": 1470001,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.21975596415965507,
+    "C_event_ms": 0.16996266692876816
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470001",
+    "seed": 1470001,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.23179093356399486,
+    "C_event_ms": 0.1695594663421313
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470001",
+    "seed": 1470001,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0969666017529865,
+    "C_event_ms": 0.031205333334704242
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470001",
+    "seed": 1470001,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08716053077174972,
+    "C_event_ms": 0.020219733441869416
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470002",
+    "seed": 1470002,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.2150789659935981,
+    "C_event_ms": 0.16207680155833562
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470002",
+    "seed": 1470002,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.21804893137111017,
+    "C_event_ms": 0.16681919942299525
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470002",
+    "seed": 1470002,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08367746777366847,
+    "C_event_ms": 0.021175466865922015
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470002",
+    "seed": 1470002,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0735348992748186,
+    "C_event_ms": 0.017193599953316152
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470003",
+    "seed": 1470003,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.22440250128662834,
+    "C_event_ms": 0.16172586679458617
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470003",
+    "seed": 1470003,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.23536773126882812,
+    "C_event_ms": 0.18100373248259227
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470003",
+    "seed": 1470003,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08183870134719957,
+    "C_event_ms": 0.022305066666255393
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470003",
+    "seed": 1470003,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0723833324930941,
+    "C_event_ms": 0.014487466441156964
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470004",
+    "seed": 1470004,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.22524536567895362,
+    "C_event_ms": 0.16706773440043132
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470004",
+    "seed": 1470004,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.21520526594637582,
+    "C_event_ms": 0.16193599998950958
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470004",
+    "seed": 1470004,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07872326435366024,
+    "C_event_ms": 0.028060799557715656
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470004",
+    "seed": 1470004,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07325936652099092,
+    "C_event_ms": 0.0249269331805408
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470005",
+    "seed": 1470005,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.2257320961992567,
+    "C_event_ms": 0.16907413254181544
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470005",
+    "seed": 1470005,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.2139605019086351,
+    "C_event_ms": 0.1611978679895401
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470005",
+    "seed": 1470005,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08216573429914813,
+    "C_event_ms": 0.016935466695576905
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470005",
+    "seed": 1470005,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07049340250280996,
+    "C_event_ms": 0.01999999980131785
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470006",
+    "seed": 1470006,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.23603006945146868,
+    "C_event_ms": 0.17085333466529845
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470006",
+    "seed": 1470006,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.23382610039940724,
+    "C_event_ms": 0.1662378673752149
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470006",
+    "seed": 1470006,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10554696976517637,
+    "C_event_ms": 0.024064000199238458
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470006",
+    "seed": 1470006,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08225943214104821,
+    "C_event_ms": 0.024436266580596566
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470007",
+    "seed": 1470007,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.24144853232428432,
+    "C_event_ms": 0.16823466668526332
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470007",
+    "seed": 1470007,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.2362640283536166,
+    "C_event_ms": 0.1806144004066785
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470007",
+    "seed": 1470007,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10219526787598927,
+    "C_event_ms": 0.02157759990853568
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470007",
+    "seed": 1470007,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08813936923009653,
+    "C_event_ms": 0.028278400159130492
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470008",
+    "seed": 1470008,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.23960976880819848,
+    "C_event_ms": 0.1811509336034457
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470008",
+    "seed": 1470008,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.2177042692589263,
+    "C_event_ms": 0.16224000006914138
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470008",
+    "seed": 1470008,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09870446713951726,
+    "C_event_ms": 0.031482666327307625
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470008",
+    "seed": 1470008,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07958566711749882,
+    "C_event_ms": 0.016029866730483868
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470009",
+    "seed": 1470009,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.22161339972323427,
+    "C_event_ms": 0.16243199954430262
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470009",
+    "seed": 1470009,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.21909129767057797,
+    "C_event_ms": 0.16613440116246542
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470009",
+    "seed": 1470009,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07595449763660629,
+    "C_event_ms": 0.019414399936795234
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470009",
+    "seed": 1470009,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07971756761738409,
+    "C_event_ms": 0.014650666690431535
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470010",
+    "seed": 1470010,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.21059449742703387,
+    "C_event_ms": 0.16135253508885702
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470010",
+    "seed": 1470010,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.22473240290613225,
+    "C_event_ms": 0.16346133400996526
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470010",
+    "seed": 1470010,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09894216879426192,
+    "C_event_ms": 0.025451733109851677
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470010",
+    "seed": 1470010,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07731460015444706,
+    "C_event_ms": 0.021177600029235084
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470011",
+    "seed": 1470011,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.23162196351525685,
+    "C_event_ms": 0.17263466666142147
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470011",
+    "seed": 1470011,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.22556770030253878,
+    "C_event_ms": 0.17192319879929224
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470011",
+    "seed": 1470011,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07552053042066594,
+    "C_event_ms": 0.01890239988764127
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470011",
+    "seed": 1470011,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08293646872819711,
+    "C_event_ms": 0.028683733249393602
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470012",
+    "seed": 1470012,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.23487152939196676,
+    "C_event_ms": 0.16972053249677022
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470012",
+    "seed": 1470012,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.21858203399460763,
+    "C_event_ms": 0.16833600103855134
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470012",
+    "seed": 1470012,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07541853604683031,
+    "C_event_ms": 0.019253333316495022
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470012",
+    "seed": 1470012,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0806490007865553,
+    "C_event_ms": 0.018705066790183387
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470013",
+    "seed": 1470013,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.2273166299952815,
+    "C_event_ms": 0.16603840043147405
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470013",
+    "seed": 1470013,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.2089825323006759,
+    "C_event_ms": 0.16274026582638423
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470013",
+    "seed": 1470013,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07794259872753173,
+    "C_event_ms": 0.025810133572667836
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470013",
+    "seed": 1470013,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07991000505474706,
+    "C_event_ms": 0.022474666715910037
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470014",
+    "seed": 1470014,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.24107716259701797,
+    "C_event_ms": 0.17899306615193686
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470014",
+    "seed": 1470014,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.2214901673141867,
+    "C_event_ms": 0.16427093197902043
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470014",
+    "seed": 1470014,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0852480346414571,
+    "C_event_ms": 0.02854186655022204
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470014",
+    "seed": 1470014,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07965883220701168,
+    "C_event_ms": 0.025363200103553633
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470015",
+    "seed": 1470015,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.22046306209328273,
+    "C_event_ms": 0.16604586640993754
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470015",
+    "seed": 1470015,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.23297740165920308,
+    "C_event_ms": 0.17276906669139863
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470015",
+    "seed": 1470015,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09483869750207911,
+    "C_event_ms": 0.030637866631150246
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470015",
+    "seed": 1470015,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09438213504229982,
+    "C_event_ms": 0.03390506658858309
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470016",
+    "seed": 1470016,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.23323102990010133,
+    "C_event_ms": 0.17134506553411483
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470016",
+    "seed": 1470016,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.22515463448750475,
+    "C_event_ms": 0.16876799911260604
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470016",
+    "seed": 1470016,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0861751662644868,
+    "C_event_ms": 0.033075199679781994
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r60-1470016",
+    "seed": 1470016,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.1008231658488512,
+    "C_event_ms": 0.03895573345944285
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470001",
+    "seed": 1470001,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.2352298382902518,
+    "C_event_ms": 0.17052159905433656
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470001",
+    "seed": 1470001,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.22927390139860412,
+    "C_event_ms": 0.16750826686620712
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470001",
+    "seed": 1470001,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0895352364750579,
+    "C_event_ms": 0.029973333484182754
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470001",
+    "seed": 1470001,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09373800033548225,
+    "C_event_ms": 0.028711466661964852
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470002",
+    "seed": 1470002,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.24091400167283913,
+    "C_event_ms": 0.17464639991521835
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470002",
+    "seed": 1470002,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.21957822900731117,
+    "C_event_ms": 0.159845332801342
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470002",
+    "seed": 1470002,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07715453199731807,
+    "C_event_ms": 0.022234666595856347
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470002",
+    "seed": 1470002,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06797453582597275,
+    "C_event_ms": 0.021275733380268017
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470003",
+    "seed": 1470003,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.2310588334997495,
+    "C_event_ms": 0.16230186720689138
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470003",
+    "seed": 1470003,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.2589992305729538,
+    "C_event_ms": 0.1996266673008601
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470003",
+    "seed": 1470003,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08218163469185431,
+    "C_event_ms": 0.019488000062604746
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470003",
+    "seed": 1470003,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08482029564523448,
+    "C_event_ms": 0.021651199793753524
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470004",
+    "seed": 1470004,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.2454685018165037,
+    "C_event_ms": 0.1751711994409561
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470004",
+    "seed": 1470004,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.21869826887268573,
+    "C_event_ms": 0.16519679973522822
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470004",
+    "seed": 1470004,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09423673618584871,
+    "C_event_ms": 0.03095893325905005
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470004",
+    "seed": 1470004,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09294579989121605,
+    "C_event_ms": 0.024724266670333842
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470005",
+    "seed": 1470005,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.23609570343978703,
+    "C_event_ms": 0.1715103988846143
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470005",
+    "seed": 1470005,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.2379666354196767,
+    "C_event_ms": 0.16443306654691697
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470005",
+    "seed": 1470005,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08454790028433005,
+    "C_event_ms": 0.021939200193931658
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470005",
+    "seed": 1470005,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07530623309624691,
+    "C_event_ms": 0.019533866721515854
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470006",
+    "seed": 1470006,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.22587200025251755,
+    "C_event_ms": 0.16639893303314846
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470006",
+    "seed": 1470006,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.26051716510361683,
+    "C_event_ms": 0.19546133130788804
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470006",
+    "seed": 1470006,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0941931347673138,
+    "C_event_ms": 0.019712000045304497
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470006",
+    "seed": 1470006,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06531890151867022,
+    "C_event_ms": 0.016215466770033042
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470007",
+    "seed": 1470007,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.2476130670402199,
+    "C_event_ms": 0.1801344002286593
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470007",
+    "seed": 1470007,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.22438053274527192,
+    "C_event_ms": 0.1628106658657392
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470007",
+    "seed": 1470007,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10529463276422273,
+    "C_event_ms": 0.018731733101109663
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470007",
+    "seed": 1470007,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08019517020632823,
+    "C_event_ms": 0.016606933351916573
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470008",
+    "seed": 1470008,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.2359284000704065,
+    "C_event_ms": 0.17520639797051749
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470008",
+    "seed": 1470008,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.21889976827272525,
+    "C_event_ms": 0.16197439978520076
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470008",
+    "seed": 1470008,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08518336301979919,
+    "C_event_ms": 0.025045333647479615
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470008",
+    "seed": 1470008,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06226942932698876,
+    "C_event_ms": 0.016193066723644733
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470009",
+    "seed": 1470009,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.2259615323661516,
+    "C_event_ms": 0.17551999986171724
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470009",
+    "seed": 1470009,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.22558560594916344,
+    "C_event_ms": 0.1708639994263649
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470009",
+    "seed": 1470009,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08819233432101707,
+    "C_event_ms": 0.022846933423231044
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470009",
+    "seed": 1470009,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08805443358141929,
+    "C_event_ms": 0.0215423999975125
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470010",
+    "seed": 1470010,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.24493213277310133,
+    "C_event_ms": 0.1808853343129158
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470010",
+    "seed": 1470010,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.25679293418458354,
+    "C_event_ms": 0.17270506819089254
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470010",
+    "seed": 1470010,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09318160106583188,
+    "C_event_ms": 0.02940906664977471
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470010",
+    "seed": 1470010,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10683523238791774,
+    "C_event_ms": 0.03857279997318983
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470011",
+    "seed": 1470011,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.22643289800422886,
+    "C_event_ms": 0.17284159908692043
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470011",
+    "seed": 1470011,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.24280026361035803,
+    "C_event_ms": 0.17541439880927404
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470011",
+    "seed": 1470011,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0854578334838152,
+    "C_event_ms": 0.027811199768135945
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470011",
+    "seed": 1470011,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09116839986139287,
+    "C_event_ms": 0.039709866411673525
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470012",
+    "seed": 1470012,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.24268680135719478,
+    "C_event_ms": 0.16337706645329794
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470012",
+    "seed": 1470012,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.26197636616416276,
+    "C_event_ms": 0.17892906765143077
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470012",
+    "seed": 1470012,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11324599909130484,
+    "C_event_ms": 0.02951893334587415
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470012",
+    "seed": 1470012,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09804439808552463,
+    "C_event_ms": 0.03570773370253543
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470013",
+    "seed": 1470013,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.22643700358457863,
+    "C_event_ms": 0.1691232015689214
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470013",
+    "seed": 1470013,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.24982450025466582,
+    "C_event_ms": 0.18137173255284628
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470013",
+    "seed": 1470013,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09465606611532469,
+    "C_event_ms": 0.029793066500375668
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470013",
+    "seed": 1470013,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0822758690143625,
+    "C_event_ms": 0.018860799764903884
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470014",
+    "seed": 1470014,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.2277117979247123,
+    "C_event_ms": 0.16358719865481058
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470014",
+    "seed": 1470014,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.2286474327168738,
+    "C_event_ms": 0.17274880011876423
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470014",
+    "seed": 1470014,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08278653452483316,
+    "C_event_ms": 0.025849600058669844
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470014",
+    "seed": 1470014,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07420123438350856,
+    "C_event_ms": 0.02127999976898233
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470015",
+    "seed": 1470015,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.23818926808113852,
+    "C_event_ms": 0.16601600050926207
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470015",
+    "seed": 1470015,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.22698700001152852,
+    "C_event_ms": 0.16525653302669524
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470015",
+    "seed": 1470015,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08592339775835474,
+    "C_event_ms": 0.025858133348325887
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470015",
+    "seed": 1470015,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09094819931002955,
+    "C_event_ms": 0.030094933269234996
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470016",
+    "seed": 1470016,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.23692763740352044,
+    "C_event_ms": 0.17154773473739623
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470016",
+    "seed": 1470016,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.228175864322111,
+    "C_event_ms": 0.1664736007650693
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470016",
+    "seed": 1470016,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08187923425187667,
+    "C_event_ms": 0.02848746666374306
+  },
+  {
+    "P": 32,
+    "state_id": "p32-global_hotspot-r80-1470016",
+    "seed": 1470016,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.067409531523784,
+    "C_event_ms": 0.012522666792695722
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470001",
+    "seed": 1470001,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.35451459892404574,
+    "C_event_ms": 0.30271040002504984
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470001",
+    "seed": 1470001,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.3248600677276651,
+    "C_event_ms": 0.2668127993742625
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470001",
+    "seed": 1470001,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09432893227009724,
+    "C_event_ms": 0.036150399471322696
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470001",
+    "seed": 1470001,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07940296588155131,
+    "C_event_ms": 0.015237333346158266
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470002",
+    "seed": 1470002,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3368845665439342,
+    "C_event_ms": 0.2810848007599513
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470002",
+    "seed": 1470002,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.34007606736849993,
+    "C_event_ms": 0.2878847986459732
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470002",
+    "seed": 1470002,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1088964306594183,
+    "C_event_ms": 0.026651733306547007
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470002",
+    "seed": 1470002,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08500726447285463,
+    "C_event_ms": 0.02232426667275528
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470003",
+    "seed": 1470003,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3346666363844027,
+    "C_event_ms": 0.27805013457934064
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470003",
+    "seed": 1470003,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.3575546996823202,
+    "C_event_ms": 0.2887562652428945
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470003",
+    "seed": 1470003,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11095576919615269,
+    "C_event_ms": 0.032624000155677395
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470003",
+    "seed": 1470003,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09416806472775836,
+    "C_event_ms": 0.025140266531767944
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470004",
+    "seed": 1470004,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3243108347912009,
+    "C_event_ms": 0.26094613075256345
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470004",
+    "seed": 1470004,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.3421545319724828,
+    "C_event_ms": 0.2845866690079371
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470004",
+    "seed": 1470004,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09142213481633614,
+    "C_event_ms": 0.026581333422412475
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470004",
+    "seed": 1470004,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07234256675777335,
+    "C_event_ms": 0.016947199916467072
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470005",
+    "seed": 1470005,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3305341039473812,
+    "C_event_ms": 0.2695061355829239
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470005",
+    "seed": 1470005,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.31977583130355924,
+    "C_event_ms": 0.26031893491744995
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470005",
+    "seed": 1470005,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09727443296772738,
+    "C_event_ms": 0.03278400031849742
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470005",
+    "seed": 1470005,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08029740226144592,
+    "C_event_ms": 0.024572799859258036
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470006",
+    "seed": 1470006,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3564109996659681,
+    "C_event_ms": 0.2900458643833796
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470006",
+    "seed": 1470006,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.34404086860983324,
+    "C_event_ms": 0.26886613269646964
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470006",
+    "seed": 1470006,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1208608349164327,
+    "C_event_ms": 0.029751466773450374
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470006",
+    "seed": 1470006,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0937640987103805,
+    "C_event_ms": 0.03332480019889772
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470007",
+    "seed": 1470007,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.34789729785795015,
+    "C_event_ms": 0.2832810640335083
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470007",
+    "seed": 1470007,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.32350029893374693,
+    "C_event_ms": 0.2674250682195028
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470007",
+    "seed": 1470007,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0857577717397362,
+    "C_event_ms": 0.026118399761617183
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470007",
+    "seed": 1470007,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07502673057994495,
+    "C_event_ms": 0.014212266844697296
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470008",
+    "seed": 1470008,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.33914599819884944,
+    "C_event_ms": 0.2660821318626404
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470008",
+    "seed": 1470008,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.3486041658713172,
+    "C_event_ms": 0.27900480131308236
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470008",
+    "seed": 1470008,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08589212763278435,
+    "C_event_ms": 0.022917333245277404
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470008",
+    "seed": 1470008,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07232103477387379,
+    "C_event_ms": 0.017001600051298738
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470009",
+    "seed": 1470009,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.33610759807440144,
+    "C_event_ms": 0.2681728005409241
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470009",
+    "seed": 1470009,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.330031033566532,
+    "C_event_ms": 0.2686474690834681
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470009",
+    "seed": 1470009,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08285673684440553,
+    "C_event_ms": 0.03430079966783524
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470009",
+    "seed": 1470009,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07132162669828783,
+    "C_event_ms": 0.01623999991764625
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470010",
+    "seed": 1470010,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.31436273420695215,
+    "C_event_ms": 0.2627136001984278
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470010",
+    "seed": 1470010,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.32335366316450137,
+    "C_event_ms": 0.26359786788622536
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470010",
+    "seed": 1470010,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08619259848880272,
+    "C_event_ms": 0.032643200208743416
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470010",
+    "seed": 1470010,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08346373118304957,
+    "C_event_ms": 0.02689706648234278
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470011",
+    "seed": 1470011,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.31742743449285626,
+    "C_event_ms": 0.2634880016247431
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470011",
+    "seed": 1470011,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.32689206418581307,
+    "C_event_ms": 0.2744074692328771
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470011",
+    "seed": 1470011,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09468226538350184,
+    "C_event_ms": 0.03414933343107502
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470011",
+    "seed": 1470011,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07051013526506722,
+    "C_event_ms": 0.01599893318489194
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470012",
+    "seed": 1470012,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.31758480084439117,
+    "C_event_ms": 0.26575360000133513
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470012",
+    "seed": 1470012,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.33295826773003984,
+    "C_event_ms": 0.27229973177115124
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470012",
+    "seed": 1470012,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08256929480315496,
+    "C_event_ms": 0.02950080015386144
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470012",
+    "seed": 1470012,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07459002954419702,
+    "C_event_ms": 0.022573866679643593
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470013",
+    "seed": 1470013,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3472347685601562,
+    "C_event_ms": 0.26708266834417976
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470013",
+    "seed": 1470013,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.38530166493728757,
+    "C_event_ms": 0.29172053237756096
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470013",
+    "seed": 1470013,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11117652951118846,
+    "C_event_ms": 0.022065066701422133
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470013",
+    "seed": 1470013,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08985182988302161,
+    "C_event_ms": 0.024719999893568455
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470014",
+    "seed": 1470014,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.33860683130721253,
+    "C_event_ms": 0.2654154668251673
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470014",
+    "seed": 1470014,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.3932843984027083,
+    "C_event_ms": 0.30728746553262076
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470014",
+    "seed": 1470014,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09298696822952479,
+    "C_event_ms": 0.019414400092015664
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470014",
+    "seed": 1470014,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06930676851576816,
+    "C_event_ms": 0.012458666522676746
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470015",
+    "seed": 1470015,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3247081661053623,
+    "C_event_ms": 0.26583680311838787
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470015",
+    "seed": 1470015,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.34311396593693644,
+    "C_event_ms": 0.2803423990805944
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470015",
+    "seed": 1470015,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09260320318086694,
+    "C_event_ms": 0.02591360015794635
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470015",
+    "seed": 1470015,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0775296677602455,
+    "C_event_ms": 0.021644799838153025
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470016",
+    "seed": 1470016,
+    "rho": 0.4,
+    "arm": "gnn_mixed",
+    "C_ms": 0.36392390029504895,
+    "C_event_ms": 0.29531626602013905
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470016",
+    "seed": 1470016,
+    "rho": 0.4,
+    "arm": "gnn_hot",
+    "C_ms": 0.31904446562596905,
+    "C_event_ms": 0.26175253291924794
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470016",
+    "seed": 1470016,
+    "rho": 0.4,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0929822320661818,
+    "C_event_ms": 0.022786133270710707
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r40-1470016",
+    "seed": 1470016,
+    "rho": 0.4,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07954910009478529,
+    "C_event_ms": 0.022641066966267925
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470001",
+    "seed": 1470001,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3332855664969732,
+    "C_event_ms": 0.2742666661739349
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470001",
+    "seed": 1470001,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.3335398990505685,
+    "C_event_ms": 0.26450133124987285
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470001",
+    "seed": 1470001,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10499059668897341,
+    "C_event_ms": 0.042952533594022194
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470001",
+    "seed": 1470001,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06749110179953277,
+    "C_event_ms": 0.018183466605842115
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470002",
+    "seed": 1470002,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.36869709729216993,
+    "C_event_ms": 0.29370453357696535
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470002",
+    "seed": 1470002,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.36098930092218023,
+    "C_event_ms": 0.2779946664969126
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470002",
+    "seed": 1470002,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11447539533643673,
+    "C_event_ms": 0.02913706675171852
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470002",
+    "seed": 1470002,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10383350017946213,
+    "C_event_ms": 0.027991466814031203
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470003",
+    "seed": 1470003,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.36752903445934254,
+    "C_event_ms": 0.28093866606553397
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470003",
+    "seed": 1470003,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.35928296759569395,
+    "C_event_ms": 0.2740117311477661
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470003",
+    "seed": 1470003,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11523646826390177,
+    "C_event_ms": 0.03131413301452994
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470003",
+    "seed": 1470003,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10094903215455513,
+    "C_event_ms": 0.02783893335921069
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470004",
+    "seed": 1470004,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.35105619851189357,
+    "C_event_ms": 0.28809600373109184
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470004",
+    "seed": 1470004,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.3350916037258382,
+    "C_event_ms": 0.270140798886617
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470004",
+    "seed": 1470004,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10595053220943858,
+    "C_event_ms": 0.03339199995001157
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470004",
+    "seed": 1470004,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09282550114827852,
+    "C_event_ms": 0.02768640002856652
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470005",
+    "seed": 1470005,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.33297623061419773,
+    "C_event_ms": 0.27559466660022736
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470005",
+    "seed": 1470005,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.33992833050433546,
+    "C_event_ms": 0.2743349313735962
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470005",
+    "seed": 1470005,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09528793161734939,
+    "C_event_ms": 0.03032853323966265
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470005",
+    "seed": 1470005,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09432072984054685,
+    "C_event_ms": 0.018629333299274246
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470006",
+    "seed": 1470006,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3308069989240418,
+    "C_event_ms": 0.27705920139948526
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470006",
+    "seed": 1470006,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.3481205349089578,
+    "C_event_ms": 0.2753728012243907
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470006",
+    "seed": 1470006,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0766554323490709,
+    "C_event_ms": 0.024643199983984232
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470006",
+    "seed": 1470006,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07642433629371226,
+    "C_event_ms": 0.022098133022276065
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470007",
+    "seed": 1470007,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3320084671334674,
+    "C_event_ms": 0.2647413323322932
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470007",
+    "seed": 1470007,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.3528949629981071,
+    "C_event_ms": 0.280006397763888
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470007",
+    "seed": 1470007,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.11111403291579336,
+    "C_event_ms": 0.029482666465143362
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470007",
+    "seed": 1470007,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0918990980911379,
+    "C_event_ms": 0.025595733189644913
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470008",
+    "seed": 1470008,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.33313506670917076,
+    "C_event_ms": 0.27505386571089424
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470008",
+    "seed": 1470008,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.34000299929175526,
+    "C_event_ms": 0.27509546975294746
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470008",
+    "seed": 1470008,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08904700225684792,
+    "C_event_ms": 0.030203733127564192
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470008",
+    "seed": 1470008,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08660126380467166,
+    "C_event_ms": 0.02874133341635267
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470009",
+    "seed": 1470009,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3210550998725618,
+    "C_event_ms": 0.2663178682327271
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470009",
+    "seed": 1470009,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.35951956718539196,
+    "C_event_ms": 0.28025813500086466
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470009",
+    "seed": 1470009,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0940020972241958,
+    "C_event_ms": 0.03102080011740327
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470009",
+    "seed": 1470009,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07710436378450443,
+    "C_event_ms": 0.023232000002947947
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470010",
+    "seed": 1470010,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.33261839707847685,
+    "C_event_ms": 0.27407146791617076
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470010",
+    "seed": 1470010,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.3467415983323008,
+    "C_event_ms": 0.2865621338287989
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470010",
+    "seed": 1470010,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08343666656098019,
+    "C_event_ms": 0.02414506676917275
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470010",
+    "seed": 1470010,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08631929910431306,
+    "C_event_ms": 0.029213866855328282
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470011",
+    "seed": 1470011,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.34114813315682113,
+    "C_event_ms": 0.27896320124467217
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470011",
+    "seed": 1470011,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.34703300043474883,
+    "C_event_ms": 0.2667733331521352
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470011",
+    "seed": 1470011,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0953046343056485,
+    "C_event_ms": 0.02871359996497631
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470011",
+    "seed": 1470011,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08419549946362774,
+    "C_event_ms": 0.03130880005968114
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470012",
+    "seed": 1470012,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3293819686708351,
+    "C_event_ms": 0.27102293372154235
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470012",
+    "seed": 1470012,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.3436406045996894,
+    "C_event_ms": 0.2781439979871114
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470012",
+    "seed": 1470012,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08432136770958702,
+    "C_event_ms": 0.028700799805422623
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470012",
+    "seed": 1470012,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08590196860798945,
+    "C_event_ms": 0.02911786634164552
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470013",
+    "seed": 1470013,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3252581993971641,
+    "C_event_ms": 0.266470401485761
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470013",
+    "seed": 1470013,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.3264693000043432,
+    "C_event_ms": 0.26729173262914024
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470013",
+    "seed": 1470013,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09420793309497337,
+    "C_event_ms": 0.025424000155180693
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470013",
+    "seed": 1470013,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07296603095407288,
+    "C_event_ms": 0.01593493330292404
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470014",
+    "seed": 1470014,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3294931986602023,
+    "C_event_ms": 0.27217493454615277
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470014",
+    "seed": 1470014,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.31780206578938913,
+    "C_event_ms": 0.2626527984937032
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470014",
+    "seed": 1470014,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08181876716359208,
+    "C_event_ms": 0.025854933168739082
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470014",
+    "seed": 1470014,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07584916893392801,
+    "C_event_ms": 0.015616000024601817
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470015",
+    "seed": 1470015,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3289954028635596,
+    "C_event_ms": 0.27157439986864723
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470015",
+    "seed": 1470015,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.34553953155409545,
+    "C_event_ms": 0.2730357348918915
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470015",
+    "seed": 1470015,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08650453431376566,
+    "C_event_ms": 0.028141866841663917
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470015",
+    "seed": 1470015,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0808514334494248,
+    "C_event_ms": 0.020650666672736406
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470016",
+    "seed": 1470016,
+    "rho": 0.6,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3286625976519038,
+    "C_event_ms": 0.2710229327281316
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470016",
+    "seed": 1470016,
+    "rho": 0.6,
+    "arm": "gnn_hot",
+    "C_ms": 0.33458706360155094,
+    "C_event_ms": 0.26472426652908326
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470016",
+    "seed": 1470016,
+    "rho": 0.6,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09877226354243855,
+    "C_event_ms": 0.03436373360455036
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r60-1470016",
+    "seed": 1470016,
+    "rho": 0.6,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08023246191442013,
+    "C_event_ms": 0.025481599965132773
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470001",
+    "seed": 1470001,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3379016639276718,
+    "C_event_ms": 0.27121279935042064
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470001",
+    "seed": 1470001,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.3408748666212584,
+    "C_event_ms": 0.26561599572499595
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470001",
+    "seed": 1470001,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.08720393428423752,
+    "C_event_ms": 0.02504106645161907
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470001",
+    "seed": 1470001,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.07295309624169022,
+    "C_event_ms": 0.018315733433701097
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470002",
+    "seed": 1470002,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3362037697418903,
+    "C_event_ms": 0.26956266860167183
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470002",
+    "seed": 1470002,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.3508672651757176,
+    "C_event_ms": 0.2718688021103541
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470002",
+    "seed": 1470002,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09914926680115362,
+    "C_event_ms": 0.04114239979535341
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470002",
+    "seed": 1470002,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09990339943518241,
+    "C_event_ms": 0.03564266672668358
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470003",
+    "seed": 1470003,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3226834679177652,
+    "C_event_ms": 0.26988799969355265
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470003",
+    "seed": 1470003,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.3194088659559687,
+    "C_event_ms": 0.2631818652153015
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470003",
+    "seed": 1470003,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.0985090349180003,
+    "C_event_ms": 0.03411626691619555
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470003",
+    "seed": 1470003,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08465030405204743,
+    "C_event_ms": 0.03481280007399619
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470004",
+    "seed": 1470004,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.31978510281381506,
+    "C_event_ms": 0.2626389334599177
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470004",
+    "seed": 1470004,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.3333586675580591,
+    "C_event_ms": 0.26402986447016397
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470004",
+    "seed": 1470004,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09245676434754084,
+    "C_event_ms": 0.03417493362600605
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470004",
+    "seed": 1470004,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.1089428997753809,
+    "C_event_ms": 0.02546453350999703
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470005",
+    "seed": 1470005,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.34411953238304704,
+    "C_event_ms": 0.282328533132871
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470005",
+    "seed": 1470005,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.34882373292930424,
+    "C_event_ms": 0.26997973322868346
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470005",
+    "seed": 1470005,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1114192350845163,
+    "C_event_ms": 0.04717973368242383
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470005",
+    "seed": 1470005,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10204199934378266,
+    "C_event_ms": 0.030522666949157912
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470006",
+    "seed": 1470006,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.33829513607391465,
+    "C_event_ms": 0.2665845314661662
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470006",
+    "seed": 1470006,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.3359381012463321,
+    "C_event_ms": 0.2701173315445582
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470006",
+    "seed": 1470006,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1140676982079943,
+    "C_event_ms": 0.05047146665553252
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470006",
+    "seed": 1470006,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10329133753354351,
+    "C_event_ms": 0.028282666547844806
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470007",
+    "seed": 1470007,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3358259971719235,
+    "C_event_ms": 0.27433279951413475
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470007",
+    "seed": 1470007,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.33415883566097665,
+    "C_event_ms": 0.26997119983037315
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470007",
+    "seed": 1470007,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10895233523721497,
+    "C_event_ms": 0.045877333264797926
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470007",
+    "seed": 1470007,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0750677689211443,
+    "C_event_ms": 0.024554666861270866
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470008",
+    "seed": 1470008,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.33183206784694147,
+    "C_event_ms": 0.26177279849847157
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470008",
+    "seed": 1470008,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.34003773277315,
+    "C_event_ms": 0.2757418672243754
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470008",
+    "seed": 1470008,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.07520599853402625,
+    "C_event_ms": 0.02161919993037979
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470008",
+    "seed": 1470008,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.0717599003110081,
+    "C_event_ms": 0.01555413322833677
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470009",
+    "seed": 1470009,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.36129410048791516,
+    "C_event_ms": 0.2981621325016022
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470009",
+    "seed": 1470009,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.3448473017973204,
+    "C_event_ms": 0.2786517341931661
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470009",
+    "seed": 1470009,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.12333253495550404,
+    "C_event_ms": 0.04721173339833816
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470009",
+    "seed": 1470009,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.10097996952633063,
+    "C_event_ms": 0.02214186661100636
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470010",
+    "seed": 1470010,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.37021656656482566,
+    "C_event_ms": 0.29522666732470193
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470010",
+    "seed": 1470010,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.37467756774276495,
+    "C_event_ms": 0.2946922649939855
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470010",
+    "seed": 1470010,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.1058008997157837,
+    "C_event_ms": 0.03949120013664166
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470010",
+    "seed": 1470010,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.11994213661334167,
+    "C_event_ms": 0.012423466510760288
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470011",
+    "seed": 1470011,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3283979962967957,
+    "C_event_ms": 0.2719626694917679
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470011",
+    "seed": 1470011,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.3200697314847882,
+    "C_event_ms": 0.26170986890792847
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470011",
+    "seed": 1470011,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09282123646698892,
+    "C_event_ms": 0.02448426668221752
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470011",
+    "seed": 1470011,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08650280457610886,
+    "C_event_ms": 0.026761600064734617
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470012",
+    "seed": 1470012,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3287926335663845,
+    "C_event_ms": 0.26265706717967985
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470012",
+    "seed": 1470012,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.3542268027861913,
+    "C_event_ms": 0.293448535601298
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470012",
+    "seed": 1470012,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09392036493712415,
+    "C_event_ms": 0.02583466675132513
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470012",
+    "seed": 1470012,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08402260039777805,
+    "C_event_ms": 0.017399466635348897
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470013",
+    "seed": 1470013,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3588359017157927,
+    "C_event_ms": 0.2895381361246109
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470013",
+    "seed": 1470013,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.33337456310012686,
+    "C_event_ms": 0.2629973332087199
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470013",
+    "seed": 1470013,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10330573422834277,
+    "C_event_ms": 0.024704000198592743
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470013",
+    "seed": 1470013,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09268653326823066,
+    "C_event_ms": 0.022041599933678904
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470014",
+    "seed": 1470014,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.34664693230297416,
+    "C_event_ms": 0.278834135333697
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470014",
+    "seed": 1470014,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.32715626487818855,
+    "C_event_ms": 0.2697877337535222
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470014",
+    "seed": 1470014,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09679176437202841,
+    "C_event_ms": 0.02870613339667519
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470014",
+    "seed": 1470014,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.08380776465249558,
+    "C_event_ms": 0.021659733324001233
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470015",
+    "seed": 1470015,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.329979436355643,
+    "C_event_ms": 0.2628906657298406
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470015",
+    "seed": 1470015,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.3501651992943759,
+    "C_event_ms": 0.26885013381640116
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470015",
+    "seed": 1470015,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.10366516459422807,
+    "C_event_ms": 0.03647253389159839
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470015",
+    "seed": 1470015,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.09673570263354729,
+    "C_event_ms": 0.03742826722251872
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470016",
+    "seed": 1470016,
+    "rho": 0.8,
+    "arm": "gnn_mixed",
+    "C_ms": 0.3995858336566016,
+    "C_event_ms": 0.26417706509431205
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470016",
+    "seed": 1470016,
+    "rho": 0.8,
+    "arm": "gnn_hot",
+    "C_ms": 0.3458502343467747,
+    "C_event_ms": 0.28575146893660225
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470016",
+    "seed": 1470016,
+    "rho": 0.8,
+    "arm": "sinkhorn_fixed",
+    "C_ms": 0.09591716419284542,
+    "C_event_ms": 0.028480000048875808
+  },
+  {
+    "P": 64,
+    "state_id": "p64-global_hotspot-r80-1470016",
+    "seed": 1470016,
+    "rho": 0.8,
+    "arm": "lazarus_inspired",
+    "C_ms": 0.06595273152925074,
+    "C_event_ms": 0.015517866673568885
+  }
+]

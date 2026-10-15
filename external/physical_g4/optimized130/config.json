@@ -1,0 +1,19 @@
+{
+  "schema": "g4_feedback_paired_v1",
+  "hardware_target": "4 x Tesla V100 32GB (SM70)",
+  "rounds": 4,
+  "checkpoint": "/root/mfg-g4-v100-20261013-a/artifacts/v100-r4-retrained-20261013-a/r4/best.pt",
+  "checkpoint_sha256": "781c9e2e36ab49aa69547d215de306a810c9e8b21cef54b1f5fd9e304b3ec6e4",
+  "training_domain": "V100 G4/E32/R2; 1024 Tokens/source; seed130",
+  "model_coefficients": "inherited proxy, not V100 calibration",
+  "seed": 1210413,
+  "warmup_steps": 2,
+  "measured_steps": 10000,
+  "tokens_per_rank": 1024,
+  "gradient_rtol": 1e-05,
+  "gradient_atol": 1e-07,
+  "learning_rate": 1e-05,
+  "run_purpose": "matched fused GNN4 Sinkhorn Lazarus integer planning and full step timing",
+  "stop_admitting_groups_at": "2026-10-14T01:02:00+08:00",
+  "admission_deadline_cst": "2026-10-14T02:02:00+08:00"
+}

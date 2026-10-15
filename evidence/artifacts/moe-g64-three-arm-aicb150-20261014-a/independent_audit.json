@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "plans": 450,
+  "same_input_layout_config_checks": 450,
+  "rank_bindings": 28800,
+  "planner_formal": 13500,
+  "compute_calls": 415540,
+  "compute_formal": 332432,
+  "compute_shapes": 20777,
+  "integer_objectives_recomputed": 450,
+  "critical_rank_checks": 900,
+  "source_hashes_unchanged": true
+}

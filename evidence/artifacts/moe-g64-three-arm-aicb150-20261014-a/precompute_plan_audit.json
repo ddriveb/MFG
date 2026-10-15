@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "plans": 450,
+  "original_plans_unchanged": 300,
+  "integer_objectives_recomputed": 450,
+  "common_input_certificate_cases": 150,
+  "family_counts": {
+    "balanced": 38,
+    "global_hotspot": 38,
+    "node_local": 37,
+    "source_skew": 37
+  }
+}

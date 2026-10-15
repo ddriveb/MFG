@@ -1,0 +1,49 @@
+{
+  "scales": [
+    32,
+    64
+  ],
+  "families": [
+    "global_hotspot"
+  ],
+  "route_mass_levels": [
+    0.4,
+    0.6,
+    0.8
+  ],
+  "seeds": [
+    1470001,
+    1470002,
+    1470003,
+    1470004,
+    1470005,
+    1470006,
+    1470007,
+    1470008,
+    1470009,
+    1470010,
+    1470011,
+    1470012,
+    1470013,
+    1470014,
+    1470015,
+    1470016
+  ],
+  "support_seed": 1445001,
+  "checkpoint_sha256": {
+    "gnn_mixed": "9f392389a28122cac1613f845d51362bfbe219c52da188f1eabecd0c82d62ed9",
+    "gnn_hot": "ae746adada19a87fd1b63e47e55e3fc81c654f74db7072df7d8b514b5be1e271"
+  },
+  "planner_warmups": 10,
+  "planner_formal": 30,
+  "source_hashes": {
+    ".scratch/communication-aware-social-v2/local135/plan.py": "140df24cc2e4caa61b2cf34db279726722e91344d4e8bfc25601e2b2870438bb",
+    ".scratch/communication-aware-social-v2/local135/hot_route_counts.py": "3b67133b9f51deba8c8d3ae1a1aee8c7a8e7a7e7d1abe4e493cbd8e4d51111f3",
+    "docs/adr/0226-global-hotspot-route-mass-specialization.md": "a17de0597db6689c7ab2aaa1c93cdac8e65371bd8eb869f51aa49841e5e8bed0",
+    "src/mfg_hedge/moe_load_feedback_gnn_v1.py": "b2123074e6c2b20218aa2aa8ba2a44f713f0bb85fb057f709f91fbdee3464a7a",
+    "src/mfg_hedge/moe_gnn_allocation_fused_v1.py": "7fe8b67bdeb4b4feb5b2fbe5b845c217f3e08b05b490abca627d4636269b142c",
+    "src/mfg_hedge/moe_gnn_allocation_features_v1.py": "76b9750337c72d75fcaa2b6b2203a190bac62a9075859824f6e11f5f6896f684",
+    "src/mfg_hedge/moe_fixed_sinkhorn_gpu_v1.py": "5c1b5d38e19001a84a28c0b55ae9ac4939c1605a218ce41d54d1e687f7040d35",
+    "src/mfg_hedge/moe_lazarus_ring_gpu_v1.py": "0cffaa816d6dc2bf68f45c2a75bc6ebe056cbb195cee3620b73f29d265727348"
+  }
+}
